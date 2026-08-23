@@ -1,2 +1,131 @@
-# GilgamisLLMWiki
-Gilgamis LLM Wiki
+# Gilgamis LLM Wiki
+
+A structured, interlinked personal knowledge base for cataloging, analyzing, and synthesizing a personal library of books and strategic literature, maintained by LLM agents based on Andrej Karpathy's LLM Wiki pattern.
+
+---
+
+## 📌 Quick Links
+
+- 📋 **[Library Summary](SUMMARY.md)** — Standalone executive summary document.
+- 🗂️ **[Master Wiki Index](wiki/index.md)** — Complete table of contents by Books, Authors, Genres, and Themes.
+- 📖 **[System Specification](GilgamisLLMWiki.md)** — Architectural design, citation rules, and operational workflow.
+- 📜 **[Operations & Ingestion Log](wiki/log.md)** — Append-only audit trail of ingestions and maintenance operations.
+
+---
+
+## 📊 Knowledge Base Metrics
+
+- **Total Ingested Volumes**: 2 volumes (781 total pages)
+- **Total Maintained Wiki Pages**: 46 interlinked markdown documents
+- **Book Analyses**: 2 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 24 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 7 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 11 ([wiki/themes/](wiki/themes/))
+- **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages)
+- **Source Integrity**: Strict textual citations referencing exact source files and page numbers; `raw/` files remain immutable and untouched.
+
+---
+
+## 📚 Ingested Library Summaries
+
+### 1. [The Evolution of Cooperation](wiki/books/the-evolution-of-cooperation.md)
+* **Author(s)**: [[robert-axelrod]], [[william-d-hamilton]]
+* **Publication**: Basic Books, 1984 (243 pp.)
+* **Source**: `raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf`
+* **Primary Genres**: [[game-theory]], [[political-science]], [[evolutionary-biology]], [[strategic-studies]]
+* **Core Themes**: [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[rationality-and-decision-making]], [[tit-for-tat]]
+
+#### Executive Summary
+Axelrod addresses a fundamental question across social science and biology: under what conditions will cooperation emerge in a world of egoists without central authority? Using the iterated Prisoner's Dilemma, Axelrod ran two computer tournaments pitting strategies from game theorists, economists, psychologists, and mathematicians. 
+
+The tournaments demonstrated the decisive success of **TIT FOR TAT**—a simple strategy submitted by Anatol Rapoport that starts by cooperating and thereafter replicates the opponent's previous move. Axelrod extracts four core strategic virtues:
+1. **Be Nice**: Never defect first, preventing unnecessary conflict.
+2. **Be Provocable / Retaliatory**: Punish unprovoked defection immediately to avoid exploitation.
+3. **Be Forgiving**: Restore cooperation immediately once the adversary relents.
+4. **Be Clear**: Maintain transparent, predictable rules so counterparts can recognize reciprocity.
+
+Axelrod extends the model to historical case studies—such as the "live-and-let-live" system in WWI trench warfare—and evolutionary biology (co-authored with W.D. Hamilton), offering practical advice for institutional designers to promote cooperation by enlarging the **shadow of the future** ($w$).
+
+---
+
+### 2. [Deterrence in the 21st Century — Insights from Theory and Practice](wiki/books/deterrence-in-the-21st-century.md)
+* **Editors**: [[frans-osinga]], [[tim-sweijs]]
+* **Publication**: NL ARMS 2020 / T.M.C. Asser Press / Springer, 2021 (538 pp.)
+* **Source**: `raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf`
+* **Primary Genres**: [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]]
+* **Core Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]
+
+#### Executive Summary
+An encyclopedic volume examining the renaissance and re-conceptualization of deterrence in contemporary geopolitics across 26 chapters and six parts:
+1. **Concepts of Deterrence (Part I)**: Tracing four waves of deterrence scholarship (Freedman); fundamentals of denial vs. punishment, 3Cs (Capability, Credibility, Communication), and **Assurances** (Mazarr); NATO territorial defense (Rynning); conventional deterrence modes (Mueller); arms control erosion (Arbatov); extended deterrence credibility (van Hooft); NATO eFP tripwires (Noll et al.); and Cross-Domain Deterrence (CDD) modeling (Sweijs & Zilincik).
+2. **Non-Western Strategic Thought (Part II)**: Russian holistic *Sderzhivanie* blending non-military coercion, *maskirovka*, and nuclear signaling (Adamsky); Chinese proactive *Weishe* and the Three Warfares (Cheng); Japanese defense (Katagiri); South Asian Stability-Instability Paradox (Aarten); and Iranian forward-deterrence proxy networks in Syria (Ahmadian & Mohseni).
+3. **Non-State Actors & Irregular War (Part III)**: Cumulative deterrence ("mowing the lawn") against VNSAs like Hamas/Hezbollah (Shamir); localized counterinsurgency deterrence tailored to village/tribal kinship systems (Kitzen & van Kuijck); Russian deterrence of democratic revolts (Rothman); and coercive diplomacy in peace operations (Jakobsen).
+4. **New Instruments & Domains (Part IV)**: Targeted economic sanctions (Giumelli); societal and institutional resilience as deterrence by denial against hybrid threats (van Doorn & Brinkel); cyber deterrence challenges (attribution latency, exploit perishability) (Soesanto & Smeets); and AI hyper-coercion and autonomous swarm saturation (Wilner & Babb).
+5. **Rationality, Psychology, Emotions & Law (Part V)**: Algorithmic game theory and automated C2 risks (Lindelauf); behavioral heuristics and Prospect Theory's loss aversion driving risk-seeking in domain of losses (Bijlsma); emotion-centric deterrence modeling fear, anger, and pride (Zilincik & Duyvesteyn); and international legal thresholds under UN Charter Art. 51, countermeasures, and retorsion (Ducheine & Pijpers).
+6. **Synthesis (Part VI)**: Cross-cutting roadmap by Sweijs & Osinga calling for multi-domain synergy, cognitive empathy, and whole-of-society resilience.
+
+---
+
+## 🔬 Cross-Comparative Synthesis
+
+| Dimension | Axelrod (*Evolution of Cooperation*) | Osinga & Sweijs (*Deterrence in the 21st Century*) | Integrated Wiki Takeaway |
+| :--- | :--- | :--- | :--- |
+| **Strategic Mechanism** | Reciprocity (TIT FOR TAT): nice, retaliatory, forgiving, clear. | Deterrence by punishment/denial, credible threats, and assurances. | Retaliation without forgiveness produces destructive conflict spirals; deterrence requires positive reciprocity (assurances). |
+| **Time Horizon** | Shadow of the future ($w$): large $w$ sustains cooperation under anarchy. | Strategic stability and arms control treaties preserve long-term predictability. | High-speed technologies (hypersonics, AI decision loops) dangerously compress time horizons, undermining both cooperation and deterrence. |
+| **Decision-Making Model** | Critique of zero-sum envy and strategic over-complexity in human play. | Behavioral decision theory, Prospect Theory (loss aversion), and emotion-centric models. | Actors under existential threat become risk-seeking in the domain of losses; hyper-rational models fail to predict real-world crises. |
+| **Conflict Domains** | Trench warfare, biological mutualism, trade, and internal organization. | Multi-domain: land, sea, air, space, cyber, economic sanctions, and information warfare. | Cross-domain asymmetric offsetting creates severe calibration hazards and attribution bottlenecks. |
+| **Strategic Culture** | Universal mathematical and ecological properties of population dynamics. | Culturally divergent models: Western binary vs. Russian *sderzhivanie* and Chinese *weishe*. | Effective strategic engagement requires cognitive empathy to avoid fatal perceptual misalignment. |
+
+---
+
+## 🗂️ Complete Wiki Directory Map
+
+```
+GilgamisLLMWiki/
+├── raw/                                           # Immutable raw source documents
+│   ├── Axelrod_Robert_The_Evolution_of_Cooperation.pdf
+│   └── Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf
+├── wiki/                                          # Maintained knowledge base
+│   ├── index.md                                   # Master index & full TOC
+│   ├── log.md                                     # Ingestion & audit changelog
+│   ├── books/                                     # Ingested book detail pages (2 pages)
+│   │   ├── the-evolution-of-cooperation.md
+│   │   └── deterrence-in-the-21st-century.md
+│   ├── authors/                                   # Author profile pages (24 pages)
+│   │   ├── robert-axelrod.md                      ├── frans-osinga.md
+│   │   ├── tim-sweijs.md                          ├── lawrence-freedman.md
+│   │   ├── michael-mazarr.md                      ├── dmitry-adamsky.md
+│   │   ├── dean-cheng.md                          ├── william-d-hamilton.md
+│   │   ├── karl-mueller.md                        ├── alexey-arbatov.md
+│   │   ├── sten-rynning.md                        ├── paul-van-hooft.md
+│   │   ├── jorg-noll.md                           ├── eitan-shamir.md
+│   │   ├── martijn-kitzen.md                      ├── francesco-giumelli.md
+│   │   ├── stefan-soesanto.md                     ├── max-smeets.md
+│   │   ├── alex-wilner.md                         ├── roy-lindelauf.md
+│   │   ├── tom-bijlsma.md                         ├── samuel-zilincik.md
+│   │   ├── isabelle-duyvesteyn.md                 └── paul-ducheine.md
+│   ├── genres/                                    # Genre index pages (7 pages)
+│   │   ├── game-theory.md                         ├── strategic-studies.md
+│   │   ├── international-relations.md             ├── military-science.md
+│   │   ├── security-studies.md                    ├── evolutionary-biology.md
+│   │   └── political-science.md
+│   └── themes/                                    # Core thematic concept pages (11 pages)
+│       ├── cooperation-and-reciprocity.md         ├── tit-for-tat.md
+│       ├── shadow-of-the-future.md                ├── deterrence-and-coercion.md
+│       ├── cross-domain-conflict.md               ├── nuclear-strategy-and-strategic-stability.md
+│       ├── non-western-strategic-thought.md       ├── rationality-and-decision-making.md
+│       ├── violent-non-state-actors.md            ├── hybrid-threats-and-cyber-warfare.md
+│       └── evolution-of-strategies.md
+├── SUMMARY.md                                     # Executive summary document
+└── GilgamisLLMWiki.md                             # LLM Wiki design specification
+```
+
+---
+
+## 📜 Maintenance & Citation Rules
+
+- **Source Immutability**: Source files in `raw/` must never be altered or overwritten.
+- **Naming Conventions**: All wiki files are lowercase with hyphens (e.g., `the-evolution-of-cooperation.md`).
+- **Bidirectional Wiki Links**: Every page links to relevant concepts using `[[page-name]]` format.
+- **Citation Format**: Every factual assertion and direct quote must cite its source and page/chapter (e.g., `(source: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf, ch. 2, p. 31)`).
+- **Index & Log Tracking**: Every addition or modification must update `wiki/index.md` and append an entry to `wiki/log.md`.
