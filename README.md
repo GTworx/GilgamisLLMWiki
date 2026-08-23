@@ -6,7 +6,7 @@ A structured, interlinked personal knowledge base for cataloging, analyzing, and
 
 ## 📌 Quick Links
 
-- 🖥️ **[Interactive Web Dashboard](http://127.0.0.1:8080/dashboard.html)** — Live visual dashboard app (offline: [dashboard.html](dashboard.html)).
+- 🖥️ **[Interactive Web Dashboard](http://127.0.0.1:8080/index.html)** — Live visual dashboard app (offline: [index.html](index.html)).
 - 📋 **[Library Summary](SUMMARY.md)** — Standalone executive summary document.
 - 🗂️ **[Master Wiki Index](wiki/index.md)** — Complete table of contents by Books, Authors, Genres, and Themes.
 - 📖 **[System Specification](GilgamisLLMWiki.md)** — Architectural design, citation rules, and operational workflow.
@@ -16,7 +16,7 @@ A structured, interlinked personal knowledge base for cataloging, analyzing, and
 
 ## 🖥️ Gilgamis LLM Wiki Interactive Dashboard
 
-The repository includes a standalone, browser-based user interface tailored for browsing, filtering, and cross-analyzing the knowledge base.
+The repository includes a standalone, browser-based user interface (`index.html`) tailored for browsing, filtering, and cross-analyzing the knowledge base.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -56,10 +56,10 @@ The repository includes a standalone, browser-based user interface tailored for 
    ```powershell
    python .agents/skills/gilgamis-llm-wiki/scripts/serve_dashboard.py
    ```
-   *Serves at `http://127.0.0.1:8080/dashboard.html`.*
+   *Serves at `http://127.0.0.1:8080/index.html`.*
 
 2. **Direct Offline Browser Access**:
-   Double-click **[dashboard.html](dashboard.html)** in the repository root to run directly in any browser with zero dependencies.
+   Double-click **[index.html](index.html)** in the repository root to run directly in any browser with zero dependencies.
 
 3. **Rebuild Data after Ingesting New Books**:
    ```powershell
@@ -143,7 +143,7 @@ GilgamisLLMWiki/
 ├── wiki/                                          # Maintained knowledge base
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
-│   ├── dashboard.html                             # Dashboard web application copy
+│   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
 │   ├── books/                                     # Ingested book detail pages (2 pages)
 │   │   ├── the-evolution-of-cooperation.md
@@ -179,10 +179,11 @@ GilgamisLLMWiki/
 │   │   ├── build_dashboard.py                     # Data parsing & HTML generator
 │   │   └── serve_dashboard.py                     # Local web server launcher
 │   ├── resources/
-│   │   └── dashboard.html                         # Self-contained dashboard app
+│   │   ├── index.html                             # Self-contained dashboard app
+│   │   └── dashboard_template.html                # Clean HTML template
 │   └── references/
 │       └── dashboard_guide.md                     # Feature & shortcut manual
-├── dashboard.html                                 # 1-Click offline dashboard
+├── index.html                                     # 1-Click offline dashboard
 ├── SUMMARY.md                                     # Executive summary document
 └── GilgamisLLMWiki.md                             # LLM Wiki design specification
 ```

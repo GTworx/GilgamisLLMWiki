@@ -90,3 +90,17 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rich Main Pane rendering of selected book (hero card, executive summary, chapter breakdowns, quotes, thematic connections).
   - Interactive modals for instant preview of author biographies and cross-cutting thematic syntheses.
   - Dark/Light mode toggle.
+
+---
+
+## [2026-08-23T19:46:00+02:00] Dashboard Renaming to index.html & Pure Event Architecture
+
+- **Primary Dashboard Endpoint**: Standardized dashboard filename to `index.html` across root, `wiki/`, and skill resources for standard web serving (while retaining `dashboard.html` aliases).
+- **Template Separation**: Created `.agents/skills/gilgamis-llm-wiki/resources/dashboard_template.html` with pure JSON script-island data injection and dataset click handlers to guarantee zero JS syntax escaping anomalies.
+- **Updated Files**:
+  - `index.html` (Primary root dashboard app)
+  - `wiki/index.html`
+  - `.agents/skills/gilgamis-llm-wiki/resources/index.html`
+  - `.agents/skills/gilgamis-llm-wiki/scripts/build_dashboard.py`
+  - `.agents/skills/gilgamis-llm-wiki/scripts/serve_dashboard.py`
+  - `README.md`, `SUMMARY.md`, `SKILL.md`, `references/dashboard_guide.md`

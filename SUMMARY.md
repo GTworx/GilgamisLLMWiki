@@ -2,6 +2,7 @@
 
 **Generated**: 2026-08-23  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
+**Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
 **Operations Log**: [wiki/log.md](wiki/log.md)  
 
@@ -14,6 +15,7 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Total Ingested Source Documents**: 2 volumes (781 total pages)
 - **Total Generated Wiki Pages**: 46 interlinked markdown files
+- **Interactive Web App**: [index.html](index.html) (with embedded data and offline search)
 - **Book Summary & Analysis Pages**: 2 ([books/](wiki/books/))
 - **Author Profile Pages**: 24 ([authors/](wiki/authors/))
 - **Genre Classification Pages**: 7 ([genres/](wiki/genres/))
@@ -73,7 +75,7 @@ Spanning 26 chapters across six thematic parts, this volume provides a comprehen
 3. **Deterrence of Non-State Actors (Part III)**:
    - Refutes the claim that non-state actors are undeterrable; analyzes Israel's cumulative deterrence ("mowing the lawn") against Hamas and Hezbollah (Shamir).
    - Localised counterinsurgency deterrence tailored to tribal/village kinship systems (Kitzen & van Kuijck).
-   - Russian deterrence of post-Soviet democratic revolts (Rothman) and coercive diplomacy in UN peacekeeping (Jakobsen).
+   - Russian deterrence of democratic revolts (Rothman) and coercive diplomacy in peace operations (Jakobsen).
 4. **New Instruments and Domains (Part IV)**:
    - Targeted economic sanctions and asset freezes as coercive signaling tools (Giumelli).
    - Institutional and societal resilience (e.g., MH17 Joint Investigation Team, social capital) as deterrence by denial against hybrid warfare (van Doorn & Brinkel).
@@ -102,6 +104,9 @@ Spanning 26 chapters across six thematic parts, this volume provides a comprehen
 ---
 
 ## 4. Complete Wiki Directory & Link Map
+
+### Web Dashboard
+- [index.html](index.html) — Standalone single-page application.
 
 ### Books (`wiki/books/`)
 - [the-evolution-of-cooperation.md](wiki/books/the-evolution-of-cooperation.md)

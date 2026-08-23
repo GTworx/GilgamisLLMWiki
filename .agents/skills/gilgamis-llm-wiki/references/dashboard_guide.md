@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Gilgamis LLM Wiki Dashboard** is a standalone, browser-based user interface for navigating, searching, and analyzing the personal book library and strategic knowledge base.
+The **Gilgamis LLM Wiki Dashboard** (`index.html`) is a standalone, browser-based user interface for navigating, searching, and analyzing the personal book library and strategic knowledge base.
 
 ---
 
@@ -50,7 +50,7 @@ The **Gilgamis LLM Wiki Dashboard** is a standalone, browser-based user interfac
    ```bash
    python .agents/skills/gilgamis-llm-wiki/scripts/serve_dashboard.py
    ```
-   Opens `http://localhost:8765/dashboard.html` in the default web browser.
+   Opens `http://localhost:8080/index.html` (or `http://localhost:8080/`) in the default web browser.
 
 3. **Direct File Access**:
-   You can also double-click `dashboard.html` in the workspace root to view the dashboard directly in any browser with zero dependencies.
+   You can also double-click `index.html` in the workspace root to view the dashboard directly in any browser with zero dependencies.

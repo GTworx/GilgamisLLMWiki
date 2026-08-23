@@ -202,8 +202,11 @@ def build():
     html_content = template_content.replace('/*__WIKI_DATA__*/', embedded_json)
     
     output_locations = [
+        os.path.join(base_dir, 'index.html'),
         os.path.join(base_dir, 'dashboard.html'),
+        os.path.join(base_dir, 'wiki', 'index.html'),
         os.path.join(base_dir, 'wiki', 'dashboard.html'),
+        os.path.join(base_dir, '.agents', 'skills', 'gilgamis-llm-wiki', 'resources', 'index.html'),
         os.path.join(base_dir, '.agents', 'skills', 'gilgamis-llm-wiki', 'resources', 'dashboard.html')
     ]
     
@@ -211,7 +214,7 @@ def build():
         os.makedirs(os.path.dirname(loc), exist_ok=True)
         with open(loc, 'w', encoding='utf-8') as f:
             f.write(html_content)
-        print(f"Generated dashboard HTML: {loc}")
+        print(f"Generated HTML dashboard: {loc}")
 
 if __name__ == '__main__':
     build()

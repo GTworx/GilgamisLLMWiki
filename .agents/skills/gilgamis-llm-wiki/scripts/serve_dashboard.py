@@ -15,9 +15,9 @@ import subprocess
 def get_base_dir():
     cur = os.path.dirname(os.path.abspath(__file__))
     base = os.path.abspath(os.path.join(cur, '..', '..', '..', '..'))
-    if os.path.exists(os.path.join(base, 'dashboard.html')):
+    if os.path.exists(os.path.join(base, 'index.html')):
         return base
-    if os.path.exists('dashboard.html'):
+    if os.path.exists('index.html'):
         return os.path.abspath('.')
     return base
 
@@ -48,7 +48,7 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
 
     def do_GET(self):
         if self.path in ('/', ''):
-            self.path = '/dashboard.html'
+            self.path = '/index.html'
         return super().do_GET()
 
     def end_headers(self):
@@ -60,7 +60,7 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
 def serve():
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("127.0.0.1", PORT), CustomHandler) as httpd:
-        url = f"http://127.0.0.1:{PORT}/dashboard.html"
+        url = f"http://127.0.0.1:{PORT}/index.html"
         print("=" * 60, flush=True)
         print(" Gilgamis LLM Wiki — Interactive Dashboard", flush=True)
         print(f" Serving at: {url}", flush=True)
