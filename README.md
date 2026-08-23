@@ -6,10 +6,65 @@ A structured, interlinked personal knowledge base for cataloging, analyzing, and
 
 ## 📌 Quick Links
 
+- 🖥️ **[Interactive Web Dashboard](http://127.0.0.1:8080/dashboard.html)** — Live visual dashboard app (offline: [dashboard.html](dashboard.html)).
 - 📋 **[Library Summary](SUMMARY.md)** — Standalone executive summary document.
 - 🗂️ **[Master Wiki Index](wiki/index.md)** — Complete table of contents by Books, Authors, Genres, and Themes.
 - 📖 **[System Specification](GilgamisLLMWiki.md)** — Architectural design, citation rules, and operational workflow.
 - 📜 **[Operations & Ingestion Log](wiki/log.md)** — Append-only audit trail of ingestions and maintenance operations.
+
+---
+
+## 🖥️ Gilgamis LLM Wiki Interactive Dashboard
+
+The repository includes a standalone, browser-based user interface tailored for browsing, filtering, and cross-analyzing the knowledge base.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  GW  Gilgamis LLM Wiki [Dashboard]      [🔍 Search... (/)]  [All Genres ▾]  [All Themes ▾]  [🌙]│
+├──────────────────────┬─────────────────────────────────────────────────────────────────┤
+│ INGESTED TITLES      │ 📖 Deterrence in the 21st Century — Insights from Theory & Practice│
+│ (Newest First)       │ Published 2021 · Source: raw/Deterrence in 21st Century...       │
+│                      │ By Frans Osinga, Tim Sweijs, Lawrence Freedman, ...             │
+│ [2021] Deterrence    │ Genres: [Strategic Studies] [Military Science] [Game Theory]    │
+│  in 21st Century     │ Themes: [Deterrence & Coercion] [Cross-Domain] [Non-Western]    │
+│                      ├─────────────────────────────────────────────────────────────────┤
+│ [1984] The Evolution │ ℹ️ Executive Summary                                            │
+│  of Cooperation      │ Cross-disciplinary volume assessing deterrence across nuclear,  │
+│                      │ conventional, cyber, space, AI, and non-Western doctrines...   │
+│                      ├─────────────────────────────────────────────────────────────────┤
+│                      │ 📑 Key Arguments & Chapter Breakdown (Ch. 1–26)                 │
+│                      │ • Freedman (Ch. 1): Evolution through 4 scholarship waves...    │
+│                      │ • Mazarr (Ch. 2): Denial vs Punishment & Assurances...          │
+│                      │ • Adamsky (Ch. 9): Russian holistic 'Sderzhivanie'...           │
+│                      ├─────────────────────────────────────────────────────────────────┤
+│                      │ 💬 Key Quotes & Page Citations                                  │
+│                      │ 🔗 Thematic Connections & Dialogues                             │
+└──────────────────────┴─────────────────────────────────────────────────────────────────┘
+```
+
+### Dashboard Features
+- **Sidebar (Titles Newest on Top)**: Displays books in descending chronological order (`2021` *Deterrence in the 21st Century*, then `1984` *The Evolution of Cooperation*), with year badges, authors, and genre chips.
+- **Header Filters**: Live multi-criteria dropdown filtering for **Genres** (7 categories) and **Themes** (11 categories).
+- **Universal Search Bar**: Real-time fuzzy search across titles, authors, executive summaries, chapter notes, and quotes. *(Press `/` anywhere to focus)*.
+- **Main Pane (Selected Book View)**: Complete structured book view with hero metadata, executive summaries, chapter breakdowns, quote cards with exact page citations, and thematic connections.
+- **Interactive Entity Modals**: Click any author or theme link across the UI to open an instant modal with full biographical context or cross-cutting thematic syntheses without losing your place.
+- **Dark / Light Theme Toggle**: Instant transition between dark and light themes.
+
+### Running the Dashboard App
+
+1. **Launch Local Server with Auto-Launch Browser**:
+   ```powershell
+   python .agents/skills/gilgamis-llm-wiki/scripts/serve_dashboard.py
+   ```
+   *Serves at `http://127.0.0.1:8080/dashboard.html`.*
+
+2. **Direct Offline Browser Access**:
+   Double-click **[dashboard.html](dashboard.html)** in the repository root to run directly in any browser with zero dependencies.
+
+3. **Rebuild Data after Ingesting New Books**:
+   ```powershell
+   python .agents/skills/gilgamis-llm-wiki/scripts/build_dashboard.py
+   ```
 
 ---
 
@@ -88,6 +143,8 @@ GilgamisLLMWiki/
 ├── wiki/                                          # Maintained knowledge base
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
+│   ├── dashboard.html                             # Dashboard web application copy
+│   ├── dashboard_data.json                        # Structured JSON export
 │   ├── books/                                     # Ingested book detail pages (2 pages)
 │   │   ├── the-evolution-of-cooperation.md
 │   │   └── deterrence-in-the-21st-century.md
@@ -116,6 +173,16 @@ GilgamisLLMWiki/
 │       ├── non-western-strategic-thought.md       ├── rationality-and-decision-making.md
 │       ├── violent-non-state-actors.md            ├── hybrid-threats-and-cyber-warfare.md
 │       └── evolution-of-strategies.md
+├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
+│   ├── SKILL.md                                   # Skill runbook & manifest
+│   ├── scripts/
+│   │   ├── build_dashboard.py                     # Data parsing & HTML generator
+│   │   └── serve_dashboard.py                     # Local web server launcher
+│   ├── resources/
+│   │   └── dashboard.html                         # Self-contained dashboard app
+│   └── references/
+│       └── dashboard_guide.md                     # Feature & shortcut manual
+├── dashboard.html                                 # 1-Click offline dashboard
 ├── SUMMARY.md                                     # Executive summary document
 └── GilgamisLLMWiki.md                             # LLM Wiki design specification
 ```

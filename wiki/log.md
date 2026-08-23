@@ -68,3 +68,25 @@ This file provides an append-only historical audit log of all book ingestions, c
 ### 3. Master Index & System Architecture
 - **Master Index**: `wiki/index.md` created with full tables of contents across Books, Authors, Genres, Themes, and Directory Architecture.
 - **Verification**: Complete bidirectional link integrity check across all 46 wiki pages (0 broken links, 0 orphans).
+
+---
+
+## [2026-08-23T19:31:00+02:00] Skill Creation: Gilgamis LLM Wiki Interactive Dashboard
+
+- **Skill Name**: `gilgamis-llm-wiki`
+- **Location**: `.agents/skills/gilgamis-llm-wiki/`
+- **Created Files**:
+  - `.agents/skills/gilgamis-llm-wiki/SKILL.md` (Skill manifest & runbook)
+  - `.agents/skills/gilgamis-llm-wiki/scripts/build_dashboard.py` (Data parser & HTML generator)
+  - `.agents/skills/gilgamis-llm-wiki/scripts/serve_dashboard.py` (Local HTTP server with browser launcher)
+  - `.agents/skills/gilgamis-llm-wiki/resources/dashboard.html` (Standalone single-page dashboard application)
+  - `.agents/skills/gilgamis-llm-wiki/references/dashboard_guide.md` (UI architecture & shortcut guide)
+  - `dashboard.html` (Root-level interactive application for instant browser access)
+  - `wiki/dashboard.html` & `wiki/dashboard_data.json`
+- **Features Implemented**:
+  - Sidebar with titles sorted newest on top (2021 first, then 1984).
+  - Header filters for Genres and Themes with dynamic multi-criteria filtering.
+  - Universal real-time search bar with keyboard shortcut (`/`).
+  - Rich Main Pane rendering of selected book (hero card, executive summary, chapter breakdowns, quotes, thematic connections).
+  - Interactive modals for instant preview of author biographies and cross-cutting thematic syntheses.
+  - Dark/Light mode toggle.
