@@ -9,6 +9,11 @@ The **Gilgamis LLM Wiki Dashboard** (`index.html`) is a standalone, browser-base
 ## Layout & Architecture
 
 ### 1. Header Controls
+- **Sidebar Toggle Button**: 
+  - Hamburger button (`☰`) in the header next to the brand logo.
+  - Hotkey: `Ctrl+B` (or `Cmd+B`) toggles the left banner collapsed/expanded state.
+  - On desktop: Collapses the sidebar to provide full-width distraction-free reading. State is persisted in `localStorage`.
+  - On mobile devices: Opens the left banner as an animated slide-over drawer with a dimmed backdrop.
 - **Brand & Version**: Displays the repository title and version indicator.
 - **Universal Search Bar**:
   - Hotkey: Press `/` from anywhere on the page to focus the search bar.
@@ -17,8 +22,12 @@ The **Gilgamis LLM Wiki Dashboard** (`index.html`) is a standalone, browser-base
 - **Theme Filter Dropdown**: Dynamically populated with all core themes from `wiki/themes/`. Filters sidebar listings on change.
 - **Dark/Light Theme Toggle**: Instant transition between dark mode and light mode.
 
-### 2. Sidebar (Newest on Top)
-- Book list sorted descending by publication year and ingestion freshness.
+### 2. Sidebar & Mobile Drawer (Newest on Top)
+- **Mobile-Responsive Architecture**:
+  - On mobile/tablets (`<=900px`), the sidebar collapses by default and acts as an overlay slide-out drawer with a blurred backdrop (`#sidebarBackdrop`).
+  - Tapping outside the drawer, clicking the close button (`×`), or pressing `ESC` smoothly closes the sidebar.
+  - Selecting any book on mobile automatically closes the drawer and displays the full book details.
+- **Book List**: Sorted descending by publication year and ingestion freshness.
 - Each book card displays:
   - Publication year badge (gold monospace).
   - Full title.

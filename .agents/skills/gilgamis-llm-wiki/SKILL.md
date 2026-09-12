@@ -15,6 +15,7 @@ This skill provides an interactive web-based dashboard (`index.html`) and manage
 ## Capabilities & Architecture
 
 1. **Visual Interactive Dashboard (`index.html`)**:
+   * **Collapsible Sidebar & Mobile Drawer**: Collapsible left banner with header toggle button (`☰`), `Ctrl+B` hotkey, and automatic mobile overlay drawer with blurred backdrop.
    * **Sidebar**: Displays all ingested book titles with the newest publications on top, showing publication year, authors, and genre badges.
    * **Header Filters**: Live multi-criteria filtering by **Genres** and **Themes**.
    * **Universal Search**: Real-time fuzzy search across book titles, authors, executive summaries, chapter breakdowns, and quotes. Hotkey: `/`.

@@ -43,8 +43,9 @@ The repository includes a standalone, browser-based user interface (`index.html`
 ```
 
 ### Dashboard Features
-- **Sidebar (Titles Newest on Top)**: Displays books in descending chronological order (`2021` *Deterrence in the 21st Century*, then `1984` *The Evolution of Cooperation*), with year badges, authors, and genre chips.
-- **Header Filters**: Live multi-criteria dropdown filtering for **Genres** (7 categories) and **Themes** (11 categories).
+- **Collapsible Sidebar & Mobile Drawer**: Collapsible left banner via header toggle button (`☰`) or hotkey (`Ctrl+B`). On mobile screens, automatically collapses into an overlay slide-out drawer with backdrop blur, auto-closing upon book selection for seamless phone and tablet reading.
+- **Sidebar (Titles Newest on Top)**: Displays books in descending chronological order (`2021` *Deterrence in the 21st Century*, `2020` *Söz İnsanın Aynasıdır*, `1984` *The Evolution of Cooperation*), with year badges, authors, and genre chips.
+- **Header Filters**: Live multi-criteria dropdown filtering for **Genres** (10 categories) and **Themes** (14 categories).
 - **Universal Search Bar**: Real-time fuzzy search across titles, authors, executive summaries, chapter notes, and quotes. *(Press `/` anywhere to focus)*.
 - **Main Pane (Selected Book View)**: Complete structured book view with hero metadata, executive summaries, chapter breakdowns, quote cards with exact page citations, and thematic connections.
 - **Interactive Entity Modals**: Click any author or theme link across the UI to open an instant modal with full biographical context or cross-cutting thematic syntheses without losing your place.
