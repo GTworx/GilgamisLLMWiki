@@ -48,11 +48,16 @@ This updates:
 - `wiki/index.html`
 - `.agents/skills/gilgamis-llm-wiki/resources/index.html`
 
-### 3. Querying the Wiki Knowledge Base
+### 3. Ingestion Sources
+Books can be ingested from two immutable sources (both excluded from GitHub sync via `.gitignore`):
+1. **Primary Mounted Library**: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` (organized by 42+ domain folders: `Art/`, `AI/`, `Philosophy Psychology Sociology/`, etc.)
+2. **Local Staging**: `raw/` (workspace-local ad-hoc additions)
+
+### 4. Querying the Wiki Knowledge Base
 When answering cross-comparative questions or literature queries:
 1. Refer to the Master Index at `wiki/index.md`.
 2. Inspect specific book notes in `wiki/books/`, author profiles in `wiki/authors/`, or thematic syntheses in `wiki/themes/`.
-3. Provide page-level citations referencing the raw PDF files in `raw/`.
+3. Provide page-level citations referencing the source PDF files in `BOOKS/<Category>/` or `raw/`.
 
 ---
 

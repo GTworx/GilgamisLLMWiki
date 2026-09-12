@@ -104,3 +104,38 @@ This file provides an append-only historical audit log of all book ingestions, c
   - `.agents/skills/gilgamis-llm-wiki/scripts/build_dashboard.py`
   - `.agents/skills/gilgamis-llm-wiki/scripts/serve_dashboard.py`
   - `README.md`, `SUMMARY.md`, `SKILL.md`, `references/dashboard_guide.md`
+
+---
+
+## [2026-09-12T19:15:00+02:00] Incoming Books Mount Integration, Git Ignore Sync Exclusion, and Test Ingestion of Art Folder
+
+### 1. Ingestion Sources Architecture & Git Sync Exclusion
+- **Mounted External Library Configured**: Added primary incoming library mount at `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` across system specification (`GilgamisLLMWiki.md`), `README.md`, `SKILL.md`, and master index (`wiki/index.md`).
+- **Git Ignore Security**: Created `.gitignore` excluding `raw/`, incoming mounts (`BOOKS/`, `_GilgameshLibrary/`), and binary document formats (`*.pdf`, `*.epub`, etc.) from GitHub synchronization.
+- **Git Tracking Cache Cleaned**: Staged exclusion of local raw files (`git rm -r --cached raw/`) while preserving 100% of physical files intact on local disk.
+
+### 2. Test Ingestion: *Âşık Borani: Söz İnsanın Aynasıdır (Cilt I & II)*
+- **Source Location**: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Art\`
+- **Files Ingested**: `73010,cilt1pdf.pdf` (Vol. 1, 564 pp.) and `73011,cilt2pdf.pdf` (Vol. 2, 586 pp.) — Total: 1,150 pages across 10 sections.
+- **Author**: Âşık Borani (Halil Çimen, 1943–2020)
+- **Editor & Compiler**: İbrahim Gösterir
+- **Publisher**: T.C. Çorum Valiliği İl Kültür ve Turizm Müdürlüğü (Yayın No: 19, 2020)
+- **Pages Created / Updated**:
+  - `wiki/books/asik-borani-soz-insanin-aynasi.md` (Comprehensive book analysis covering all 10 sections with authentic textual citations)
+  - `wiki/authors/asik-borani.md` (Full biography, lineage, poetic creed, cultural honors)
+  - `wiki/authors/ibrahim-gosterir.md` (Folklorist, compiler, educator)
+  - `wiki/genres/turkish-folk-literature.md`
+  - `wiki/genres/anatolian-humanism.md`
+  - `wiki/genres/poetry-and-poetics.md`
+  - `wiki/themes/universal-love-and-human-dignity.md`
+  - `wiki/themes/social-critique-and-moral-conscience.md`
+  - `wiki/themes/asik-and-minstrel-tradition.md`
+  - `wiki/themes/non-western-strategic-thought.md` (Updated with Anatolian humanist peace paradigm)
+  - `wiki/themes/cooperation-and-reciprocity.md` (Updated with humanist moral cooperation dimension)
+  - `wiki/themes/rationality-and-decision-making.md` (Updated with moral rationality vs opportunism)
+  - `wiki/index.md` (Updated metrics: 3 books, 26 authors, 10 genres, 14 themes)
+
+### 3. Dashboard Rebuild
+- Enhanced `build_dashboard.py` year extraction logic.
+- Rebuilt `wiki/dashboard_data.json` and generated standalone dashboard files (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard.html`).
+

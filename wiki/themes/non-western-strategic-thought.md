@@ -23,6 +23,10 @@ Western deterrence theory has historically been grounded in Anglo-American ratio
    * Leverages non-state regional allies ("Axis of Resistance"), drone and ballistic missile networks, and geographical depth to deter direct Israeli and American conventional attacks.
 4. **South Asian Nuclear Dynamics (Sander Ruben Aarten, ch. 12, pp. 215–230)**:
    * Examines how Pakistan's doctrine of Full Spectrum Deterrence (deploying tactical nuclear weapons like Nasr) interacts with India's Cold Start conventional doctrine, illustrating how localized regional rivalries modify classical deterrence assumptions.
+5. **Anatolian Humanist & Minstrel Peace Paradigms (Âşık Borani)**:
+   * Provides an indigenous Middle Eastern/Anatolian philosophical counter-paradigm to realist state coercion.
+   * Grounded in the 13th-century heritage of Yunus Emre and Hacı Bektaş Veli, it seeks security not through threat manipulation (*weishe* or *sderzhivanie*), but through the dissolution of communal enemy images, radical empathy, and mutual recognition ("yetmiş iki millete bir göz ile bakmak").
+   * Identifies internal social polarization and ethical hypocrisy as greater national security hazards than external kinetic threats (source: BOOKS/Art/73010,cilt1pdf.pdf, Intro, pp. 38–43).
 
 ---
 
@@ -30,6 +34,7 @@ Western deterrence theory has historically been grounded in Anglo-American ratio
 
 - [[deterrence-in-the-21st-century]] — Dedicated chapters analyzing Russian strategic doctrine (Adamsky, ch. 9), Chinese military thought (Cheng, ch. 10), Japanese defense evolution (Katagiri, ch. 11), India-Pakistan stability-instability (Aarten, ch. 12), and Iranian forward deterrence (Ahmadian & Mohseni, ch. 13).
 - [[the-evolution-of-cooperation]] — Provides comparative insight into how culturally distinct strategic heuristics develop and stabilize in competitive environments.
+- [[asik-borani-soz-insanin-aynasi]] — Explores Anatolian humanist conflict resolution, ethical de-escalation, and communal resilience against authoritarian coercion.
 
 ---
 
@@ -37,11 +42,12 @@ Western deterrence theory has historically been grounded in Anglo-American ratio
 
 - [[dmitry-adamsky]]: Preeminent authority on Russian strategic culture, military theology, and *sderzhivanie*.
 - [[dean-cheng]]: Leading analyst of Chinese PLA doctrine, *weishe*, and space/cyber strategy.
+- [[asik-borani]]: Articulates the Anatolian humanist ethos of peace, civic conscience, and universal human solidarity.
 - [[frans-osinga]] & [[tim-sweijs]]: Highlighted the necessity for Western defense planners to achieve cross-cultural cognitive empathy to avoid dangerous deterrence failures (source: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf, ch. 26, pp. 517–520).
 
 ---
 
 ## Related themes & genres
 
-- **Related Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[rationality-and-decision-making]], [[nuclear-strategy-and-strategic-stability]]
-- **Related Genres**: [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]]
+- **Related Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[rationality-and-decision-making]], [[universal-love-and-human-dignity]], [[nuclear-strategy-and-strategic-stability]]
+- **Related Genres**: [[strategic-studies]], [[military-science]], [[international-relations]], [[anatolian-humanism]], [[turkish-folk-literature]]

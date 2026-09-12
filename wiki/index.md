@@ -2,11 +2,11 @@
 
 Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for cataloging, analyzing, and synthesizing strategic, political, and literary texts.
 
-**Last updated**: 2026-08-23  
-**Total Ingested Works**: 2  
-**Total Author Profiles**: 24  
-**Total Genres**: 7  
-**Total Core Themes**: 11  
+**Last updated**: 2026-09-12  
+**Total Ingested Works**: 3  
+**Total Author Profiles**: 26  
+**Total Genres**: 10  
+**Total Core Themes**: 14  
 
 ---
 
@@ -15,6 +15,7 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
 | Title | Authors / Editors | Year | Primary Genres | Core Themes | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [[the-evolution-of-cooperation]] | [[robert-axelrod]], [[william-d-hamilton]] | 1984 | [[game-theory]], [[political-science]], [[evolutionary-biology]], [[strategic-studies]] | [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[rationality-and-decision-making]], [[tit-for-tat]] | `raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf` |
+| [[asik-borani-soz-insanin-aynasi]] | [[asik-borani]], [[ibrahim-gosterir]] (ed.) | 2020 | [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]] | [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]] | `BOOKS/Art/73010,cilt1pdf.pdf`, `BOOKS/Art/73011,cilt2pdf.pdf` |
 | [[deterrence-in-the-21st-century]] | [[frans-osinga]], [[tim-sweijs]] (eds.) | 2021 | [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]] | [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]] | `raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf` |
 
 ---
@@ -25,6 +26,8 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
   * Books: [[deterrence-in-the-21st-century]] (Chapter 21)
 * **[[alexey-arbatov]]**: Head of the Center for International Security at IMEMO, Moscow; expert on bilateral nuclear arms control, strategic parity, and stability regimes.
   * Books: [[deterrence-in-the-21st-century]] (Chapter 5)
+* **[[asik-borani]]**: Renowned Anatolian folk poet, bard, and philosopher; master of contemporary minstrelsy synthesizing mystical Sufism, pastoral lyricism, and social realism.
+  * Books: [[asik-borani-soz-insanin-aynasi]] (2020)
 * **[[dean-cheng]]**: Leading scholar of Chinese PLA military doctrine, space/cyber strategy, and the concept of *weishe*.
   * Books: [[deterrence-in-the-21st-century]] (Chapter 10)
 * **[[dmitry-adamsky]]**: Professor at Reichman University; world-renowned authority on Russian strategic culture, military thought, and *sderzhivanie*.
@@ -35,6 +38,8 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
   * Books: [[deterrence-in-the-21st-century]] (Chapter 18)
 * **[[frans-osinga]]**: Air Commodore and Professor of Military Operational Art and Sciences (NLDA/Leiden); specialist in military theory, air power, and modern deterrence.
   * Books: [[deterrence-in-the-21st-century]] (Co-editor, Foreword, Chapter 26)
+* **[[ibrahim-gosterir]]**: Educator, folklorist, researcher of Çorum culture, and critical editor of Anatolian folk poetry.
+  * Books: [[asik-borani-soz-insanin-aynasi]] (Editor & Compiler, 2020)
 * **[[isabelle-duyvesteyn]]**: Professor of International Studies at Leiden University, KNAW member; specialist in strategic culture, emotions, and war history.
   * Books: [[deterrence-in-the-21st-century]] (Chapter 24)
 * **[[jorg-noll]]**: Assistant Professor at NLDA; specialist in NATO forward defense and tripwire postures.
@@ -74,6 +79,8 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
 
 ## Index by Genre
 
+* **[[anatolian-humanism]]**: Indigenous spiritual and philosophical tradition prioritizing universal human dignity, tolerance, and divine reflection within the human conscience.
+  * Works: [[asik-borani-soz-insanin-aynasi]]
 * **[[evolutionary-biology]]**: Study of natural selection, biological mutualism, population genetics, and evolutionary stability.
   * Works: [[the-evolution-of-cooperation]]
 * **[[game-theory]]**: Formal and mathematical modeling of strategic interaction, iterated dilemmas, and bargaining equilibria.
@@ -82,19 +89,25 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
   * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
 * **[[military-science]]**: Technical and operational study of armed forces, joint doctrine, weapon systems, command and control, and combat.
   * Works: [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
+* **[[poetry-and-poetics]]**: The art of rhythmic and lyrical verse exploring philosophical, emotional, and social dimensions of human experience.
+  * Works: [[asik-borani-soz-insanin-aynasi]]
 * **[[political-science]]**: Analysis of governance, institutional design, collective action dilemmas, and strategic behavior.
   * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
 * **[[security-studies]]**: Analysis of threats to national and global survival, hybrid conflict, terrorism, and defense policy.
   * Works: [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
 * **[[strategic-studies]]**: The study of the use and threat of military force and coercion to achieve political ends.
   * Works: [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
+* **[[turkish-folk-literature]]**: Centuries-old oral and written vernacular tradition of Anatolia using syllabic verse, bağlama accompaniment, and traditional folk forms.
+  * Works: [[asik-borani-soz-insanin-aynasi]]
 
 ---
 
 ## Index by Theme
 
-* **[[cooperation-and-reciprocity]]**: Conditions under which mutual restraint and reciprocal punishment sustain cooperative equilibria under anarchy.
-  * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
+* **[[asik-and-minstrel-tradition]]**: Oral bardic heritage using the bağlama to serve as community historian, cultural preserver, and civic conscience.
+  * Works: [[asik-borani-soz-insanin-aynasi]]
+* **[[cooperation-and-reciprocity]]**: Conditions under which mutual restraint and reciprocal punishment sustain cooperative equilibria under anarchy, paired with humanist social solidarity.
+  * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[asik-borani-soz-insanin-aynasi]]
 * **[[cross-domain-conflict]]**: Asymmetric trade-offs across cyber, space, economic, information, and kinetic domains.
   * Works: [[deterrence-in-the-21st-century]]
 * **[[deterrence-and-coercion]]**: Prevention of adversary action through credible threats of punishment or denial, accompanied by credible assurances.
@@ -103,16 +116,20 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
   * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
 * **[[hybrid-threats-and-cyber-warfare]]**: Unconventional grey-zone aggression, cyber attribution dilemmas, disinformation, and societal resilience.
   * Works: [[deterrence-in-the-21st-century]]
-* **[[non-western-strategic-thought]]**: Culturally distinct strategic doctrines including Russian *sderzhivanie*, Chinese *weishe*, and Iranian forward deterrence.
-  * Works: [[deterrence-in-the-21st-century]]
+* **[[non-western-strategic-thought]]**: Culturally distinct strategic doctrines including Russian *sderzhivanie*, Chinese *weishe*, Iranian forward deterrence, and Anatolian humanist peace paradigms.
+  * Works: [[deterrence-in-the-21st-century]], [[asik-borani-soz-insanin-aynasi]]
 * **[[nuclear-strategy-and-strategic-stability]]**: Mutual Assured Destruction, arms control regimes, counterforce risks, and algorithmic escalation.
   * Works: [[deterrence-in-the-21st-century]]
-* **[[rationality-and-decision-making]]**: Human cognitive heuristics, Prospect Theory, loss aversion, emotions, and algorithmic decision loops.
-  * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
+* **[[rationality-and-decision-making]]**: Human cognitive heuristics, Prospect Theory, loss aversion, emotions, algorithmic decision loops, and moral rationality.
+  * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[asik-borani-soz-insanin-aynasi]]
 * **[[shadow-of-the-future]]**: How the discount parameter $w$ and expected future interactions disincentivize short-term defection.
   * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
+* **[[social-critique-and-moral-conscience]]**: Public verse testimony and satire (*taşlama*) exposing corruption, economic exploitation, and moral hypocrisy.
+  * Works: [[asik-borani-soz-insanin-aynasi]]
 * **[[tit-for-tat]]**: The robust four-characteristic decision rule (nice, retaliatory, forgiving, clear) winning iterated games.
   * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
+* **[[universal-love-and-human-dignity]]**: Love as an ontological foundation and primary science uniting humanity across ethnic and religious divisions.
+  * Works: [[asik-borani-soz-insanin-aynasi]]
 * **[[violent-non-state-actors]]**: Cumulative deterrence, localized counterinsurgency deterrence, and coercive diplomacy against non-state groups.
   * Works: [[deterrence-in-the-21st-century]]
 
@@ -122,16 +139,25 @@ Welcome to the **Gilgamis LLM Wiki**, an interlinked knowledge base for catalogi
 
 ```
 GilgamisLLMWiki/
-├── raw/                                           # Immutable raw source documents
+├── [Mounted External Library]                      # C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS
+│   ├── Art/                                       # Ingested: 73010,cilt1pdf.pdf, 73011,cilt2pdf.pdf
+│   ├── AI/, Philosophy..., Military_/, ...        # 42+ categorical domain libraries (immutable, git-ignored)
+├── .gitignore                                     # Excludes raw/, BOOKS/, _GilgameshLibrary/, and PDF binaries
+├── raw/                                           # Immutable local staging documents (git-ignored)
 │   ├── Axelrod_Robert_The_Evolution_of_Cooperation.pdf
 │   └── Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf
 ├── wiki/                                          # Maintained knowledge base
 │   ├── index.md                                   # Master index and table of contents
 │   ├── log.md                                     # Ingestion and audit changelog
-│   ├── books/                                     # Ingested book detail pages (2 pages)
+│   ├── dashboard_data.json                        # Embedded data payload for dashboard
+│   ├── index.html / dashboard.html                # Interactive single-page dashboard app
+│   ├── books/                                     # Ingested book detail pages (3 pages)
 │   │   ├── the-evolution-of-cooperation.md
-│   │   └── deterrence-in-the-21st-century.md
-│   ├── authors/                                   # Author profile pages (24 pages)
+│   │   ├── deterrence-in-the-21st-century.md
+│   │   └── asik-borani-soz-insanin-aynasi.md
+│   ├── authors/                                   # Author profile pages (26 pages)
+│   │   ├── asik-borani.md
+│   │   ├── ibrahim-gosterir.md
 │   │   ├── robert-axelrod.md
 │   │   ├── frans-osinga.md
 │   │   ├── tim-sweijs.md
@@ -156,25 +182,32 @@ GilgamisLLMWiki/
 │   │   ├── samuel-zilincik.md
 │   │   ├── isabelle-duyvesteyn.md
 │   │   └── paul-ducheine.md
-│   ├── genres/                                    # Genre index pages (7 pages)
+│   ├── genres/                                    # Genre index pages (10 pages)
+│   │   ├── anatolian-humanism.md
+│   │   ├── evolutionary-biology.md
 │   │   ├── game-theory.md
-│   │   ├── strategic-studies.md
 │   │   ├── international-relations.md
 │   │   ├── military-science.md
+│   │   ├── poetry-and-poetics.md
+│   │   ├── political-science.md
 │   │   ├── security-studies.md
-│   │   ├── evolutionary-biology.md
-│   │   └── political-science.md
-│   └── themes/                                    # Core thematic concept pages (11 pages)
+│   │   ├── strategic-studies.md
+│   │   └── turkish-folk-literature.md
+│   └── themes/                                    # Core thematic concept pages (14 pages)
+│       ├── asik-and-minstrel-tradition.md
 │       ├── cooperation-and-reciprocity.md
-│       ├── tit-for-tat.md
-│       ├── shadow-of-the-future.md
-│       ├── deterrence-and-coercion.md
 │       ├── cross-domain-conflict.md
-│       ├── nuclear-strategy-and-strategic-stability.md
-│       ├── non-western-strategic-thought.md
-│       ├── rationality-and-decision-making.md
-│       ├── violent-non-state-actors.md
+│       ├── deterrence-and-coercion.md
+│       ├── evolution-of-strategies.md
 │       ├── hybrid-threats-and-cyber-warfare.md
-│       └── evolution-of-strategies.md
-└── GilgamisLLMWiki.md                             # LLM Wiki design specification
+│       ├── non-western-strategic-thought.md
+│       ├── nuclear-strategy-and-strategic-stability.md
+│       ├── rationality-and-decision-making.md
+│       ├── shadow-of-the-future.md
+│       ├── social-critique-and-moral-conscience.md
+│       ├── tit-for-tat.md
+│       ├── universal-love-and-human-dignity.md
+│       └── violent-non-state-actors.md
+├── GilgamisLLMWiki.md                             # LLM Wiki design specification
+└── README.md                                      # Project overview and interactive dashboard guide
 ```

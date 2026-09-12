@@ -123,7 +123,10 @@ def parse_markdown_files():
         last_updated = updated_m.group(1).strip() if updated_m else ""
         
         # Year extraction
-        if "21st" in slug or "deterrence" in slug:
+        pub_year_m = re.search(r'\*\*Publication(?:\s*Year)?\*\*:[^\n]*?\b(19\d\d|20\d\d)\b', txt)
+        if pub_year_m:
+            year = int(pub_year_m.group(1))
+        elif "21st" in slug or "deterrence" in slug:
             year = 2021
         elif "cooperation" in slug:
             year = 1984
@@ -171,7 +174,7 @@ def parse_markdown_files():
     
     wiki_payload = {
         "title": "Gilgamis LLM Wiki",
-        "last_updated": "2026-08-23",
+        "last_updated": "2026-09-12",
         "books": books,
         "authors": authors,
         "genres": genres,

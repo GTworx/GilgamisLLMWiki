@@ -11,20 +11,33 @@ Based on Andrej Karpathy's LLM Wiki pattern.
 This wiki is a structured, interlinked knowledge base for cataloging, analyzing, and synthesizing a personal library of books.  
 The LLM maintains the wiki, while the user provides raw book files, discusses literary frameworks, asks cross-book questions, and guides thematic analysis.
 
-\#\# Folder structure
+\## Ingestion Sources & Folder Structure
 
-raw/ \-- source book files (EPUB, PDF, TXT, MD) (immutable \-- never modify these)  
-wiki/ \-- markdown pages maintained by the LLM  
-wiki/books/ \-- book summary and detail pages (e.g., epic-of-gilgamesh.md)  
-wiki/authors/ \-- author profile pages (e.g., hermann-hesse.md)  
-wiki/genres/ \-- genre index pages (e.g., speculative-fiction.md)  
-wiki/themes/ \-- core thematic concept pages (e.g., mortality-and-legacy.md)  
-wiki/index.md \-- master index and table of contents sorted by Genre, Theme, and Author  
-wiki/log.md \-- append-only record of all ingestions and operations
+The wiki ingests documents from two designated source locations (both are strictly **immutable** and excluded from GitHub synchronization via `.gitignore`):
 
-\#\# Ingest workflow
+1. **Primary External Mounted Library**:
+   * Mount Path: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS`
+   * Organized into domain and thematic subdirectories (e.g., `Art/`, `AI/`, `History_/`, `Philosophy Psychology Sociology/`, `Military_/`, `Literature/`, `Game Theory/`, etc.).
+   * Serves as the primary, persistent digital library for batch and category-level ingestions.
+2. **Local Staging Directory**:
+   * Path: `raw/`
+   * Workspace-local staging directory for ad-hoc book additions and quick uploads.
 
-When a new book or document is added to \`raw/\` and requested for ingestion:
+### Folder Structure
+
+* `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` — Primary mounted library (immutable, external)
+* `raw/` — Local incoming source book files (EPUB, PDF, TXT, MD) (immutable — never modify these, ignored by git)  
+* `wiki/` — markdown pages maintained by the LLM  
+* `wiki/books/` — book summary and detail pages (e.g., `epic-of-gilgamesh.md`)  
+* `wiki/authors/` — author profile pages (e.g., `hermann-hesse.md`)  
+* `wiki/genres/` — genre index pages (e.g., `speculative-fiction.md`)  
+* `wiki/themes/` — core thematic concept pages (e.g., `mortality-and-legacy.md`)  
+* `wiki/index.md` — master index and table of contents sorted by Genre, Theme, and Author  
+* `wiki/log.md` — append-only record of all ingestions and operations  
+
+## Ingest workflow
+
+When a new book or document is requested for ingestion (from the mounted `BOOKS` library or `raw/`):
 
 1\. Read the full source document or chapter breakdown.  
 2\. Discuss key takeaways, core themes, and genre classifications with the user before writing.  
@@ -144,10 +157,11 @@ When asked to audit or lint the wiki:
 
 ## **Rules**
 
-* **Never modify anything in the raw/ directory**\[cite: 1\].  
-* Always keep filenames lowercase with hyphens (e.g., the-brothers-karamazov.md)\[cite: 1\].  
-* Always update wiki/index.md and wiki/log.md whenever pages are added or modified\[cite: 1\].  
-* Keep classification flexible: if a book spans multiple genres or novel themes, confirm categorizations with the user during ingestion\[cite: 1\].
+* **Never modify anything in the `raw/` directory or the external mounted `BOOKS/` library** (both are immutable source references).
+* **Exclude all book source binaries and incoming directories from GitHub sync via `.gitignore`** to keep the wiki repository lightweight and compliant.
+* Always keep filenames lowercase with hyphens (e.g., the-brothers-karamazov.md).
+* Always update wiki/index.md and wiki/log.md whenever pages are added or modified.
+* Keep classification flexible: if a book spans multiple genres or novel themes, confirm categorizations with the user during ingestion.
 
 \<ElicitationsGroup message="Next steps to set up and run your Gilgamis LLM Wiki:"\>  
   \<Elicitation label="Generate a starting wiki/index.md template for books" query="Generate a complete template for wiki/index.md organizing books by themes, genres, and authors."/\>  

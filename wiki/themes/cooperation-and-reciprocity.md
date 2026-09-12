@@ -19,12 +19,16 @@ This mechanism explains real-world phenomena ranging from biological mutualism (
 
 In modern strategic thought, reciprocity is the positive counterpart to military deterrence. As Osinga and Sweijs demonstrate in *Deterrence in the 21st Century*, deterrence by punishment relies on the threat of reciprocal cost-imposition, but deterrence stability inevitably collapses if it is not paired with credible assurances—the promise that compliance will be met with reciprocal restraint (source: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf, ch. 2, pp. 14–18; ch. 26, pp. 503–534). Without reciprocity and forgiveness, coercive signaling degenerates into runaway escalation spirals.
 
+### The Moral Dimension of Cooperation: Anatolian Humanism
+While game-theoretic models focus on strategic reciprocity among self-interested egoists, Anatolian folk philosophy—represented by [[asik-borani]] in *Söz İnsanın Aynasıdır*—approaches cooperation from an ethical and communal imperative. Borani defines love and mutual aid (*dayanışma*) not as contingent payoffs, but as the foundational "constitution of humanity" (*Sevgi İnsanlığın Anayasası*). In this view, unconditional empathy provides the social trust upon which even game-theoretic reciprocity must ultimately depend (source: BOOKS/Art/73010,cilt1pdf.pdf, Intro, pp. 38–41; BOOKS/Art/73011,cilt2pdf.pdf, ch. 5, p. 571).
+
 ---
 
 ## Featured Works
 
 - [[the-evolution-of-cooperation]] — Foundational study proving how TIT FOR TAT reciprocity drives the emergence and evolutionary stability of cooperation under anarchy.
 - [[deterrence-in-the-21st-century]] — Demonstrates how reciprocity and assurance mechanisms maintain crisis stability in conventional, nuclear, and cross-domain deterrence relationships.
+- [[asik-borani-soz-insanin-aynasi]] — Explores the moral and humanist roots of social solidarity, altruism, and communal cooperation.
 
 ---
 
@@ -32,6 +36,7 @@ In modern strategic thought, reciprocity is the positive counterpart to military
 
 - [[robert-axelrod]]: Formulated the four properties of robust reciprocity and demonstrated tournament superiority of conditional cooperation.
 - [[william-d-hamilton]]: Grounded reciprocity in evolutionary biology and population dynamics.
+- [[asik-borani]]: Articulated unconditional human love and communal ethics as the necessary social fabric for enduring cooperation.
 - [[michael-mazarr]]: Highlighted that deterrence requires positive reciprocity (assurances) alongside punitive threats to be effective (source: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf, ch. 2, pp. 14–17).
 - [[lawrence-freedman]]: Analyzed how reciprocal signaling operates in crisis management and arms control regimes (source: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf, ch. 1, pp. 3–8).
 
@@ -39,5 +44,5 @@ In modern strategic thought, reciprocity is the positive counterpart to military
 
 ## Related themes & genres
 
-- **Related Themes**: [[tit-for-tat]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[deterrence-and-coercion]], [[rationality-and-decision-making]]
-- **Related Genres**: [[game-theory]], [[political-science]], [[evolutionary-biology]], [[strategic-studies]]
+- **Related Themes**: [[tit-for-tat]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[deterrence-and-coercion]], [[rationality-and-decision-making]], [[universal-love-and-human-dignity]]
+- **Related Genres**: [[game-theory]], [[political-science]], [[evolutionary-biology]], [[strategic-studies]], [[anatolian-humanism]]

@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-08-23  
+**Generated**: 2026-09-12  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -10,18 +10,18 @@
 
 ## 1. Executive Overview
 
-The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern. This document summarizes the complete ingestion of the foundational volumes located in `raw/`, establishing a multi-layered, cross-referenced literature corpus spanning game theory, strategic studies, evolutionary biology, international relations, military science, and behavioral decision theory.
+The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS`) and local staging (`raw/`), establishing a multi-layered, cross-referenced literature corpus spanning game theory, strategic studies, evolutionary biology, international relations, military science, behavioral decision theory, and Anatolian minstrel literature. Both source repositories are strictly immutable and excluded from GitHub synchronization via `.gitignore`.
 
 ### Library Metrics at a Glance
-- **Total Ingested Source Documents**: 2 volumes (781 total pages)
-- **Total Generated Wiki Pages**: 46 interlinked markdown files
-- **Interactive Web App**: [index.html](index.html) (with embedded data and offline search)
-- **Book Summary & Analysis Pages**: 2 ([books/](wiki/books/))
-- **Author Profile Pages**: 24 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 7 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 11 ([themes/](wiki/themes/))
+- **Total Ingested Source Documents**: 3 volumes (1,931 total pages)
+- **Total Generated Wiki Pages**: 53 interlinked markdown files
+- **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
+- **Book Summary & Analysis Pages**: 3 ([books/](wiki/books/))
+- **Author Profile Pages**: 26 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 10 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 14 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages)
-- **Source Compliance**: Complete textual citations referencing exact source files and page numbers; `raw/` directory remains immutable and unmodified.
+- **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
 ---
 
@@ -44,14 +44,27 @@ Axelrod distilled the four fundamental attributes of successful strategic intera
 3. **Be Forgiving**: Restore cooperation immediately once the opponent stops defecting to break conflict spirals.
 4. **Be Clear**: Be transparent and predictable so counterparts can easily recognize and adapt to reciprocity.
 
-#### Key Case Studies & Applications
-- **WWI Trench Warfare ("Live-and-Let-Live")**: Tacit non-aggression pacts emerged between British and German infantry due to repeated, indefinite interactions ($w$), until central command mandated verifiable raids with casualties.
-- **Biological Systems**: Reciprocal altruism evolves naturally without conscious intent or high intelligence (e.g., cleaner fish mutualism, bacteria, fig wasps) when spatial clustering and repeated interactions are present.
-- **Advice for Institutional Designers**: Enlarge the shadow of the future ($w$), alter payoffs, teach reciprocity, and improve recognition/reputation tracking.
+---
+
+### Book 2: *Söz İnsanın Aynasıdır (Cilt I & II)*
+- **Author(s)**: [[asik-borani]] (Halil Çimen), [[ibrahim-gosterir]] (ed.)
+- **Publication**: T.C. Çorum Valiliği İl Kültür ve Turizm Müdürlüğü, Yayın No: 19, 2020 (1,150 pp., 2 Vols.)
+- **Source Files**: `BOOKS/Art/73010,cilt1pdf.pdf`, `BOOKS/Art/73011,cilt2pdf.pdf` (Mount: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Art\`)
+- **Wiki Page**: [wiki/books/asik-borani-soz-insanin-aynasi.md](wiki/books/asik-borani-soz-insanin-aynasi.md)
+- **Primary Genres**: [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]]
+- **Core Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]]
+
+#### Core Thesis & Findings
+The complete poetic and philosophical works of Âşık Borani (Halil Çimen, 1943–2020), one of Anatolia's greatest contemporary bards (*halk ozanı*). Spanning 10 comprehensive thematic parts across two volumes:
+1. **Elinde Gül Olsun Dilinde Türkü** & **İnsana Yolculuk**: The saz as moral healing instrument; the human conscience as the reflection of divine truth (*Natık-ı Kuran*).
+2. **Fadime'ye Mektuplar** & **Fadime'ye Son Mektuplar**: Lyrical epistolary cycle to "Fadime," symbolizing the dignity and resilience of rural Anatolian womanhood.
+3. **Âdem'in Aynası** & **Söz İnsana Söylenir**: Meditations on communicative ethics (*söz insanın aynasıdır*), universal human rights, and rejection of all sectarian and racial divisions.
+4. **Bozkırın Gülleri**, **Sevgiye Davet**, & **Serbest Nazım**: Steppe culture, universal appeals for fraternity, and experiments with modern free-verse poetics.
+5. **Toplumcu Gerçekçilik & Taşlama**: Uncompromising satire exposing bureaucratic corruption, greed, and exploitation (*"Kim çalarsa çalsın adı hırsızdır"*).
 
 ---
 
-### Book 2: *Deterrence in the 21st Century — Insights from Theory and Practice*
+### Book 3: *Deterrence in the 21st Century — Insights from Theory and Practice*
 - **Editors**: Frans Osinga, Tim Sweijs (NL ARMS 2020 / T.M.C. Asser Press / Springer, 2021, 538 pp.)
 - **Source File**: `raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf`
 - **Wiki Page**: [wiki/books/deterrence-in-the-21st-century.md](wiki/books/deterrence-in-the-21st-century.md)
@@ -94,12 +107,13 @@ Spanning 26 chapters across six thematic parts, this volume provides a comprehen
 ## 3. Cross-Comparative Thematic Insights
 
 | Dimension | Axelrod (*Evolution of Cooperation*) | Osinga & Sweijs (*Deterrence in the 21st Century*) | Cross-Wiki Synthesis |
-| :--- | :--- | :--- | :--- |
-| **Strategic Mechanism** | Reciprocity (TIT FOR TAT): nice, retaliatory, forgiving, clear. | Deterrence by punishment/denial, credible threats, and assurances. | Retaliation without forgiveness leads to endless conflict spirals; deterrence stability requires positive reciprocity (assurances). |
-| **Time Horizon** | Shadow of the future ($w$): large $w$ sustains cooperation under anarchy. | Strategic stability and arms control treaties preserve long-term predictability. | High-speed technologies (hypersonics, AI decision loops) dangerously compress time horizons, undermining both cooperation and deterrence. |
-| **Decision-Making Model** | Critique of zero-sum envy and strategic over-complexity in human play. | Behavioral decision theory, Prospect Theory (loss aversion), and emotion-centric models. | Actors under existential threat become risk-seeking in the domain of losses; hyper-rational models fail to predict real-world crises. |
-| **Conflict Domains** | Trench warfare, biological mutualism, trade, and internal organization. | Multi-domain: land, sea, air, space, cyber, economic sanctions, and information warfare. | Cross-domain asymmetric offsetting creates severe calibration hazards and attribution bottlenecks. |
-| **Strategic Culture** | Universal mathematical and ecological properties of population dynamics. | Culturally divergent models: Western binary vs. Russian *sderzhivanie* and Chinese *weishe*. | Effective strategic engagement requires cognitive empathy to avoid fatal perceptual misalignment. |
+| Dimension | Axelrod (*Evolution of Cooperation*) | Osinga & Sweijs (*Deterrence in the 21st Century*) | Âşık Borani (*Söz İnsanın Aynasıdır*) | Cross-Wiki Synthesis |
+| :--- | :--- | :--- | :--- | :--- |
+| **Strategic Mechanism** | Reciprocity (TIT FOR TAT): nice, retaliatory, forgiving, clear. | Deterrence by punishment/denial, credible threats, and assurances. | Unconditional love (*sevgi ilimi*), communal empathy, and ethical conscience. | Retaliation without forgiveness produces destructive spirals; strategic deterrence needs positive assurances, while social sustainability requires an ethical baseline of human dignity. |
+| **Time Horizon** | Shadow of the future ($w$): large $w$ sustains cooperation under anarchy. | Strategic stability and arms control treaties preserve long-term predictability. | Cultural memory, generational poetry, and existential transience (*ölüm nikâhı*). | Long horizons disincentivize cheating; bards and strategic regimes both serve to preserve collective stability across generational time. |
+| **Decision-Making Model** | Critique of zero-sum envy and strategic over-complexity in human play. | Behavioral decision theory, Prospect Theory (loss aversion), and emotion-centric models. | Moral rationality: truthfulness and dignity over opportunism and greed. | Pure instrumental greed produces collective ruin; durable social equilibria require moral constraints and transparent communication. |
+| **Conflict Domains** | Trench warfare, biological mutualism, trade, and internal organization. | Multi-domain: land, sea, air, space, cyber, economic sanctions, and information warfare. | Civic life, agrarian labor, oral culture, inter-faith dialogue, and personal conscience. | Security extends beyond military dimensions to ideological, communal, and ethical resilience. |
+| **Strategic Culture** | Universal mathematical and ecological properties of population dynamics. | Culturally divergent models: Western binary vs. Russian *sderzhivanie* and Chinese *weishe*. | Anatolian Sufi humanism: radical anti-sectarian inclusivity ("seventy-two nations"). | Conflict resolution requires deep cognitive and cultural empathy rather than imposing monocultural assumptions. |
 
 ---
 
@@ -111,8 +125,10 @@ Spanning 26 chapters across six thematic parts, this volume provides a comprehen
 ### Books (`wiki/books/`)
 - [the-evolution-of-cooperation.md](wiki/books/the-evolution-of-cooperation.md)
 - [deterrence-in-the-21st-century.md](wiki/books/deterrence-in-the-21st-century.md)
+- [asik-borani-soz-insanin-aynasi.md](wiki/books/asik-borani-soz-insanin-aynasi.md)
 
 ### Authors (`wiki/authors/`)
+- [asik-borani.md](wiki/authors/asik-borani.md) — [ibrahim-gosterir.md](wiki/authors/ibrahim-gosterir.md)
 - [robert-axelrod.md](wiki/authors/robert-axelrod.md) — [william-d-hamilton.md](wiki/authors/william-d-hamilton.md)
 - [frans-osinga.md](wiki/authors/frans-osinga.md) — [tim-sweijs.md](wiki/authors/tim-sweijs.md)
 - [lawrence-freedman.md](wiki/authors/lawrence-freedman.md) — [michael-mazarr.md](wiki/authors/michael-mazarr.md)
@@ -127,6 +143,9 @@ Spanning 26 chapters across six thematic parts, this volume provides a comprehen
 - [isabelle-duyvesteyn.md](wiki/authors/isabelle-duyvesteyn.md) — [paul-ducheine.md](wiki/authors/paul-ducheine.md)
 
 ### Genres (`wiki/genres/`)
+- [anatolian-humanism.md](wiki/genres/anatolian-humanism.md)
+- [turkish-folk-literature.md](wiki/genres/turkish-folk-literature.md)
+- [poetry-and-poetics.md](wiki/genres/poetry-and-poetics.md)
 - [game-theory.md](wiki/genres/game-theory.md)
 - [strategic-studies.md](wiki/genres/strategic-studies.md)
 - [international-relations.md](wiki/genres/international-relations.md)
@@ -136,6 +155,9 @@ Spanning 26 chapters across six thematic parts, this volume provides a comprehen
 - [political-science.md](wiki/genres/political-science.md)
 
 ### Themes (`wiki/themes/`)
+- [universal-love-and-human-dignity.md](wiki/themes/universal-love-and-human-dignity.md)
+- [social-critique-and-moral-conscience.md](wiki/themes/social-critique-and-moral-conscience.md)
+- [asik-and-minstrel-tradition.md](wiki/themes/asik-and-minstrel-tradition.md)
 - [cooperation-and-reciprocity.md](wiki/themes/cooperation-and-reciprocity.md)
 - [tit-for-tat.md](wiki/themes/tit-for-tat.md)
 - [shadow-of-the-future.md](wiki/themes/shadow-of-the-future.md)

@@ -1,0 +1,36 @@
+# Gilgamis LLM Wiki - Git Ignore Configuration
+
+# Raw and Incoming Book Staging Directories (Excluded from GitHub Sync)
+/raw/
+raw/
+/BOOKS/
+/_GilgameshLibrary/
+_GilgameshLibrary/
+*_GilgameshLibrary*
+
+# Safety Whitelist for Maintained Wiki Markdown Directories
+!wiki/books/
+!wiki/books/**
+
+# Binary Book and Document Files (Defense-in-depth against large files in sync)
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.djvu
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.uv/
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

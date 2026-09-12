@@ -70,14 +70,14 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Volumes**: 2 volumes (781 total pages)
-- **Total Maintained Wiki Pages**: 46 interlinked markdown documents
-- **Book Analyses**: 2 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 24 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 7 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 11 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Volumes**: 3 volumes (1,931 total pages across strategic studies, game theory, and Anatolian minstrel literature)
+- **Total Maintained Wiki Pages**: 53 interlinked markdown documents
+- **Book Analyses**: 3 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 26 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 10 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 14 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages)
-- **Source Integrity**: Strict textual citations referencing exact source files and page numbers; `raw/` files remain immutable and untouched.
+- **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/` and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
@@ -103,7 +103,24 @@ Axelrod extends the model to historical case studies—such as the "live-and-let
 
 ---
 
-### 2. [Deterrence in the 21st Century — Insights from Theory and Practice](wiki/books/deterrence-in-the-21st-century.md)
+### 2. [Söz İnsanın Aynasıdır (Cilt I & II)](wiki/books/asik-borani-soz-insanin-aynasi.md)
+* **Author(s)**: [[asik-borani]] (Halil Çimen), [[ibrahim-gosterir]] (ed.)
+* **Publication**: T.C. Çorum Valiliği İl Kültür ve Turizm Müdürlüğü, Yayın No: 19, 2020 (1,150 pp., 2 Vols.)
+* **Source**: `BOOKS/Art/73010,cilt1pdf.pdf`, `BOOKS/Art/73011,cilt2pdf.pdf` (Mount: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Art\`)
+* **Primary Genres**: [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]]
+* **Core Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]]
+
+#### Executive Summary
+A comprehensive two-volume, 1,150-page compendium representing the complete lifetime works of Âşık Borani (Halil Çimen, 1943–2020), one of modern Turkey's preeminent folk poets and minstrel-philosophers (*halk ozanı*). Compiled by folklorist İbrahim Gösterir, the work spans ten sections capturing sixty years of poetic creation:
+1. **Elinde Gül Olsun Dilinde Türkü** & **İnsana Yolculuk**: Foundational poetry defining the minstrel's saz as moral medicine and the human conscience as the sacred mirror of truth (*Natık-ı Kuran*).
+2. **Fadime'ye Mektuplar** & **Fadime'ye Son Mektuplar**: Celebrated epistolary cycles addressed to "Fadime"—muse, confidante, and symbol of rural Anatolian womanhood and enduring love.
+3. **Âdem'in Aynası** & **Söz İnsana Söylenir**: Philosophical meditations on human dignity, communicative ethics (*söz insanın aynasıdır*), and universal egalitarianism ("I recognize only one race: Humanity").
+4. **Bozkırın Gülleri**, **Sevgiye Davet**, & **Serbest Dizeli Şiirler**: Pastoral hymns to steppe resilience, universal anti-sectarian appeals, and experiments in modern free-verse folk poetics.
+5. **Toplumcu Gerçekçilik & Taşlama**: Fearless social satire targeting political corruption, bureaucratic greed, and religious hypocrisy (*"Kim çalarsa çalsın adı hırsızdır"*).
+
+---
+
+### 3. [Deterrence in the 21st Century — Insights from Theory and Practice](wiki/books/deterrence-in-the-21st-century.md)
 * **Editors**: [[frans-osinga]], [[tim-sweijs]]
 * **Publication**: NL ARMS 2020 / T.M.C. Asser Press / Springer, 2021 (538 pp.)
 * **Source**: `raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf`
@@ -121,15 +138,15 @@ An encyclopedic volume examining the renaissance and re-conceptualization of det
 
 ---
 
-## 🔬 Cross-Comparative Synthesis
+### 🔬 Cross-Comparative Synthesis
 
-| Dimension | Axelrod (*Evolution of Cooperation*) | Osinga & Sweijs (*Deterrence in the 21st Century*) | Integrated Wiki Takeaway |
-| :--- | :--- | :--- | :--- |
-| **Strategic Mechanism** | Reciprocity (TIT FOR TAT): nice, retaliatory, forgiving, clear. | Deterrence by punishment/denial, credible threats, and assurances. | Retaliation without forgiveness produces destructive conflict spirals; deterrence requires positive reciprocity (assurances). |
-| **Time Horizon** | Shadow of the future ($w$): large $w$ sustains cooperation under anarchy. | Strategic stability and arms control treaties preserve long-term predictability. | High-speed technologies (hypersonics, AI decision loops) dangerously compress time horizons, undermining both cooperation and deterrence. |
-| **Decision-Making Model** | Critique of zero-sum envy and strategic over-complexity in human play. | Behavioral decision theory, Prospect Theory (loss aversion), and emotion-centric models. | Actors under existential threat become risk-seeking in the domain of losses; hyper-rational models fail to predict real-world crises. |
-| **Conflict Domains** | Trench warfare, biological mutualism, trade, and internal organization. | Multi-domain: land, sea, air, space, cyber, economic sanctions, and information warfare. | Cross-domain asymmetric offsetting creates severe calibration hazards and attribution bottlenecks. |
-| **Strategic Culture** | Universal mathematical and ecological properties of population dynamics. | Culturally divergent models: Western binary vs. Russian *sderzhivanie* and Chinese *weishe*. | Effective strategic engagement requires cognitive empathy to avoid fatal perceptual misalignment. |
+| Dimension | Axelrod (*Evolution of Cooperation*) | Osinga & Sweijs (*Deterrence in the 21st Century*) | Âşık Borani (*Söz İnsanın Aynasıdır*) | Integrated Wiki Takeaway |
+| :--- | :--- | :--- | :--- | :--- |
+| **Strategic & Moral Mechanism** | Reciprocity (TIT FOR TAT): nice, retaliatory, forgiving, clear. | Deterrence by punishment/denial, credible threats, and assurances. | Unconditional love (*sevgi ilimi*), communal empathy, and ethical conscience. | Retaliation without forgiveness produces destructive spirals; strategic deterrence needs positive assurances, while social sustainability requires an ethical baseline of human dignity. |
+| **Time Horizon** | Shadow of the future ($w$): large $w$ sustains cooperation under anarchy. | Strategic stability and arms control treaties preserve long-term predictability. | Cultural memory, generational poetry, and existential transience (*ölüm nikâhı*). | Long horizons disincentivize cheating; bards and strategic regimes both serve to preserve collective stability across generational time. |
+| **Decision-Making Model** | Critique of zero-sum envy and strategic over-complexity in human play. | Behavioral decision theory, Prospect Theory (loss aversion), and emotion-centric models. | Moral rationality: truthfulness and dignity over opportunism and greed. | Pure instrumental greed produces collective ruin; durable social equilibria require moral constraints and transparent communication. |
+| **Conflict Domains** | Trench warfare, biological mutualism, trade, and internal organization. | Multi-domain: land, sea, air, space, cyber, economic sanctions, and information warfare. | Civic life, agrarian labor, oral culture, inter-faith dialogue, and personal conscience. | Security extends beyond military dimensions to ideological, communal, and ethical resilience. |
+| **Strategic Culture** | Universal mathematical and ecological properties of population dynamics. | Culturally divergent models: Western binary vs. Russian *sderzhivanie* and Chinese *weishe*. | Anatolian Sufi humanism: radical anti-sectarian inclusivity ("seventy-two nations"). | Conflict resolution requires deep cognitive and cultural empathy rather than imposing monocultural assumptions. |
 
 ---
 
@@ -137,7 +154,11 @@ An encyclopedic volume examining the renaissance and re-conceptualization of det
 
 ```
 GilgamisLLMWiki/
-├── raw/                                           # Immutable raw source documents
+├── [Mounted External Library]                      # C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\
+│   ├── Art/                                       # Ingested: 73010,cilt1pdf.pdf, 73011,cilt2pdf.pdf
+│   └── AI/, History_/, Philosophy..., ...         # 42+ domain libraries (immutable, git-ignored)
+├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
+├── raw/                                           # Immutable local staging documents (git-ignored)
 │   ├── Axelrod_Robert_The_Evolution_of_Cooperation.pdf
 │   └── Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf
 ├── wiki/                                          # Maintained knowledge base
@@ -145,10 +166,12 @@ GilgamisLLMWiki/
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (2 pages)
+│   ├── books/                                     # Ingested book detail pages (3 pages)
 │   │   ├── the-evolution-of-cooperation.md
-│   │   └── deterrence-in-the-21st-century.md
-│   ├── authors/                                   # Author profile pages (24 pages)
+│   │   ├── deterrence-in-the-21st-century.md
+│   │   └── asik-borani-soz-insanin-aynasi.md
+│   ├── authors/                                   # Author profile pages (26 pages)
+│   │   ├── asik-borani.md                         ├── ibrahim-gosterir.md
 │   │   ├── robert-axelrod.md                      ├── frans-osinga.md
 │   │   ├── tim-sweijs.md                          ├── lawrence-freedman.md
 │   │   ├── michael-mazarr.md                      ├── dmitry-adamsky.md
@@ -161,15 +184,18 @@ GilgamisLLMWiki/
 │   │   ├── alex-wilner.md                         ├── roy-lindelauf.md
 │   │   ├── tom-bijlsma.md                         ├── samuel-zilincik.md
 │   │   ├── isabelle-duyvesteyn.md                 └── paul-ducheine.md
-│   ├── genres/                                    # Genre index pages (7 pages)
-│   │   ├── game-theory.md                         ├── strategic-studies.md
-│   │   ├── international-relations.md             ├── military-science.md
-│   │   ├── security-studies.md                    ├── evolutionary-biology.md
-│   │   └── political-science.md
-│   └── themes/                                    # Core thematic concept pages (11 pages)
-│       ├── cooperation-and-reciprocity.md         ├── tit-for-tat.md
-│       ├── shadow-of-the-future.md                ├── deterrence-and-coercion.md
-│       ├── cross-domain-conflict.md               ├── nuclear-strategy-and-strategic-stability.md
+│   ├── genres/                                    # Genre index pages (10 pages)
+│   │   ├── anatolian-humanism.md                  ├── turkish-folk-literature.md
+│   │   ├── poetry-and-poetics.md                  ├── game-theory.md
+│   │   ├── strategic-studies.md                   ├── international-relations.md
+│   │   ├── military-science.md                    ├── security-studies.md
+│   │   ├── evolutionary-biology.md                └── political-science.md
+│   └── themes/                                    # Core thematic concept pages (14 pages)
+│       ├── universal-love-and-human-dignity.md    ├── social-critique-and-moral-conscience.md
+│       ├── asik-and-minstrel-tradition.md         ├── cooperation-and-reciprocity.md
+│       ├── tit-for-tat.md                         ├── shadow-of-the-future.md
+│       ├── deterrence-and-coercion.md             ├── cross-domain-conflict.md
+│       ├── nuclear-strategy-and-strategic-stability.md
 │       ├── non-western-strategic-thought.md       ├── rationality-and-decision-making.md
 │       ├── violent-non-state-actors.md            ├── hybrid-threats-and-cyber-warfare.md
 │       └── evolution-of-strategies.md
@@ -192,8 +218,9 @@ GilgamisLLMWiki/
 
 ## 📜 Maintenance & Citation Rules
 
-- **Source Immutability**: Source files in `raw/` must never be altered or overwritten.
+- **Source Immutability**: Source files in `raw/` and the mounted `BOOKS/` library must never be altered or overwritten.
+- **Git Sync Exclusion**: All raw and incoming book directories and binary formats are excluded from GitHub sync via `.gitignore`.
 - **Naming Conventions**: All wiki files are lowercase with hyphens (e.g., `the-evolution-of-cooperation.md`).
 - **Bidirectional Wiki Links**: Every page links to relevant concepts using `[[page-name]]` format.
-- **Citation Format**: Every factual assertion and direct quote must cite its source and page/chapter (e.g., `(source: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf, ch. 2, p. 31)`).
+- **Citation Format**: Every factual assertion and direct quote must cite its source and page/chapter (e.g., `(source: BOOKS/Art/73010,cilt1pdf.pdf, Intro, p. 39)`).
 - **Index & Log Tracking**: Every addition or modification must update `wiki/index.md` and append an entry to `wiki/log.md`.

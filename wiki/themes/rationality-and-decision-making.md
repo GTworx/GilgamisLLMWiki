@@ -26,12 +26,16 @@ In *The Evolution of Cooperation*, Robert Axelrod highlights two pervasive human
 1. **Zero-Sum Envy**: The psychological obsession with "beating" the other player rather than maximizing one's own absolute payoff. In iterated interactions, trying to beat the partner destroys cooperation and results in mutual ruin (source: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf, ch. 6, pp. 110–113).
 2. **Excessive Cleverness**: Creating over-complicated, subtle strategies that cannot be deciphered by the opponent, leading to misinterpretation and retaliatory defection (source: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf, ch. 6, pp. 121–123).
 
+### Moral Rationality vs. Opportunistic Short-Termism
+In *Söz İnsanın Aynasıdır*, [[asik-borani]] introduces a cultural critique of opportunistic rationality. While instrumental rationality often tempts actors to prioritize immediate material self-interest (the temptation to cheat or exploit), Borani frames moral integrity and civic honesty (*doğruluk ve dürüstlük*) as higher-order rationality. In his poetry, short-term cheating is exposed as self-defeating stupidity, contrasting the ephemeral wealth of corrupt actors with the enduring peace of an upright conscience (source: BOOKS/Art/73010,cilt1pdf.pdf, Intro, pp. 41–43; BOOKS/Art/73011,cilt2pdf.pdf, ch. 5, p. 568).
+
 ---
 
 ## Featured Works
 
 - [[the-evolution-of-cooperation]] — Practical advice for rational choice in non-zero-sum interactions: avoid envy, avoid excessive cleverness, and cultivate transparent reciprocity.
 - [[deterrence-in-the-21st-century]] — Comprehensive examination of behavioral decision theory (Bijlsma, ch. 23), emotions in crisis decision-making (Zilincik & Duyvesteyn, ch. 24), and algorithmic decision-making (Lindelauf, ch. 22).
+- [[asik-borani-soz-insanin-aynasi]] — Explores moral rationality, civic conscience, and the ethical critique of opportunistic greed in Anatolian folk philosophy.
 
 ---
 
@@ -41,10 +45,11 @@ In *The Evolution of Cooperation*, Robert Axelrod highlights two pervasive human
 - [[tom-bijlsma]]: Applied Prospect Theory and cognitive heuristics to strategic deterrence failure.
 - [[roy-lindelauf]]: Analyzed decision trees and automated algorithms in nuclear game theory.
 - [[michael-mazarr]]: Emphasized that deterrence operates strictly within the subjective, boundedly rational cognition of the opponent.
+- [[asik-borani]]: Conceptualized moral conscience and honesty as higher-order rational survival strategies against social decay.
 
 ---
 
 ## Related themes & genres
 
-- **Related Themes**: [[cooperation-and-reciprocity]], [[tit-for-tat]], [[deterrence-and-coercion]], [[shadow-of-the-future]], [[evolution-of-strategies]]
-- **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[security-studies]]
+- **Related Themes**: [[cooperation-and-reciprocity]], [[tit-for-tat]], [[deterrence-and-coercion]], [[social-critique-and-moral-conscience]], [[universal-love-and-human-dignity]], [[non-western-strategic-thought]]
+- **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[anatolian-humanism]]
