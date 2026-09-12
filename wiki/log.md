@@ -139,3 +139,55 @@ This file provides an append-only historical audit log of all book ingestions, c
 - Enhanced `build_dashboard.py` year extraction logic.
 - Rebuilt `wiki/dashboard_data.json` and generated standalone dashboard files (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard.html`).
 
+---
+
+## [2026-09-12T19:50:00+02:00] Ingestion: Archeology Domain Library (11 Works Across 13 Volumes)
+
+### 1. Ingestion Overview
+- **Source Location**: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Archeology\`
+- **Total Volumes Examined**: 13 PDF files (Total ~105 MB, over 5,500 pages)
+- **Unique Intellectual Works Ingested**: 11 landmark works (noting binary duplicate `Mysteries of the Ancient Past` = `Magicians of the Gods`, and dual-edition release `The Message of the Sphinx` = `Keeper of Genesis`)
+- **Key Authors / Scholars Added**: Graham Hancock, Robert Bauval, Dr. Robert M. Schoch, John Anthony West, Glenn Kreisberg, John Grigsby, Prof. Dr. Ekrem Akurgal, Dr. Erdal Polat.
+
+### 2. Works Cataloged
+1. **[[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]]** (2024, 22 pp.)
+   - Author: Erdal Polat
+   - Subject: Ekrem Akurgal and early Republican archaeological policy.
+2. **[[fingerprints-of-the-gods]]** (1995, 490 pp.)
+   - Author: Graham Hancock
+   - Subject: Antediluvian cartography, Andean megaliths, precessional mythologies, and lost civilizations.
+3. **[[keeper-of-genesis]]** (1996, 331 pp.) (US Edition: *The Message of the Sphinx*)
+   - Authors: Graham Hancock, Robert Bauval
+   - Subject: Geological re-dating of the Great Sphinx, Orion Correlation Theory, and *Zep Tepi* (10,500 BC).
+4. **[[the-mars-mystery]]** (1998, 252 pp.)
+   - Authors: Graham Hancock, Robert Bauval, John Grigsby
+   - Subject: Comparative planetary catastrophism, Taurid meteor streams, and Cydonia landforms.
+5. **[[underworld-mysterious-origins-of-civilization]]** (2002, 796 pp.)
+   - Author: Graham Hancock
+   - Subject: Post-glacial sea-level rise (120m inundation), submerged ruins in Cambay, Dwarka, Malta, and Yonaguni.
+6. **[[supernatural-meetings-with-the-ancient-teachers-of-mankind]]** (2005, 488 pp.)
+   - Author: Graham Hancock
+   - Subject: Upper Paleolithic cave art, David Lewis-Williams's neuropsychological model, Ayahuasca, and DMT entity encounters.
+7. **[[the-master-game]]** (2011, 654 pp.)
+   - Authors: Graham Hancock, Robert Bauval
+   - Subject: Hermetic-Gnostic underground stream, Templars, Freemasonry, and sacred solar geometry in Paris and Washington, D.C.
+8. **[[war-god-nights-of-the-witch]]** (2013, 501 pp.)
+   - Author: Graham Hancock
+   - Subject: 1519 Spanish conquest of Tenochtitlan, Cortés, Moctezuma II, Malinal, and metaphysical warfare.
+9. **[[magicians-of-the-gods]]** (2015, 444 pp.)
+   - Author: Graham Hancock
+   - Subject: The Younger Dryas comet impact hypothesis, Göbekli Tepe (Pillar 43 date stamp), and Gunung Padang.
+10. **[[america-before-the-key-to-earths-lost-civilization]]** (2019, 668 pp.)
+    - Author: Graham Hancock
+    - Subject: Pre-Clovis antiquity (Cerutti Mastodon 130,000 BP), Amazonian *terra preta* and geoglyphs, Australasian DNA in Brazil, and Serpent Mound archaeoastronomy.
+11. **[[lost-knowledge-of-the-ancients]]** (2010, 178 pp.)
+    - Editor: Glenn Kreisberg (with essays by Hancock, Bauval, Schoch, West, Malkowski)
+    - Subject: Ancient technology, quantum philosophy, acoustic engineering, and critique of orthodox archaeology.
+
+### 3. Wiki Network Growth & Verification
+- **Total Ingested Works**: 14 (from 3)
+- **Total Author Profiles**: 34 (from 26)
+- **Total Genres**: 20 (from 10)
+- **Total Core Themes**: 28 (from 14)
+- **Total Indexed Pages**: 104 pages
+- **Link Integrity**: 100% verified (0 broken links, 0 orphan pages)
