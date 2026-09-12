@@ -44,7 +44,7 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ### Dashboard Features
 - **Collapsible Sidebar & Mobile Drawer**: Collapsible left banner via header toggle button (`☰`) or hotkey (`Ctrl+B`). On mobile screens, automatically collapses into an overlay slide-out drawer with backdrop blur, auto-closing upon book selection for seamless phone and tablet reading.
-- **Sidebar (Titles Newest on Top)**: Displays 14 books in descending chronological order (from `2024` *Cumhuriyet Dönemi Arkeoloji Politikaları* down to `1984` *The Evolution of Cooperation*), with year badges, authors, and genre chips.
+- **Sidebar (Sortable: Newest First & Newest Added)**: Toggle between **Newest First** (publication year, 2024 down to 1984) and **Newest Added** (ingestion chronological order, newest batches on top), with reversible ascending/descending directions, matching book counter badge, and persistent preferences in `localStorage`.
 - **Header Filters**: Live multi-criteria dropdown filtering for **Genres** (20 categories) and **Themes** (28 categories).
 - **Universal Search Bar**: Real-time fuzzy search across titles, authors, executive summaries, chapter notes, and quotes. *(Press `/` anywhere to focus)*.
 - **Main Pane (Selected Book View)**: Complete structured book view with hero metadata, executive summaries, chapter breakdowns, quote cards with exact page citations, and thematic connections.

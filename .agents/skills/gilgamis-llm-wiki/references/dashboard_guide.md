@@ -22,18 +22,24 @@ The **Gilgamis LLM Wiki Dashboard** (`index.html`) is a standalone, browser-base
 - **Theme Filter Dropdown**: Dynamically populated with all core themes from `wiki/themes/`. Filters sidebar listings on change.
 - **Dark/Light Theme Toggle**: Instant transition between dark mode and light mode.
 
-### 2. Sidebar & Mobile Drawer (Newest on Top)
+### 2. Sidebar & Mobile Drawer (Sortable: Newest First & Newest Added)
+- **Dual Sorting Modes**:
+  - **Newest First** (Default): Sorts books chronologically by publication year (`2024` down to `1984`). Clicking the active button toggles between *Newest First* (↓) and *Oldest First* (↑).
+  - **Newest Added**: Sorts books by their ingestion date and chronological addition order to the wiki, keeping newly ingested batches on top. Clicking toggles between *Newest Added* (↓) and *Oldest Added* (↑).
+  - When *Newest Added* is active, each book card displays a green `Added YYYY-MM-DD` timestamp chip.
+  - Sorting preferences (mode and direction) persist across sessions in `localStorage`.
+- **Title Counter Badge**: Dynamically displays the number of matching books based on active search and dropdown filters.
 - **Mobile-Responsive Architecture**:
   - On mobile/tablets (`<=900px`), the sidebar collapses by default and acts as an overlay slide-out drawer with a blurred backdrop (`#sidebarBackdrop`).
   - Tapping outside the drawer, clicking the close button (`×`), or pressing `ESC` smoothly closes the sidebar.
   - Selecting any book on mobile automatically closes the drawer and displays the full book details.
-- **Book List**: Sorted descending by publication year and ingestion freshness.
-- Each book card displays:
-  - Publication year badge (gold monospace).
-  - Full title.
-  - Formatted author list.
-  - Genre chips.
-- Active card highlighting and automatic selection synchronization.
+- **Book List**:
+  - Each book card displays:
+    - Publication year badge (gold monospace) and optional added date chip.
+    - Full title.
+    - Formatted author list.
+    - Genre chips.
+  - Active card highlighting and automatic selection synchronization.
 
 ### 3. Main Pane (Selected Book View)
 - **Hero Metadata Card**: Title, publication year badge, source file path, last updated timestamp, clickable author links, and genre/theme filter pills.

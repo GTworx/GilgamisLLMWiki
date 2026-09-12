@@ -16,7 +16,7 @@ This skill provides an interactive web-based dashboard (`index.html`) and manage
 
 1. **Visual Interactive Dashboard (`index.html`)**:
    * **Collapsible Sidebar & Mobile Drawer**: Collapsible left banner with header toggle button (`☰`), `Ctrl+B` hotkey, and automatic mobile overlay drawer with blurred backdrop.
-   * **Sidebar**: Displays all ingested book titles with the newest publications on top, showing publication year, authors, and genre badges.
+   * **Sidebar with Dual Sort Modes**: Sort books dynamically by **Newest First** (publication year) or **Newest Added** (wiki ingestion date/batch), with reversible sort directions and match counter.
    * **Header Filters**: Live multi-criteria filtering by **Genres** and **Themes**.
    * **Universal Search**: Real-time fuzzy search across book titles, authors, executive summaries, chapter breakdowns, and quotes. Hotkey: `/`.
    * **Main Pane**: Full detailed view of the currently selected book (Executive Summary, Chapter Breakdown, Citations, Quotes, Thematic Connections).

@@ -12,9 +12,35 @@ def get_base_dir():
         return os.path.abspath('.')
     return base
 
+def parse_log_added_info(wiki_dir):
+    log_file = os.path.join(wiki_dir, 'log.md')
+    if not os.path.exists(log_file):
+        return {}
+    with open(log_file, 'r', encoding='utf-8') as f:
+        log_txt = f.read()
+    sections = re.split(r'\n(?=##\s*\[)', log_txt)
+    added_info = {}
+    order = 1
+    for sec in sections:
+        date_m = re.search(r'##\s*\[(\d{4}-\d{2}-\d{2})', sec)
+        date_str = date_m.group(1) if date_m else '2026-09-12'
+        matches = re.findall(r'(?:wiki/books/([a-zA-Z0-9_\-]+)\.md|\[\[([a-zA-Z0-9_\-]+)\]\])', sec)
+        for m in matches:
+            slug = m[0] or m[1]
+            book_path = os.path.join(wiki_dir, 'books', f'{slug}.md')
+            if os.path.exists(book_path):
+                if slug not in added_info:
+                    added_info[slug] = {
+                        "order": order,
+                        "date": date_str
+                    }
+                    order += 1
+    return added_info
+
 def parse_markdown_files():
     base_dir = get_base_dir()
     wiki_dir = os.path.join(base_dir, 'wiki')
+    added_info = parse_log_added_info(wiki_dir)
     
     books = []
     authors = {}
@@ -149,10 +175,14 @@ def parse_markdown_files():
         related_m = re.search(r'## Related pages\s*\n(.*)', txt, re.DOTALL)
         related_raw = related_m.group(1).strip() if related_m else ""
         
+        book_added = added_info.get(slug, {"order": len(books) + 1, "date": last_updated or "2026-09-12"})
+        
         books.append({
             "slug": slug,
             "title": title,
             "year": year,
+            "added_order": book_added["order"],
+            "added_date": book_added["date"],
             "authors_str": authors_str,
             "author_slugs": book_author_slugs,
             "genres_str": genres_str,

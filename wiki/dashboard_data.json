@@ -6,6 +6,8 @@
       "slug": "cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal",
       "title": "Cumhuriyet Dönemi Arkeoloji Politikaları ve Bir Cumhuriyet Aydını Ekrem Akurgal",
       "year": 2024,
+      "added_order": 4,
+      "added_date": "2026-09-12",
       "authors_str": "[[erdal-polat]]",
       "author_slugs": [
         "erdal-polat"
@@ -34,6 +36,8 @@
       "slug": "deterrence-in-the-21st-century",
       "title": "Deterrence in the 21st Century — Insights from Theory and Practice",
       "year": 2021,
+      "added_order": 2,
+      "added_date": "2026-08-23",
       "authors_str": "[[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]",
       "author_slugs": [
         "frans-osinga",
@@ -90,6 +94,8 @@
       "slug": "asik-borani-soz-insanin-aynasi",
       "title": "Söz İnsanın Aynasıdır (Cilt I & II)",
       "year": 2020,
+      "added_order": 3,
+      "added_date": "2026-09-12",
       "authors_str": "[[asik-borani]], [[ibrahim-gosterir]] (ed.)",
       "author_slugs": [
         "asik-borani",
@@ -122,6 +128,8 @@
       "slug": "america-before-the-key-to-earths-lost-civilization",
       "title": "America Before: The Key to Earth's Lost Civilization",
       "year": 2019,
+      "added_order": 13,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]]",
       "author_slugs": [
         "graham-hancock"
@@ -152,6 +160,8 @@
       "slug": "magicians-of-the-gods",
       "title": "Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilization",
       "year": 2015,
+      "added_order": 12,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]]",
       "author_slugs": [
         "graham-hancock"
@@ -182,6 +192,8 @@
       "slug": "war-god-nights-of-the-witch",
       "title": "War God: Nights of the Witch",
       "year": 2013,
+      "added_order": 11,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]]",
       "author_slugs": [
         "graham-hancock"
@@ -211,6 +223,8 @@
       "slug": "the-master-game",
       "title": "The Master Game: Unmasking the Secret Rulers of the World",
       "year": 2011,
+      "added_order": 10,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]], [[robert-bauval]]",
       "author_slugs": [
         "graham-hancock",
@@ -241,6 +255,8 @@
       "slug": "lost-knowledge-of-the-ancients",
       "title": "Lost Knowledge of the Ancients: A Graham Hancock Reader",
       "year": 2010,
+      "added_order": 14,
+      "added_date": "2026-09-12",
       "authors_str": "",
       "author_slugs": [],
       "genres_str": "[[alternative-archaeology]], [[esoteric-history]], [[archaeoastronomy]]",
@@ -269,6 +285,8 @@
       "slug": "supernatural-meetings-with-the-ancient-teachers-of-mankind",
       "title": "Supernatural: Meetings with the Ancient Teachers of Mankind",
       "year": 2005,
+      "added_order": 9,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]]",
       "author_slugs": [
         "graham-hancock"
@@ -298,6 +316,8 @@
       "slug": "underworld-mysterious-origins-of-civilization",
       "title": "Underworld: The Mysterious Origins of Civilization",
       "year": 2002,
+      "added_order": 8,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]]",
       "author_slugs": [
         "graham-hancock"
@@ -327,6 +347,8 @@
       "slug": "the-mars-mystery",
       "title": "The Mars Mystery: The Secret Connection Between Earth and the Red Planet",
       "year": 1998,
+      "added_order": 7,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]], [[robert-bauval]], [[john-grigsby]]",
       "author_slugs": [
         "graham-hancock",
@@ -358,6 +380,8 @@
       "slug": "keeper-of-genesis",
       "title": "Keeper of Genesis: A Quest for the Hidden Legacy of Mankind",
       "year": 1996,
+      "added_order": 6,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]], [[robert-bauval]]",
       "author_slugs": [
         "graham-hancock",
@@ -389,6 +413,8 @@
       "slug": "fingerprints-of-the-gods",
       "title": "Fingerprints of the Gods: The Evidence of Earth's Lost Civilization",
       "year": 1995,
+      "added_order": 5,
+      "added_date": "2026-09-12",
       "authors_str": "[[graham-hancock]]",
       "author_slugs": [
         "graham-hancock"
@@ -419,6 +445,8 @@
       "slug": "the-evolution-of-cooperation",
       "title": "The Evolution of Cooperation",
       "year": 1984,
+      "added_order": 1,
+      "added_date": "2026-08-23",
       "authors_str": "[[robert-axelrod]], [[william-d-hamilton]]",
       "author_slugs": [
         "robert-axelrod",
