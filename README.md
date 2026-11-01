@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki
 
-A structured, interlinked personal knowledge base for cataloging, analyzing, and synthesizing a personal library of books, strategic literature, democracy studies, evolutionary biology, and archaeology, maintained by LLM agents (including local Ollama `qwen3.8:latest`) based on Andrej Karpathy's LLM Wiki pattern.
+A structured, interlinked personal knowledge base for cataloging, analyzing, and synthesizing a personal library of books, strategic literature, democracy studies, evolutionary biology, neuroscience, innovation, cybersecurity, blockchain, law, energy economics, education, ethics, and archaeology, maintained by LLM agents (including local Ollama `qwen3.8:latest`) based on Andrej Karpathy's LLM Wiki pattern.
 
 ---
 
@@ -81,50 +81,52 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 29 distinct intellectual works (across 33 volumes and ~11,200 pages)
-- **Total Maintained Wiki Pages**: 170 interlinked markdown documents (168 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 29 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 64 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 34 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 41 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 60 distinct intellectual works (across 67 source files/volumes and ~21,500 pages)
+- **Total Maintained Wiki Pages**: 286 interlinked markdown documents (284 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 60 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 123 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 49 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 52 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
-## 📚 Complete Ingested Library Catalog
+## 📚 Complete Ingested Library Catalog (60 Works)
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |
-| **2026** | [[influencing-leaders]] | [[james-e-lukaszewski]], [[helio-fred-garcia]] | [[strategic-communication]], [[leadership-and-management]], [[strategic-studies]] | [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
-| **2026** | [[the-adaptability-advantage]] | [[john-sanei]] | [[leadership-and-management]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]], [[evolution-of-human-consciousness]] |
-| **2026** | [[rapid-reculturing]] | [[alex-bailey]], [[kerri-oneill]] | [[organizational-psychology]], [[leadership-and-management]] | [[organizational-culture-and-rewilding]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]] |
-| **2026** | [[leading-for-tomorrow]] | [[scott-barry-kaufman]], [[chris-shipley]] (eds.), [[rita-mcgrath]] | [[leadership-and-management]], [[organizational-psychology]], [[strategic-studies]] | [[human-centered-ai-and-augmented-leadership]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]] |
-| **2026** | [[valuable-and-visible]] | [[vanessa-errecarte]] | [[strategic-communication]], [[leadership-and-management]] | [[service-first-branding-and-authentic-visibility]], [[trusted-strategic-advisors-and-influence]], [[cooperation-and-reciprocity]] |
-| **2026** | [[the-non-orientable-topology-of-condorcets-paradox]] | [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]] | [[social-choice-theory]], [[algebraic-topology]], [[game-theory]], [[political-science]] | [[topological-social-choice-and-preference-cycles]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
-| **2024** | [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] | [[erdal-polat]] | [[archaeological-historiography]], [[anatolian-civilizations]] | [[archaeology-and-national-identity]], [[critique-of-academic-orthodoxy]] |
-| **2022** | [[chip-war-the-fight-for-the-worlds-most-critical-technology]] | [[chris-miller]], [[morris-chang]] | [[strategic-studies]], [[security-studies]], [[international-relations]], [[military-science]] | [[semiconductor-geopolitics-and-chokepoints]], [[deterrence-and-coercion]], [[cross-domain-conflict]] |
-| **2021** | [[deterrence-in-the-21st-century]] | [[frans-osinga]], [[tim-sweijs]] (eds.) | [[strategic-studies]], [[military-science]], [[game-theory]] | [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]] |
-| **2020** | [[asik-borani-soz-insanin-aynasi]] | [[asik-borani]], [[ibrahim-gosterir]] (ed.) | [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]] | [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]] |
-| **2019** | [[america-before-the-key-to-earths-lost-civilization]] | [[graham-hancock]] | [[alternative-archaeology]], [[pre-columbian-history]], [[archaeoastronomy]] | [[pre-clovis-and-american-antiquity]], [[lost-civilization-hypothesis]], [[younger-dryas-impact-hypothesis]] |
-| **2017** | [[developing-the-super-soldier-enhancing-military-performance]] | [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]] (eds.) | [[military-science]], [[strategic-studies]], [[security-studies]], [[organizational-psychology]] | [[human-performance-enhancement-and-neuro-warfare]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]] |
-| **2016** | [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]] | [[anindya-sarkar]], [[vasant-shinde]] | [[paleoclimatology]], [[archaeological-historiography]], [[alternative-archaeology]] | [[catastrophism-and-earth-history]], [[adaptive-intelligence-and-organizational-resilience]], [[pre-athenian-and-indigenous-democracies]] |
-| **2015** | [[magicians-of-the-gods]] | [[graham-hancock]] | [[alternative-archaeology]], [[catastrophism]], [[archaeoastronomy]] | [[younger-dryas-impact-hypothesis]], [[lost-civilization-hypothesis]], [[catastrophism-and-earth-history]] |
-| **2013** | [[war-god-nights-of-the-witch]] | [[graham-hancock]] | [[historical-fiction]], [[speculative-fiction]], [[epic-narrative]] | [[altered-states-and-origin-of-art]], [[clash-of-civilizations]], [[fanaticism-and-human-sacrifice]] |
-| **2011** | [[the-master-game]] | [[graham-hancock]], [[robert-bauval]] | [[esoteric-history]], [[occult-studies]], [[hermeticism]] | [[hermetic-tradition-and-secret-societies]], [[orion-correlation-and-sacred-astronomy]] |
-| **2011** | [[the-secret-history-of-democracy-primitive-democracy]] | [[benjamin-isakhan]], [[stephen-stockwell]] (eds.), [[thorkild-jacobsen]] | [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]] | [[pre-athenian-and-indigenous-democracies]], [[critique-of-academic-orthodoxy]], [[cooperation-and-reciprocity]] |
-| **2010** | [[lost-knowledge-of-the-ancients]] | [[glenn-kreisberg]] (ed.) | [[alternative-archaeology]], [[esoteric-history]], [[archaeoastronomy]] | [[critique-of-academic-orthodoxy]], [[lost-civilization-hypothesis]], [[submerged-ruins-and-sea-level-rise]] |
-| **2009** | [[the-life-and-death-of-democracy-and-monitory-democracy]] | [[john-keane]] | [[comparative-democratic-history]], [[political-science]], [[social-choice-theory]] | [[monitory-democracy-and-power-scrutiny]], [[pre-athenian-and-indigenous-democracies]], [[tyranny-of-the-majority-and-civil-associations]] |
-| **2006** | [[the-selfish-gene]] | [[richard-dawkins]] | [[evolutionary-biology]], [[game-theory]], [[anthropology-of-consciousness]] | [[gene-centric-evolution-and-memetics]], [[cooperation-and-reciprocity]], [[tit-for-tat]] |
-| **2005** | [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] | [[graham-hancock]] | [[anthropology-of-consciousness]], [[alternative-archaeology]], [[shamanism]] | [[altered-states-and-origin-of-art]], [[lost-civilization-hypothesis]], [[critique-of-academic-orthodoxy]] |
-| **2002** | [[underworld-mysterious-origins-of-civilization]] | [[graham-hancock]] | [[alternative-archaeology]], [[paleoclimatology]], [[investigative-non-fiction]] | [[submerged-ruins-and-sea-level-rise]], [[catastrophism-and-earth-history]], [[lost-civilization-hypothesis]] |
-| **1998** | [[the-mars-mystery]] | [[graham-hancock]], [[robert-bauval]], [[john-grigsby]] | [[planetary-science-speculation]], [[alternative-archaeology]], [[catastrophism]] | [[planetary-cataclysm-and-cosmic-impacts]], [[catastrophism-and-earth-history]], [[lost-civilization-hypothesis]] |
-| **1997** | [[the-first-democracies-early-popular-government-outside-athens]] | [[eric-w-robinson]], [[richard-j-evans]] | [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]] | [[pre-athenian-and-indigenous-democracies]], [[critique-of-academic-orthodoxy]] |
-| **1996** | [[keeper-of-genesis]] | [[graham-hancock]], [[robert-bauval]] | [[archaeoastronomy]], [[alternative-archaeology]], [[esoteric-history]] | [[orion-correlation-and-sacred-astronomy]], [[lost-civilization-hypothesis]], [[critique-of-academic-orthodoxy]] |
-| **1995** | [[fingerprints-of-the-gods]] | [[graham-hancock]] | [[alternative-archaeology]], [[archaeoastronomy]], [[investigative-non-fiction]] | [[lost-civilization-hypothesis]], [[catastrophism-and-earth-history]], [[orion-correlation-and-sacred-astronomy]] |
-| **1984** | [[the-evolution-of-cooperation]] | [[robert-axelrod]], [[william-d-hamilton]] | [[game-theory]], [[political-science]], [[evolutionary-biology]] | [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[tit-for-tat]] |
-| **1967** | [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] | [[harry-kalven-jr]] | [[political-science]], [[republican-intellectual-history]], [[comparative-democratic-history]] | [[institutional-neutrality-and-academic-freedom]], [[critique-of-academic-orthodoxy]], [[tyranny-of-the-majority-and-civil-associations]] |
-| **1840** | [[democracy-in-america]] | [[alexis-de-tocqueville]] | [[political-science]], [[comparative-democratic-history]], [[republican-intellectual-history]], [[social-choice-theory]] | [[tyranny-of-the-majority-and-civil-associations]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
+| **2026** | [[advanced-network-forensics-a-cyber-behavioral-science-approach]] | [[marshall-s-rich]] | [[cybersecurity-and-digital-forensics]], [[organizational-psychology]], [[security-studies]] | [[hybrid-threats-and-cyber-warfare]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] |
+| **2025** | [[blockchain-crypto-and-defi-bridging-finance-and-technology]] | [[marco-di-maggio]] | [[blockchain-and-decentralized-finance]], [[game-theory]], [[strategic-studies]] | [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[human-centered-ai-and-augmented-leadership]] |
+| **2023** | [[doppelganger-israel-palestine-and-the-doppelganger-effect]] | [[naomi-klein]] | [[postcolonial-and-diaspora-studies]], [[political-science]], [[investigative-non-fiction]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[clash-of-civilizations]] |
+| **2023** | [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] | [[oliver-schmidt]], [[iain-staffell]] | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[strategic-studies]] | [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[general-purpose-technologies-and-learning-by-doing]] |
+| **2022** | [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] | [[berat-albayrak]] | [[energy-policy-and-clean-tech-economics]], [[political-science]], [[strategic-studies]] | [[energy-transition-and-storage-economics]], [[semiconductor-geopolitics-and-chokepoints]], [[archaeology-and-national-identity]] |
+| **2022** | [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] | [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]] | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[public-policy-and-urban-mobility]] | [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
+| **2021** | [[the-challenger-sale-challenge-yourself-action-book]] | [[matthew-dixon]], [[brent-adamson]] | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[leadership-and-management]] | [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]] |
+| **2020** | [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] | [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]] | [[anatolian-civilizations]], [[republican-intellectual-history]], [[archaeological-historiography]] | [[archaeology-and-national-identity]], [[universal-love-and-human-dignity]] |
+| **2019** | [[educational-technology-a-primer-for-the-21st-century]] | [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]] | [[educational-technology-and-disruptive-pedagogy]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[student-centric-and-blended-learning]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] |
+| **2019** | [[entertainment-science-data-analytics-and-practical-theory]] | [[thorsten-hennig-thurau]], [[mark-b-houston]] | [[media-economics-and-entertainment-science]], [[strategic-communication]], [[leadership-and-management]] | [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]], [[service-first-branding-and-authentic-visibility]] |
+| **2019** | [[getting-started-with-enterprise-blockchain]] | [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]] | [[blockchain-and-decentralized-finance]], [[strategic-studies]], [[leadership-and-management]] | [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[semiconductor-geopolitics-and-chokepoints]] |
+| **2019** | [[media-and-digital-management]] | [[eli-m-noam]] | [[media-economics-and-entertainment-science]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]], [[general-purpose-technologies-and-learning-by-doing]] |
+| **2017** | [[ethics-in-higher-education-values-driven-leaders-for-the-future]] | [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]] | [[ethics-and-value-philosophy]], [[educational-technology-and-disruptive-pedagogy]], [[leadership-and-management]] | [[metaphysics-of-quality-and-global-ethics]], [[institutional-neutrality-and-academic-freedom]], [[student-centric-and-blended-learning]] |
+| **2017** | [[introduction-to-law]] | [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]] | [[law-and-quantitative-criminology]], [[political-science]], [[republican-intellectual-history]] | [[rule-of-law-and-experimental-justice]], [[tyranny-of-the-majority-and-civil-associations]], [[rationality-and-decision-making]] |
+| **2016** | [[global-ethics-for-leadership-values-and-virtues-for-life]] | [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]] | [[ethics-and-value-philosophy]], [[leadership-and-management]], [[international-relations]] | [[metaphysics-of-quality-and-global-ethics]], [[universal-love-and-human-dignity]], [[cooperation-and-reciprocity]] |
+| **2016** | [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] | [[eric-r-kandel]] | [[neuroscience-and-philosophy-of-mind]], [[anthropology-of-consciousness]], [[poetry-and-poetics]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[altered-states-and-origin-of-art]], [[evolution-of-human-consciousness]] |
+| **2015** | [[blended-using-disruptive-innovation-to-improve-schools]] | [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]] | [[educational-technology-and-disruptive-pedagogy]], [[leadership-and-management]], [[organizational-psychology]] | [[student-centric-and-blended-learning]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]] |
+| **2015** | [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] | [[james-bessen]] | [[innovation-and-economic-growth]], [[political-science]], [[leadership-and-management]] | [[general-purpose-technologies-and-learning-by-doing]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] |
+| **2012** | [[computer-security-incident-handling-guide-nist-sp-800-61r2]] | [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]] | [[cybersecurity-and-digital-forensics]], [[security-studies]], [[strategic-studies]] | [[hybrid-threats-and-cyber-warfare]], [[adaptive-intelligence-and-organizational-resilience]], [[rationality-and-decision-making]] |
+| **2010** | [[handbook-of-quantitative-criminology]] | [[alex-r-piquero]], [[david-weisburd]] | [[law-and-quantitative-criminology]], [[social-choice-theory]], [[political-science]] | [[rule-of-law-and-experimental-justice]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
+| **2008** | [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] | [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]] | [[educational-technology-and-disruptive-pedagogy]], [[innovation-and-economic-growth]], [[organizational-psychology]] | [[student-centric-and-blended-learning]], [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]] |
+| **2007** | [[a-conflict-of-visions-ideological-origins-of-political-struggles]] | [[thomas-sowell]] | [[political-science]], [[social-choice-theory]], [[republican-intellectual-history]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[rationality-and-decision-making]], [[tyranny-of-the-majority-and-civil-associations]] |
+| **2007** | [[mongrel-nation-colonization-in-reverse]] | [[ashley-dawson]], [[louise-bennett]] | [[postcolonial-and-diaspora-studies]], [[political-science]], [[poetry-and-poetics]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[tyranny-of-the-majority-and-civil-associations]] |
+| **2006** | [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] | [[frans-johansson]] | [[innovation-and-economic-growth]], [[leadership-and-management]], [[organizational-psychology]] | [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]], [[cooperation-and-reciprocity]] |
+| **2005** | [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] | [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]] | [[innovation-and-economic-growth]], [[political-science]], [[archaeological-historiography]] | [[general-purpose-technologies-and-learning-by-doing]], [[rationality-and-decision-making]], [[evolution-of-strategies]] |
+| **2001** | [[the-end-of-modernism-elias-canettis-auto-da-fe]] | [[william-collins-donahue]], [[elias-canetti]] | [[literary-criticism-and-modernism]], [[philosophical-fiction]], [[republican-intellectual-history]] | [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]], [[fanaticism-and-human-sacrifice]] |
+| **1992** | [[discovering-the-brain]] | [[sandra-ackerman]] | [[neuroscience-and-philosophy-of-mind]], [[evolutionary-biology]], [[organizational-psychology]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[human-performance-enhancement-and-neuro-warfare]], [[adaptive-intelligence-and-organizational-resilience]] |
+| **1989** | [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] | [[roger-penrose]] | [[neuroscience-and-philosophy-of-mind]], [[algebraic-topology]], [[anthropology-of-consciousness]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] |
+| **1988** | [[spin-selling]] | [[neil-rackham]] | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[organizational-psychology]] | [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]] |
+| **1985** | [[noise-the-political-economy-of-music]] | [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]] | [[philosophy-and-poetics-of-music]], [[political-science]], [[social-choice-theory]] | [[music-as-prophecy-and-political-economy]], [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]] |
+| **1974** | [[zen-and-the-art-of-motorcycle-maintenance]] | [[robert-m-pirsig]] | [[ethics-and-value-philosophy]], [[philosophical-fiction]], [[anthropology-of-consciousness]] | [[metaphysics-of-quality-and-global-ethics]], [[rationality-and-decision-making]], [[critique-of-academic-orthodoxy]] |
 
 ---
 
@@ -139,19 +141,33 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Military_/                           # Ingested: Developing the Super Soldier (2017, 132 pp.)
 │   ├── BOOKS/Biology Evolution/                   # Ingested: The Selfish Gene (Dawkins, 2006, 385 pp.)
 │   ├── BOOKS/Semiconductors/                      # Ingested: Chip War (Chris Miller, 2022, 473 pp.)
+│   ├── BOOKS/Türkiye_/                            # Ingested: Görmediğimiz Türkiye: 123 Yıllık National Geographic Arşivi
+│   ├── BOOKS/Music/                               # Ingested: Noise: The Political Economy of Music (Attali, 1985)
+│   ├── BOOKS/Fiction/                             # Ingested: The End of Modernism: Elias Canetti's Auto-da-Fé (Donahue, 2001)
+│   ├── BOOKS/Blockchain_/                         # Ingested: 2 works (Blockchain, Crypto & DeFi; Enterprise Blockchain)
+│   ├── BOOKS/Cybersecurity/                       # Ingested: 2 works (NIST SP 800-61r2; Advanced Network Forensics)
+│   ├── BOOKS/Energy/                              # Ingested: 3 works across 6 files (Burası Çok Önemli; Monetizing Energy Storage; EVs & Shared Micromobility)
+│   ├── BOOKS/Entertainment Media/                 # Ingested: 2 works (Entertainment Science; Media and Digital Management)
+│   ├── BOOKS/Law/                                 # Ingested: 2 works (Handbook of Quantitative Criminology; Introduction to Law)
+│   ├── BOOKS/Sales/                               # Ingested: 2 works (SPIN Selling; The Challenger Sale Action Book)
+│   ├── BOOKS/Education_/                          # Ingested: 3 works (Disrupting Class; Blended; Educational Technology)
+│   ├── BOOKS/Ethics/                              # Ingested: 3 works (Zen and the Art of Motorcycle Maintenance; Global Ethics; Ethics in Higher Education)
+│   ├── BOOKS/Innovation_/                         # Ingested: 3 works (Economic Transformations GPTs; Learning by Doing; The Medici Effect)
+│   ├── BOOKS/Neuroscience_/                       # Ingested: 3 works (The Emperor's New Mind; Discovering the Brain; Reductionism in Art and Brain Science)
+│   ├── BOOKS/Society_/                            # Ingested: 3 works across 4 files (A Conflict of Visions; Doppelganger Effect; Mongrel Nation)
 │   ├── ARTICLES-REPORTS/Democracy/                # Ingested: All 10 files (7 distinct works: Tocqueville, Jacobsen/Isakhan/Stockwell, Kalven, Robinson/Evans, Keane, Sarkar/Shinde, Livson/Pritam/Prokopenko)
-│   └── BOOKS/AI/, History_/, Philosophy..., ...   # 40+ domain libraries (immutable, git-ignored)
+│   └── BOOKS/AI/, History_/, Philosophy..., ...   # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (170 markdown pages)
+├── wiki/                                          # Maintained knowledge base (286 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (29 pages)
-│   ├── authors/                                   # Author profile pages (64 pages)
-│   ├── genres/                                    # Genre index pages (34 pages)
-│   └── themes/                                    # Core thematic concept pages (41 pages)
+│   ├── books/                                     # Ingested book detail pages (60 pages)
+│   ├── authors/                                   # Author profile pages (123 pages)
+│   ├── genres/                                    # Genre index pages (49 pages)
+│   └── themes/                                    # Core thematic concept pages (52 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

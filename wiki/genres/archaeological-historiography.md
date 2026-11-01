@@ -11,6 +11,8 @@ Archaeological historiography investigates how archaeological research is commis
 
 ## Featured Works
 
+- [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] (2005) — [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]]
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]
 - [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] — Analysis of state archaeological policies, Türk Tarih Kurumu, and Ekrem Akurgal's scholarship.
 - [[lost-knowledge-of-the-ancients]] — Historiographical critiques of paradigm lock-in and gatekeeping in institutional archaeology.
 

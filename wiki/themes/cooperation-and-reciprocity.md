@@ -32,6 +32,12 @@ Contemporary leadership and mathematical social choice further expand the wiki's
 
 ## Featured Works
 
+- [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
+- [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
+- [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
+- [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
+- [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
+- [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[the-evolution-of-cooperation]] — Foundational study proving how TIT FOR TAT reciprocity drives the emergence and evolutionary stability of cooperation under anarchy.
 - [[deterrence-in-the-21st-century]] — Demonstrates how reciprocity and assurance mechanisms maintain crisis stability in conventional, nuclear, and cross-domain deterrence relationships.
 - [[asik-borani-soz-insanin-aynasi]] — Explores the moral and humanist roots of social solidarity, altruism, and communal cooperation.

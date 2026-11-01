@@ -16,6 +16,15 @@ In the wiki, political science provides the analytical framework for institution
 
 ## Books in Wiki
 
+- [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
+- [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
+- [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]
+- [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] (2005) — [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]]
+- [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]
+- [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
+- [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]]
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.)

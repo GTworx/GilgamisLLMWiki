@@ -11,6 +11,7 @@ Across diverse cultures and eras, ideological fanaticism has justified extreme d
 
 ## Featured Works
 
+- [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
 - [[war-god-nights-of-the-witch]] — Tragic depiction of Aztec heart sacrifice and Spanish inquisitorial slaughter.
 - [[asik-borani-soz-insanin-aynasi]] — The Anatolian humanist rejection of religious fanaticism and celebration of universal human dignity.
 

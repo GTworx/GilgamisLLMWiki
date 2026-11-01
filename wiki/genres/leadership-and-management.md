@@ -19,6 +19,15 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
+- [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]
+- [[ethics-in-higher-education-values-driven-leaders-for-the-future]] (2017) — [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]]
+- [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
+- [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]
+- [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
+- [[media-and-digital-management]] (2019) — [[eli-m-noam]]
+- [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
+- [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]]
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]]
 - [[rapid-reculturing]] (2026) — [[alex-bailey]] & [[kerri-oneill]]

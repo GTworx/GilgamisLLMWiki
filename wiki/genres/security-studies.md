@@ -14,6 +14,8 @@ Security Studies analyzes threats to the survival and stability of states, socie
 
 ## Books in Wiki
 
+- [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
 - [[the-evolution-of-cooperation]] (1984) — Robert Axelrod
 

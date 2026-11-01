@@ -16,6 +16,7 @@ As modern conflict accelerates through algorithmic command-and-control, precisio
 ---
 
 ## Featured Works
+- [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[developing-the-super-soldier-enhancing-military-performance]] (2017) — [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]] (eds.)
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]], [[tim-sweijs]] (eds.)
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]]

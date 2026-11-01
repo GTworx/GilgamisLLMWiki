@@ -18,6 +18,7 @@ This topological perspective reveals that logical paradoxes of self-reference an
 ---
 
 ## Books in Wiki
+- [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], & [[mikhail-prokopenko]]
 
 ---

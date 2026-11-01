@@ -31,6 +31,7 @@ In corporate and institutional leadership, strategic evolution requires actively
 
 ## Featured Works
 
+- [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] (2005) — [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]]
 - [[the-evolution-of-cooperation]] — Foundational ecological modeling of strategy evolution, invasion mechanics, and collective stability proofs.
 - [[deterrence-in-the-21st-century]] — Comprehensive historical mapping of the evolution of deterrence strategy from 1945 to the algorithmic 21st century.
 - [[the-adaptability-advantage]] — Maps the strategic evolution from industrial predictability to neuroplastic Adaptive Intelligence (AQ).

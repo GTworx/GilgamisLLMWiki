@@ -11,6 +11,8 @@ Archaeology is rarely a detached academic pursuit; it frequently operates as an 
 
 ## Featured Works
 
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]
 - [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] — Comprehensive analysis of Atatürk's archaeological directives and Ekrem Akurgal's founding role.
 - [[asik-borani-soz-insanin-aynasi]] — The parallel folk-poetic continuity of Anatolian humanist values and civic pride.
 

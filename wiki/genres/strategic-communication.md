@@ -16,6 +16,9 @@ Together, these works establish that effective strategic communication is never 
 ---
 
 ## Books in Wiki
+- [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
+- [[spin-selling]] (1988) — [[neil-rackham]]
+- [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]]
 - [[valuable-and-visible]] (2026) — [[vanessa-errecarte]]
 

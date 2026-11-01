@@ -18,6 +18,8 @@ Synthesizing internal boardroom counseling ([[influencing-leaders]]), external a
 ---
 
 ## Featured Works
+- [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
+- [[spin-selling]] (1988) — [[neil-rackham]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Defines the 14-chapter operating doctrine for becoming a trusted strategic advisor, including the "Language of Done," the "Single-Page Rule," and navigating the "No-Friendship Zone")
 - [[valuable-and-visible]] (2026) — [[vanessa-errecarte]] (Provides the EPIC Method and ABCs of Framework Creation that establish external credibility and advisory positioning)
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.) (Examines strategic signaling, crisis decision-making, and advising political-military command under uncertainty)

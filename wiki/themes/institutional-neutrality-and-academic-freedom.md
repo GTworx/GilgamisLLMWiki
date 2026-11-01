@@ -11,6 +11,7 @@ This theme connects the Kalven Report to the broader wiki discourse on organizat
 ---
 
 ## Featured Works
+- [[ethics-in-higher-education-values-driven-leaders-for-the-future]] (2017) — [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 
 ---

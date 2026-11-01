@@ -19,6 +19,7 @@ This rewilding framework converges directly with [[amy-c-edmondson]]'s work on *
 ---
 
 ## Featured Works
+- [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]
 - [[rapid-reculturing]] (2026) — [[alex-bailey]] & [[kerri-oneill]] (Introduces Organizational Rewilding, the Four Pillars [Human, Connect, Simplicity, Empowerment], the HUMAN Model, and the 5-5-5 Coaching Conversation)
 - [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.) (Explores psychological safety, failing well, generational workplace dynamics, and humanistic organizational culture)
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]] (Examines how collective emotional debt stifles organizational culture and how curiosity restores institutional flow)

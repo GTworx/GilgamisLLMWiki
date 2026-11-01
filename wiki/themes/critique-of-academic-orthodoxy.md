@@ -11,6 +11,9 @@ Across alternative archaeology, revisionist history, and scientific philosophy, 
 
 ## Featured Works
 
+- [[zen-and-the-art-of-motorcycle-maintenance]] (1974) — [[robert-m-pirsig]]
+- [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
+- [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[fingerprints-of-the-gods]] — Challenges to standard evolutionary models of bronze-age civilization emergence.
 - [[keeper-of-genesis]] — Critique of orthodox Egyptological gatekeeping regarding the Sphinx and subterranean chambers.

@@ -16,6 +16,7 @@ In the wiki, IR provides the macro-political context for both Axelrod's institut
 
 ## Books in Wiki
 
+- [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
 - [[the-evolution-of-cooperation]] (1984) — Robert Axelrod
 - [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
 

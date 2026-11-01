@@ -15,6 +15,8 @@ As synthesized in [[chris-miller]]'s [[chip-war-the-fight-for-the-worlds-most-cr
 ---
 
 ## Featured Works
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
+- [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
 - [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]], [[morris-chang]]
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]], [[tim-sweijs]] (eds.)
 - [[developing-the-super-soldier-enhancing-military-performance]] (2017) — [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]] (eds.)

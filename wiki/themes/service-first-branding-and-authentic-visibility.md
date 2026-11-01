@@ -16,6 +16,7 @@ In [[valuable-and-visible]] (2026), [[vanessa-errecarte]] resolves this moral di
 ---
 
 ## Featured Works
+- [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
 - [[valuable-and-visible]] (2026) — [[vanessa-errecarte]] (Formulates Service-First Personal Branding, the EPIC Method, the TRUTH framework, the ABCs of Framework Creation, and the critique of "unintentional selfishness")
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Demonstrates how quiet technical experts build authentic executive visibility and boardroom gravitas through results-first counsel)
 - [[asik-borani-soz-insanin-aynasi]] (2020) — [[asik-borani]] & [[ibrahim-gosterir]] (ed.) (Articulates the classical humanist ethic of public speech: words as the uncorrupted mirror of character and public service)

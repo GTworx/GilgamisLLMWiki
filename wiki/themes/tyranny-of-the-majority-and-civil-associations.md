@@ -16,6 +16,9 @@ Across political sociology, constitutional law, and mathematical social choice t
 ---
 
 ## Featured Works
+- [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
+- [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]
 - [[democracy-in-america]] (1840) — [[alexis-de-tocqueville]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[the-life-and-death-of-democracy-and-monitory-democracy]] (2009) — [[john-keane]]

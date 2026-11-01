@@ -11,6 +11,7 @@ The collision between Hernán Cortés’s Spanish expedition and Moctezuma II’
 
 ## Featured Works
 
+- [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
 - [[war-god-nights-of-the-witch]] — The 1519 collision of Spanish and Aztec civilizations.
 - [[deterrence-in-the-21st-century]] — Modern strategic deterrence and multi-domain rivalry between great powers.
 

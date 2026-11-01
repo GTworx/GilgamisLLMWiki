@@ -11,6 +11,7 @@ In *Supernatural*, Graham Hancock explores the "Great Leap Forward" of the Upper
 
 ## Featured Works
 
+- [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]
 - [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] — Shamanic cave art, Ayahuasca, and visionary contact.
 - [[america-before-the-key-to-earths-lost-civilization]] — Shamanic death journeys, the path of souls, and mound builder cosmologies.
 - [[war-god-nights-of-the-witch]] — Metaphysical possession and shamanic visionary sight in Mesoamerica.

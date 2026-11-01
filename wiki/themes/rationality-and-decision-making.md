@@ -31,6 +31,22 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 
 ## Featured Works
 
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
+- [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
+- [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]
+- [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] (2005) — [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]]
+- [[zen-and-the-art-of-motorcycle-maintenance]] (1974) — [[robert-m-pirsig]]
+- [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]
+- [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
+- [[spin-selling]] (1988) — [[neil-rackham]]
+- [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]
+- [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
+- [[media-and-digital-management]] (2019) — [[eli-m-noam]]
+- [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
+- [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
+- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
+- [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[the-evolution-of-cooperation]] — Practical advice for rational choice in non-zero-sum interactions: avoid envy, avoid excessive cleverness, and cultivate transparent reciprocity.
 - [[deterrence-in-the-21st-century]] — Comprehensive examination of behavioral decision theory (Bijlsma, ch. 23), emotions in crisis decision-making (Zilincik & Duyvesteyn, ch. 24), and algorithmic decision-making (Lindelauf, ch. 22).
 - [[asik-borani-soz-insanin-aynasi]] — Explores moral rationality, civic conscience, and the ethical critique of opportunistic greed in Anatolian folk philosophy.

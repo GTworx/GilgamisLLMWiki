@@ -16,6 +16,7 @@ In this wiki, game theory serves as a fundamental analytical bridge connecting m
 
 ## Books in Wiki
 
+- [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]] (Tournament analysis of iterated Prisoner's Dilemma)
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.) (Particularly Chapter 22 by Roy Lindelauf on game theory in the algorithmic age and Chapter 1 by [[lawrence-freedman]])
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], & [[mikhail-prokopenko]] (Topological classification of valid vs. contradictory preference cycles and Arrow's Impossibility Theorem)

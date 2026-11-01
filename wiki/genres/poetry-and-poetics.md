@@ -16,6 +16,8 @@ Through formal metrics (such as the Turkish syllabic *hece vezni* or free verse 
 
 ## Books in Wiki
 
+- [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
+- [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]
 - [[asik-borani-soz-insanin-aynasi]] (2020) — Âşık Borani (Halil Çimen), edited by İbrahim Gösterir
 
 ---

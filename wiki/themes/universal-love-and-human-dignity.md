@@ -27,6 +27,8 @@ When cross-referenced with modern social science, game theory, and organizationa
 
 ## Featured Works
 
+- [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]
 - [[asik-borani-soz-insanin-aynasi]] — The complete poetic testament of Âşık Borani, establishing love as an indispensable human science and defending universal egalitarianism against sectarian division.
 - [[leading-for-tomorrow]] — Places human dignity, empathy, and self-transcendence at the core of future-ready leadership.
 - [[rapid-reculturing]] — Operationalizes human dignity in the workplace through Organizational Rewilding and the HUMAN Model.

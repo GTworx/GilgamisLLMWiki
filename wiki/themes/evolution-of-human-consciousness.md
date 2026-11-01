@@ -15,6 +15,7 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 
 ## Featured Works
 
+- [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]
 - [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] — Shamanic altered states and the Upper Paleolithic creative explosion.
 - [[the-adaptability-advantage]] — Applied neuroscience of clearing emotional debt and consciously evolving beyond survival-wired reactivity.
 - [[leading-for-tomorrow]] — Humanistic psychology of self-actualization, self-transcendence, and conscious leadership in the AI era.

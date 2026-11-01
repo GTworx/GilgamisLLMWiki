@@ -18,6 +18,13 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
+- [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
+- [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]
+- [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]
+- [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008) — [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]]
+- [[spin-selling]] (1988) — [[neil-rackham]]
+- [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]]
 - [[rapid-reculturing]] (2026) — [[alex-bailey]] & [[kerri-oneill]]
 - [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.)

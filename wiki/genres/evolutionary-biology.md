@@ -16,6 +16,7 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 
 ## Books in Wiki
 
+- [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[the-evolution-of-cooperation]] (1984) — Robert Axelrod (especially Chapter 5 with William D. Hamilton)
 
 ---

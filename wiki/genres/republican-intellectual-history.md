@@ -11,6 +11,10 @@ Republican intellectual history investigates the philosophical and institutional
 
 ## Featured Works
 
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
+- [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]
+- [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] — The intellectual and scientific mobilization of archaeology and classical studies in the early Republic.
 

@@ -21,6 +21,10 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 
 ## Featured Works
 
+- [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
+- [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
+- [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
+- [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]
 - [[asik-borani-soz-insanin-aynasi]] — Contains dozens of satirical and critical poems (*taşlamalar*) exposing social corruption, agrarian hardship, and civic hypocrisy.
 
 ---

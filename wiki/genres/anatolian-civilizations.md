@@ -11,6 +11,7 @@ Anatolia represents one of the dense epicenters of human civilization, from the 
 
 ## Featured Works
 
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]
 - [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] — The rediscovery and preservation of Hittite and classical Anatolian heritage in the Turkish Republic.
 - [[magicians-of-the-gods]] — Göbekli Tepe and southeastern Anatolia as the epicenter of post-cataclysmic cultural rebirth and agricultural innovation.
 - [[asik-borani-soz-insanin-aynasi]] — The living folk and humanist continuation of Anatolian cultural synthesis.

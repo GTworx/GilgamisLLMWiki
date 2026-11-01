@@ -16,6 +16,11 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 
 ## Books in Wiki
 
+- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
+- [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
+- [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.)
 - [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]] (Strategic foundations of conflict resolution and tacit bargaining)
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Crisis advisory doctrine for counseling generals, admirals, and C-suite leaders)

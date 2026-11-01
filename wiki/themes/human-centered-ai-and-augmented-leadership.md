@@ -17,6 +17,11 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 ---
 
 ## Featured Works
+- [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
+- [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]
+- [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]
+- [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
+- [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.) (Part II, Chapters 6–11 specifically chart the integration of generative AI, robotics, and human-centric governance)
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]] (Contrasts machine computation with human neuroplasticity, intuition, and Adaptive Intelligence)
 - [[rapid-reculturing]] (2026) — [[alex-bailey]] & [[kerri-oneill]] (Provides a field-tested blueprint for human-centered AI workplace transformation that empowers rather than alienates employees)

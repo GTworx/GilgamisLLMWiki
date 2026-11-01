@@ -16,6 +16,9 @@ Within the Gilgamis LLM Wiki, Social Choice Theory bridges two major analytical 
 ---
 
 ## Books in Wiki
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
+- [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
+- [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], & [[mikhail-prokopenko]]
 - [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]]
 

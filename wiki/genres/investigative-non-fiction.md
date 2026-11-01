@@ -11,6 +11,7 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 
 ## Featured Works
 
+- [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
 - [[fingerprints-of-the-gods]] — Global investigative journey across Latin America, Egypt, and ancient cartography.
 - [[underworld-mysterious-origins-of-civilization]] — Investigative scuba expeditions documenting submerged ruins.
 - [[the-mars-mystery]] — Critical inquiry into NASA imagery, impact hazards, and planetary science.

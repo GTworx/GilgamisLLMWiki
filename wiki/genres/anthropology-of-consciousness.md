@@ -12,6 +12,10 @@ This discipline explores the interface between neurobiology, ethnobotany, archae
 
 ## Books in Wiki
 
+- [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]
+- [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
+- [[zen-and-the-art-of-motorcycle-maintenance]] (1974) — [[robert-m-pirsig]]
+- [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]
 - [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] (2005) — [[graham-hancock]] (Shamanism, cave art, Ayahuasca, and the origins of modern human symbolic thought)
 - [[america-before-the-key-to-earths-lost-civilization]] (2019) — [[graham-hancock]] (Shamanic mound cosmologies and death journeys in Native American traditions)
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]] (Applied neuroscience, clearing emotional debt, and conscious evolution in the age of AI)

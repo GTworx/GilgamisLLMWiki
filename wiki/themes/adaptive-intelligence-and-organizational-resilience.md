@@ -17,6 +17,11 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
+- [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
+- [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]
+- [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008) — [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]] (Establishes the neuroscience of Adaptive Intelligence [AQ], Emotional Debt clearance, and the six-part blueprint for personal and leadership adaptability)
 - [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.), Foreword by [[rita-mcgrath]] (Synthesizes 26 multidisciplinary perspectives on transient advantage, intelligent failure, post-traumatic growth, and adaptive governance)
 - [[rapid-reculturing]] (2026) — [[alex-bailey]] & [[kerri-oneill]] (Demonstrates how Organizational Rewilding and the HUMAN Model build self-sustaining cultural agility)
