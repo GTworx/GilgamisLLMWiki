@@ -1,7 +1,7 @@
 # Theme: Evolution of Strategies
 
 **Summary**: The dynamic processes by which strategic heuristics, operational doctrines, and behavioral phenotypes emerge, invade, compete, and stabilize within biological and social populations over time.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-01  
 
 ---
 
@@ -22,12 +22,19 @@ In *Deterrence in the 21st Century*, Lawrence Freedman, Frans Osinga, and Tim Sw
 - **Third Wave**: Empirical and psychological critiques showing how historical crises deviated from rational expectations (Alexander George, Richard Ned Lebow, Robert Jervis).
 - **Fourth Wave & Beyond**: Modern tailored deterrence, cross-domain coercion, non-state deterrence, and resilience in a multipolar, technologically diffuse international system (source: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf, ch. 1, pp. 1–8; ch. 26, pp. 503–534).
 
+### Executive Unlearning and Adaptive Strategy in the AI Era
+In corporate and institutional leadership, strategic evolution requires actively shedding legacy heuristics that were rewarded in previous eras:
+- In [[the-adaptability-advantage]] (2026), [[john-sanei]] demonstrates why linear 20th-century strategic planning collapses under exponential technological disruption, requiring leaders to evolve from fixed-rule execution (IQ) to neuroplastic **Adaptive Intelligence (AQ)**.
+- In [[influencing-leaders]] (2026), [[james-e-lukaszewski]] and [[helio-fred-garcia]] chart the personal strategic evolution required for technical specialists to outgrow tactical "doer" habits and master the C-suite advisory heuristics of the **Language of Done** and the **Rule of Threes**.
+
 ---
 
 ## Featured Works
 
 - [[the-evolution-of-cooperation]] — Foundational ecological modeling of strategy evolution, invasion mechanics, and collective stability proofs.
 - [[deterrence-in-the-21st-century]] — Comprehensive historical mapping of the evolution of deterrence strategy from 1945 to the algorithmic 21st century.
+- [[the-adaptability-advantage]] — Maps the strategic evolution from industrial predictability to neuroplastic Adaptive Intelligence (AQ).
+- [[influencing-leaders]] — Codifies how practitioners evolve from technical executors into C-suite strategic advisors.
 
 ---
 
@@ -37,10 +44,12 @@ In *Deterrence in the 21st Century*, Lawrence Freedman, Frans Osinga, and Tim Sw
 - [[william-d-hamilton]]: Applied Evolutionary Stable Strategies (ESS) and population genetics to behavior.
 - [[lawrence-freedman]]: Chronicled the conceptual and strategic evolution of deterrence thought.
 - [[frans-osinga]] & [[tim-sweijs]]: Analyzed the contemporary doctrinal adaptation to cross-domain and multi-domain warfare.
+- [[john-sanei]]: Theorized the shift from survival-conditioned linear strategy to future-ready Adaptive Intelligence.
+- [[james-e-lukaszewski]] & [[helio-fred-garcia]]: Formulated the behavioral evolution from technical specialist to trusted strategic counselor.
 
 ---
 
 ## Related themes & genres
 
-- **Related Themes**: [[cooperation-and-reciprocity]], [[tit-for-tat]], [[shadow-of-the-future]], [[deterrence-and-coercion]], [[rationality-and-decision-making]]
-- **Related Genres**: [[game-theory]], [[evolutionary-biology]], [[strategic-studies]], [[political-science]]
+- **Related Themes**: [[cooperation-and-reciprocity]], [[tit-for-tat]], [[shadow-of-the-future]], [[deterrence-and-coercion]], [[rationality-and-decision-making]], [[adaptive-intelligence-and-organizational-resilience]], [[trusted-strategic-advisors-and-influence]]
+- **Related Genres**: [[game-theory]], [[evolutionary-biology]], [[strategic-studies]], [[political-science]], [[leadership-and-management]]

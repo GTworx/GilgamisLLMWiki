@@ -2,10 +2,10 @@
 
 **Author(s)**: [[asik-borani]], [[ibrahim-gosterir]] (ed.)  
 **Genre(s)**: [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]]  
-**Key Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]]  
+**Key Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]], [[service-first-branding-and-authentic-visibility]]  
 **Publication Year**: 2020  
-**Source**: BOOKS/Art/73010,cilt1pdf.pdf, BOOKS/Art/73011,cilt2pdf.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Art\)  
-**Last updated**: 2026-09-12  
+**Source**: raw/Art/73010,cilt1pdf.pdf, raw/Art/73011,cilt2pdf.pdf; BOOKS/Art/73010,cilt1pdf.pdf, BOOKS/Art/73011,cilt2pdf.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Art\)  
+**Last updated**: 2026-11-01  
 
 ---
 
@@ -114,6 +114,8 @@ Rooted in the humanist lineage of Yunus Emre, Hacı Bektaş Veli, and Mevlana, w
   * Resonates with [[non-western-strategic-thought]]. Borani articulates an indigenous Anatolian philosophy of conflict resolution rooted in Sufism (Hacı Bektaş Veli and Yunus Emre) that counters coercive dominance through shared human identity ("yetmiş iki millete bir gözle bakmak").
 * **Rationality, Conscience, and Civic Ethics**:
   * Connects with [[rationality-and-decision-making]]. While instrumental rationality often justifies narrow opportunistic advantage or zero-sum rivalry, Borani constructs a framework of moral rationality: true self-interest lies in collective social health, honesty, and civic solidarity, satirizing corrupt opportunism in poems like *Kim Çalarsa Çalsın Adı Hırsızdır*.
+* **Humanistic Leadership, Authentic Speech, and Cultural Rewilding**:
+  * Bridges directly with [[leading-for-tomorrow]] (where [[scott-barry-kaufman]] and [[chris-shipley]] ground future-ready leadership in self-transcendence and human dignity), [[rapid-reculturing]] (where [[alex-bailey]] and [[kerri-oneill]] demonstrate how authentic human connection "rewilds" bureaucratic institutions), and [[valuable-and-visible]] (where [[vanessa-errecarte]]'s [[service-first-branding-and-authentic-visibility]] echoes Borani's central maxim *"Söz insanın aynasıdır"*—that public speech must be an uncorrupted mirror of ethical service rather than performative vanity).
 
 ---
 
@@ -121,5 +123,5 @@ Rooted in the humanist lineage of Yunus Emre, Hacı Bektaş Veli, and Mevlana, w
 
 * **Authors**: [[asik-borani]], [[ibrahim-gosterir]]
 * **Genres**: [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]]
-* **Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]]
-* **Cross-Disciplinary Dialogue**: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
+* **Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]], [[service-first-branding-and-authentic-visibility]]
+* **Cross-Disciplinary Dialogue**: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[leading-for-tomorrow]], [[rapid-reculturing]], [[valuable-and-visible]]

@@ -44,8 +44,8 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ### Dashboard Features
 - **Collapsible Sidebar & Mobile Drawer**: Collapsible left banner via header toggle button (`☰`) or hotkey (`Ctrl+B`). On mobile screens, automatically collapses into an overlay slide-out drawer with backdrop blur, auto-closing upon book selection for seamless phone and tablet reading.
-- **Sidebar (Sortable: Newest First & Newest Added)**: Toggle between **Newest First** (publication year, 2024 down to 1984) and **Newest Added** (ingestion chronological order, newest batches on top), with reversible ascending/descending directions, matching book counter badge, and persistent preferences in `localStorage`.
-- **Header Filters**: Live multi-criteria dropdown filtering for **Genres** (20 categories) and **Themes** (28 categories).
+- **Sidebar (Sortable: Newest First & Newest Added)**: Toggle between **Newest First** (publication year, 2026 down to 1984) and **Newest Added** (ingestion chronological order, newest batches on top), with reversible ascending/descending directions, matching book counter badge, and persistent preferences in `localStorage`.
+- **Header Filters**: Live multi-criteria dropdown filtering for **Genres** (33 categories) and **Themes** (34 categories).
 - **Universal Search Bar**: Real-time fuzzy search across titles, authors, executive summaries, chapter notes, and quotes. *(Press `/` anywhere to focus)*.
 - **Main Pane (Selected Book View)**: Complete structured book view with hero metadata, executive summaries, chapter breakdowns, quote cards with exact page citations, and thematic connections.
 - **Interactive Entity Modals**: Click any author or theme link across the UI to open an instant modal with full biographical context or cross-cutting thematic syntheses without losing your place.
@@ -71,14 +71,14 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 14 distinct intellectual works (across 16 volumes and ~7,500 pages)
-- **Total Maintained Wiki Pages**: 104 interlinked markdown documents
-- **Book Analyses**: 14 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 34 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 20 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 28 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 20 distinct intellectual works (across 22 volumes and ~8,900 pages)
+- **Total Maintained Wiki Pages**: 137 interlinked markdown documents (135 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 20 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 48 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 33 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 34 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages)
-- **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/` and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
+- **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
@@ -86,6 +86,12 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |
+| **2026** | [[influencing-leaders]] | [[james-e-lukaszewski]], [[helio-fred-garcia]] | [[strategic-communication]], [[leadership-and-management]], [[strategic-studies]] | [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
+| **2026** | [[the-adaptability-advantage]] | [[john-sanei]] | [[leadership-and-management]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]], [[evolution-of-human-consciousness]] |
+| **2026** | [[rapid-reculturing]] | [[alex-bailey]], [[kerri-oneill]] | [[organizational-psychology]], [[leadership-and-management]] | [[organizational-culture-and-rewilding]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]] |
+| **2026** | [[leading-for-tomorrow]] | [[scott-barry-kaufman]], [[chris-shipley]] (eds.), [[rita-mcgrath]] | [[leadership-and-management]], [[organizational-psychology]], [[strategic-studies]] | [[human-centered-ai-and-augmented-leadership]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]] |
+| **2026** | [[valuable-and-visible]] | [[vanessa-errecarte]] | [[strategic-communication]], [[leadership-and-management]] | [[service-first-branding-and-authentic-visibility]], [[trusted-strategic-advisors-and-influence]], [[cooperation-and-reciprocity]] |
+| **2026** | [[the-non-orientable-topology-of-condorcets-paradox]] | [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]] | [[social-choice-theory]], [[algebraic-topology]], [[game-theory]], [[political-science]] | [[topological-social-choice-and-preference-cycles]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] |
 | **2024** | [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] | [[erdal-polat]] | [[archaeological-historiography]], [[anatolian-civilizations]] | [[archaeology-and-national-identity]], [[critique-of-academic-orthodoxy]] |
 | **2021** | [[deterrence-in-the-21st-century]] | [[frans-osinga]], [[tim-sweijs]] (eds.) | [[strategic-studies]], [[military-science]], [[game-theory]] | [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]] |
 | **2020** | [[asik-borani-soz-insanin-aynasi]] | [[asik-borani]], [[ibrahim-gosterir]] (ed.) | [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]] | [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]] |
@@ -107,23 +113,26 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ```
 GilgamisLLMWiki/
-├── [Mounted External Library]                      # C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\
-│   ├── Archeology/                                # Ingested: 11 landmark works (13 PDF volumes, ~5,500 pp.)
-│   ├── Art/                                       # Ingested: Âşık Borani: Söz İnsanın Aynasıdır (2 Vols., 1,150 pp.)
-│   └── AI/, History_/, Philosophy..., ...         # 40+ domain libraries (immutable, git-ignored)
+├── [Mounted External Library]                      # C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\
+│   ├── BOOKS/Archeology/                          # Ingested: 11 landmark works (13 PDF volumes, ~5,500 pp.)
+│   ├── BOOKS/Art/                                 # Ingested: Âşık Borani: Söz İnsanın Aynasıdır (2 Vols., 1,150 pp.)
+│   ├── BOOKS/Leadership_/                         # Ingested: 5 landmark 2026 works (1,362 pp.)
+│   ├── ARTICLES-REPORTS/Democracy/                # Ingested: The Non-Orientable Topology of Condorcet's Paradox (27 pp.)
+│   └── BOOKS/AI/, History_/, Philosophy..., ...   # 40+ domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
+│   ├── Art/73010,cilt1pdf.pdf & 73011,cilt2pdf.pdf
 │   ├── Axelrod_Robert_The_Evolution_of_Cooperation.pdf
 │   └── Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf
-├── wiki/                                          # Maintained knowledge base (104 markdown pages)
+├── wiki/                                          # Maintained knowledge base (137 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (14 pages)
-│   ├── authors/                                   # Author profile pages (34 pages)
-│   ├── genres/                                    # Genre index pages (20 pages)
-│   └── themes/                                    # Core thematic concept pages (28 pages)
+│   ├── books/                                     # Ingested book detail pages (20 pages)
+│   ├── authors/                                   # Author profile pages (48 pages)
+│   ├── genres/                                    # Genre index pages (33 pages)
+│   └── themes/                                    # Core thematic concept pages (34 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

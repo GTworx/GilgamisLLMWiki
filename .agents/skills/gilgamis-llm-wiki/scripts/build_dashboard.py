@@ -62,10 +62,10 @@ def parse_markdown_files():
         genres_m = re.search(r'\*\*Primary Genres\*\*:\s*(.*)', txt)
         author_genres = genres_m.group(1).strip() if genres_m else ""
         
-        bio_m = re.search(r'## Biography & Context\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        bio_m = re.search(r'## Biography & Context\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         bio = bio_m.group(1).strip() if bio_m else ""
         
-        themes_m = re.search(r'## Recurring Themes\s*\n(.*)', txt, re.DOTALL)
+        themes_m = re.search(r'## Recurring Themes\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         rec_themes = themes_m.group(1).strip() if themes_m else ""
         
         authors[slug] = {
@@ -89,7 +89,7 @@ def parse_markdown_files():
         desc_m = re.search(r'\*\*Description\*\*:\s*(.*)', txt)
         desc = desc_m.group(1).strip() if desc_m else ""
         
-        overview_m = re.search(r'## Overview & Scope\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        overview_m = re.search(r'## Overview & Scope\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         overview = overview_m.group(1).strip() if overview_m else ""
         
         genres[slug] = {
@@ -111,7 +111,7 @@ def parse_markdown_files():
         summary_m = re.search(r'\*\*Summary\*\*:\s*(.*)', txt)
         summary = summary_m.group(1).strip() if summary_m else ""
         
-        synthesis_m = re.search(r'## Synthesis\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        synthesis_m = re.search(r'## Synthesis\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         synthesis = synthesis_m.group(1).strip() if synthesis_m else ""
         
         themes[slug] = {
@@ -160,22 +160,22 @@ def parse_markdown_files():
             year_match = re.search(r'\b(19\d\d|20\d\d)\b', txt)
             year = int(year_match.group(1)) if year_match else 2026
             
-        exec_m = re.search(r'## Executive Summary\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        exec_m = re.search(r'## Executive Summary\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         exec_summary = exec_m.group(1).strip() if exec_m else ""
         
-        chapters_m = re.search(r'## Key Arguments / Chapter Breakdown\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        chapters_m = re.search(r'## Key Arguments / (?:Chapter|Section) Breakdown\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         chapters_raw = chapters_m.group(1).strip() if chapters_m else ""
         
-        quotes_m = re.search(r'## Key Quotes & Citations\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        quotes_m = re.search(r'## Key Quotes & Citations\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         quotes_raw = quotes_m.group(1).strip() if quotes_m else ""
         
-        thematic_m = re.search(r'## Thematic Connections\s*\n(.*?)(?=\n##|$)', txt, re.DOTALL)
+        thematic_m = re.search(r'## Thematic Connections\s*\n(.*?)(?=\n##\s|\Z)', txt, re.DOTALL)
         thematic_raw = thematic_m.group(1).strip() if thematic_m else ""
         
         related_m = re.search(r'## Related pages\s*\n(.*)', txt, re.DOTALL)
         related_raw = related_m.group(1).strip() if related_m else ""
         
-        book_added = added_info.get(slug, {"order": len(books) + 1, "date": last_updated or "2026-09-12"})
+        book_added = added_info.get(slug, {"order": len(books) + 1, "date": last_updated or "2026-11-01"})
         
         books.append({
             "slug": slug,
@@ -204,7 +204,7 @@ def parse_markdown_files():
     
     wiki_payload = {
         "title": "Gilgamis LLM Wiki",
-        "last_updated": "2026-09-12",
+        "last_updated": "2026-11-01",
         "books": books,
         "authors": authors,
         "genres": genres,

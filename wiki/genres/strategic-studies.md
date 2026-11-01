@@ -1,23 +1,25 @@
 # Genre: Strategic Studies
 
 **Description**: The interdisciplinary field of study devoted to the relationship between political objectives, military power, coercion, deterrence, and international conflict resolution.  
-**Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]]  
-**Last updated**: 2026-08-23  
+**Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]]  
+**Last updated**: 2026-11-01  
 
 ---
 
 ## Overview & Scope
 
-Strategic Studies investigates the utilization of military force and the threat of force to achieve political ends (Clausewitzian paradigm). It encompasses nuclear strategy, conventional deterrence, arms control, crisis management, coercive diplomacy, operational doctrine, and cross-domain warfare.
+Strategic Studies investigates the utilization of military, diplomatic, and institutional power to achieve high-stakes political and organizational ends. It encompasses nuclear strategy, conventional deterrence, arms control, crisis management, coercive diplomacy, operational doctrine, cross-domain warfare, and executive crisis counsel.
 
-Within this knowledge base, strategic studies spans historical Cold War foundations through contemporary 21st-century adaptations addressing multipolarity, grey-zone conflict, hybrid threats, cyber capabilities, and cognitive dynamics.
+Within this knowledge base, strategic studies spans historical Cold War foundations through contemporary 21st-century adaptations addressing multipolarity, grey-zone conflict, hybrid threats, cyber capabilities, cognitive dynamics, and the advisory mechanics of counseling senior military and corporate commanders under crisis conditions.
 
 ---
 
 ## Books in Wiki
 
-- [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
-- [[the-evolution-of-cooperation]] (1984) — Robert Axelrod (Strategic foundations of conflict resolution and tacit bargaining)
+- [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.)
+- [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]] (Strategic foundations of conflict resolution and tacit bargaining)
+- [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Crisis advisory doctrine for counseling generals, admirals, and C-suite leaders)
+- [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.), Foreword by [[rita-mcgrath]] (Strategic foresight, transient competitive advantage, and AI-era decision-making)
 
 ---
 
@@ -31,10 +33,14 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 - [[dean-cheng]]: Senior analyst of Chinese PLA strategy and deterrence doctrines.
 - [[karl-mueller]]: Authority on conventional deterrence and air power strategy.
 - [[alexey-arbatov]]: Leading scholar on nuclear arms control and strategic stability.
+- [[james-e-lukaszewski]]: Crisis strategist advising senior military and corporate leadership.
+- [[helio-fred-garcia]]: Crisis strategist and instructor at the USMC Command and Staff College and U.S. Army War College.
+- [[rita-mcgrath]]: Strategist of transient advantage and strategic inflection points.
+- [[chris-shipley]]: Technology foresight strategist and innovation analyst.
 
 ---
 
 ## Related Genres & Themes
 
-- **Related Genres**: [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]]
-- **Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]]
+- **Related Genres**: [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]], [[leadership-and-management]], [[strategic-communication]]
+- **Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]]

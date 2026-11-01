@@ -187,7 +187,54 @@ This file provides an append-only historical audit log of all book ingestions, c
 ### 3. Wiki Network Growth & Verification
 - **Total Ingested Works**: 14 (from 3)
 - **Total Author Profiles**: 34 (from 26)
-- **Total Genres**: 20 (from 10)
+- **Total Genres**: 28 (from 10)
 - **Total Core Themes**: 28 (from 14)
-- **Total Indexed Pages**: 104 pages
+- **Total Indexed Pages**: 104 entity pages (106 total markdown files in `wiki/`)
 - **Link Integrity**: 100% verified (0 broken links, 0 orphan pages)
+
+---
+
+## [2026-11-01T18:45:00+01:00] Ingestion: 2026 Leadership Library (5 Books), Democracy / Topological Social Choice Paper, and `raw/Art/` Verification
+
+### 1. Ingestion Overview
+- **Sources Examined**:
+  1. `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Leadership_\` (5 newly added 2026 PDF volumes totaling 1,362 pages)
+  2. `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\Democracy\` (1 newly added 2026 research paper, 27 pages, `arXiv:2601.07283v6`)
+  3. `C:\Users\gokha\Documents\GITHUB\GilgamisLLMWiki\raw\Art\` (`73010,cilt1pdf.pdf` & `73011,cilt2pdf.pdf`, verified via SHA-256 hash match with `BOOKS/Art/` and cross-linked with the new 2026 leadership corpus)
+
+### 2. Works Ingested & Updated
+1. **[[influencing-leaders]]** (*Influencing Leaders: Taking Charge of Your Career by Becoming a Trusted Strategic Advisor*, 2026, 243 pp.)
+   - **Authors**: [[james-e-lukaszewski]], [[helio-fred-garcia]]
+   - **Key Contributions**: Behavioral doctrine for transitioning from technical "doer" to C-suite trusted advisor; decoding executive isolation and fear; navigating the "No-Friendship Zone"; speaking the "Language of Done"; the "Single-Page Rule" and "Rule of Threes"; "Constructive Candor."
+2. **[[the-adaptability-advantage]]** (*The Adaptability Advantage: How to Build Resilience and Thrive in Times of Uncertainty*, 2026, 189 pp.)
+   - **Author**: [[john-sanei]]
+   - **Key Contributions**: Applied neuroscience of **Adaptive Intelligence (AQ)**; diagnosing and clearing **Emotional Debt**; rewiring amygdala survival reactivity into a *"Calm, Clear, and Curious"* nervous system; partnering with exponential AI without becoming a "biological algorithm."
+3. **[[rapid-reculturing]]** (*Rapid Reculturing: How to Rewild Your Organization for Relentless Change*, 2026, 302 pp.)
+   - **Authors**: [[alex-bailey]], [[kerri-oneill]]
+   - **Key Contributions**: **Organizational Rewilding** across Four Pillars (**Human**, **Connect**, **Simplicity**, **Empowerment**); the five-step **HUMAN Model** (**H**onesty, **U**nderstanding, **M**eaning, **A**utonomy, **N**urturing); the **5-5-5 Coaching Conversation**; subtracting bureaucratic "process debt"; human-centered AI workplace transformation.
+4. **[[leading-for-tomorrow]]** (*Leading for Tomorrow: Insights from 26 World-Renowned Thinkers on How to Lead in an Uncertain World*, 2026, 355 pp.)
+   - **Editors**: [[scott-barry-kaufman]], [[chris-shipley]] (Foreword by [[rita-mcgrath]]; highlighted contributors include [[amy-c-edmondson]] and [[jonathan-haidt]])
+   - **Key Contributions**: 26-chapter anthology organized into *Leading Yourself*, *Leading with Technology*, *Leading Your Team*, and *Leading Your Organization*; transient competitive advantage; humanistic self-transcendence; generative AI as thought partner; team psychological safety and **intelligent failure**; institutional trust across the "Anxious Generation."
+5. **[[valuable-and-visible]]** (*Valuable & Visible: Redefining Personal Branding by Leading with Impact Over Image*, 2026, 273 pp.)
+   - **Author**: [[vanessa-errecarte]]
+   - **Key Contributions**: **Service-First Personal Branding** catalyzed by "The Hug" scoliosis origin story; the four-part **EPIC Method** (**E**stablish, **P**ackage, **I**nform, **C**ultivate); **TRUTH** positioning and **AEIOUs**; **WIP** naming and **CARE** digital-ownership website architecture; **ABCs of Framework Creation**; **Simplified Digital Funnel** and **The FaceTime Effect**; reframing expert silence as *"unintentional selfishness."*
+6. **[[the-non-orientable-topology-of-condorcets-paradox]]** (*The Non-Orientable Topology of Condorcet's Paradox*, 2026, 27 pp., `arXiv:2601.07283v6`)
+   - **Authors**: [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]]
+   - **Key Contributions**: Generalizes Baryshnikov's simplicial nerve complex $\mathcal{N}(\mathcal{U})$ and resolves Chichilnisky's (1980) conjecture; proves the $2 \times 2$ homeomorphism classification of cyclic strict preferences over $\mathbb{3} = \{1,2,3\}$: Valid + Unrealised = **Cylinder / Annulus** $S^1 \times [0,1]$ (orientable), Valid + Realised = **2-Sphere** $S^2$ (orientable), Contradictory + Unrealised = **Klein Bottle** $K$ (non-orientable), Contradictory + Realised = **Real Projective Plane** $\mathbb{RP}^2$ (non-orientable via 2-sheeted covering map $\chi(\mathbb{RP}^2) = \frac{1}{2}\chi(S^2) = 1$); proves via Social Welfare Functions with Contradictory Cycles (SWFC) that Arrow's **Unrestricted Domain $\iff$ Orientable Social Choices** (Theorem 6) and **Non-Dictatorship $\iff$ Non-Orientable Social Choices** (Theorem 7).
+7. **[[asik-borani-soz-insanin-aynasi]]** (Updated)
+   - Updated `Source` metadata to reflect both `raw/Art/` and `BOOKS/Art/` and added cross-disciplinary thematic links to [[leading-for-tomorrow]], [[rapid-reculturing]], [[valuable-and-visible]], and [[service-first-branding-and-authentic-visibility]].
+
+### 3. New & Updated Entity Pages
+- **14 New Author Pages Created**: [[james-e-lukaszewski]], [[helio-fred-garcia]], [[john-sanei]], [[alex-bailey]], [[kerri-oneill]], [[scott-barry-kaufman]], [[chris-shipley]], [[rita-mcgrath]], [[amy-c-edmondson]], [[jonathan-haidt]], [[vanessa-errecarte]], [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]].
+- **5 New Genre Pages Created & 4 Updated**: Created [[leadership-and-management]], [[organizational-psychology]], [[strategic-communication]], [[social-choice-theory]], [[algebraic-topology]]; updated [[game-theory]], [[political-science]], [[strategic-studies]], [[anthropology-of-consciousness]].
+- **6 New Theme Pages Created & 5 Updated**: Created [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]], [[human-centered-ai-and-augmented-leadership]], [[service-first-branding-and-authentic-visibility]], [[topological-social-choice-and-preference-cycles]]; updated [[rationality-and-decision-making]], [[cooperation-and-reciprocity]], [[evolution-of-strategies]], [[evolution-of-human-consciousness]], [[universal-love-and-human-dignity]].
+
+### 4. Wiki Network Growth, Dashboard Rebuild & Link Verification
+- **Total Ingested Works**: 20 (up from 14)
+- **Total Author Profiles**: 48 (up from 34)
+- **Total Genres**: 33 (up from 28)
+- **Total Core Themes**: 34 (up from 28)
+- **Total Maintained Wiki Markdown Pages**: 137 (`135` entity pages + `wiki/index.md` + `wiki/log.md`)
+- **Dashboard Rebuild**: Ran `build_dashboard.py` to regenerate `wiki/dashboard_data.json`, `index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard.html`, and skill resource bundles.
+- **Link Integrity**: 100% verified (0 broken wiki-links, 0 orphan pages).
+
