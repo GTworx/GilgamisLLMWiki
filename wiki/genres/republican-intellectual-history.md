@@ -11,6 +11,7 @@ Republican intellectual history investigates the philosophical and institutional
 
 ## Featured Works
 
+- [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] — The intellectual and scientific mobilization of archaeology and classical studies in the early Republic.
 
 ## Key Authors

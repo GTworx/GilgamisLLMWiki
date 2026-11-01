@@ -49,16 +49,40 @@ This updates:
 - `wiki/index.html`
 - `.agents/skills/gilgamis-llm-wiki/resources/index.html`
 
-### 3. Ingestion Sources
+### 3. Local Ollama (`qwen3.8`) Agentic Ingestion & Execution
+The skill includes a zero-dependency local Ollama execution engine (`scripts/ollama_agent.py`) powered by `qwen3.8:latest` (`27.3B`, `Q4_K_M`, `262,144` token context, multimodal vision + tools + thinking):
+
+- **Check Ollama & Wiki Status**:
+  ```powershell
+  python .agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py status
+  ```
+- **Extract PDF Text (with Automatic `qwen3.8` Multimodal Vision OCR Fallback for Scanned Pages)**:
+  ```powershell
+  python .agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py extract "<path-to-pdf>"
+  ```
+- **Ingest a Book or Research Paper via `qwen3.8`**:
+  ```powershell
+  python .agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py ingest "<path-to-pdf>" --write --rebuild
+  ```
+- **Run Cross-Book Synthesis Queries via `qwen3.8`**:
+  ```powershell
+  python .agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py query "How do our ingested books connect game theory, democracy, and adaptive leadership?"
+  ```
+- **Run Bidirectional Link & Metadata Integrity Audit**:
+  ```powershell
+  python .agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py audit
+  ```
+
+### 4. Ingestion Sources
 Books can be ingested from two immutable sources (both excluded from GitHub sync via `.gitignore`):
-1. **Primary Mounted Library**: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` (organized by 42+ domain folders: `Art/`, `AI/`, `Philosophy Psychology Sociology/`, etc.)
+1. **Primary Mounted Library**: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` (organized by 42+ domain folders: `Art/`, `AI/`, `Philosophy Psychology Sociology/`, etc.) and `ARTICLES-REPORTS\`
 2. **Local Staging**: `raw/` (workspace-local ad-hoc additions)
 
-### 4. Querying the Wiki Knowledge Base
+### 5. Querying the Wiki Knowledge Base
 When answering cross-comparative questions or literature queries:
 1. Refer to the Master Index at `wiki/index.md`.
 2. Inspect specific book notes in `wiki/books/`, author profiles in `wiki/authors/`, or thematic syntheses in `wiki/themes/`.
-3. Provide page-level citations referencing the source PDF files in `BOOKS/<Category>/` or `raw/`.
+3. Provide page-level citations referencing the source PDF files in `BOOKS/<Category>/`, `ARTICLES-REPORTS/<Category>/`, or `raw/`.
 
 ---
 
@@ -67,5 +91,6 @@ When answering cross-comparative questions or literature queries:
 - [Dashboard Guide](./references/dashboard_guide.md) — UI architecture, shortcuts, and feature guide.
 - [Dashboard App (`index.html`)](./resources/index.html) — Standalone HTML dashboard application.
 - [Dashboard Template](./resources/dashboard_template.html) — Clean template file.
+- [Ollama (`qwen3.8`) Agent CLI](./scripts/ollama_agent.py) — Local LLM extraction, Vision OCR, ingestion, query, and audit engine.
 - [Rebuild Script](./scripts/build_dashboard.py) — Parsing and data generation script.
 - [Server Script](./scripts/serve_dashboard.py) — Local server with auto-launch.

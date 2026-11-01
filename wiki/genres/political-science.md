@@ -16,6 +16,7 @@ In the wiki, political science provides the analytical framework for institution
 
 ## Books in Wiki
 
+- [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]]
 - [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.)
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], & [[mikhail-prokopenko]]

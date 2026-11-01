@@ -11,6 +11,7 @@ Across alternative archaeology, revisionist history, and scientific philosophy, 
 
 ## Featured Works
 
+- [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[fingerprints-of-the-gods]] — Challenges to standard evolutionary models of bronze-age civilization emergence.
 - [[keeper-of-genesis]] — Critique of orthodox Egyptological gatekeeping regarding the Sphinx and subterranean chambers.
 - [[lost-knowledge-of-the-ancients]] — John Anthony West's open letter to *Archaeology* magazine critiquing methodological dogmatism.

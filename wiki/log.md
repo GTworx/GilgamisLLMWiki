@@ -238,3 +238,59 @@ This file provides an append-only historical audit log of all book ingestions, c
 - **Dashboard Rebuild**: Ran `build_dashboard.py` to regenerate `wiki/dashboard_data.json`, `index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard.html`, and skill resource bundles.
 - **Link Integrity**: 100% verified (0 broken wiki-links, 0 orphan pages).
 
+
+---
+
+## [2026-11-01T19:45:00+01:00] Local Ollama (`qwen3.8:latest`) Agentic Engine Integration & Batch Ingestion of Democracy, Military, Evolutionary Biology, and Semiconductors Libraries
+
+### 1. Local Ollama (`qwen3.8:latest`) Agentic Pipeline
+- **Engine Created**: `.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py`
+- **Local Model Integrated**: `qwen3.8:latest` / `qwen3.8:27b` (`27.3B` parameters, `Q4_K_M`, `262,144` context window, native multimodal `vision`, `tools`, `thinking`) served at `http://localhost:11434`.
+- **Capabilities Implemented**:
+  - `status`: Live health check of Ollama server, model capabilities, wiki metrics, and mounted library status.
+  - `extract`: Page-indexed PDF extraction via `pypdf` with automatic `qwen3.8:latest` multimodal **Vision OCR** fallback for scanned PDF pages (`/DCTDecode` JPEG streams).
+  - `ingest`: End-to-end local `qwen3.8:latest` document analysis, structured JSON extraction, bidirectional wiki entity creation/updating, and dashboard rebuild.
+  - `query`: Cross-comparative RAG synthesis across `wiki/index.md` and entity detail pages using `qwen3.8:latest`.
+  - `audit`: Automated bidirectional `[[link]]` integrity, orphan, and index completeness verification.
+
+### 2. Works Ingested (9 Distinct Works Across 11 PDF Volumes)
+1. **[[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]]** (*Kalven Committee: Report on the University's Role in Political and Social Action*, 1967, 3 pp.)
+   - **Author**: [[harry-kalven-jr]] (University of Chicago)
+   - **Source**: `ARTICLES-REPORTS/Democracy/KalvenReport.pdf`
+2. **[[democracy-in-america]]** (*Democracy in America, Volumes I & II*, 1835/1840, 836 pp. & 454 pp.)
+   - **Author**: [[alexis-de-tocqueville]] (trans. Henry Reeve)
+   - **Source**: `ARTICLES-REPORTS/Democracy/1840 Alexis-de-Tocqueville-Democracy-in-America.pdf` & `1840 DeTocqueville - Democracy in America.pdf`
+3. **[[the-secret-history-of-democracy-primitive-democracy]]** (*The Secret History of Democracy: What is so 'Primitive' about 'Primitive Democracy'?* & *Primitive Democracy in Ancient Mesopotamia*, 1943/2011, 30 pp.)
+   - **Authors**: [[benjamin-isakhan]], [[stephen-stockwell]] (eds.), [[thorkild-jacobsen]]
+   - **Source**: `ARTICLES-REPORTS/Democracy/2011 What_is_so_Primitive_about_Primitive_Democracy.pdf` & `HW2-1--Democracy-in-Mesopotamia.pdf`
+4. **[[the-first-democracies-early-popular-government-outside-athens]]** (*The First Democracies: Early Popular Government Outside Athens*, 1997 / 1998 *Scholia* review, 3 pp. — **transcribed via `qwen3.8:latest` Vision OCR**)
+   - **Authors**: [[eric-w-robinson]], reviewed by [[richard-j-evans]]
+   - **Source**: `ARTICLES-REPORTS/Democracy/World’s First Democracies book review_.pdf`
+5. **[[the-life-and-death-of-democracy-and-monitory-democracy]]** (*The Life and Death of Democracy & Monitory Democracy*, 2009, 4 pp.)
+   - **Author**: [[john-keane]]
+   - **Source**: `ARTICLES-REPORTS/Democracy/Summary_The_Life_and_Death_of_Democracy_John_Keane.pdf` & `Summary_The_Life_and_Death_of_Democracy_John_Keane_Monitory_Supplement.pdf`
+6. **[[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]]** (*Oxygen Isotope in Archaeological Bioapatites from India: Implications to Climate Change and Decline of Bronze Age Harappan Civilization*, 2016, *Nature Scientific Reports* 6:26555, 9 pp.)
+   - **Authors**: [[anindya-sarkar]], [[vasant-shinde]] et al.
+   - **Source**: `ARTICLES-REPORTS/Democracy/Oxygen isotope in archaeological bioapatites from India- Implications to climate change and decline of Bronze Age Harappan civilization.pdf`
+7. **[[developing-the-super-soldier-enhancing-military-performance]]** (*Developing the Super Soldier: Enhancing Military Performance*, 2017, 132 pp.)
+   - **Editors**: [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]]
+   - **Source**: `BOOKS/Military_/2017 USA Developing the Super Soldier - Enhancing Military Performance.pdf`
+8. **[[the-selfish-gene]]** (*The Selfish Gene — 30th Anniversary Edition*, 1976/2006, 385 pp.)
+   - **Author**: [[richard-dawkins]]
+   - **Source**: `BOOKS/Biology Evolution/Selfish Gene - Richard Dawkins.pdf`
+9. **[[chip-war-the-fight-for-the-worlds-most-critical-technology]]** (*Chip War: The Fight for the World's Most Critical Technology*, 2022, 473 pp.)
+   - **Authors**: [[chris-miller]] (analyzing [[morris-chang]])
+   - **Source**: `BOOKS/Semiconductors/Chip War_ The Fight for the Wor - Chris Miller.pdf`
+
+### 3. New & Updated Entity Pages
+- **16 New Author Pages Created**: [[harry-kalven-jr]], [[alexis-de-tocqueville]], [[benjamin-isakhan]], [[stephen-stockwell]], [[thorkild-jacobsen]], [[eric-w-robinson]], [[richard-j-evans]], [[john-keane]], [[anindya-sarkar]], [[vasant-shinde]], [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]], [[richard-dawkins]], [[chris-miller]], [[morris-chang]].
+- **1 New Genre Page Created**: [[comparative-democratic-history]].
+- **7 New Theme Pages Created**: [[institutional-neutrality-and-academic-freedom]], [[tyranny-of-the-majority-and-civil-associations]], [[pre-athenian-and-indigenous-democracies]], [[monitory-democracy-and-power-scrutiny]], [[human-performance-enhancement-and-neuro-warfare]], [[gene-centric-evolution-and-memetics]], [[semiconductor-geopolitics-and-chokepoints]].
+
+### 4. Wiki Network Growth, Dashboard Rebuild & Link Audit
+- **Total Ingested Works**: 29 (up from 20)
+- **Total Author Profiles**: 64 (up from 48)
+- **Total Genres**: 34 (up from 33)
+- **Total Core Themes**: 41 (up from 34)
+- **Total Maintained Wiki Markdown Pages**: 170 (`168` entity pages + `wiki/index.md` + `wiki/log.md`)
+- **Link Integrity**: 100% verified via `ollama_agent.py audit` (0 broken links, 0 orphan pages, 0 unindexed pages).
