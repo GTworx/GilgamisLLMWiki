@@ -17,6 +17,7 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
 - [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]

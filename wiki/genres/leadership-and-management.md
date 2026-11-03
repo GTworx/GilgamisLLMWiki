@@ -19,6 +19,10 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]
+- [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
+- [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]
+- [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
 - [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]
 - [[ethics-in-higher-education-values-driven-leaders-for-the-future]] (2017) — [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]]

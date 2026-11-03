@@ -31,6 +31,15 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 
 ## Featured Works
 
+- [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
+- [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]
+- [[an-introduction-to-machine-learning]] (2017) — [[miroslav-kubat]]
+- [[introduction-to-artificial-intelligence]] (2017) — [[wolfgang-ertel]]
+- [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]
+- [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] (2018) — [[sandro-skansi]]
+- [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
+- [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] (2020) — [[michael-wooldridge]]
+- [[probabilistic-artificial-intelligence]] (2025) — [[andreas-krause]], [[jonas-hubotter]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
 - [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]

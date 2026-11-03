@@ -14,6 +14,8 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
+- [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
 - [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
 - [[media-and-digital-management]] (2019) — [[eli-m-noam]]

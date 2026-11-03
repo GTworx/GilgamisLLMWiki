@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki
 
-A structured, interlinked personal knowledge base for cataloging, analyzing, and synthesizing a personal library of books, strategic literature, democracy studies, evolutionary biology, neuroscience, innovation, cybersecurity, blockchain, law, energy economics, education, ethics, and archaeology, maintained by LLM agents (including local Ollama `qwen3.8:latest`) based on Andrej Karpathy's LLM Wiki pattern.
+A structured, interlinked personal knowledge base for cataloging, analyzing, and synthesizing a personal library of books, strategic literature, democracy studies, artificial intelligence, machine learning, data science, AGI geopolitics, evolutionary biology, neuroscience, innovation, cybersecurity, blockchain, law, energy economics, education, ethics, and archaeology, maintained by LLM agents (including local Ollama `qwen3.8:latest`) based on Andrej Karpathy's LLM Wiki pattern.
 
 ---
 
@@ -81,21 +81,39 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 60 distinct intellectual works (across 67 source files/volumes and ~21,500 pages)
-- **Total Maintained Wiki Pages**: 286 interlinked markdown documents (284 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 60 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 123 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 49 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 52 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 78 distinct intellectual works (across 92 source files/volumes and ~26,800 pages)
+- **Total Maintained Wiki Pages**: 348 interlinked markdown documents (346 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 78 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 162 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 51 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 55 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
-## 📚 Complete Ingested Library Catalog (60 Works)
+## 📚 Recent & Featured Ingested Library Catalog (78 Total Works)
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |
+| **2026** | [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] | [[brian-solis]], [[dave-wright]] | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[human-centered-ai-and-augmented-leadership]], [[adaptive-intelligence-and-organizational-resilience]], [[general-purpose-technologies-and-learning-by-doing]] |
+| **2025** | [[ai-2027]] | [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]] | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[agi-trajectories-and-superalignment]], [[semiconductor-geopolitics-and-chokepoints]], [[deterrence-and-coercion]] |
+| **2025** | [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] | [[karen-hao]] | [[artificial-intelligence-and-machine-learning]], [[investigative-non-fiction]], [[postcolonial-and-diaspora-studies]] | [[agi-trajectories-and-superalignment]], [[technological-containment-and-omni-use-proliferation]], [[social-critique-and-moral-conscience]] |
+| **2025** | [[probabilistic-artificial-intelligence]] | [[andreas-krause]], [[jonas-hubotter]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[game-theory]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[agi-trajectories-and-superalignment]] |
+| **2025** | [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] | [[max-solomon-bennett]] | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[evolutionary-biology]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[evolution-of-human-consciousness]], [[agi-trajectories-and-superalignment]] |
+| **2024** | [[situational-awareness-the-decade-ahead]] | [[leopold-aschenbrenner]] | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[agi-trajectories-and-superalignment]], [[semiconductor-geopolitics-and-chokepoints]], [[deterrence-and-coercion]] |
+| **2024** | [[co-intelligence-living-and-working-with-ai]] | [[ethan-mollick]] | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[educational-technology-and-disruptive-pedagogy]] | [[human-centered-ai-and-augmented-leadership]], [[student-centric-and-blended-learning]], [[adaptive-intelligence-and-organizational-resilience]] |
+| **2024** | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] | [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]] | [[artificial-intelligence-and-machine-learning]], [[cybersecurity-and-digital-forensics]], [[security-studies]] | [[hybrid-threats-and-cyber-warfare]], [[technological-containment-and-omni-use-proliferation]], [[agi-trajectories-and-superalignment]] |
+| **2023** | [[the-coming-wave-ai-power-and-our-future]] | [[mustafa-suleyman]], [[michael-bhaskar]] | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[political-science]] | [[technological-containment-and-omni-use-proliferation]], [[agi-trajectories-and-superalignment]], [[general-purpose-technologies-and-learning-by-doing]] |
+| **2020** | [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] | [[michael-wooldridge]] | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[game-theory]] | [[agi-trajectories-and-superalignment]], [[rationality-and-decision-making]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]] |
+| **2019** | [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] | [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]] | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[data-science-and-scientific-computing]] | [[human-centered-ai-and-augmented-leadership]], [[general-purpose-technologies-and-learning-by-doing]], [[probabilistic-inference-and-uncertainty-quantification]] |
+| **2019** | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] | [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]] | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[evolutionary-biology]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[student-centric-and-blended-learning]] |
+| **2018** | [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] | [[sandro-skansi]] | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[data-science-and-scientific-computing]] | [[probabilistic-inference-and-uncertainty-quantification]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[agi-trajectories-and-superalignment]] |
+| **2018** | [[machine-learning-for-dummies-ibm-limited-edition]] | [[judith-hurwitz]], [[daniel-kirsch]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[leadership-and-management]] | [[human-centered-ai-and-augmented-leadership]], [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] |
+| **2017** | [[introduction-to-artificial-intelligence]] | [[wolfgang-ertel]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[game-theory]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[agi-trajectories-and-superalignment]] |
+| **2017** | [[an-introduction-to-machine-learning]] | [[miroslav-kubat]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] |
+| **2017** | [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] | [[laura-igual]], [[santi-segui]] | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[media-economics-and-entertainment-science]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[attention-economy-and-cultural-analytics]] |
+| **2015** | [[machine-learning-in-medicine-a-complete-overview]] | [[ton-j-cleophas]], [[aeilko-h-zwinderman]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[evolutionary-biology]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] |
 | **2026** | [[advanced-network-forensics-a-cyber-behavioral-science-approach]] | [[marshall-s-rich]] | [[cybersecurity-and-digital-forensics]], [[organizational-psychology]], [[security-studies]] | [[hybrid-threats-and-cyber-warfare]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] |
 | **2025** | [[blockchain-crypto-and-defi-bridging-finance-and-technology]] | [[marco-di-maggio]] | [[blockchain-and-decentralized-finance]], [[game-theory]], [[strategic-studies]] | [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[human-centered-ai-and-augmented-leadership]] |
 | **2023** | [[doppelganger-israel-palestine-and-the-doppelganger-effect]] | [[naomi-klein]] | [[postcolonial-and-diaspora-studies]], [[political-science]], [[investigative-non-fiction]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[clash-of-civilizations]] |
@@ -156,18 +174,19 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Neuroscience_/                       # Ingested: 3 works (The Emperor's New Mind; Discovering the Brain; Reductionism in Art and Brain Science)
 │   ├── BOOKS/Society_/                            # Ingested: 3 works across 4 files (A Conflict of Visions; Doppelganger Effect; Mongrel Nation)
 │   ├── ARTICLES-REPORTS/Democracy/                # Ingested: All 10 files (7 distinct works: Tocqueville, Jacobsen/Isakhan/Stockwell, Kalven, Robinson/Evans, Keane, Sarkar/Shinde, Livson/Pritam/Prokopenko)
-│   └── BOOKS/AI/, History_/, Philosophy..., ...   # Remaining domain libraries (immutable, git-ignored)
+│   ├── BOOKS/AI/                                  # Ingested: All 25 files across 18 distinct works (~5,250 pp.)
+│   └── BOOKS/History_/, Philosophy..., ...        # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (286 markdown pages)
+├── wiki/                                          # Maintained knowledge base (348 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (60 pages)
-│   ├── authors/                                   # Author profile pages (123 pages)
-│   ├── genres/                                    # Genre index pages (49 pages)
-│   └── themes/                                    # Core thematic concept pages (52 pages)
+│   ├── books/                                     # Ingested book detail pages (78 pages)
+│   ├── authors/                                   # Author profile pages (162 pages)
+│   ├── genres/                                    # Genre index pages (51 pages)
+│   └── themes/                                    # Core thematic concept pages (55 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

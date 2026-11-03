@@ -11,6 +11,11 @@
 ---
 
 ## Featured Works
+- [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
+- [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]
+- [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
+- [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
+- [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]
 - [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
 - [[media-and-digital-management]] (2019) — [[eli-m-noam]]
 - [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008) — [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]]

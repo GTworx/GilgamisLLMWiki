@@ -31,6 +31,8 @@ In corporate and institutional leadership, strategic evolution requires actively
 
 ## Featured Works
 
+- [[an-introduction-to-machine-learning]] (2017) — [[miroslav-kubat]]
+- [[probabilistic-artificial-intelligence]] (2025) — [[andreas-krause]], [[jonas-hubotter]]
 - [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] (2005) — [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]]
 - [[the-evolution-of-cooperation]] — Foundational ecological modeling of strategy evolution, invasion mechanics, and collective stability proofs.
 - [[deterrence-in-the-21st-century]] — Comprehensive historical mapping of the evolution of deterrence strategy from 1945 to the algorithmic 21st century.

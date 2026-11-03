@@ -13,6 +13,7 @@ Uniting [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[entertainment-scie
 ---
 
 ## Featured Works
+- [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]
 - [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
 - [[media-and-digital-management]] (2019) — [[eli-m-noam]]
 

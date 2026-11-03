@@ -15,6 +15,8 @@ As synthesized in [[chris-miller]]'s [[chip-war-the-fight-for-the-worlds-most-cr
 ---
 
 ## Featured Works
+- [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
+- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
 - [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
 - [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
 - [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]], [[morris-chang]]

@@ -21,6 +21,7 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 
 ## Featured Works
 
+- [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
 - [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]

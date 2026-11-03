@@ -16,6 +16,8 @@ In the wiki, political science provides the analytical framework for institution
 
 ## Books in Wiki
 
+- [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
+- [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]

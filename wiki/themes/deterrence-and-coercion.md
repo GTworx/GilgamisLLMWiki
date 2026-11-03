@@ -22,6 +22,7 @@ In *Deterrence in the 21st Century*, Lawrence Freedman, Frans Osinga, and Tim Sw
 
 ## Featured Works
 
+- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
 - [[deterrence-in-the-21st-century]] — Comprehensive multi-author treatise analyzing conventional, nuclear, cross-domain, non-Western, and non-state deterrence.
 - [[the-evolution-of-cooperation]] — Formalizes the game-theoretic limits of punishment, showing that retaliation without forgiveness produces catastrophic conflict cascades.
 

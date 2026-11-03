@@ -14,6 +14,9 @@ Security Studies analyzes threats to the survival and stability of states, socie
 
 ## Books in Wiki
 
+- [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
+- [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
+- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
 - [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
 - [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)

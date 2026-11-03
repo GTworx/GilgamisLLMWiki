@@ -341,3 +341,37 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Updated `wiki/index.md`, `SUMMARY.md`, and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 284 entity pages (286 total markdown files).
+
+---
+
+## [2026-11-03T20:52:00+01:00] ingest | Option A: Complete `BOOKS/AI/` Domain Library Sweep (18 Distinct Works across All 25 Source Files)
+
+- **Operation**: Complete ingestion of all 25 source files (`*.pdf`, `*.epub`, `*.html`, `*.txt`) in `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\`, organized into **18 distinct works** across Frontier AI/AGI Strategy, Probabilistic AI, LLM Cybersecurity, Foundational AI/ML/DL/Data Science, Medical Machine Learning, and Scientific Computing in Python & R.
+- **Ingested Works (18 Distinct Works across 25 Source Files)**:
+  - [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] ([[brian-solis]], [[dave-wright]], 2026) — `BOOKS/AI/2026 Infinite- Leadership in AI Forward Companies.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[ai-2027]] ([[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]], 2025) — `BOOKS/AI/2025 Book_ai-2027.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] ([[karen-hao]], 2025) — `BOOKS/AI/2025 empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[probabilistic-artificial-intelligence]] ([[andreas-krause]], [[jonas-hubotter]], 2025) — `BOOKS/AI/2025 Probabilistic AI.pdf & Book Summary probabilistic_ai_analysis.txt (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] ([[max-solomon-bennett]], 2025) — `BOOKS/AI/2025 A Brief History of Intelligence.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[situational-awareness-the-decade-ahead]] ([[leopold-aschenbrenner]], 2024) — `BOOKS/AI/2024 Situational_Awareness_Leopold_Aschenbrenner.pdf & situationalawareness.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[co-intelligence-living-and-working-with-ai]] ([[ethan-mollick]], 2024) — `BOOKS/AI/2024 Co-Intelligence PDF Summary_.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] ([[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]], 2024) — `BOOKS/AI/AI LLM Cybesecurity.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[the-coming-wave-ai-power-and-our-future]] ([[mustafa-suleyman]], [[michael-bhaskar]], 2023) — `BOOKS/AI/The Coming Wave_ AI, Power, and Our Future - Notebook.html (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] ([[michael-wooldridge]], 2020) — `BOOKS/AI/a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going.epub (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] ([[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]], 2019) — `BOOKS/AI/2019 Achieving-Real-Business-Outcomes-from-Artificial-Intelligence.pdf & 2016 Book OReilly future-of-machine-intelligence.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] ([[sandro-skansi]], 2018) — `BOOKS/AI/2018_Book_IntroductionToDeepLearning.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[machine-learning-for-dummies-ibm-limited-edition]] ([[judith-hurwitz]], [[daniel-kirsch]], 2018) — `BOOKS/AI/2017 Book ML for Dummies by IBM_.pdf & analytics-analytics-platform-im-dummies-book-imm14209usen-20171019.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[introduction-to-artificial-intelligence]] ([[wolfgang-ertel]], 2017) — `BOOKS/AI/2017_Book_IntroductionToArtificialIntell.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[an-introduction-to-machine-learning]] ([[miroslav-kubat]], 2017) — `BOOKS/AI/2017_Book_AnIntroductionToMachineLearnin.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] ([[laura-igual]], [[santi-segui]], 2017) — `BOOKS/AI/2017_Book_IntroductionToDataScience.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[machine-learning-in-medicine-a-complete-overview]] ([[ton-j-cleophas]], [[aeilko-h-zwinderman]], 2015) — `BOOKS/AI/2015_Book_MachineLearningInMedicine-ACom.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+  - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] ([[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]], 2019) — `BOOKS/AI/ (4 Springer Volumes: 2019_Book_ABeginnersGuideToPython3Progra.pdf; 2019_Book_AdvancedGuideToPython3Programm.pdf; 2014_Book_PythonProgrammingFundamentals.pdf; 2009_Book_ABeginnerSGuideToR.pdf) (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\AI\)`
+- **Entity Pages Created / Updated**:
+  - **Books**: 18 new pages created (total: 78)
+  - **Authors**: 34 new author profiles created (total: 162)
+  - **Genres**: 2 new genre indices created ([[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]]) and existing genres updated (total: 51)
+  - **Themes**: 3 new thematic syntheses created ([[agi-trajectories-and-superalignment]], [[probabilistic-inference-and-uncertainty-quantification]], [[technological-containment-and-omni-use-proliferation]]) and existing themes updated (total: 55)
+- **Verification**:
+  - Updated `wiki/index.md`, `SUMMARY.md`, and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 346 entity pages (348 total markdown files).

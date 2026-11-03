@@ -13,6 +13,8 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Featured Works
+- [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
+- [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]
 - [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008) — [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]]
 - [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]
 - [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]

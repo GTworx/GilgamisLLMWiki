@@ -27,6 +27,7 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 
 ## Featured Works
 
+- [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
 - [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
 - [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[deterrence-in-the-21st-century]] — Dedicated chapters on cyber deterrence (ch. 20), resilience and hybrid accountability (ch. 19), AI in coercion (ch. 21), and legal architecture for cyberspace (ch. 25).

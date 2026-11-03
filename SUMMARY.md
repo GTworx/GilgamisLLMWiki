@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-11-01  
+**Generated**: 2026-11-03  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 60 distinct intellectual works (across 67 source files/volumes and ~21,500 pages)
-- **Total Generated Wiki Pages**: 286 interlinked markdown files (284 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 78 distinct intellectual works (across 92 source files/volumes and ~26,800 pages)
+- **Total Generated Wiki Pages**: 348 interlinked markdown files (346 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 60 ([books/](wiki/books/))
-- **Author Profile Pages**: 123 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 49 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 52 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 78 ([books/](wiki/books/))
+- **Author Profile Pages**: 162 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 51 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 55 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -149,3 +149,42 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
     *Israel, Palestine, and the Doppelganger Effect* (published late 2023, 55 pp.
 60. **[[mongrel-nation-colonization-in-reverse]]** ([[ashley-dawson]], [[louise-bennett]], 2007)  
     *Colonization in Reverse: An Introduction* (the foundational 27-page opening chapter of *Mongrel Nation: Diasporic Culture and the Making of Postcolonial Britain*, published by University of Michigan Press, 2007, Stable URL `http://www.jstor.com/stable/j.ctv3znzng.4`) by cultural historian [[ashley-dawson]] chronicles how post-1945 migration from the Caribbean, South Asia, and Africa dismantled insular imperial myths of British identity and forged a hybrid, cosmopolitan postcolonial culture (source: BOOKS/Society_/Dawson-ColonizationReverse-2007.pdf, pp.
+
+### Category G: Artificial Intelligence, Machine Learning, Data Science & AGI Geopolitics (`BOOKS/AI/` — 18 Works across 25 Source Files)
+61. **[[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]]** ([[brian-solis]] & [[dave-wright]], 2026, Wiley, 323 pp.)  
+    ServiceNow AI transformation manifesto introducing the **AI Maturity Index**, the **AI Control Tower**, **Agentic AI**, and exponential **AI-First** enterprise architectures over legacy digital transformation.
+62. **[[ai-2027]]** ([[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], & [[romeo-dean]], 2025, AI Futures Project, 71 pp.)  
+    Month-by-month scenario wargame charting the 2025–2027 trajectory from **OpenBrain**'s Agent-1 through Agent-4, recursive AI R&D **intelligence explosion**, neuralese **scheming** and misalignment, **China's CDZ** weight theft, and branching **Slowdown vs. Race** endings.
+63. **[[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]]** ([[karen-hao]], 2025, Penguin Press, 575 pp.)  
+    Investigative history of Sam Altman's OpenAI framing frontier AI labs as neo-colonial **computational empires** built on global South data-annotation labor (Kenya, Venezuela, Chile), hyperscale energy/water extraction, and the ideological rift between **Boomers** and **Doomers**.
+64. **[[probabilistic-artificial-intelligence]]** ([[andreas-krause]] & [[jonas-hubotter]], 2025, ETH Zürich / arXiv:2502.05244v1, 418 pp. + companion `.txt`)  
+    Graduate mathematical textbook unifying **Bayesian inference**, **Gaussian Processes**, **Kalman/particle filtering**, **active learning** (submodular mutual information), **Bayesian optimization** (GP-UCB), **Markov Decision Processes**, and **RLHF / DPO** for foundation models.
+65. **[[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]]** ([[max-solomon-bennett]], 2025, HarperCollins, 103 pp.)  
+    Chronicles the **Five Evolutionary Breakthroughs** of biological brains—**Steering** (bilaterians), **Reinforcing** (vertebrates / TD dopamine), **Simulating** (mammals / neocortex), **Mentalizing** (primates / Theory of Mind), and **Speaking** (humans / language)—as a reverse-engineering blueprint for AGI.
+66. **[[situational-awareness-the-decade-ahead]]** ([[leopold-aschenbrenner]], 2024, 165 pp., 2 PDF copies)  
+    Projects **Orders of Magnitude (OOMs)** in compute, algorithmic efficiency, and **unhobbling** to argue that AGI arrives by **2027**, triggering an intelligence explosion, trillion-dollar ** industrial mobilization**, **superalignment** challenges, and a national-security **"The Project."**
+67. **[[co-intelligence-living-and-working-with-ai]]** ([[ethan-mollick]], 2024, Portfolio / Penguin, 114 pp.)  
+    Defines the **Jagged Frontier** of LLM capabilities, the **Four Rules of Co-Intelligence** (*Always invite AI to the table; Be the human in the loop; Treat AI like a person; Assume this is the worst AI you will ever use*), **Centaurs vs. Cyborgs**, and **"**"Best-of-Breed"** augmentation.
+68. **[[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]]** (eds. [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], & [[vincent-lenders]], 2024, Springer Open, 249 pp.)  
+    24-chapter technical reference from the Cyber-Defence Campus (armasuisse) analyzing LLM architectures, **prompt injection**, **data poisoning**, **training data extraction**, **SOC automation**, and disinformation warfare.
+69. **[[the-coming-wave-ai-power-and-our-future]]** ([[mustafa-suleyman]] & [[michael-bhaskar]], 2023, Crown, 302 pp. + 673 HTML study annotations)  
+    Diagnoses the **containment problem** of **omni-use** AI and synthetic biology, the **pessimism aversion trap**, asymmetric nation-state disruption, and the **Ten Concentric Steps Toward Containment**.
+70. **[[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]]** ([[michael-wooldridge]], 2020, Flatiron Books / Macmillan, 9 chapters `.epub`)  
+    Oxford computer scientist's intellectual history from **Turing's 1950 Imitation Game** and the **1956 Dartmouth Workshop** through **GOFAI**, **AI Winters**, behavioral robotics, deep reinforcement learning (**AlphaGo**), and the **Consciousness Fallacy**.
+71. **[[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]]** ([[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], & [[david-beyer]], 2016/2019, O'Reilly Media, 2 Vols., 151 pp.)  
+    Pairs Teradata's enterprise AI operationalization playbooks (**AI Flywheel**, **MLOps governance**) with O'Reilly's frontier perspectives on deep learning, hardware acceleration, and data strategy.
+72. **[[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]]** ([[sandro-skansi]], 2018, Springer, 196 pp.)  
+    Traces neural computation from **McCulloch–Pitts (1943)** logical calculus and **Rosenblatt's Perceptron** through **backpropagation**, **CNNs**, **RNNs/LSTMs**, **Word2Vec**, **autoencoders**, and **Searle's Chinese Room**.
+73. **[[machine-learning-for-dummies-ibm-limited-edition]]** ([[judith-hurwitz]] & [[daniel-kirsch]], 2018, John Wiley & Sons, 75 pp., 2 identical SHA-256 copies)  
+    Executive practitioner guide covering supervised, unsupervised, and reinforcement learning pipelines, feature engineering, neural networks, and enterprise **IBM Watson** deployments.
+74. **[[introduction-to-artificial-intelligence]]** ([[wolfgang-ertel]], 2017, Springer 2nd Ed., 365 pp.)  
+    Rigorous German-tradition textbook spanning **propositional and first-order predicate logic**, **Resolution Calculus**, **heuristic search ($A^*$)**, **Jaynesian probability & Bayesian networks**, **reinforcement learning**, and deep learning.
+75. **[[an-introduction-to-machine-learning]]** ([[miroslav-kubat]], 2017, Springer 2nd Ed., 348 pp.)  
+    Comprehensive 16-chapter university textbook covering **Bayesian classifiers**, **Perceptrons/MLPs**, **SVMs**, **Decision Trees ($ID3/C4.5$)**, **Boosting/AdaBoost**, **PAC learning**, **VC-dimension**, and **class imbalance**.
+76. **[[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]]** ([[laura-igual]] & [[santi-segui]], 2017, Springer, 227 pp.)  
+    Hands-on University of Barcelona textbook teaching statistical inference, regression, clustering, **recommender systems**, **NLP**, **PageRank network analysis**, and **MapReduce/Spark** in Python.
+77. **[[machine-learning-in-medicine-a-complete-overview]]** ([[ton-j-cleophas]] & [[aeilko-h-zwinderman]], 2015, Springer, 498 pp.)  
+    80-chapter biostatistical compendium covering **hierarchical clustering**, **linear/logistic/Cox regression**, **Monte Carlo & Markov chains**, **neural networks**, **support vector machines**, and **genetic algorithms** in clinical trials.
+78. **[[python-and-r-scientific-computing-foundations-for-ai-and-data-science]]** ([[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], & [[erik-h-w-g-meesters]], 2009–2019, Springer, 4 Vols., 1,404 pp.)  
+    Four-volume Springer computing foundation uniting **Python 3 object-oriented/functional software engineering**, **computational complexity ($O(n)$) & data structures (ASTs, AVL/B-Trees, graphs)**, and **R biostatistical computing**.
+

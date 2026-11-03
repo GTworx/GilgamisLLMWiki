@@ -13,6 +13,9 @@ In [[discovering-the-brain]], [[sandra-ackerman]] maps the *Decade of the Brain*
 ---
 
 ## Featured Works
+- [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] (2018) — [[sandro-skansi]]
+- [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] (2020) — [[michael-wooldridge]]
+- [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]

@@ -16,6 +16,8 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 
 ## Books in Wiki
 
+- [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
+- [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[the-evolution-of-cooperation]] (1984) — Robert Axelrod (especially Chapter 5 with William D. Hamilton)
 

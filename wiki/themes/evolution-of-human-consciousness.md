@@ -15,6 +15,7 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 
 ## Featured Works
 
+- [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]
 - [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] — Shamanic altered states and the Upper Paleolithic creative explosion.
 - [[the-adaptability-advantage]] — Applied neuroscience of clearing emotional debt and consciously evolving beyond survival-wired reactivity.

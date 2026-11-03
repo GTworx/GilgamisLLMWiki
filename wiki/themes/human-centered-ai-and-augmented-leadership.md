@@ -17,6 +17,13 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 ---
 
 ## Featured Works
+- [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
+- [[introduction-to-artificial-intelligence]] (2017) — [[wolfgang-ertel]]
+- [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]
+- [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
+- [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
+- [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]
+- [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
 - [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] (2015) — [[james-bessen]]
 - [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]
