@@ -26,6 +26,8 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 ---
 
 ## Featured Works
+- [[house-of-trump-house-of-putin]] (2018) — [[craig-unger]]
+- [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
 - [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
 - [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]

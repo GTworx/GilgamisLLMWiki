@@ -19,6 +19,7 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
 - [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]

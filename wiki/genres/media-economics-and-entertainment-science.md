@@ -14,6 +14,7 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 ---
 
 ## Books in Wiki
+- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[the-digital-as-para-world]] (2011) — [[lane-denicola]]
 - [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]
 - [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]

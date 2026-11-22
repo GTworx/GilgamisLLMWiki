@@ -13,6 +13,7 @@ In [[practical-fraud-prevention]], [[gilit-saporta]] and [[shoshana-maraney]] re
 ---
 
 ## Featured Works
+- [[house-of-trump-house-of-putin]] (2018) — [[craig-unger]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
 - [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
 - [[snowflake-the-definitive-guide]] (2022) — [[joyce-kay-avila]]

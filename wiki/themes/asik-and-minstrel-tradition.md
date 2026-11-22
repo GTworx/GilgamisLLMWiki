@@ -21,6 +21,7 @@ His instrument (*saz*) is not merely musical entertainment, but a moral confidan
 ---
 
 ## Featured Works
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]
 
 - [[asik-borani-soz-insanin-aynasi]] — Spans 60 years of contemporary minstrelcy, demonstrating how traditional oral forms adapt to 21st-century civic and technological realities.

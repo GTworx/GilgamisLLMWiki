@@ -18,6 +18,7 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]

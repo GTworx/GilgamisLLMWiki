@@ -1,7 +1,7 @@
 # Theme: Nuclear Strategy and Strategic Stability
 
 **Summary**: The doctrines, operational postures, arms control frameworks, and technological dynamics governing the role of nuclear weapons in preventing major power war while avoiding catastrophic escalation.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -19,6 +19,7 @@ In *Deterrence in the 21st Century*, contributors explore how the 21st-century n
 ---
 
 ## Featured Works
+- [[world-order]] (2014) — [[henry-kissinger]]
 
 - [[deterrence-in-the-21st-century]] — In-depth chapters covering the evolution of nuclear strategy (Freedman, ch. 1), arms control and strategic stability (Arbatov, ch. 5), extended deterrence (van Hooft, ch. 6), regional nuclear dynamics (Aarten, ch. 12), and algorithmic game theory (Lindelauf, ch. 22).
 - [[the-evolution-of-cooperation]] — Bridges game-theoretic dilemmas (Prisoner's Dilemma vs Chicken) and demonstrates how transparent reciprocity enables verification in arms control treaties.

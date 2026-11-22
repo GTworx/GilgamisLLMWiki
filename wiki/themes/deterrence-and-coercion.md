@@ -1,7 +1,7 @@
 # Theme: Deterrence and Coercion
 
 **Summary**: The strategy and psychology of preventing unwanted adversary actions through the credible threat of unacceptable costs (punishment) or rendering the objective unattainable (denial).  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -21,6 +21,9 @@ In *Deterrence in the 21st Century*, Lawrence Freedman, Frans Osinga, and Tim Sw
 ---
 
 ## Featured Works
+- [[the-room-where-it-happened]] (2020) — [[john-bolton]]
+- [[world-order]] (2014) — [[henry-kissinger]]
+- [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 
 - [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
 - [[deterrence-in-the-21st-century]] — Comprehensive multi-author treatise analyzing conventional, nuclear, cross-domain, non-Western, and non-state deterrence.

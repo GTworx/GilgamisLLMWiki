@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]
 - [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]

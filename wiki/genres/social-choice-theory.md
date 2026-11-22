@@ -2,7 +2,7 @@
 
 **Description**: The mathematical and philosophical study of collective decision-making, preference aggregation, voting paradoxes, and the axiomatic foundations of democratic governance.
 **Key Themes**: [[topological-social-choice-and-preference-cycles]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -16,6 +16,7 @@ Within the Gilgamis LLM Wiki, Social Choice Theory bridges two major analytical 
 ---
 
 ## Books in Wiki
+- [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
 - [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]

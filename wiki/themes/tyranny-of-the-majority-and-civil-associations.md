@@ -1,7 +1,7 @@
 # Theme: Tyranny of the Majority and Civil Associations
 
 **Summary**: The structural tension in democratic societies between majoritarian conformity or centralized "soft despotism" on one hand, and the protective counterweights of voluntary civil associations, local self-government, judicial review, and pluralist norms on the other.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -16,6 +16,10 @@ Across political sociology, constitutional law, and mathematical social choice t
 ---
 
 ## Featured Works
+- [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
+- [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
+- [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
+- [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]

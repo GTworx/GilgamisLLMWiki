@@ -14,6 +14,7 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]

@@ -1,7 +1,7 @@
 # Theme: Institutional Neutrality and Academic Freedom
 
 **Summary**: The principle that academic institutions must maintain political neutrality to preserve the environment of free inquiry and diverse thought.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -11,6 +11,7 @@ This theme connects the Kalven Report to the broader wiki discourse on organizat
 ---
 
 ## Featured Works
+- [[the-israel-lobby-and-us-foreign-policy]] (2007) — [[john-j-mearsheimer]], [[stephen-m-walt]]
 - [[ethics-in-higher-education-values-driven-leaders-for-the-future]] (2017) — [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 

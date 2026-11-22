@@ -2,7 +2,7 @@
 
 **Description**: The academic study of the political, diplomatic, military, and economic interactions between sovereign states, non-state actors, and international systems.  
 **Key Themes**: [[deterrence-and-coercion]], [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[nuclear-strategy-and-strategic-stability]], [[non-western-strategic-thought]]  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,9 @@ In the wiki, IR provides the macro-political context for both Axelrod's institut
 ---
 
 ## Books in Wiki
+- [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
+- [[world-order]] (2014) — [[henry-kissinger]]
+- [[the-israel-lobby-and-us-foreign-policy]] (2007) — [[john-j-mearsheimer]], [[stephen-m-walt]]
 
 - [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
 - [[the-evolution-of-cooperation]] (1984) — Robert Axelrod

@@ -30,6 +30,10 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
+- [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
+- [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
+- [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
 - [[precalculus-openstax]] (2017) — [[jay-abramson]]
 - [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]

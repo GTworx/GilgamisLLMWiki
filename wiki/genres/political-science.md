@@ -15,6 +15,17 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
+- [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
+- [[the-room-where-it-happened]] (2020) — [[john-bolton]]
+- [[house-of-trump-house-of-putin]] (2018) — [[craig-unger]]
+- [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
+- [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
+- [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
+- [[the-israel-lobby-and-us-foreign-policy]] (2007) — [[john-j-mearsheimer]], [[stephen-m-walt]]
+- [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]
+- [[orientalism]] (1978) — [[edward-w-said]]
 - [[the-buyout-of-america]] (2009) — [[josh-kosman]]
 
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]

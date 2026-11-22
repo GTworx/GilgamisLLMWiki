@@ -14,6 +14,8 @@ Featured in [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility
 ---
 
 ## Books in Wiki
+- [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
+- [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
 

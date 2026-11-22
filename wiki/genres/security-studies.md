@@ -2,7 +2,7 @@
 
 **Description**: The academic subdiscipline of international relations focusing on national, international, and human security, threat perception, conflict prevention, and defense policy.  
 **Key Themes**: [[deterrence-and-coercion]], [[hybrid-threats-and-cyber-warfare]], [[cross-domain-conflict]], [[violent-non-state-actors]], [[nuclear-strategy-and-strategic-stability]]  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ Security Studies analyzes threats to the survival and stability of states, socie
 ---
 
 ## Books in Wiki
+- [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
 - [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]

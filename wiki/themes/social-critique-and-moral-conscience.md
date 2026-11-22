@@ -20,6 +20,9 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
+- [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 - [[the-buyout-of-america]] (2009) — [[josh-kosman]]
 
 - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]

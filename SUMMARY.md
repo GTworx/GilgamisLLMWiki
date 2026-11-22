@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 124 distinct intellectual works (across 146 source files/volumes and ~37,500+ pages)
-- **Total Generated Wiki Pages**: 481 interlinked markdown files (479 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 140 distinct intellectual works (across 164 source files/volumes and ~43,200+ pages)
+- **Total Generated Wiki Pages**: 531 interlinked markdown files (529 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 124 ([books/](wiki/books/))
-- **Author Profile Pages**: 231 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 59 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 65 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 140 ([books/](wiki/books/))
+- **Author Profile Pages**: 258 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 62 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 69 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -284,3 +284,37 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Applied mathematical-literacy compendium pairing 501 structured real-world arithmetic/algebra/geometry problems with 8th-grade weekly proof and creative problem-solving challenges.
 124. **[[turkiyenin-onemli-doga-alanlari-ege-bolgesi]]** ([[doga-dernegi-researchers]], 2007, Doğa Derneği, 80 pp., pp. 169–248)  
      Conservation biodiversity inventory cataloging the **Aegean Region's Key Biodiversity Areas (ÖDA)**—including **Büyük Menderes Delta, Gediz Delta, Kaz Dağları, Gökova, and Babadağ**—with IUCN endemic flora/fauna thresholds and wetland threats (cataloged from `BOOKS/Math/03_EGE.pdf` via CP1254 glyph decoding).
+
+### Category J: Option C — Geopolitics, Diplomatic History, Intelligence Studies & Political Ideology (`BOOKS/Politics_/` — 16 Works across 18 Source Files)
+125. **[[orientalism]]** ([[edward-w-said]], 1978/1979 Vintage Ed., 378 pp.)  
+     Foundational postcolonial critique deploying Foucault and Gramsci to expose Orientalism as an academic, imaginative, and institutional power regime constructing "the Orient" as Europe's subordinate Other.
+126. **[[the-end-of-history-and-the-last-man]]** ([[francis-fukuyama]], 1992, The Free Press, 446 pp.)  
+     Hegelian–Kojèvian philosophy of history pairing modern natural science and the **struggle for recognition (*thymos*)** to argue liberal democracy is humanity's ideological endpoint—while warning of Nietzsche's risk-averse "last man."
+127. **[[by-way-of-deception]]** ([[victor-ostrovsky]] & [[claire-hoy]], 1990/1994, St. Martin's Press, 378 pp.)  
+     Controversial Mossad *katsa* insider account detailing academy tradecraft, *sayanim* networks, and covert operations (including Operation Sphinx), framed around the democratic necessity of public intelligence oversight.
+128. **[[the-israel-lobby-and-us-foreign-policy]]** ([[john-j-mearsheimer]] & [[stephen-m-walt]], 2007, Farrar, Straus and Giroux, 496 pp.)  
+     Realist foreign-policy study examining how a loose coalition of pro-Israel organizations and individuals shapes U.S. congressional, executive, and media consensus across Palestine, Iraq, Syria, Iran, and Lebanon.
+129. **[[enchanted-america]]** ([[j-eric-oliver]] & [[thomas-j-wood]], 2018, University of Chicago Press, 278 pp.)  
+     Empirical political psychology demonstrating that America's deepest fault line is epistemic—pitting **Rationalists** against **Intuitionists** across populism, conspiracy theories, religious fundamentalism, and health skepticism.
+130. **[[mandate-for-leadership-2025]]** ([[paul-dans]], [[steven-groves]], & [[kevin-d-roberts]], 2023/2025, Heritage Foundation, 920 pp.)  
+     Project 2025's 30-chapter conservative transition blueprint operationalizing *"personnel is policy"* to dismantle the federal Administrative State, expand unitary-executive control, and realign U.S. defense, trade, and regulatory agencies.
+131. **[[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]]** ([[burhan-oguz]], 1997, Simurg, 3 Vols., 1,242 pp.)  
+     Monumental Turkish historical-sociological trilogy tracing Eurasian cultural syncretism (*kültürel melezleşme*) from ancient heresies (Paulicians, Bogomils, Mazdakism, Qarmatians) through Anatolian heterodox Islam (Bektashiyye, Yunus Emre, Pir Sultan Abdal) to Babai, Şeyh Bedreddin, and Celali uprisings.
+132. **[[the-psychological-assessment-of-political-leaders]]** (eds. [[jerrold-m-post]], with [[margaret-g-hermann]], [[stephen-g-walker]], & [[david-g-winter]], 2003, Univ. of Michigan Press, 475 pp.)  
+     Definitive handbook of at-a-distance political personality profiling—uniting **Leadership Trait Analysis (LTA)**, **Operational Code**, **Motive Imagery**, and **Integrative Complexity** applied side-by-side to Bill Clinton and Saddam Hussein.
+133. **[[us-declaration-of-independence-and-constitution-appendix]]** (comp. [[nick-ragone]], 2013 / primary charters 1776–1992, Adams Media, 27 pp.)  
+     Complete primary-source constitutional appendix compiling the 1776 Declaration of Independence, Articles I–VII of the U.S. Constitution, the Bill of Rights, and all 27 Amendments.
+134. **[[world-order]]** ([[henry-kissinger]], 2014, Penguin Press, 241 pp.)  
+     Comparative diplomatic history contrasting Europe's Westphalian balance of power with Islamic universalism, Chinese *Tianxia*, Iranian statecraft, and American exceptionalism in the nuclear and cyber age.
+135. **[[house-of-trump-house-of-putin]]** ([[craig-unger]], 2018, Dutton, 491 pp.)  
+     Investigative chronicle tracing four decades of convergence among New York real estate, post-Soviet *Mafiya* syndicates, oligarchic money laundering, and Russian intelligence active measures across 59 documented intermediaries.
+136. **[[the-room-where-it-happened]]** ([[john-bolton]], 2020, Simon & Schuster, 290 pp.)  
+     Former National Security Advisor's insider memoir critiquing personalist, showmanship-driven executive policymaking across North Korea, NATO/Helsinki, Russia, Syria, Venezuela, China, Iran, and Ukraine.
+137. **[[russian-politics-from-lenin-to-putin]]** (ed. [[stephen-fortescue]], with [[archie-brown]] & [[sheila-fitzpatrick]], 2010, Palgrave Macmillan, 240 pp.)  
+     St Antony's Series volume honoring T. H. Rigby examining institutionalization vs. personalism, Stalin's inner circle, Soviet urban legitimation, Gorbachev's perestroika, and Putin's corporate-state *pantouflage à la russe*.
+138. **[[turkic-world-senate-analysis-2026]]** ([[turkic-world-policy-analysts]], May 2026, 8 pp.)  
+     2026 U.S. Senate foreign-policy scorecard evaluating incumbents and challengers across Uyghur/Xinjiang UFLPA enforcement, U.S.–Türkiye accountability/NATO ties, Azerbaijan, and C5+1 Central Asian engagement.
+139. **[[the-relationship-between-capitalism-and-democracy]]** ([[aleksandra-evelyn-petkovic]], 2017, Univ. of Arizona Honors Thesis, 34 pp.)  
+     Philosophical political-economy synthesis of Friedman, Dahl, Lindblom, and Christiano proving capitalism supplies citizen independence from the state while constraining political equality via campaign-finance gatekeeping and the "market as a prison."
+140. **[[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]]** ([[slavs-and-tatars]] & [[jalil-mammadguluzadeh]], 2011 / 1906–1930, Christoph Keller Editions, 107 pp.)  
+     English translation and cultural analysis of the pioneering polyglot Azeri satirical weekly *Molla Nasreddin* (Tbilisi, Tabriz, Baku), attacking clerical hypocrisy, colonialism, and elite self-colonization while championing Jadid reform and women's suffrage.

@@ -1,7 +1,7 @@
 # Theme: Constrained vs. Unconstrained Visions, Doppelgänger Politics, and Postcolonial Identity
 
 **Summary**: The ideological clash between Constrained (trade-off/systemic) and Unconstrained (solution/articulated) visions alongside postcolonial diaspora hybridity and ethnic mirror projections.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ In [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[thoma
 ---
 
 ## Featured Works
+- [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]

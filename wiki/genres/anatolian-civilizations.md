@@ -31,5 +31,6 @@ Anatolia represents one of the dense epicenters of human civilization, from the 
 - [[younger-dryas-impact-hypothesis]]
 
 ## Books in Wiki
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]

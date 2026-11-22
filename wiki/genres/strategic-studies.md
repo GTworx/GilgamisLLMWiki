@@ -15,6 +15,7 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 ---
 
 ## Books in Wiki
+- [[world-order]] (2014) — [[henry-kissinger]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]

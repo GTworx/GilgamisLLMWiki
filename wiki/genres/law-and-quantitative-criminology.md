@@ -14,6 +14,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
+- [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
 - [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]

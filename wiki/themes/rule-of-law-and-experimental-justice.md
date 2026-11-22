@@ -13,6 +13,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Featured Works
+- [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
+- [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[the-buyout-of-america]] (2009) — [[josh-kosman]]

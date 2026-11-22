@@ -2,7 +2,7 @@
 
 **Description**: Critical, historical, and philological scholarship examining modernist fiction, narrative form, and the intersection of literature with intellectual and political crises.
 **Key Themes**: [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]], [[fanaticism-and-human-sacrifice]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 ---
 
 ## Books in Wiki
+- [[orientalism]] (1978) — [[edward-w-said]]
 - [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
 
 ---

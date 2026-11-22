@@ -2,7 +2,7 @@
 
 **Description**: The indigenous philosophical, spiritual, and ethical tradition of Anatolia emphasizing universal human dignity, tolerance, egalitarianism, and divine reflection within the human conscience.  
 **Key Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[non-western-strategic-thought]], [[cooperation-and-reciprocity]]  
-**Last updated**: 2026-09-12  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -20,6 +20,7 @@ In the 20th and 21st centuries, poets such as Âşık Veysel, Mahzuni Şerif, an
 ---
 
 ## Books in Wiki
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 
 - [[asik-borani-soz-insanin-aynasi]] (2020) — Âşık Borani (Halil Çimen), edited by İbrahim Gösterir
 

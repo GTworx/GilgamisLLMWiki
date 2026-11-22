@@ -2,7 +2,7 @@
 
 **Description**: Historical and cultural analysis of empire, settler-colonialism, diasporic migration, anti-racist solidarity, and the mirror dynamics of nationalism.
 **Key Themes**: [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[clash-of-civilizations]], [[tyranny-of-the-majority-and-civil-associations]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,8 @@ Featured in [[ashley-dawson]]'s [[mongrel-nation-colonization-in-reverse]] (with
 ---
 
 ## Books in Wiki
+- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
+- [[orientalism]] (1978) — [[edward-w-said]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
 

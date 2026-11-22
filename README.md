@@ -81,18 +81,18 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 124 distinct intellectual works (across 146 source files/volumes and ~37,500+ pages)
-- **Total Maintained Wiki Pages**: 481 interlinked markdown documents (479 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 124 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 231 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 59 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 65 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 140 distinct intellectual works (across 164 source files/volumes and ~43,200+ pages)
+- **Total Maintained Wiki Pages**: 531 interlinked markdown documents (529 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 140 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 258 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 62 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 69 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
-## 📚 Recent & Featured Ingested Library Catalog (124 Total Works)
+## 📚 Recent & Featured Ingested Library Catalog (140 Total Works)
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -183,18 +183,19 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Physics/                             # Ingested: All 11 files across 10 distinct works (~2,700 pp., incl. Everett 1957 & Irodov)
 │   ├── BOOKS/Health Pharma/                       # Ingested: All 7 files across 5 distinct works (~1,100 pp., 3 Ikigai editions consolidated)
 │   ├── BOOKS/Math/                                # Ingested: All 5 files across 4 distinct works (~2,700 pp., incl. Aegean KBA 03_EGE.pdf)
+│   ├── BOOKS/Politics_/                           # Ingested: All 18 files across 16 distinct works (~5,700 pp., Said, Fukuyama, Kissinger, Project 2025, Burhan Oğuz, etc.)
 │   └── BOOKS/History_/, Philosophy..., ...        # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (481 markdown pages)
+├── wiki/                                          # Maintained knowledge base (531 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (124 pages)
-│   ├── authors/                                   # Author profile pages (231 pages)
-│   ├── genres/                                    # Genre index pages (59 pages)
-│   └── themes/                                    # Core thematic concept pages (65 pages)
+│   ├── books/                                     # Ingested book detail pages (140 pages)
+│   ├── authors/                                   # Author profile pages (258 pages)
+│   ├── genres/                                    # Genre index pages (62 pages)
+│   └── themes/                                    # Core thematic concept pages (69 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

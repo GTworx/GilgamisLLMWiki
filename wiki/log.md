@@ -463,3 +463,36 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 479 entity pages (481 total markdown files).
+
+
+---
+
+## [2026-11-22T19:15:00+01:00] ingest | Option C: Single-Domain Sweep (`BOOKS/Politics_/` — 16 Distinct Works across All 18 Source Files; 140-Book Milestone)
+
+- **Operation**: Complete single-domain batch ingestion of all 18 source PDFs in `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Politics_\`, consolidated into **16 distinct intellectual works** (~5,700+ pages, consolidating Burhan Oğuz's 3-volume trilogy *Türk Halk Düşüncesi ve Hareketlerinin İdeolojik Kökenleri*, extracting *By Way of Deception* via PyMuPDF for deep page tree, and visually inspecting the scanned 496-page *The Israel Lobby and U.S. Foreign Policy*). Brings the Gilgamis LLM Wiki from **124 → 140 books**.
+- **Ingested Works (16 Distinct Works across 18 Source Files)**:
+  - [[orientalism]] ([[edward-w-said]], 1978/1979, 378 pp.) — `BOOKS/Politics_/1979 Orientalism Said_Edward_Orientalism_1979.pdf`
+  - [[the-end-of-history-and-the-last-man]] ([[francis-fukuyama]], 1992, 446 pp.) — `BOOKS/Politics_/1992 Francis_Fukuyama_End_of_History_and_the_Last_Man.pdf`
+  - [[by-way-of-deception]] ([[victor-ostrovsky]], [[claire-hoy]], 1990/1994, 378 pp.) — `BOOKS/Politics_/1994 By Way of Deception- The Making and Unmaking of a Mossad Officer.pdf`
+  - [[the-israel-lobby-and-us-foreign-policy]] ([[john-j-mearsheimer]], [[stephen-m-walt]], 2007, 496 pp.) — `BOOKS/Politics_/2007 the-israel-lobby-and-us-foreign-policy.pdf`
+  - [[enchanted-america]] ([[j-eric-oliver]], [[thomas-j-wood]], 2018, 278 pp.) — `BOOKS/Politics_/2018 Eric Oliver Enchanted America.pdf`
+  - [[mandate-for-leadership-2025]] ([[paul-dans]], [[steven-groves]], [[kevin-d-roberts]], 2023/2025, 920 pp.) — `BOOKS/Politics_/2025_MandateForLeadership_FULL.pdf`
+  - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] ([[burhan-oguz]], 1997, 3 Vols., 1,242 pp.) — `BOOKS/Politics_/2252-1/2/3-Turk_Xalq_Dushuncesi_Ve_Hereketlerinin_Ideolojik_Kokenleri-1/2/3-Burhan_Oghuz-1997-*.pdf`
+  - [[the-psychological-assessment-of-political-leaders]] ([[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]], 2003, 475 pp.) — `BOOKS/Politics_/Assessing Leadership Style_ Trait Analysis ( PDFDrive ).pdf`
+  - [[us-declaration-of-independence-and-constitution-appendix]] ([[nick-ragone]], 2013 / primary charters 1776–1992, 27 pp.) — `BOOKS/Politics_/Everything About Government Appendix.pdf`
+  - [[world-order]] ([[henry-kissinger]], 2014, 241 pp.) — `BOOKS/Politics_/H_Kissinger_-_World_Order.pdf`
+  - [[house-of-trump-house-of-putin]] ([[craig-unger]], 2018, 491 pp.) — `BOOKS/Politics_/House of Trump, House of Putin_ How Vladimir Putin and the Russian Mafia Helped Put Donald Trump in the White House ( PDFDrive ).pdf`
+  - [[the-room-where-it-happened]] ([[john-bolton]], 2020, 290 pp.) — `BOOKS/Politics_/John Bolton - The Room Where It  Happened_ A White House Memoir (2020, Simon & Schuster).pdf`
+  - [[russian-politics-from-lenin-to-putin]] ([[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]], 2010, 240 pp.) — `BOOKS/Politics_/Russian Politics from Lenin to Putin ( PDFDrive ).pdf`
+  - [[turkic-world-senate-analysis-2026]] ([[turkic-world-policy-analysts]], 2026, 8 pp.) — `BOOKS/Politics_/Turkic World Senate Analysis 2026.pdf`
+  - [[the-relationship-between-capitalism-and-democracy]] ([[aleksandra-evelyn-petkovic]], 2017, 34 pp.) — `BOOKS/Politics_/azu_etd_hr_2017_0172_sip1_m.pdf`
+  - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] ([[slavs-and-tatars]], [[jalil-mammadguluzadeh]], 2011 / 1906–1930, 107 pp.) — `BOOKS/Politics_/molla_nasreddin_slavs_and_tatars.pdf`
+- **Entity Pages Created / Updated**:
+  - **Books**: 16 new pages created (total: 140)
+  - **Authors**: 27 new author profiles created: [[edward-w-said]], [[francis-fukuyama]], [[victor-ostrovsky]], [[claire-hoy]], [[john-j-mearsheimer]], [[stephen-m-walt]], [[j-eric-oliver]], [[thomas-j-wood]], [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]], [[burhan-oguz]], [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]], [[nick-ragone]], [[henry-kissinger]], [[craig-unger]], [[john-bolton]], [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]], [[turkic-world-policy-analysts]], [[aleksandra-evelyn-petkovic]], [[slavs-and-tatars]], [[jalil-mammadguluzadeh]] (total: 258)
+  - **Genres**: 3 new genre indices created ([[geopolitics-and-diplomatic-history]], [[intelligence-studies-and-national-security]], [[political-psychology-and-ideology]]) and 18 existing genres updated (total: 62)
+  - **Themes**: 4 new thematic syntheses created ([[orientalism-postcolonial-discourse-and-cultural-satire]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[political-intuitionism-administrative-state-and-capitalist-democracy]]) and 14 existing themes updated (total: 69)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 529 entity pages (531 total markdown files).

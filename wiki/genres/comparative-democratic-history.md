@@ -2,7 +2,7 @@
 
 **Description**: The cross-civilizational historical, sociological, and constitutional study of popular assemblies, electoral representation, civil associations, and power-monitoring institutions from third-millennium BC Mesopotamia to modern post-parliamentary democracies.
 **Key Themes**: [[pre-athenian-and-indigenous-democracies]], [[tyranny-of-the-majority-and-civil-associations]], [[monitory-democracy-and-power-scrutiny]], [[institutional-neutrality-and-academic-freedom]], [[topological-social-choice-and-preference-cycles]], [[critique-of-academic-orthodoxy]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -17,6 +17,9 @@
 ---
 
 ## Books in Wiki
+- [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
+- [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
+- [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]
 - [[democracy-in-america]] (1840) — [[alexis-de-tocqueville]]
 - [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
 - [[the-first-democracies-early-popular-government-outside-athens]] (1997) — [[eric-w-robinson]], [[richard-j-evans]]
