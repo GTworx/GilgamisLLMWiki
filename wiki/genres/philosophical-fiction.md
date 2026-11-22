@@ -14,6 +14,8 @@ In the wiki, this genre encompasses [[robert-m-pirsig]]'s Chautauqua on the Meta
 ---
 
 ## Books in Wiki
+- [[finnegans-wake]] (1939) — [[james-joyce]]
+- [[sophies-world]] (1991) — [[jostein-gaarder]]
 - [[machines-like-me]] (2019) — [[ian-mcewan]]
 - [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
 - [[the-last-man-volume-one]] (1826) — [[mary-shelley]]

@@ -30,6 +30,14 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[the-devil-made-me-do-it-malevolent-creativity]] (2017) — [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]]
+- [[the-undoing-project]] (2016) — [[michael-lewis]]
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
+- [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
+- [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
+- [[lying-sam-harris]] (2011) — [[sam-harris]]
+- [[philosophy-100-great-thinkers]] (2010) — [[jeremy-harwood]]
+- [[plato-complete-works]] (1997) — [[plato]], [[john-m-cooper]], [[d-s-hutchinson]]
 - [[the-art-of-manipulation]] (1978) — [[r-b-sparkman]]
 - [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]

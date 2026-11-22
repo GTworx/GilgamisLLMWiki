@@ -13,6 +13,9 @@ Nowhere is this clearer than in our three-edition [[omar-khayyam]] triad: [[edwa
 ---
 
 ## Featured Works
+- [[finnegans-wake]] (1939) — [[james-joyce]]
+- [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
+- [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
 - [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
 - [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]

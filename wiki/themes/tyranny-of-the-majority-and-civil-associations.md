@@ -16,6 +16,7 @@ Across political sociology, constitutional law, and mathematical social choice t
 ---
 
 ## Featured Works
+- [[the-open-society-and-its-enemies-vol-1]] (1962) — [[karl-popper]]
 - [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]

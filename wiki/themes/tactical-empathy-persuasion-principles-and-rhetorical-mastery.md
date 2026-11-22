@@ -13,6 +13,8 @@
 ---
 
 ## Featured Works
+- [[the-art-of-gathering]] (2018) — [[priya-parker]]
+- [[lying-sam-harris]] (2011) — [[sam-harris]]
 - [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
 - [[venture-capital-deal-terms]] (2016) — [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]]
 - [[the-art-of-startup-fundraising]] (2016) — [[alejandro-cremades]]

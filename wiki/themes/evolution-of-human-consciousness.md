@@ -14,6 +14,14 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 3. **Humanistic Self-Transcendence**: In [[leading-for-tomorrow]] (2026), humanistic psychologist [[scott-barry-kaufman]] and [[chris-shipley]] extend Abraham Maslow's late theory of **self-transcendence**, showing how mature leadership requires evolving from defensive ego-protection toward integrated wisdom, empathy, and service to the whole of humanity.
 
 ## Featured Works
+- [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
+- [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
+- [[the-untethered-soul]] (2007) — [[michael-a-singer]]
+- [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]
+- [[finnegans-wake]] (1939) — [[james-joyce]]
+- [[ruyalari-yorumu-interpretation-of-dreams]] (1900) — [[sigmund-freud]], [[dilman-muradoglu]]
+- [[sophies-world]] (1991) — [[jostein-gaarder]]
+- [[confessions-of-saint-augustine]] (1838) — [[saint-augustine]], [[edward-b-pusey]]
 - [[emotional-intelligence]] (1995) — [[daniel-goleman]]
 - [[blink-power-of-thinking-without-thinking]] (2005) — [[malcolm-gladwell]]
 - [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]

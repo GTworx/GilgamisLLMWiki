@@ -14,6 +14,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[the-devil-made-me-do-it-malevolent-creativity]] (2017) — [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]]
+- [[psychology-of-terrorism-ncjrs]] (2004) — [[randy-borum]]
 - [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
 - [[financing-real-estate-investments-for-dummies]] (2009) — [[ralph-r-roberts]], [[chip-cummings]]
 - [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]

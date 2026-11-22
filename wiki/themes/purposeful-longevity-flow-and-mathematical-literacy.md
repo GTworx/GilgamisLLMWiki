@@ -13,6 +13,7 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 ---
 
 ## Featured Works
+- [[a-guide-to-the-good-life-stoic-joy]] (2009) — [[william-b-irvine]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[mastery-robert-greene]] (2012) — [[robert-greene]]
 - [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]

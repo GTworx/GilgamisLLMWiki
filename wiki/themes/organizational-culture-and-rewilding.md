@@ -19,6 +19,7 @@ This rewilding framework converges directly with [[amy-c-edmondson]]'s work on *
 ---
 
 ## Featured Works
+- [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]
 - [[good-to-great]] (2001) — [[jim-collins]]

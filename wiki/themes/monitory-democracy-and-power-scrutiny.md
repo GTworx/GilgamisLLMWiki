@@ -15,6 +15,8 @@ Coined by political theorist [[john-keane]] in [[the-life-and-death-of-democracy
 ---
 
 ## Featured Works
+- [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]
+- [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
 - [[the-life-and-death-of-democracy-and-monitory-democracy]] (2009) — [[john-keane]]
 - [[the-secret-history-of-democracy-primitive-democracy]] (2011) — [[benjamin-isakhan]], [[stephen-stockwell]]

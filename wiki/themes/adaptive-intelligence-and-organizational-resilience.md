@@ -17,6 +17,8 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
+- [[the-tools-stutz-michels]] (2012) — [[phil-stutz]], [[barry-michels]]
 - [[the-lean-startup]] (2011) — [[eric-ries]]
 - [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
 - [[the-hard-thing-about-hard-things]] (2014) — [[ben-horowitz]]

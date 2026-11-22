@@ -14,6 +14,9 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 ---
 
 ## Books in Wiki
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
+- [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
+- [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
 - [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
 - [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
 - [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]

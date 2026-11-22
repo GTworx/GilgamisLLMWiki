@@ -13,6 +13,8 @@ Security Studies analyzes threats to the survival and stability of states, socie
 ---
 
 ## Books in Wiki
+- [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
+- [[psychology-of-terrorism-ncjrs]] (2004) — [[randy-borum]]
 - [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]

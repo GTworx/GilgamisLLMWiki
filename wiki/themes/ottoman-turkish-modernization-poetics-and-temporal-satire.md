@@ -13,6 +13,7 @@ From the classical chronicles and archival hands taught in [[recep-ahishali]] et
 ---
 
 ## Featured Works
+- [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
 - [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 - [[osmanli-turkcesi-metinleri-1]] (2012) — [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]]
 - [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]

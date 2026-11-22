@@ -17,6 +17,8 @@
 ---
 
 ## Books in Wiki
+- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
+- [[the-open-society-and-its-enemies-vol-1]] (1962) — [[karl-popper]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
 - [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
 - [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]

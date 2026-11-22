@@ -4,8 +4,8 @@
 **Genre(s)**: [[political-science]], [[social-choice-theory]], [[republican-intellectual-history]]  
 **Key Themes**: [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[rationality-and-decision-making]], [[tyranny-of-the-majority-and-civil-associations]]  
 **Publication Year**: 2007  
-**Source**: BOOKS/Society_/2006 A Conflict of Visions Ideological Origins of Political Struggles-by Thomas Sowell.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Society_\)  
-**Last updated**: 2026-11-01  
+**Source**: BOOKS/Society_/2006 A Conflict of Visions Ideological Origins of Political Struggles-by Thomas Sowell.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Society_\); also synced: `BOOKS/Philosophy Psychology Sociology/Thomas Sowell - A Conflict Of Visions_ Ideological Origins of Political Struggles-Basic Books (2002).pdf` (307 pp., 2002 Basic Books ed.) & `BOOKS/Philosophy Psychology Sociology/A_Conflict_of_Visions_-_Constrained_and_Unconstrained_Visions.pdf` (24 pp., 1987 William Morrow / Liberty Fund Ch. 2 excerpt)  
+**Last updated**: 2026-11-22  
 
 ---
 

@@ -14,6 +14,10 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[the-undoing-project]] (2016) — [[michael-lewis]]
+- [[female-sexuality-early-psychoanalytic-controversies]] (1999) — [[russell-grigg]], [[dominique-hecq]], [[craig-smith]]
+- [[philosophy-100-great-thinkers]] (2010) — [[jeremy-harwood]]
+- [[confessions-of-saint-augustine]] (1838) — [[saint-augustine]], [[edward-b-pusey]]
 - [[venture-capitalists-at-work]] (2011) — [[tarang-shah]], [[sheetal-shah]]
 - [[the-startup-playbook]] (2012) — [[david-s-kidder]], [[reid-hoffman]]
 - [[shoe-dog]] (2016) — [[phil-knight]]

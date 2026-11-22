@@ -14,6 +14,11 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 ---
 
 ## Books in Wiki
+- [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]
+- [[finnegans-wake]] (1939) — [[james-joyce]]
+- [[sophies-world]] (1991) — [[jostein-gaarder]]
+- [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
+- [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
 - [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
 - [[the-wisdom-of-the-stoics]] (1984) — [[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]]
 - [[meditations-marcus-aurelius]] (2002) — [[marcus-aurelius]], [[gregory-hays]]

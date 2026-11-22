@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]
 - [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]

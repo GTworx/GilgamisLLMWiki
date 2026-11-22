@@ -14,6 +14,7 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
 - [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
 - [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
 - [[the-lean-startup]] (2011) — [[eric-ries]]

@@ -14,6 +14,8 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[how-societies-remember]] (1989) — [[paul-connerton]]
+- [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[born-a-crime]] (2016) — [[trevor-noah]]
 - [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]

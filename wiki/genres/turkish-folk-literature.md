@@ -15,6 +15,7 @@ Characterized by transparent vernacular Turkish rather than ornate court idioms,
 ---
 
 ## Books in Wiki
+- [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
 - [[turk-sairleri-cilt-2]] (1936) — [[sadettin-nuzhet-ergun]]
 - [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 

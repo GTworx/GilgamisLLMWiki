@@ -14,6 +14,10 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
+- [[lying-sam-harris]] (2011) — [[sam-harris]]
+- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[plato-complete-works]] (1997) — [[plato]], [[john-m-cooper]], [[d-s-hutchinson]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
 - [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]

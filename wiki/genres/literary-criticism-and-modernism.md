@@ -14,6 +14,7 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 ---
 
 ## Books in Wiki
+- [[finnegans-wake]] (1939) — [[james-joyce]]
 - [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
 - [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]

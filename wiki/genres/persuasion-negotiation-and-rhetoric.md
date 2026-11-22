@@ -14,6 +14,7 @@ Within this wiki, the genre links [[robert-b-cialdini]]'s [[influence-the-psycho
 ---
 
 ## Books in Wiki
+- [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
 - [[crack-the-funding-code]] (2019) — [[judy-robinett]]
 - [[start-with-why]] (2009) — [[simon-sinek]]

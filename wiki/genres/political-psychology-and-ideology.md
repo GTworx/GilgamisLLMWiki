@@ -14,6 +14,8 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 ---
 
 ## Books in Wiki
+- [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
+- [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
 

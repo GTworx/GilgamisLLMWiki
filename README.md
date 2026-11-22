@@ -81,18 +81,18 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 291 distinct intellectual works (across 328 source files/volumes and ~98,000+ pages)
-- **Total Maintained Wiki Pages**: 913 interlinked markdown documents (911 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 291 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 449 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 79 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 92 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 330 distinct intellectual works (across 370 source files/volumes and ~112,000+ pages)
+- **Total Maintained Wiki Pages**: 1,017 interlinked markdown documents (1,015 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 330 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 507 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 82 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 96 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
-## 📚 Recent & Featured Ingested Library Catalog (291 Total Works)
+## 📚 Recent & Featured Ingested Library Catalog (330 Total Works)
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |

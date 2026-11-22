@@ -13,6 +13,9 @@ Beginning with the raw primary voice of [[shams-i-tabrizi]] reconstructed by [[w
 ---
 
 ## Featured Works
+- [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]
+- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
 - [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
 - [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]

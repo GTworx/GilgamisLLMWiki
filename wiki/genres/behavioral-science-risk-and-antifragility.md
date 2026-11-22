@@ -14,6 +14,8 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
+- [[the-undoing-project]] (2016) — [[michael-lewis]]
+- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[hooked-how-to-build-habit-forming-products]] (2014) — [[nir-eyal]], [[ryan-hoover]]
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]

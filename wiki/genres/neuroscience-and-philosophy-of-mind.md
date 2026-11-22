@@ -14,6 +14,10 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
+- [[psychology-of-perception]] (2016) — [[simon-grondin]]
+- [[bilimsel-bir-psikoloji-projesi-1895]] (1895) — [[sigmund-freud]], [[ibrahim-sahin-ates]]
+- [[ruyalari-yorumu-interpretation-of-dreams]] (1900) — [[sigmund-freud]], [[dilman-muradoglu]]
 - [[emotional-intelligence]] (1995) — [[daniel-goleman]]
 - [[blink-power-of-thinking-without-thinking]] (2005) — [[malcolm-gladwell]]
 - [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]

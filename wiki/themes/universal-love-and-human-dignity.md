@@ -26,6 +26,10 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
+- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
+- [[confessions-of-saint-augustine]] (1838) — [[saint-augustine]], [[edward-b-pusey]]
 - [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
 - [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
 - [[the-wisdom-of-the-stoics]] (1984) — [[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]]

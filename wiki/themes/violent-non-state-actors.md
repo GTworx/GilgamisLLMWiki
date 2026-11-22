@@ -24,6 +24,9 @@ Following the 9/11 attacks, a widespread consensus emerged among security analys
 ---
 
 ## Featured Works
+- [[the-devil-made-me-do-it-malevolent-creativity]] (2017) — [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]]
+- [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
+- [[psychology-of-terrorism-ncjrs]] (2004) — [[randy-borum]]
 - [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
 - [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]

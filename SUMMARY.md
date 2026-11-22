@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 291 distinct intellectual works (across 328 source files/volumes and ~98,000+ pages)
-- **Total Generated Wiki Pages**: 913 interlinked markdown files (911 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 330 distinct intellectual works (across 370 source files/volumes and ~112,000+ pages)
+- **Total Generated Wiki Pages**: 1,017 interlinked markdown files (1,015 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 291 ([books/](wiki/books/))
-- **Author Profile Pages**: 449 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 79 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 92 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 330 ([books/](wiki/books/))
+- **Author Profile Pages**: 507 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 82 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 96 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -636,3 +636,83 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Gold-standard U.S. term-sheet bible demystifying Economics vs. Control, liquidation preferences, VC fund mechanics, game-theoretic negotiation, and M&A Letters of Intent.
 291. **[[why-startups-fail]]** ([[tom-eisenmann]], 2021, Currency, 368 pp.)  
      HBS empirical study identifying six structural failure patterns across Launch (Bad Bedfellows, False Starts, False Positives) and Scaling (Speed Trap, Help Wanted, Cascading Miracles).
+### Category Q: Option J — Philosophy, Psychoanalysis, Cognitive & Moral Psychology, Cybernetics & Sociology (`BOOKS/Philosophy Psychology Sociology/` — 39 New Works + 2 Sowell Edition Syncs across 42 Files)
+
+292. **[[plato-complete-works]]** ([[plato]], eds. [[john-m-cooper]] & [[d-s-hutchinson]], 1997, Hackett, 1,837 pp.)  
+     Complete scholarly English corpus of Plato's dialogues, letters, and apocrypha anchoring Socratic elenchus, Forms, epistemology, and political philosophy.
+293. **[[confessions-of-saint-augustine]]** ([[saint-augustine]], tr. [[edward-b-pusey]], 397/1838, CCEL, 392 pp.)  
+     Foundational Western spiritual autobiography investigating the divided will, evil as privation, palaces of memory, and phenomenology of time.
+294. **[[mantikut-tayr-conference-of-the-birds]]** ([[farid-ud-din-attar]], tr. [[yasar-kececi]], 1177/1998, Kırkambar, 383 pp.)  
+     Classic Persian Sufi allegorical epic guiding thirty birds through the Seven Valleys to discover that seeker and Simurg are one.
+295. **[[olum-ve-kiyamet-olume-hazirlik]]** ([[imam-al-ghazali]], 1100/1999, Sağlam Yayınevi, 394 pp.)  
+     Al-Ghazali's *Ihya* Book 40 meditation on mortality, the grave, and moral preparation across three tiers of consciousness (*gâfil, tevbe ehli, ârif*).
+296. **[[divan-sultan-huseyn-bayqara]]** ([[sultan-huseyn-bayqara]], ed. [[ramiz-asker]], 15th c./2011, TürkSOY/AMEA Baku, 248 pp.)  
+     Chagatai Turkic *Divan* and *Risala* of Herat's Timurid Renaissance sovereign-poet, transposed with historical study into Azerbaijani Turkic.
+297. **[[the-open-society-and-its-enemies-vol-1]]** ([[karl-popper]], 1945/1962, Routledge 4th Ed., 366 pp.)  
+     Fierce defense of fallibilist liberal democracy, piecemeal social engineering, and the Paradox of Tolerance against Platonic historicism.
+298. **[[capitalism-socialism-and-democracy]]** ([[joseph-a-schumpeter]], Intro [[richard-swedberg]], 1942/2003, Taylor & Francis, 460 pp.)  
+     Landmark political economy coining Creative Destruction, critiquing Marx, and redefining democracy as competitive leadership selection.
+299. **[[sophies-world]]** ([[jostein-gaarder]], 1991/1994, Berkley/FSG, 264 pp.)  
+     Metafictional international bestseller tracing 3,000 years of Western philosophy from Pre-Socratics to Sartre through Sophie Amundsen's mystery.
+300. **[[a-guide-to-the-good-life-stoic-joy]]** ([[william-b-irvine]], 2009, Oxford Univ. Press, 252 pp.)  
+     Modernizes Roman Stoicism into practical daily techniques: negative visualization, the trichotomy of control, and voluntary discomfort.
+301. **[[philosophy-100-great-thinkers]]** ([[jeremy-harwood]], 2010, Quercus, 290 pp.)  
+     Chronological five-epoch reference directory profiling 100 Eastern, Islamic, Jewish, and Western philosophers from Thales to Kripke.
+302. **[[lying-sam-harris]]** ([[sam-harris]], 2011, Four Elephants Press, 44 spreads)  
+     Sharp ethical critique exposing everyday white lies as corrosive epistemic violence and championing compassionate candor.
+303. **[[introduction-to-formal-philosophy]]** (eds. [[sven-ove-hansson]] & [[vincent-f-hendricks]], 2018, Springer, 727 pp.)  
+     Encyclopedic textbook applying symbolic logic, argumentation frameworks, nonmonotonic reasoning, Bayesian induction, and counterfactuals to philosophy.
+304. **[[vices-of-the-mind]]** ([[quassim-cassam]], 2019, Oxford Univ. Press, 217 pp.)  
+     Pioneers vice epistemology ("Obstructivism"), analyzing closed-mindedness, arrogance, and epistemic insouciance behind political and intelligence disasters.
+305. **[[karl-marx-and-the-actualization-of-philosophy]]** ([[christoph-schuringa]], 2025, Cambridge Univ. Press, 207 pp.)  
+     Reinterprets Marx from his Epicurus dissertation through *Capital* as a continuous project to actualize philosophy inside historical praxis.
+306. **[[ruyalari-yorumu-interpretation-of-dreams]]** ([[sigmund-freud]], tr. [[dilman-muradoglu]], 1900/2021, Say Yayınları, 649 pp.)  
+     Unabridged Turkish edition of *Die Traumdeutung*, inaugurating psychoanalysis via wish-fulfillment, dream-work, and the unconscious topology.
+307. **[[bilimsel-bir-psikoloji-projesi-1895]]** ([[sigmund-freud]], tr. [[ibrahim-sahin-ates]], 1895/2022, 80 pp.)  
+     Freud's proto-neuroscientific 1895 draft modeling perception, memory facilitation, and the inhibitory ego via neuronal contact-barriers.
+308. **[[seminar-2-the-ego-in-freuds-theory]]** ([[jacques-lacan]], ed. [[jacques-alain-miller]], tr. [[savas-kilic]], 1954–1955/2022, Metis, 404 pp.)  
+     Lacan's return to Freud contrasting the Imaginary ego against the Symbolic signifying chain via cybernetics, repetition, and *The Purloined Letter*.
+309. **[[seminar-8-transference]]** ([[jacques-lacan]], tr. [[cormac-gallagher]], 1960–1961, 339 pp.)  
+     Lacanian clinic of transference and subjective disparity developed through a close reading of Plato's *Symposium*, Alcibiades, and *agalma* (*objet a*).
+310. **[[heterite-11-les-paradoxes-du-desir]]** ([[if-epfcl-editorial]] & [[patrick-barillot]], 2015, IF-EPFCL Paris, 464 pp.)  
+     Multilingual-rooted Lacanian psychoanalytic journal from the 2014 Paris Rendez-vous exploring desire, *jouissance*, interpretation, and the *sinthome*.
+311. **[[deri-ben-the-skin-ego]]** ([[didier-anzieu]], tr. [[nesrin-tura-demiryontan]], 1995/2008, Metis, 330 pp.)  
+     Defines the *Skin-Ego* (*Le Moi-peau*) and its eight tactile containment functions linking early maternal touch to narcissistic and somatic states.
+312. **[[female-sexuality-early-psychoanalytic-controversies]]** (eds. [[russell-grigg]], [[dominique-hecq]], & [[craig-smith]], 1999/2015, Karnac, 315 pp.)  
+     Collects nineteen landmark 1920s–1930s papers by Karen Horney, Melanie Klein, Joan Riviere, Ernest Jones, and Karl Abraham contesting Freud's theories.
+313. **[[finnegans-wake]]** ([[james-joyce]], 1939/1975, Faber & Faber, 634 pp.)  
+     Radical polyglot modernist dream-epic structured as a circular Viconian cycle of language, guilt, myth, and nocturnal condensation.
+314. **[[the-hero-with-a-thousand-faces]]** ([[joseph-campbell]], 1949/1993, Bollingen/Fontana, 797 pp.)  
+     Comparative mythology classic mapping the universal 17-stage Monomyth (*Departure, Initiation, Return*) and Cosmogonic Cycle across world traditions.
+315. **[[the-untethered-soul]]** ([[michael-a-singer]], 2007, New Harbinger, 147 pp.)  
+     Non-sectarian contemplative guide liberating witness awareness from compulsive inner chatter and defensive heart-closure.
+316. **[[the-tools-stutz-michels]]** ([[phil-stutz]] & [[barry-michels]], 2012, Spiegel & Grau, 183 pp.)  
+     Action-oriented clinical manual introducing five immediate visual-somatic tools (*Reversal of Desire, Active Love, Inner Authority, Grateful Flow, Jeopardy*).
+317. **[[cocuklarda-travmanin-yaralarini-sarmak]]** ([[peter-a-levine]], [[maggie-kline]], & [[katerina-honzikova]], 2023, Češi pro Sýrii, 44 pp.)  
+     Open-access Turkish illustrated Somatic Experiencing® caregiver guide helping parents heal fight-flight-freeze trauma in war- and disaster-affected children.
+318. **[[the-human-use-of-human-beings]]** ([[norbert-wiener]] & [[steve-j-heims]], 1950/1989, Free Association Books, 225 pp. & 224 pp.)  
+     Cybernetics founder's prophetic social treatise on information, entropy, feedback control, and safeguarding human dignity in the automation age.
+319. **[[amusing-ourselves-to-death]]** ([[neil-postman]], 1985/2005, Penguin 20th Anniv. Ed., 203 pp.)  
+     Media-ecology classic contrasting Orwell with Huxley to show how television subordinates politics, news, religion, and education to show business.
+320. **[[how-societies-remember]]** ([[paul-connerton]], 1989, Cambridge Univ. Press, 21 spreads)  
+     Foundational social-memory treatise distinguishing inscribed textual archives from embodied commemorative ceremonies and bodily habit-memory.
+321. **[[psychology-of-terrorism-ncjrs]]** ([[randy-borum]], 2004, USF / NCJ 208551, 221 pp.)  
+     Comprehensive federal social-science review and annotated bibliography mapping radicalization preconditions, precipitants, and group dynamics.
+322. **[[the-better-angels-of-our-nature]]** ([[steven-pinker]], 2011, Viking Penguin, 1,061 pp.)  
+     Massive empirical history documenting six long-run declines of human violence driven by states, commerce, cosmopolitanism, and reason.
+323. **[[the-righteous-mind]]** ([[jonathan-haidt]], 2012, Pantheon, 322 pp.)  
+     Moral psychology landmark introducing the Elephant-and-Rider model, six innate Moral Foundations, and the evolutionary Hive Switch.
+324. **[[game-theory-a-multi-leveled-approach]]** ([[hans-peters]], 2015 2nd Ed., Springer, 493 pp.)  
+     Rigorous two-level textbook uniting noncooperative equilibria, signaling, auctions, evolutionary ESS, and cooperative Core/Shapley/Nucleolus theory.
+325. **[[psychology-of-perception]]** ([[simon-grondin]], 2016, Springer, 162 pp.)  
+     Experimental psychology textbook spanning psychophysics (Signal Detection, Weber/Fechner/Stevens laws), audition, vision, depth illusions, and attention.
+326. **[[the-undoing-project]]** ([[michael-lewis]], 2016, W. W. Norton, 276 pp.)  
+     Narrative biography of Daniel Kahneman and Amos Tversky tracing the intellectual friendship that birthed heuristics, biases, and Prospect Theory.
+327. **[[the-art-of-gathering]]** ([[priya-parker]], 2018, Riverhead Books, 242 pp.)  
+     Conflict-facilitator's guide to purpose-driven social architecture, generous host authority, pop-up rules, constructive controversy, and intentional endings.
+328. **[[of-heroes-and-villains-pre-revolutionary-russia]]** ([[anke-hilbrenner]], 2018, De Gruyter Open Access, 20 pp.)  
+     Historical analysis of how 1905 Russian Socialist-Revolutionary assassins framed Grand Duke Sergei as a villain to forge clandestine emotional communities.
+329. **[[the-devil-made-me-do-it-malevolent-creativity]]** ([[r-m-j-mcbain]], [[david-h-cropley]], & [[phillip-s-kavanagh]], 2017, Univ. of South Australia, 51 pp. `.docx`)  
+     Experimental study proving that situational Press/priming exerts stronger influence than stable Dark Triad traits in eliciting malevolent creativity.
+330. **[[the-case-against-reality]]** ([[donald-d-hoffman]], 2019, W. W. Norton, 246 pp.)  
+     Cognitive-evolutionary treatise proposing the Fitness-Beats-Truth Theorem, desktop Interface Theory of Perception, and Conscious Agent realism.

@@ -770,3 +770,62 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 911 entity pages (913 total markdown files).
+---
+
+## [2026-11-22] ingest | Option J Sweep — Complete `BOOKS/Philosophy Psychology Sociology/` Ingestion (39 New Works + 2 Sowell Edition Syncs + 1 Wiener Dup Consolidated across 42 Files)
+
+- **Scope**: Completed full ingestion of `BOOKS/Philosophy Psychology Sociology/` (42 files — 41 PDFs + 1 `.docx` — totaling 14,565 pages; 14,010 net-new unique pages across 39 new canonical works after syncing 2 editions of Thomas Sowell's [[a-conflict-of-visions-ideological-origins-of-political-struggles]] and consolidating 2 copies of Norbert Wiener's [[the-human-use-of-human-beings]]; visually verified all 7 scanned PDFs via rendered page PNGs). Crossed **330 books**, **507 authors**, and **1,017 total wiki markdown pages**!
+- **Ingested Works**:
+  - **Classical, Islamic, Formal & Political Philosophy (14 works)**:
+    - [[plato-complete-works]] ([[plato]], [[john-m-cooper]], [[d-s-hutchinson]], 1997, 1,837 pp.)
+    - [[confessions-of-saint-augustine]] ([[saint-augustine]], [[edward-b-pusey]], 397/1838, 392 pp.)
+    - [[mantikut-tayr-conference-of-the-birds]] ([[farid-ud-din-attar]], [[yasar-kececi]], 1177/1998, 383 pp.)
+    - [[olum-ve-kiyamet-olume-hazirlik]] ([[imam-al-ghazali]], 1100/1999, 394 pp.)
+    - [[divan-sultan-huseyn-bayqara]] ([[sultan-huseyn-bayqara]], [[ramiz-asker]], 15th c./2011, 248 pp.)
+    - [[the-open-society-and-its-enemies-vol-1]] ([[karl-popper]], 1945/1962, 366 pp.)
+    - [[capitalism-socialism-and-democracy]] ([[joseph-a-schumpeter]], [[richard-swedberg]], 1942/2003, 460 pp.)
+    - [[sophies-world]] ([[jostein-gaarder]], 1991/1994, 264 pp.)
+    - [[a-guide-to-the-good-life-stoic-joy]] ([[william-b-irvine]], 2009, 252 pp.)
+    - [[philosophy-100-great-thinkers]] ([[jeremy-harwood]], 2010, 290 pp.)
+    - [[lying-sam-harris]] ([[sam-harris]], 2011, 44 spreads)
+    - [[introduction-to-formal-philosophy]] ([[sven-ove-hansson]], [[vincent-f-hendricks]], 2018, 727 pp.)
+    - [[vices-of-the-mind]] ([[quassim-cassam]], 2019, 217 pp.)
+    - [[karl-marx-and-the-actualization-of-philosophy]] ([[christoph-schuringa]], 2025, 207 pp.)
+  - **Psychoanalysis, Depth Psychology, Modernist Literature, Mythology & Somatic Healing (12 works)**:
+    - [[ruyalari-yorumu-interpretation-of-dreams]] ([[sigmund-freud]], [[dilman-muradoglu]], 1900/2021, 649 pp.)
+    - [[bilimsel-bir-psikoloji-projesi-1895]] ([[sigmund-freud]], [[ibrahim-sahin-ates]], 1895/2022, 80 pp.)
+    - [[seminar-2-the-ego-in-freuds-theory]] ([[jacques-lacan]], [[jacques-alain-miller]], [[savas-kilic]], 1954–1955/2022, 404 pp.)
+    - [[seminar-8-transference]] ([[jacques-lacan]], [[cormac-gallagher]], 1960–1961, 339 pp.)
+    - [[heterite-11-les-paradoxes-du-desir]] ([[if-epfcl-editorial]], [[patrick-barillot]], 2015, 464 pp.)
+    - [[deri-ben-the-skin-ego]] ([[didier-anzieu]], [[nesrin-tura-demiryontan]], 1995/2008, 330 pp.)
+    - [[female-sexuality-early-psychoanalytic-controversies]] ([[russell-grigg]], [[dominique-hecq]], [[craig-smith]], 1999/2015, 315 pp.)
+    - [[finnegans-wake]] ([[james-joyce]], 1939/1975, 634 pp.)
+    - [[the-hero-with-a-thousand-faces]] ([[joseph-campbell]], 1949/1993, 797 pp.)
+    - [[the-untethered-soul]] ([[michael-a-singer]], 2007, 147 pp.)
+    - [[the-tools-stutz-michels]] ([[phil-stutz]], [[barry-michels]], 2012, 183 pp.)
+    - [[cocuklarda-travmanin-yaralarini-sarmak]] ([[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]], 2023, 44 pp.)
+  - **Cognitive Science, Moral/Social Psychology, Cybernetics, Media Ecology, Game Theory & Political Violence (13 works)**:
+    - [[the-human-use-of-human-beings]] ([[norbert-wiener]], [[steve-j-heims]], 1950/1989, 225 pp. & 224 pp. consolidated)
+    - [[amusing-ourselves-to-death]] ([[neil-postman]], 1985/2005, 203 pp.)
+    - [[how-societies-remember]] ([[paul-connerton]], 1989, 21 spreads)
+    - [[psychology-of-terrorism-ncjrs]] ([[randy-borum]], 2004, 221 pp.)
+    - [[the-better-angels-of-our-nature]] ([[steven-pinker]], 2011, 1,061 pp.)
+    - [[the-righteous-mind]] ([[jonathan-haidt]], 2012, 322 pp.)
+    - [[game-theory-a-multi-leveled-approach]] ([[hans-peters]], 2015 2nd Ed., 493 pp.)
+    - [[psychology-of-perception]] ([[simon-grondin]], 2016, 162 pp.)
+    - [[the-undoing-project]] ([[michael-lewis]], 2016, 276 pp.)
+    - [[the-art-of-gathering]] ([[priya-parker]], 2018, 242 pp.)
+    - [[of-heroes-and-villains-pre-revolutionary-russia]] ([[anke-hilbrenner]], 2018, 20 pp.)
+    - [[the-devil-made-me-do-it-malevolent-creativity]] ([[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]], 2017, 51 pp. `.docx`)
+    - [[the-case-against-reality]] ([[donald-d-hoffman]], 2019, 246 pp.)
+  - **Existing Editions Synced (2 files)**:
+    - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] ([[thomas-sowell]] — synced 2002 Basic Books 307 pp. ed. & 1987 William Morrow/Liberty Fund 24 pp. Ch. 2 excerpt)
+- **Entity Pages Created / Updated**:
+  - **Books**: 39 new pages created + 1 existing synced (total: 330)
+  - **Authors**: 58 new author profiles created + 1 existing updated ([[jonathan-haidt]]) (total: 507)
+  - **Genres**: 3 new genre indices created ([[classical-and-analytic-philosophy]], [[psychoanalysis-and-depth-psychology]], [[cognitive-moral-and-social-psychology]]) and 30 existing genres updated (total: 82)
+  - **Themes**: 4 new thematic syntheses created ([[open-society-creative-destruction-and-epistemic-virtue]], [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[moral-foundations-cognitive-biases-and-interface-perception]], [[cybernetics-media-ecology-collective-memory-and-political-violence]]) and 30 existing themes updated (total: 96)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,015 entity pages (1,017 total markdown files).

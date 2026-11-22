@@ -15,6 +15,7 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 ---
 
 ## Books in Wiki
+- [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[the-god-delusion]] (2006) — [[richard-dawkins]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]

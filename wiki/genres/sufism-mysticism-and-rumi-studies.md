@@ -14,6 +14,9 @@ In this wiki, the genre revolves around an extraordinary seven-work [[jalal-al-d
 ---
 
 ## Books in Wiki
+- [[the-untethered-soul]] (2007) — [[michael-a-singer]]
+- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
 - [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
 - [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]

@@ -15,6 +15,12 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
+- [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]
+- [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
+- [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
+- [[the-open-society-and-its-enemies-vol-1]] (1962) — [[karl-popper]]
+- [[plato-complete-works]] (1997) — [[plato]], [[john-m-cooper]], [[d-s-hutchinson]]
 - [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]

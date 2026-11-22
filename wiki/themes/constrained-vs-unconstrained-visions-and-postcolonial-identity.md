@@ -13,6 +13,7 @@ In [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[thoma
 ---
 
 ## Featured Works
+- [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[born-a-crime]] (2016) — [[trevor-noah]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]

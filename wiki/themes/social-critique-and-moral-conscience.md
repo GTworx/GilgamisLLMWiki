@@ -20,6 +20,7 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]

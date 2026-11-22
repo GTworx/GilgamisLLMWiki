@@ -13,6 +13,9 @@
 ---
 
 ## Featured Works
+- [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
+- [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
+- [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
 - [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] (2015) — [[ashlee-vance]]
 - [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]

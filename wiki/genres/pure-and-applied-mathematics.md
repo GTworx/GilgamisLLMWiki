@@ -14,6 +14,8 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
+- [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
 - [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]
 - [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
 - [[the-math-hacker-book]] (2015) — [[paul-carson]]

@@ -13,6 +13,7 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Featured Works
+- [[sophies-world]] (1991) — [[jostein-gaarder]]
 - [[the-diamond-age]] (1995) — [[neal-stephenson]]
 - [[30-french-short-stories-for-complete-beginners]] (2017) — [[frederic-bibard]]
 - [[osmanli-turkcesi-metinleri-1]] (2012) — [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]]

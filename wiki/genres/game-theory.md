@@ -15,6 +15,8 @@ In this wiki, game theory serves as a fundamental analytical bridge connecting m
 ---
 
 ## Books in Wiki
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
+- [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
 - [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
 
 - [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] (2020) — [[michael-wooldridge]]

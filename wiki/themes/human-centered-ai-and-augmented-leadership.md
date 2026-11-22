@@ -17,6 +17,7 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 ---
 
 ## Featured Works
+- [[the-human-use-of-human-beings]] (1950) — [[norbert-wiener]], [[steve-j-heims]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
 - [[the-digital-as-para-world]] (2011) — [[lane-denicola]]

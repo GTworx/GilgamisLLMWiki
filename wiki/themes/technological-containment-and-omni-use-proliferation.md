@@ -13,6 +13,7 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 ---
 
 ## Featured Works
+- [[the-human-use-of-human-beings]] (1950) — [[norbert-wiener]], [[steve-j-heims]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
 

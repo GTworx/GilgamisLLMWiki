@@ -31,6 +31,8 @@ Contemporary leadership and mathematical social choice further expand the wiki's
 ---
 
 ## Featured Works
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
+- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
 - [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]

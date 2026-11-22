@@ -2,7 +2,7 @@
 
 **Eras / Movements**: Moral Psychology, Institutional Pluralism, and Digital-Age Social Psychology
 **Primary Genres**: [[organizational-psychology]], [[leadership-and-management]], [[political-science]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ Co-architect of **Moral Foundations Theory**, Haidt is the author of several wid
 ---
 
 ## Books in Wiki
+- [[the-righteous-mind]] (2012) — The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - [[leading-for-tomorrow]] (2026, Chapter 23 contributor)
 
 ---

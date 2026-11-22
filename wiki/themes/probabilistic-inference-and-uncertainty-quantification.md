@@ -13,6 +13,8 @@ In [[probabilistic-artificial-intelligence]] (2025), ETH Zurich professors [[and
 ---
 
 ## Featured Works
+- [[the-undoing-project]] (2016) — [[michael-lewis]]
+- [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
 - [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
 - [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
 - [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]

@@ -13,6 +13,12 @@
 ---
 
 ## Featured Works
+- [[the-tools-stutz-michels]] (2012) — [[phil-stutz]], [[barry-michels]]
+- [[the-untethered-soul]] (2007) — [[michael-a-singer]]
+- [[a-guide-to-the-good-life-stoic-joy]] (2009) — [[william-b-irvine]]
+- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[confessions-of-saint-augustine]] (1838) — [[saint-augustine]], [[edward-b-pusey]]
+- [[plato-complete-works]] (1997) — [[plato]], [[john-m-cooper]], [[d-s-hutchinson]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]
 - [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]

@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 ---
 
 ## Books in Wiki
+- [[the-human-use-of-human-beings]] (1950) — [[norbert-wiener]], [[steve-j-heims]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]

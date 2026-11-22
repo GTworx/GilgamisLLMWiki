@@ -13,6 +13,10 @@ In [[discovering-the-brain]], [[sandra-ackerman]] maps the *Decade of the Brain*
 ---
 
 ## Featured Works
+- [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
+- [[psychology-of-perception]] (2016) — [[simon-grondin]]
+- [[deri-ben-the-skin-ego]] (1995) — [[didier-anzieu]], [[nesrin-tura-demiryontan]]
+- [[bilimsel-bir-psikoloji-projesi-1895]] (1895) — [[sigmund-freud]], [[ibrahim-sahin-ates]]
 - [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
 - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
 - [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]

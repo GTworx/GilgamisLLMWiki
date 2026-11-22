@@ -14,6 +14,8 @@ In this wiki, the genre gathers the complete Roman Stoic triad—[[seneca]]'s [[
 ---
 
 ## Books in Wiki
+- [[the-untethered-soul]] (2007) — [[michael-a-singer]]
+- [[a-guide-to-the-good-life-stoic-joy]] (2009) — [[william-b-irvine]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]
 - [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
