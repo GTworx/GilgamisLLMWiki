@@ -14,6 +14,10 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 ---
 
 ## Books in Wiki
+- [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
+- [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
+- [[business-startup-for-dummies-bundle]] (2011) — [[colin-barrow]], [[john-a-tracy]]
+- [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]
 - [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
 - [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]

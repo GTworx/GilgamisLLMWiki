@@ -14,6 +14,13 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[why-startups-fail]] (2021) — [[tom-eisenmann]]
+- [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
+- [[value-proposition-design]] (2014) — [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]]
+- [[the-startup-owners-manual]] (2012) — [[steve-blank]], [[bob-dorf]]
+- [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
+- [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]
+- [[blitzscaling]] (2018) — [[reid-hoffman]], [[chris-yeh]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]

@@ -13,6 +13,8 @@ Tracing the arc from [[marc-benioff]] & [[carlye-adler]]'s pioneering Land-and-E
 ---
 
 ## Featured Works
+- [[the-lean-entrepreneur]] (2013) — [[brant-cooper]], [[patrick-vlaskovits]]
+- [[hooked-how-to-build-habit-forming-products]] (2014) — [[nir-eyal]], [[ryan-hoover]]
 - [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]

@@ -4,7 +4,7 @@
 **Publication Year**: 2018 (2nd Edition, John Wiley & Sons, Hoboken, NJ; 1st ed. 2008)
 **Genre(s)**: [[corporate-strategy-and-management-classics]], [[saas-and-subscription-business-models]], [[innovation-and-economic-growth]]
 **Key Themes**: [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[recurring-revenue-customer-success-and-retention-mechanics]], [[adaptive-intelligence-and-organizational-resilience]]
-**Source**: `BOOKS/Business Economy Finance/Book Inspired Marty Cagan.pdf` (370 pp.)
+**Source**: `BOOKS/Business Economy Finance/Book Inspired Marty Cagan.pdf` (370 pp.) & `BOOKS/Entrepreneurship_/INSPIRED_ How to Create Tech Products Customers Love ( PDFDrive ).pdf` (370 pp., SHA-256 identical)
 **Last updated**: 2026-11-22
 
 ---

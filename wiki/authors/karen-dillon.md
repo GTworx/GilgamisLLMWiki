@@ -13,6 +13,7 @@ Former editor of *Harvard Business Review* and co-author with Clayton M. Christe
 ---
 
 ## Works in Wiki
+- [[the-prosperity-paradox]] (2019) — The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty
 - [[how-will-you-measure-your-life]] (2012) — How Will You Measure Your Life?
 
 ---

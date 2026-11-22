@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]
 - [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
 - [[epictetus-stoic-and-socratic-guide]] (2002) — [[a-a-long]]

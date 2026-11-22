@@ -13,6 +13,7 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 ---
 
 ## Featured Works
+- [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
 - [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]

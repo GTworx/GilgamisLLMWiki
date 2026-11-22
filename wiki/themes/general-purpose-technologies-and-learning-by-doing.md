@@ -11,6 +11,9 @@
 ---
 
 ## Featured Works
+- [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
+- [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
+- [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
 - [[the-coal-question]] (1865) — [[william-stanley-jevons]]
 - [[the-wealth-of-nations]] (1776) — [[adam-smith]]

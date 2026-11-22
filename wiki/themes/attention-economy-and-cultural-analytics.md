@@ -13,6 +13,7 @@ Uniting [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[entertainment-scie
 ---
 
 ## Featured Works
+- [[hooked-how-to-build-habit-forming-products]] (2014) — [[nir-eyal]], [[ryan-hoover]]
 - [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
 - [[the-tipping-point]] (2000) — [[malcolm-gladwell]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]

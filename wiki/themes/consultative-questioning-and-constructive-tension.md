@@ -13,6 +13,7 @@ Across the wiki, these frameworks reinforce [[james-e-lukaszewski]] and [[helio-
 ---
 
 ## Featured Works
+- [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]
 - [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
 - [[influence-the-psychology-of-persuasion]] (1984) — [[robert-b-cialdini]]
 - [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]

@@ -13,6 +13,10 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 ---
 
 ## Featured Works
+- [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
+- [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
+- [[business-startup-for-dummies-bundle]] (2011) — [[colin-barrow]], [[john-a-tracy]]
+- [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
 - [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]

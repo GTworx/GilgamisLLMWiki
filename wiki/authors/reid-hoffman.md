@@ -13,6 +13,8 @@ Silicon Valley entrepreneur, co-founder and executive chairman of LinkedIn, part
 ---
 
 ## Works in Wiki
+- [[the-startup-playbook]] (2012) — The Startup Playbook (Foreword)
+- [[blitzscaling]] (2018) — Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
 - [[disrupt-you]] (2015) — Disrupt You! (Foreword)
 - [[the-start-up-of-you]] (2012) — The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career
 

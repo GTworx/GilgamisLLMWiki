@@ -14,6 +14,8 @@ In [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-le
 ---
 
 ## Books in Wiki
+- [[the-innovators-dilemma]] (1997) — The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail
+- [[the-prosperity-paradox]] (2019) — The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty
 - [[how-will-you-measure-your-life]] (2012) — How Will You Measure Your Life?
 - [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008)
 - [[blended-using-disruptive-innovation-to-improve-schools]] (2015)

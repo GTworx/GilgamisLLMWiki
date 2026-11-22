@@ -14,6 +14,8 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
+- [[why-startups-fail]] (2021) — [[tom-eisenmann]]
+- [[hooked-how-to-build-habit-forming-products]] (2014) — [[nir-eyal]], [[ryan-hoover]]
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
 - [[david-and-goliath]] (2013) — [[malcolm-gladwell]]

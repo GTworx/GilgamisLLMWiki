@@ -13,6 +13,8 @@ Making the institutional and operational case, [[claudia-zeisberger]], [[michael
 ---
 
 ## Featured Works
+- [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
+- [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]

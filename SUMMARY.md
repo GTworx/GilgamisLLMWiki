@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 263 distinct intellectual works (across 297 source files/volumes and ~88,000+ pages)
-- **Total Generated Wiki Pages**: 839 interlinked markdown files (837 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 291 distinct intellectual works (across 328 source files/volumes and ~98,000+ pages)
+- **Total Generated Wiki Pages**: 913 interlinked markdown files (911 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 263 ([books/](wiki/books/))
-- **Author Profile Pages**: 408 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 77 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 89 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 291 ([books/](wiki/books/))
+- **Author Profile Pages**: 449 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 79 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 92 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -578,3 +578,61 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Applies resource-allocation strategy, Jobs to Be Done, and the 100% Rule to career fulfillment, enduring family love, and moral integrity.
 263. **[[disrupt-you]]** ([[jay-samit]], Foreword by [[reid-hoffman]], 2015, Flatiron Books, 301 pp.)  
      Entrepreneurial self-transformation playbook teaching readers to spot industry friction, build a Brand of One, and unlock value-chain disruption.
+### Category P: Option I — Entrepreneurship, Startup Methodology, Venture Capital & Founder Resilience (`BOOKS/Entrepreneurship_/` — 28 New Works + 1 SHA-256 Duplicate Synced across 31 Files)
+
+264. **[[the-almanack-of-naval-ravikant]]** ([[eric-jorgenson]] & [[naval-ravikant]], 2020, 242 pp. + 399 pp. Bookey guide)  
+     Synthesizes Naval Ravikant's philosophy of wealth (specific knowledge, accountability, permissionless code/media leverage) and happiness as a trainable Stoic-rational skill.
+265. **[[blitzscaling]]** ([[reid-hoffman]] & [[chris-yeh]], 2018, Currency, 246 pp.)  
+     Codifies prioritizing speed over efficiency across Five Stages (Family to Nation), Nine Counterintuitive Management Rules, and Responsible Blitzscaling.
+266. **[[crossing-the-chasm]]** ([[geoffrey-a-moore]], 1991/2014 3rd Ed., HarperBusiness, 288 pp. + 174 pp. revised ed.)  
+     Foundational high-tech marketing strategy bridging visionary Early Adopters and pragmatic Early Majority buyers via beachhead niches and the Whole Product.
+267. **[[hooked-how-to-build-habit-forming-products]]** ([[nir-eyal]] & [[ryan-hoover]], 2014, Portfolio, 535 pp.)  
+     Dissects the four-phase Hook Model (Trigger, Action, Variable Reward, Investment), Habit Testing, and the ethical Manipulation Matrix.
+268. **[[how-to-start-a-startup-pragmatic-coders]]** ([[wiktor-zolnowski]] & [[pragmatic-coders]], 2022, 160 pp.)  
+     Practitioner guidebook from 80+ startup builds translating Problem/Solution Discovery, UX testing, Lean Canvas, and MVP roadmapping into pre-code validation.
+269. **[[start-with-why]]** ([[simon-sinek]], 2009, Portfolio, 271 pp.)  
+     Introduces the Golden Circle (WHY, HOW, WHAT) explaining how purpose-driven leaders earn limbic trust, cultural loyalty, and sustained organizational clarity.
+270. **[[the-hard-thing-about-hard-things]]** ([[ben-horowitz]], 2014, HarperBusiness, 244 pp.)  
+     Unflinching CEO survival guide covering The Struggle, layoffs, management debt, Peacetime vs. Wartime leadership, and building political-free startup cultures.
+271. **[[the-innovators-dilemma]]** ([[clayton-m-christensen]], 1997, HBS Press, 345 pp.)  
+     Classic empirical theory of Disruptive Innovation explaining why great incumbents fail when resource dependence blinds them to low-end/new-market upstarts.
+272. **[[the-lean-entrepreneur]]** ([[brant-cooper]] & [[patrick-vlaskovits]], 2013, Wiley, 344 pp.)  
+     Pairs bold founder vision with Value Stream Discovery, Concierge/Wizard-of-Oz viability experiments, cohort metrics, and funnel growth waves.
+273. **[[the-lean-startup]]** ([[eric-ries]], 2011, Crown Business, 328 pp.)  
+     Global startup methodology uniting Build–Measure–Learn loops, Minimum Viable Products, innovation accounting, Engines of Growth, and structured pivoting.
+274. **[[the-prosperity-paradox]]** ([[clayton-m-christensen]], [[efosa-ojomo]], & [[karen-dillon]], 2019, HarperBusiness, 282 pp.)  
+     Argues that Market-Creating Innovations targeting non-consumption—rather than top-down aid or efficiency projects—pull durable jobs, infrastructure, and institutions into existence.
+275. **[[the-startup-owners-manual]]** ([[steve-blank]] & [[bob-dorf]], 2012, K&S Ranch Press, 987 pp.)  
+     Encyclopedic Customer Development handbook uniting the Strategy Guide, Web/Mobile Manual, and Physical Channel Manual around "Get Out of the Building!"
+276. **[[value-proposition-design]]** ([[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], & [[alan-smith-strategyzer]], 2014, Wiley, 323 pp.)  
+     Visual Strategyzer toolkit pairing the Value Proposition Canvas (Customer Jobs/Pains/Gains vs. Pain Relievers/Gain Creators) with Test Cards and Learning Cards.
+277. **[[zero-to-one]]** ([[peter-thiel]] & [[blake-masters]], 2014, Crown Business, 186 pp.)  
+     Contrarian Stanford CS183 manifesto championing vertical 0-to-1 invention, creative monopolies, definite optimism, hidden Secrets, and power-law venture conviction.
+278. **[[business-startup-for-dummies-bundle]]** ([[colin-barrow]] & [[john-a-tracy]], 2011–2012, Wiley UK, 549 pp.)  
+     Three-in-one SME founder compendium uniting *Starting a Business*, *Business Plans*, and *Understanding Business Accounting For Dummies* (3rd UK eds.).
+279. **[[crack-the-funding-code]]** ([[judy-robinett]], 2019, Entrepreneur Press, 289 pp.)  
+     Investor-mindset fundraising guide combining Power Connecting warm networks, the 3 Cs, clear financials, pitch templates, and due-diligence checklists.
+280. **[[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]]** ([[ashlee-vance]], 2015, Ecco/HarperCollins, 349 pp.)  
+     Reported biography chronicling Elon Musk from South Africa and PayPal through the 2008 near-bankruptcy crucible and vertical-integration breakthroughs at SpaceX and Tesla.
+281. **[[financial-modeling-and-valuation]]** ([[paul-pignataro]], 2013, Wiley Finance, 455 pp.)  
+     Step-by-step Wall Street workbook building an integrated three-statement Walmart model, debt/circularity schedules, DCF, comparable companies (Costco), and precedent transactions.
+282. **[[mastering-the-vc-game]]** ([[jeffrey-bussgang]], 2010, Portfolio, 255 pp.)  
+     Flybridge GP's insider roadmap decoding VC partner incentives, competitive fundraising, reverse due diligence, board governance, and IPO/M&A exits.
+283. **[[shoe-dog]]** ([[phil-knight]], 2016, Scribner, 369 pp.)  
+     Candid literary memoir of Nike's 1962–1980 survival journey from $50 trunk-sold Japanese running shoes and Bill Bowerman's waffle iron to global IPO.
+284. **[[the-art-of-startup-fundraising]]** ([[alejandro-cremades]], 2016, Wiley, 227 pp.)  
+     Tactical guide mapping 18–24 month milestone runways, pitch decks, data rooms, crowdfunding/angel/VC rounds, PR momentum, and investor vetting.
+285. **[[the-business-of-venture-capital]]** ([[mahendra-ramsinghani]], 2014 2nd Ed., Wiley Finance, 435 pp.)  
+     Institutional GP/LP handbook detailing pension/endowment allocations, fund strategy, Limited Partnership Agreements, carry waterfalls, emerging managers, and exit value creation.
+286. **[[the-startup-playbook]]** ([[david-s-kidder]] & [[reid-hoffman]], 2012, Chronicle Books, 364 pp.)  
+     Comparative anthology of 40+ elite founders (including Steve Blank, Sara Blakely, Jeff Bussgang, Robin Chase, and Steve Case) indexed across hiring, culture, metrics, and failure.
+287. **[[think-like-an-entrepreneur-act-like-a-ceo]]** ([[beverly-e-jones]], 2016, Career Press, 225 pp.)  
+     Fifty executive-coaching strategies for cultivating entrepreneurial agency, workplace resilience, and intentional mid-career reinvention.
+288. **[[venture-capital-deal-terms]]** ([[harm-f-de-vries]], [[menno-j-van-loon]], & [[sjoerd-mol]], 2016, HMS Media, 190 pp.)  
+     European/international legal-economic handbook dissecting 47 venture term-sheet clauses around the New Wave Energy Seed-to-IPO case study and template annexes.
+289. **[[venture-capitalists-at-work]]** ([[tarang-shah]] & [[sheetal-shah]], 2011, Apress, 479 pp.)  
+     Thirty-five candid interviews with top VCs (Sequoia, Floodgate, DFJ, Bessemer, NEA, Founders Fund, Kleiner Perkins) behind YouTube, Twitter, LinkedIn, PayPal, and Salesforce.
+290. **[[venture-deals]]** ([[brad-feld]] & [[jason-mendelson]], 2011, Wiley, 375 pp.)  
+     Gold-standard U.S. term-sheet bible demystifying Economics vs. Control, liquidation preferences, VC fund mechanics, game-theoretic negotiation, and M&A Letters of Intent.
+291. **[[why-startups-fail]]** ([[tom-eisenmann]], 2021, Currency, 368 pp.)  
+     HBS empirical study identifying six structural failure patterns across Launch (Bad Bedfellows, False Starts, False Positives) and Scaling (Speed Trap, Help Wanted, Cascading Miracles).

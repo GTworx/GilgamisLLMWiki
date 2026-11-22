@@ -19,6 +19,10 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[think-like-an-entrepreneur-act-like-a-ceo]] (2016) — [[beverly-e-jones]]
+- [[the-startup-playbook]] (2012) — [[david-s-kidder]], [[reid-hoffman]]
+- [[the-hard-thing-about-hard-things]] (2014) — [[ben-horowitz]]
+- [[start-with-why]] (2009) — [[simon-sinek]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]

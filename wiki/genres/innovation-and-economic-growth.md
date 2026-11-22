@@ -14,6 +14,12 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
+- [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
+- [[the-lean-startup]] (2011) — [[eric-ries]]
+- [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
+- [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]
+- [[blitzscaling]] (2018) — [[reid-hoffman]], [[chris-yeh]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 - [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]

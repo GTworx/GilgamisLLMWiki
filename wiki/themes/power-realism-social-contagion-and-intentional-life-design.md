@@ -13,6 +13,10 @@ Starting from [[niccolo-machiavelli]]'s [[the-prince-machiavelli]] and expanded 
 ---
 
 ## Featured Works
+- [[think-like-an-entrepreneur-act-like-a-ceo]] (2016) — [[beverly-e-jones]]
+- [[shoe-dog]] (2016) — [[phil-knight]]
+- [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
+- [[the-hard-thing-about-hard-things]] (2014) — [[ben-horowitz]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[david-and-goliath]] (2013) — [[malcolm-gladwell]]

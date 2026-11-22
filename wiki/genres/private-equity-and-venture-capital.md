@@ -14,6 +14,14 @@ Within the Gilgamis LLM Wiki, this genre stages a rigorous multi-perspective syn
 ---
 
 ## Books in Wiki
+- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
+- [[venture-capitalists-at-work]] (2011) — [[tarang-shah]], [[sheetal-shah]]
+- [[venture-capital-deal-terms]] (2016) — [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]]
+- [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
+- [[the-art-of-startup-fundraising]] (2016) — [[alejandro-cremades]]
+- [[mastering-the-vc-game]] (2010) — [[jeffrey-bussgang]]
+- [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
+- [[crack-the-funding-code]] (2019) — [[judy-robinett]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
 - [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]

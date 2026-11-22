@@ -14,6 +14,9 @@ Within this wiki, the genre links [[robert-b-cialdini]]'s [[influence-the-psycho
 ---
 
 ## Books in Wiki
+- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
+- [[crack-the-funding-code]] (2019) — [[judy-robinett]]
+- [[start-with-why]] (2009) — [[simon-sinek]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
 - [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]

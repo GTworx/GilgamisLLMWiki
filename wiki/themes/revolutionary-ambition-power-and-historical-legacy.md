@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] (2015) — [[ashlee-vance]]
 - [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]

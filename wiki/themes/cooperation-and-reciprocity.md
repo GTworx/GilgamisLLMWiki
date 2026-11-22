@@ -31,6 +31,7 @@ Contemporary leadership and mathematical social choice further expand the wiki's
 ---
 
 ## Featured Works
+- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
 - [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]

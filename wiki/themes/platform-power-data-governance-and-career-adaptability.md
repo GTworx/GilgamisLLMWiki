@@ -13,6 +13,8 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 ---
 
 ## Featured Works
+- [[think-like-an-entrepreneur-act-like-a-ceo]] (2016) — [[beverly-e-jones]]
+- [[blitzscaling]] (2018) — [[reid-hoffman]], [[chris-yeh]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]

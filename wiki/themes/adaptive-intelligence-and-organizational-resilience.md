@@ -17,6 +17,9 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[the-lean-startup]] (2011) — [[eric-ries]]
+- [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
+- [[the-hard-thing-about-hard-things]] (2014) — [[ben-horowitz]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[emotional-intelligence]] (1995) — [[daniel-goleman]]
 - [[mastery-robert-greene]] (2012) — [[robert-greene]]

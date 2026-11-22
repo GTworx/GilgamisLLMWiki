@@ -18,6 +18,7 @@ Synthesizing internal boardroom counseling ([[influencing-leaders]]), external a
 ---
 
 ## Featured Works
+- [[crack-the-funding-code]] (2019) — [[judy-robinett]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
 - [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
 - [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]

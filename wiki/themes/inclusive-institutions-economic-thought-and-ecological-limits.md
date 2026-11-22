@@ -13,6 +13,7 @@ Starting from [[adam-smith]]'s [[the-wealth-of-nations]] and narrated across gen
 ---
 
 ## Featured Works
+- [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]

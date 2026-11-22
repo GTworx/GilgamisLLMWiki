@@ -13,6 +13,11 @@
 ---
 
 ## Featured Works
+- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
+- [[venture-capital-deal-terms]] (2016) — [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]]
+- [[the-art-of-startup-fundraising]] (2016) — [[alejandro-cremades]]
+- [[crack-the-funding-code]] (2019) — [[judy-robinett]]
+- [[start-with-why]] (2009) — [[simon-sinek]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
 - [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]

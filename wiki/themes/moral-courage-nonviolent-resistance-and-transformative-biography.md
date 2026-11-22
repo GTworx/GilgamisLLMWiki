@@ -13,6 +13,7 @@ The philosophical root lies in [[mahatma-gandhi]]'s [[gandhi-my-experiments-with
 ---
 
 ## Featured Works
+- [[shoe-dog]] (2016) — [[phil-knight]]
 - [[meditations-marcus-aurelius]] (2002) — [[marcus-aurelius]], [[gregory-hays]]
 - [[david-and-goliath]] (2013) — [[malcolm-gladwell]]
 - [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]

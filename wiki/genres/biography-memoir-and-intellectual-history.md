@@ -14,6 +14,11 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[venture-capitalists-at-work]] (2011) — [[tarang-shah]], [[sheetal-shah]]
+- [[the-startup-playbook]] (2012) — [[david-s-kidder]], [[reid-hoffman]]
+- [[shoe-dog]] (2016) — [[phil-knight]]
+- [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] (2015) — [[ashlee-vance]]
+- [[the-hard-thing-about-hard-things]] (2014) — [[ben-horowitz]]
 - [[mastery-robert-greene]] (2012) — [[robert-greene]]
 - [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
 - [[epictetus-stoic-and-socratic-guide]] (2002) — [[a-a-long]]

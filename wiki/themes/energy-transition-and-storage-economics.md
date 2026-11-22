@@ -13,6 +13,7 @@ In the wiki, [[berat-albayrak]]'s [[burasi-cok-onemli-enerjiden-ekonomiye-tam-ba
 ---
 
 ## Featured Works
+- [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] (2015) — [[ashlee-vance]]
 - [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
 - [[the-coal-question]] (1865) — [[william-stanley-jevons]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]

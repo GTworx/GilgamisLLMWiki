@@ -723,3 +723,50 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 837 entity pages (839 total markdown files).
+---
+
+## [2026-11-22] ingest | Option I Sweep — Complete `BOOKS/Entrepreneurship_/` Ingestion (28 New Works + 1 SHA-256 Duplicate Synced across 31 Files)
+
+- **Scope**: Completed full ingestion of `BOOKS/Entrepreneurship_/` (31 PDFs totaling 10,653 pages; 10,283 net-new pages across 30 new files after syncing 1 exact SHA-256 duplicate of [[inspired-how-to-create-tech-products-customers-love]] and consolidating 2 multi-edition/companion pairs: *The Almanack of Naval Ravikant* [2 files] & *Crossing the Chasm* [2 editions]).
+- **Ingested Works**:
+  - **Startup Strategy, Lean Validation, Product Design & Disruptive Innovation (14 works)**:
+    - [[the-almanack-of-naval-ravikant]] ([[eric-jorgenson]], [[naval-ravikant]], 2020, 242 pp. primary + 399 pp. Bookey guide)
+    - [[blitzscaling]] ([[reid-hoffman]], [[chris-yeh]], 2018, 246 pp.)
+    - [[crossing-the-chasm]] ([[geoffrey-a-moore]], 1991/2014 3rd Ed., 288 pp. + 174 pp. revised ed.)
+    - [[hooked-how-to-build-habit-forming-products]] ([[nir-eyal]], [[ryan-hoover]], 2014, 535 pp.)
+    - [[how-to-start-a-startup-pragmatic-coders]] ([[wiktor-zolnowski]], [[pragmatic-coders]], 2022, 160 pp.)
+    - [[start-with-why]] ([[simon-sinek]], 2009, 271 pp.)
+    - [[the-hard-thing-about-hard-things]] ([[ben-horowitz]], 2014, 244 pp.)
+    - [[the-innovators-dilemma]] ([[clayton-m-christensen]], 1997, 345 pp.)
+    - [[the-lean-entrepreneur]] ([[brant-cooper]], [[patrick-vlaskovits]], 2013, 344 pp.)
+    - [[the-lean-startup]] ([[eric-ries]], 2011, 328 pp.)
+    - [[the-prosperity-paradox]] ([[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]], 2019, 282 pp.)
+    - [[the-startup-owners-manual]] ([[steve-blank]], [[bob-dorf]], 2012, 987 pp.)
+    - [[value-proposition-design]] ([[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]], 2014, 323 pp.)
+    - [[zero-to-one]] ([[peter-thiel]], [[blake-masters]], 2014, 186 pp.)
+  - **Venture Capital, Term Sheets, Financial Modeling, Founder Biographies & Failure Analysis (14 works)**:
+    - [[business-startup-for-dummies-bundle]] ([[colin-barrow]], [[john-a-tracy]], 2011–2012, 549 pp.)
+    - [[crack-the-funding-code]] ([[judy-robinett]], 2019, 289 pp.)
+    - [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] ([[ashlee-vance]], 2015, 349 pp.)
+    - [[financial-modeling-and-valuation]] ([[paul-pignataro]], 2013, 455 pp.)
+    - [[mastering-the-vc-game]] ([[jeffrey-bussgang]], 2010, 255 pp.)
+    - [[shoe-dog]] ([[phil-knight]], 2016, 369 pp.)
+    - [[the-art-of-startup-fundraising]] ([[alejandro-cremades]], 2016, 227 pp.)
+    - [[the-business-of-venture-capital]] ([[mahendra-ramsinghani]], 2014 2nd Ed., 435 pp.)
+    - [[the-startup-playbook]] ([[david-s-kidder]], [[reid-hoffman]], 2012, 364 pp.)
+    - [[think-like-an-entrepreneur-act-like-a-ceo]] ([[beverly-e-jones]], 2016, 225 pp.)
+    - [[venture-capital-deal-terms]] ([[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]], 2016, 190 pp.)
+    - [[venture-capitalists-at-work]] ([[tarang-shah]], [[sheetal-shah]], 2011, 479 pp.)
+    - [[venture-deals]] ([[brad-feld]], [[jason-mendelson]], 2011, 375 pp.)
+    - [[why-startups-fail]] ([[tom-eisenmann]], 2021, 368 pp.)
+  - **SHA-256 Duplicate Synced (1 file)**:
+    - [[inspired-how-to-create-tech-products-customers-love]] ([[marty-cagan]], 2018, 370 pp. — `INSPIRED_ ... ( PDFDrive ).pdf` verified SHA-256 identical to `BOOKS/Business Economy Finance/Book Inspired Marty Cagan.pdf`)
+- **Entity Pages Created / Updated**:
+  - **Books**: 28 new pages created + 1 existing synced (total: 291)
+  - **Authors**: 41 new author profiles created + 3 existing updated ([[reid-hoffman]], [[clayton-m-christensen]], [[karen-dillon]]): [[eric-jorgenson]], [[naval-ravikant]], [[chris-yeh]], [[geoffrey-a-moore]], [[nir-eyal]], [[ryan-hoover]], [[wiktor-zolnowski]], [[pragmatic-coders]], [[simon-sinek]], [[ben-horowitz]], [[brant-cooper]], [[patrick-vlaskovits]], [[eric-ries]], [[efosa-ojomo]], [[steve-blank]], [[bob-dorf]], [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]], [[peter-thiel]], [[blake-masters]], [[colin-barrow]], [[john-a-tracy]], [[judy-robinett]], [[ashlee-vance]], [[paul-pignataro]], [[jeffrey-bussgang]], [[phil-knight]], [[alejandro-cremades]], [[mahendra-ramsinghani]], [[david-s-kidder]], [[beverly-e-jones]], [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]], [[tarang-shah]], [[sheetal-shah]], [[brad-feld]], [[jason-mendelson]], [[tom-eisenmann]] (total: 449)
+  - **Genres**: 2 new genre indices created ([[entrepreneurship-and-startup-methodology]], [[product-design-and-behavioral-engineering]]) and 12 existing genres updated (total: 79)
+  - **Themes**: 3 new thematic syntheses created ([[lean-startup-customer-development-and-product-market-fit]], [[venture-capital-term-sheets-and-fundraising-mechanics]], [[disruptive-innovation-blitzscaling-and-founder-resilience]]) and 19 existing themes updated (total: 92)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 911 entity pages (913 total markdown files).
