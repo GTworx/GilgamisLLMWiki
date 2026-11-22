@@ -2,7 +2,7 @@
 
 **Description**: The literary art of rhythmic, metered, and lyrical language exploring philosophical, existential, emotional, and social dimensions of human experience.  
 **Key Themes**: [[asik-and-minstrel-tradition]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]]  
-**Last updated**: 2026-09-12  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,7 @@ Through formal metrics (such as the Turkish syllabic *hece vezni* or free verse 
 ---
 
 ## Books in Wiki
+- [[riddles-riddles-riddles]] (1953) — [[joseph-leeming]]
 
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
 - [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]

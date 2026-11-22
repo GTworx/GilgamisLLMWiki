@@ -14,6 +14,8 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Books in Wiki
+- [[the-math-hacker-book]] (2015) — [[paul-carson]]
+- [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
 - [[precalculus-openstax]] (2017) — [[jay-abramson]]
 - [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]

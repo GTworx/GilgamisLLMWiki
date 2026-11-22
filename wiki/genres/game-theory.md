@@ -2,7 +2,7 @@
 
 **Description**: The mathematical and formal study of strategic interaction, conflict, and cooperation among rational (and boundedly rational) decision-makers.  
 **Key Themes**: [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[rationality-and-decision-making]], [[deterrence-and-coercion]], [[topological-social-choice-and-preference-cycles]]  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,7 @@ In this wiki, game theory serves as a fundamental analytical bridge connecting m
 ---
 
 ## Books in Wiki
+- [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
 
 - [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] (2020) — [[michael-wooldridge]]
 - [[probabilistic-artificial-intelligence]] (2025) — [[andreas-krause]], [[jonas-hubotter]]

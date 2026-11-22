@@ -14,6 +14,12 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
+- [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
+- [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
+- [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
+- [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
+- [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]

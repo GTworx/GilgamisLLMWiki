@@ -14,6 +14,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
+- [[financing-real-estate-investments-for-dummies]] (2009) — [[ralph-r-roberts]], [[chip-cummings]]
 - [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
 - [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]

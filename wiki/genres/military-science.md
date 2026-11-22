@@ -2,7 +2,7 @@
 
 **Description**: The systematic study of military processes, operational doctrine, weapon systems, command and control (C2), and the conduct of warfare.  
 **Key Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,7 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 
 - [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
 - [[the-evolution-of-cooperation]] (1984) — Robert Axelrod (Military operational history of trench warfare in WWI)

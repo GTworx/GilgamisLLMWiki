@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 - [[orientalism]] (1978) — [[edward-w-said]]

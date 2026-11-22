@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 140 distinct intellectual works (across 164 source files/volumes and ~43,200+ pages)
-- **Total Generated Wiki Pages**: 531 interlinked markdown files (529 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 168 distinct intellectual works (across 195 source files/volumes and ~54,000+ pages)
+- **Total Generated Wiki Pages**: 601 interlinked markdown files (599 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 140 ([books/](wiki/books/))
-- **Author Profile Pages**: 258 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 62 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 69 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 168 ([books/](wiki/books/))
+- **Author Profile Pages**: 293 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 65 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 73 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -318,3 +318,61 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Philosophical political-economy synthesis of Friedman, Dahl, Lindblom, and Christiano proving capitalism supplies citizen independence from the state while constraining political equality via campaign-finance gatekeeping and the "market as a prison."
 140. **[[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]]** ([[slavs-and-tatars]] & [[jalil-mammadguluzadeh]], 2011 / 1906–1930, Christoph Keller Editions, 107 pp.)  
      English translation and cultural analysis of the pioneering polyglot Azeri satirical weekly *Molla Nasreddin* (Tbilisi, Tabriz, Baku), attacking clerical hypocrisy, colonialism, and elite self-colonization while championing Jadid reform and women's suffrage.
+
+### Category K: Option D — Biography, Capital Markets & Personal Finance, and Recreational Mathematics (`BOOKS/` Root, `Biography_/`, `Investment_/`, `Fun & Puzzles_/`, & `Game Theory/` — 28 New Works + 2 Synced Duplicates across 31 Files)
+141. **[[50-plus-books-that-changed-my-life]]** ([[unity-stoakes]], 2025, 47 pp.)  
+     Curated personal reading zine uniting mythology, existential meaning, lean building, financial autonomy, and creative craft across 50+ formative books.
+142. **[[trump-the-art-of-the-deal]]** ([[donald-j-trump]], 1987, Random House / Ballantine, 418 pp.)  
+     1980s Manhattan real-estate memoir and eleven-point dealmaking playbook establishing Trump's leverage-, publicity-, and instinct-driven commercial ethos.
+143. **[[becoming-king-martin-luther-king-jr]]** ([[troy-jackson]], 2008, Univ. Press of Kentucky, 270 pp.)  
+     Grassroots civil-rights history proving Montgomery's community organizers forged Martin Luther King Jr.'s Gandhian nonviolent national leadership during the 1955–56 bus boycott.
+144. **[[che-guevara-a-biography]]** ([[richard-l-harris]], 2011, Greenwood Biographies, 267 pp.)  
+     Balanced scholarly biography tracing Ernesto "Che" Guevara from Argentine medical student and Cuban guerrilla commander (*foco* theory) to Congo, Bolivia, and global revolutionary iconography.
+145. **[[funny-in-farsi]]** ([[firoozeh-dumas]], 2004, Random House, 104 pp.)  
+     Warm, witty memoir of growing up Iranian in California, turning linguistic translation, Persian hospitality (*ta'arof*), and post-1979 geopolitical stereotyping into humane comedy.
+146. **[[gandhi-my-experiments-with-truth]]** ([[mahatma-gandhi]], trans. Mahadev Desai, 1927, Navajivan, 269 pp.)  
+     Candid spiritual and political autobiography chronicling Gandhi's empirical "experiments" with Truth (*Satya*), Nonviolence (*Ahimsa*), South African anti-racism, and Indian *Satyagraha*.
+147. **[[karl-marx-a-biography]]** ([[david-mclellan]], 1973/1995, Papermac / Macmillan, 495 pp.)  
+     Benchmark single-volume intellectual and personal biography integrating Marx's *Grundrisse*, *Capital*, and First International leadership with his London exile and partnership with Engels.
+148. **[[napoleon-a-biography]]** ([[frank-mclynn]], 1997/1998, Pimlico, 767 pp.)  
+     Psychologically acute 28-chapter portrait of Napoleon Bonaparte's rise from Corsica through Austerlitz, the Napoleonic Code, Russian overreach, Waterloo, and St. Helena.
+149. **[[born-a-crime]]** ([[trevor-noah]], 2016, Spiegel & Grau, 920 pp.)  
+     Coming-of-age memoir under South African apartheid's Immorality Act exploring multilingual "chameleon" survival, township informal economies, and maternal courage.
+150. **[[i-am-malala]]** ([[malala-yousafzai]] & [[christina-lamb]], 2013, Weidenfeld & Nicolson, 195 pp.)  
+     Autobiographical testimony of defying the Taliban's ban on girls' education in Pakistan's Swat Valley, surviving assassination, and championing universal schooling at the UN.
+151. **[[inspiration-to-live-your-magic]]** ([[larry-anderson]], 2011, LIAP Media, 167 pp.)  
+     Compendium of 75 concise portraits of scientists, humanitarians, jurists, and artists celebrating perseverance, accessibility breakthroughs, and purposeful service.
+152. **[[excel-for-accountants]]** ([[conrad-carlberg]], 2007, CPA911 Publishing, 289 pp.)  
+     Practitioner manual turning Excel into an audit-ready accounting control environment covering relational list hygiene, PivotTables, QuickBooks integration, and depreciation schedules.
+153. **[[financial-analysis-using-excel]]** ([[vj-books-editorial]], 2002, VJ Books, 254 pp.)  
+     Technical reference mapping Excel's fixed-income bond pricing, yield, duration, accrued-interest, and DCF capital-budgeting function library (`PRICE`, `YIELD`, `DURATION`, `XNPV`, `XIRR`).
+154. **[[financing-real-estate-investments-for-dummies]]** ([[ralph-r-roberts]] & [[chip-cummings]], 2009, Wiley, 291 pp.)  
+     Post-2008 guide to leveraged property acquisitions covering LLC/trust asset shielding, non-recourse notes, mortgage-fraud avoidance, and bank/hard-money/seller capital sources.
+155. **[[investing-for-dummies]]** ([[eric-tyson]], 2017, Wiley 8th Ed., 459 pp.)  
+     Conflict-free long-term wealth primer advocating emergency reserves, debt elimination, tax-advantaged accounts, and low-cost diversified ownership investing across equities, funds, and real estate.
+156. **[[investment-banks-hedge-funds-and-private-equity]]** ([[david-p-stowell]], 2018, Academic Press 3rd Ed., 709 pp.)  
+     Authoritative Kellogg graduate textbook mapping post-crisis Wall Street banking divisions, Glass–Steagall/Dodd–Frank securities law, hedge-fund strategies, LBOs, and landmark M&A deal cases.
+157. **[[managing-your-money-all-in-one-for-dummies]]** ([[ted-benna]] & [[stephen-r-bucci]] et al., 2009, Wiley, 700 pp.)  
+     U.S. lifecycle household-finance encyclopedia uniting credit/FICO diagnostics, debt recovery, mortgages, insurance, 401(k)/IRA retirement planning, and estate transfers.
+158. **[[personal-finance-and-investing-all-in-one-for-dummies]]** ([[melanie-bien]], [[julian-knight]], & [[tony-levene]], 2007, Wiley UK, 611 pp.)  
+     UK household-finance compendium covering current accounts, IFA vs. tied-agent due diligence, protection insurance, ISAs, buy-to-let property, and British pension/inheritance planning.
+159. **[[stock-investing-for-dummies]]** ([[paul-mladjenovic]], 2006 2nd Ed. & 2016 5th Ed. consolidated, Wiley, 363/410 pp.)  
+     Fundamental equity-picking manual covering financial statement analysis (P/E, PEG, ROE, debt ratios), value/growth/dividend allocation, limit/stop-loss orders, and market cycles.
+160. **[[stock-trading-strategy-3-book-bundle]]** ([[tyler-yamazaki]], 2016, 125 pp.)  
+     Active retail-trading 3-book bundle introducing equity basics, intraday momentum workflows, micro-cap penny-stock liquidity risks, and rules-based trading psychology.
+161. **[[100-math-brainteasers]]** ([[zbigniew-romanowicz]], 2014, 131 pp.)  
+     Polish mathematical-circle collection of 100 arithmetic, divisibility, prime, Diophantine, and geometric problems emphasizing parity and invariant reasoning.
+162. **[[536-puzzles-and-curious-problems]]** ([[henry-ernest-dudeney]], ed. [[martin-gardner]], 1967, Scribner's, 442 pp.)  
+     Definitive recreational-mathematics omnibus uniting Dudeney's cryptarithms, geometric dissections, magic squares, and network puzzles with Martin Gardner's editorial annotations.
+163. **[[brain-teasers-211-logic-puzzles]]** ([[ian-livingstone]] & [[jamie-thomson]], 2009, 485 pp.)  
+     Gamified cross-modal cognitive trainer rotating Spidoku, Crossnumbers, Mondrian spatial puzzles, glyph ciphers, memory drills, and lateral-thinking challenges.
+164. **[[math-puzzles-classic-riddles]]** ([[presh-talwalkar]], 2012, 488 pp.)  
+     *Mind Your Decisions* collection solving classic counting, geometric invariance, Bayesian probability, and backward-induction game-theory riddles.
+165. **[[riddles-riddles-riddles]]** ([[joseph-leeming]], 1953, Franklin Watts, 226 pp.)  
+     Folkloric treasury of verbal riddles, conundrums, puns, rhymed charades, and anagrams illuminating linguistic double-meaning and frame-shifting wit.
+166. **[[the-math-hacker-book]]** ([[paul-carson]], 2015, 742 pp.)  
+     Intuitive numeracy manual replacing rote anxiety with mental shortcuts across multiplication, fractions, percentages, compound interest, indices, surds, logarithms, and quadratics.
+167. **[[the-penguin-book-of-curious-and-interesting-puzzles]]** ([[david-wells]], 1992, Penguin, 391 pp.)  
+     Four-thousand-year historical anthology tracing how puzzles from the Rhind Papyrus, Alcuin, Fibonacci, and Euler sparked graph theory, topology, and combinatorics.
+168. **[[the-worlds-200-hardest-brain-teasers]]** ([[gary-r-gruber]], 2010, Sourcebooks, 201 pp.)  
+     200 high-difficulty visual-symmetry, logic, and geometry teasers designed to replace brute-force calculation with transferable insight heuristics.

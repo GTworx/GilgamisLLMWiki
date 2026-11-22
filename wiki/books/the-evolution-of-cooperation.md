@@ -3,8 +3,8 @@
 **Author(s)**: [[robert-axelrod]], [[william-d-hamilton]]  
 **Genre(s)**: [[game-theory]], [[political-science]], [[evolutionary-biology]], [[strategic-studies]]  
 **Key Themes**: [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[rationality-and-decision-making]], [[tit-for-tat]]  
-**Source**: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf  
-**Last updated**: 2026-08-23  
+**Source**: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf & BOOKS/Game Theory/Axelrod_Robert_The_Evolution_of_Cooperation.pdf (verified SHA-256 identical)  
+**Last updated**: 2026-11-22
 
 ---
 

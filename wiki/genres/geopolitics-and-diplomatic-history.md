@@ -14,6 +14,8 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
+- [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
 - [[the-room-where-it-happened]] (2020) — [[john-bolton]]
 - [[world-order]] (2014) — [[henry-kissinger]]

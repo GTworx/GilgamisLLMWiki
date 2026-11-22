@@ -14,6 +14,8 @@ Featured in [[ashley-dawson]]'s [[mongrel-nation-colonization-in-reverse]] (with
 ---
 
 ## Books in Wiki
+- [[born-a-crime]] (2016) — [[trevor-noah]]
+- [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[orientalism]] (1978) — [[edward-w-said]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]

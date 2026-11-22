@@ -16,6 +16,7 @@ Across political sociology, constitutional law, and mathematical social choice t
 ---
 
 ## Featured Works
+- [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
 - [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]

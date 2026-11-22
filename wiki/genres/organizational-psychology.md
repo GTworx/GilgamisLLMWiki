@@ -18,6 +18,7 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[stock-trading-strategy-3-book-bundle]] (2016) — [[tyler-yamazaki]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]

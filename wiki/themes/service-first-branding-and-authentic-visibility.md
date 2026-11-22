@@ -16,6 +16,8 @@ In [[valuable-and-visible]] (2026), [[vanessa-errecarte]] resolves this moral di
 ---
 
 ## Featured Works
+- [[trump-the-art-of-the-deal]] (1987) — [[donald-j-trump]]
+- [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]
 - [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
 - [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]

@@ -20,6 +20,11 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[born-a-crime]] (2016) — [[trevor-noah]]
+- [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
+- [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
+- [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]
+- [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
 - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]

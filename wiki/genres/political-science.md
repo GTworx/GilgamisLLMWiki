@@ -15,6 +15,8 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
+- [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
 - [[the-room-where-it-happened]] (2020) — [[john-bolton]]

@@ -3,8 +3,8 @@
 **Author(s)**: [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]  
 **Genre(s)**: [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]]  
 **Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]  
-**Source**: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf  
-**Last updated**: 2026-08-23  
+**Source**: raw/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf & BOOKS/Game Theory/Deterrence in 21st Century Nuclear NetherlandsAnnualReviewO.pdf (verified SHA-256 identical)  
+**Last updated**: 2026-11-22
 
 ---
 

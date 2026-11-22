@@ -26,6 +26,10 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
+- [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
+- [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
+- [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
 - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]

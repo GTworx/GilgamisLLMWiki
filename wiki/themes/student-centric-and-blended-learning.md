@@ -13,6 +13,8 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Featured Works
+- [[the-math-hacker-book]] (2015) — [[paul-carson]]
+- [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
 - [[precalculus-openstax]] (2017) — [[jay-abramson]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]

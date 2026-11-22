@@ -30,6 +30,16 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]
+- [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
+- [[stock-trading-strategy-3-book-bundle]] (2016) — [[tyler-yamazaki]]
+- [[stock-investing-for-dummies]] (2016) — [[paul-mladjenovic]]
+- [[personal-finance-and-investing-all-in-one-for-dummies]] (2007) — [[melanie-bien]], [[julian-knight]], [[tony-levene]]
+- [[managing-your-money-all-in-one-for-dummies]] (2009) — [[ted-benna]], [[stephen-r-bucci]]
+- [[investing-for-dummies]] (2017) — [[eric-tyson]]
+- [[financing-real-estate-investments-for-dummies]] (2009) — [[ralph-r-roberts]], [[chip-cummings]]
+- [[financial-analysis-using-excel]] (2002) — [[vj-books-editorial]]
+- [[excel-for-accountants]] (2007) — [[conrad-carlberg]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
 - [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]

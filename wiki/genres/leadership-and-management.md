@@ -19,6 +19,9 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
+- [[trump-the-art-of-the-deal]] (1987) — [[donald-j-trump]]
+- [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]

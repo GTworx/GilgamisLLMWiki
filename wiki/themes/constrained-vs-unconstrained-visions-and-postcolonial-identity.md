@@ -13,6 +13,7 @@ In [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[thoma
 ---
 
 ## Featured Works
+- [[born-a-crime]] (2016) — [[trevor-noah]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]

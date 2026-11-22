@@ -13,6 +13,8 @@ Making the institutional and operational case, [[claudia-zeisberger]], [[michael
 ---
 
 ## Featured Works
+- [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
+- [[financing-real-estate-investments-for-dummies]] (2009) — [[ralph-r-roberts]], [[chip-cummings]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]

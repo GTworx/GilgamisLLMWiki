@@ -13,6 +13,15 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 ---
 
 ## Featured Works
+- [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
+- [[the-math-hacker-book]] (2015) — [[paul-carson]]
+- [[riddles-riddles-riddles]] (1953) — [[joseph-leeming]]
+- [[brain-teasers-211-logic-puzzles]] (2009) — [[ian-livingstone]], [[jamie-thomson]]
+- [[536-puzzles-and-curious-problems]] (1967) — [[henry-ernest-dudeney]], [[martin-gardner]]
+- [[100-math-brainteasers]] (2014) — [[zbigniew-romanowicz]]
+- [[investing-for-dummies]] (2017) — [[eric-tyson]]
+- [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
+- [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]

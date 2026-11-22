@@ -496,3 +496,54 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 529 entity pages (531 total markdown files).
+
+
+---
+
+## [2026-11-22T19:26:00+01:00] ingest | Option D: Remaining Medium `BOOKS/` Clean-Up (`BOOKS/` Root, `Biography_/`, `Investment_/`, `Fun & Puzzles_/`, & `Game Theory/` — 28 New Works + 2 Verified Duplicates across All 31 Source Files; 168-Book Milestone)
+
+- **Operation**: Complete sweep closing out every remaining small and medium domain folder in `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` (`50+_Books_That_Changed_My_Life.pdf` [1 file], `Biography_/` [10 files → 10 works], `Investment_/` [10 files → 9 works, consolidating Paul Mladjenovic's 2nd & 5th editions of *Stock Investing For Dummies*], `Fun & Puzzles_/` [8 files → 8 works], and `Game Theory/` [2 files verified SHA-256 identical to `raw/` — `the-evolution-of-cooperation` & `deterrence-in-the-21st-century`]). Totaling ~10,800+ pages across **28 new distinct intellectual works**, this sweep brings the Gilgamis LLM Wiki from **140 → 168 books**.
+- **Ingested Works (28 New Works + 2 Verified Duplicates across 31 Source Files)**:
+  - **Root (`BOOKS/`, 1 file → 1 work)**:
+    - [[50-plus-books-that-changed-my-life]] ([[unity-stoakes]], 2025, 47 pp.) — `BOOKS/50+_Books_That_Changed_My_Life.pdf`
+  - **Biography (`BOOKS/Biography_/`, 10 files → 10 works)**:
+    - [[trump-the-art-of-the-deal]] ([[donald-j-trump]], 1987, 418 pp.) — `BOOKS/Biography_/1987 Trump_ The Art of the Deal.pdf`
+    - [[becoming-king-martin-luther-king-jr]] ([[troy-jackson]], 2008, 270 pp.) — `BOOKS/Biography_/Becoming King_ Martin Luther King Jr. and the Making of a National Leader...pdf`
+    - [[che-guevara-a-biography]] ([[richard-l-harris]], 2011, 267 pp.) — `BOOKS/Biography_/Che Guevara_ A Biography (Greenwood Biographies)   ( PDFDrive ).pdf`
+    - [[funny-in-farsi]] ([[firoozeh-dumas]], 2004, 104 pp.) — `BOOKS/Biography_/Funny in Farsi - Growing up in US as an Iranian.pdf`
+    - [[gandhi-my-experiments-with-truth]] ([[mahatma-gandhi]], 1927, 269 pp.) — `BOOKS/Biography_/Gandhi-Truth.pdf`
+    - [[karl-marx-a-biography]] ([[david-mclellan]], 1973/1995, 495 pp.) — `BOOKS/Biography_/Karl Marx_ A Biography ( PDFDrive ).pdf`
+    - [[napoleon-a-biography]] ([[frank-mclynn]], 1997/1998, 767 pp.) — `BOOKS/Biography_/Napoleon_ A Biography ( PDFDrive ).pdf`
+    - [[born-a-crime]] ([[trevor-noah]], 2016, 920 pp.) — `BOOKS/Biography_/born-a-crime Trevor Noah.pdf`
+    - [[i-am-malala]] ([[malala-yousafzai]], [[christina-lamb]], 2013, 195 pp.) — `BOOKS/Biography_/i-am-malala-pdf-book-by-malala-downloaded-4m-pakistanifun.commalala-yousafzai-christina-lamb.pdf`
+    - [[inspiration-to-live-your-magic]] ([[larry-anderson]], 2011, 167 pp.) — `BOOKS/Biography_/inspiration-to-live-your-magic.pdf`
+  - **Investment (`BOOKS/Investment_/`, 10 files → 9 works)**:
+    - [[excel-for-accountants]] ([[conrad-carlberg]], 2007, 289 pp.) — `BOOKS/Investment_/Excel for Accountant_.pdf`
+    - [[financial-analysis-using-excel]] ([[vj-books-editorial]], 2002, 254 pp.) — `BOOKS/Investment_/Financial Modeling in Excel.pdf`
+    - [[financing-real-estate-investments-for-dummies]] ([[ralph-r-roberts]], [[chip-cummings]], 2009, 291 pp.) — `BOOKS/Investment_/Financing Real Estate Investments For Dummies...pdf`
+    - [[investing-for-dummies]] ([[eric-tyson]], 2017, 459 pp.) — `BOOKS/Investment_/Investing For Dummies ( PDFDrive ).pdf`
+    - [[investment-banks-hedge-funds-and-private-equity]] ([[david-p-stowell]], 2018, 709 pp.) — `BOOKS/Investment_/Investment Banks, Hedge Funds, and Private Equity ( PDFDrive ).pdf`
+    - [[managing-your-money-all-in-one-for-dummies]] ([[ted-benna]], [[stephen-r-bucci]], 2009, 700 pp.) — `BOOKS/Investment_/Managing Your Money All-In-One For Dummies...pdf`
+    - [[personal-finance-and-investing-all-in-one-for-dummies]] ([[melanie-bien]], [[julian-knight]], [[tony-levene]], 2007, 611 pp.) — `BOOKS/Investment_/Personal Finance and Investing All-in-one for Dummies...pdf`
+    - [[stock-investing-for-dummies]] ([[paul-mladjenovic]], 2006/2016, 2nd & 5th Eds. consolidated) — `BOOKS/Investment_/Stock Investing For Dummies ( PDFDrive ).pdf` & `Stock investing for Dummies.pdf ( PDFDrive ).pdf`
+    - [[stock-trading-strategy-3-book-bundle]] ([[tyler-yamazaki]], 2016, 125 pp.) — `BOOKS/Investment_/Stock Trading Strategy_ 3-Book Bundle...pdf`
+  - **Fun & Puzzles (`BOOKS/Fun & Puzzles_/`, 8 files → 8 works)**:
+    - [[100-math-brainteasers]] ([[zbigniew-romanowicz]], 2014, 131 pp.) — `BOOKS/Fun & Puzzles_/100 Math Brainteasers...pdf`
+    - [[536-puzzles-and-curious-problems]] ([[henry-ernest-dudeney]], [[martin-gardner]], 1967, 442 pp.) — `BOOKS/Fun & Puzzles_/536.pdf`
+    - [[brain-teasers-211-logic-puzzles]] ([[ian-livingstone]], [[jamie-thomson]], 2009, 485 pp.) — `BOOKS/Fun & Puzzles_/Brain Teasers_ 211 Logic Puzzles...pdf`
+    - [[math-puzzles-classic-riddles]] ([[presh-talwalkar]], 2012, 488 pp.) — `BOOKS/Fun & Puzzles_/Math puzzles_ classic riddles...pdf`
+    - [[riddles-riddles-riddles]] ([[joseph-leeming]], 1953, 226 pp.) — `BOOKS/Fun & Puzzles_/Riddles, Riddles, Riddles...pdf`
+    - [[the-math-hacker-book]] ([[paul-carson]], 2015, 742 pp.) — `BOOKS/Fun & Puzzles_/The Math-Hacker Book...pdf`
+    - [[the-penguin-book-of-curious-and-interesting-puzzles]] ([[david-wells]], 1992, 391 pp.) — `BOOKS/Fun & Puzzles_/The Penguin Book of Curious and Interesting Puzzles...pdf`
+    - [[the-worlds-200-hardest-brain-teasers]] ([[gary-r-gruber]], 2010, 201 pp.) — `BOOKS/Fun & Puzzles_/The World's 200 Hardest Brain Teasers...pdf`
+  - **Game Theory (`BOOKS/Game Theory/`, 2 verified SHA-256 duplicates synced)**:
+    - Synced `Source` metadata on [[the-evolution-of-cooperation]] (`e816ca61aebd`) and [[deterrence-in-the-21st-century]] (`91454a899444`).
+- **Entity Pages Created / Updated**:
+  - **Books**: 28 new pages created + 2 existing pages synced (total: 168)
+  - **Authors**: 35 new author profiles created: [[unity-stoakes]], [[donald-j-trump]], [[troy-jackson]], [[richard-l-harris]], [[firoozeh-dumas]], [[mahatma-gandhi]], [[david-mclellan]], [[frank-mclynn]], [[trevor-noah]], [[malala-yousafzai]], [[christina-lamb]], [[larry-anderson]], [[conrad-carlberg]], [[vj-books-editorial]], [[ralph-r-roberts]], [[chip-cummings]], [[eric-tyson]], [[david-p-stowell]], [[ted-benna]], [[stephen-r-bucci]], [[melanie-bien]], [[julian-knight]], [[tony-levene]], [[paul-mladjenovic]], [[tyler-yamazaki]], [[zbigniew-romanowicz]], [[henry-ernest-dudeney]], [[martin-gardner]], [[ian-livingstone]], [[jamie-thomson]], [[presh-talwalkar]], [[joseph-leeming]], [[paul-carson]], [[david-wells]], [[gary-r-gruber]] (total: 293)
+  - **Genres**: 3 new genre indices created ([[biography-memoir-and-intellectual-history]], [[personal-finance-investing-and-capital-markets]], [[recreational-mathematics-and-logic-puzzles]]) and 18 existing genres updated (total: 65)
+  - **Themes**: 4 new thematic syntheses created ([[moral-courage-nonviolent-resistance-and-transformative-biography]], [[revolutionary-ambition-power-and-historical-legacy]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]]) and 16 existing themes updated (total: 73)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 599 entity pages (601 total markdown files).

@@ -13,6 +13,7 @@ Starting from the constitutional baseline compiled by [[nick-ragone]] in [[us-de
 ---
 
 ## Featured Works
+- [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
 - [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]

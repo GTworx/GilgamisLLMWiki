@@ -17,6 +17,8 @@
 ---
 
 ## Books in Wiki
+- [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
+- [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
 - [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
 - [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
 - [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]

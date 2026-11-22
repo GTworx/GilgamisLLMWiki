@@ -14,6 +14,12 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]
+- [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
+- [[the-math-hacker-book]] (2015) — [[paul-carson]]
+- [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
+- [[536-puzzles-and-curious-problems]] (1967) — [[henry-ernest-dudeney]], [[martin-gardner]]
+- [[100-math-brainteasers]] (2014) — [[zbigniew-romanowicz]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[precalculus-openstax]] (2017) — [[jay-abramson]]
