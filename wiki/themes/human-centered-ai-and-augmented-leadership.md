@@ -1,7 +1,7 @@
 # Theme: Human-Centered AI and Augmented Leadership
 
 **Summary**: The strategic, ethical, and psychological integration of artificial intelligence as a collaborative co-pilot that amplifies—rather than replaces—human judgment, empathy, creativity, and moral responsibility.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -17,6 +17,7 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 ---
 
 ## Featured Works
+- [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]
 - [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
 - [[introduction-to-artificial-intelligence]] (2017) — [[wolfgang-ertel]]
 - [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]

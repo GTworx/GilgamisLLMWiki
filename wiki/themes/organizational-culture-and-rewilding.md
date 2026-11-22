@@ -1,7 +1,7 @@
 # Theme: Organizational Culture and Rewilding
 
 **Summary**: The transformation of rigid, over-engineered corporate bureaucracies into thriving, psychologically safe human ecosystems through positive psychology, relational connection, simplicity, and frontline empowerment.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -19,6 +19,9 @@ This rewilding framework converges directly with [[amy-c-edmondson]]'s work on *
 ---
 
 ## Featured Works
+- [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
+- [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
+- [[microservices-up-and-running]] (2021) — [[ronnie-mitra]], [[irakli-nadareishvili]]
 - [[blended-using-disruptive-innovation-to-improve-schools]] (2015) — [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]]
 - [[rapid-reculturing]] (2026) — [[alex-bailey]] & [[kerri-oneill]] (Introduces Organizational Rewilding, the Four Pillars [Human, Connect, Simplicity, Empowerment], the HUMAN Model, and the 5-5-5 Coaching Conversation)
 - [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.) (Explores psychological safety, failing well, generational workplace dynamics, and humanistic organizational culture)

@@ -1,7 +1,7 @@
 # Theme: Rule of Law, Legal Certainty, and Experimental Justice
 
 **Summary**: The interplay between comparative legal philosophy (legal certainty, human rights, Hart vs. Dworkin) and quantitative/experimental criminology (hot-spots RCTs and trajectory modeling).
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Featured Works
+- [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
+- [[the-buyout-of-america]] (2009) — [[josh-kosman]]
 - [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
 - [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]
 

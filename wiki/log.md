@@ -375,3 +375,46 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Updated `wiki/index.md`, `SUMMARY.md`, and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 346 entity pages (348 total markdown files).
+
+
+---
+
+## [2026-11-22T18:35:00+01:00] ingest | Option A: Medium Tech & Business Sweep (`BOOKS/IoT/`, `BOOKS/Cloud/`, `BOOKS/SaaS/`, `BOOKS/Private Equity/` — 22 Distinct Works across All 25 Source Files; 100-Book Century Milestone)
+
+- **Operation**: Complete multi-folder batch ingestion of all 25 source PDFs across four core technology and finance libraries (`BOOKS/IoT/` [4 files], `BOOKS/Cloud/` [9 files], `BOOKS/SaaS/` [7 files], and `BOOKS/Private Equity/` [5 files, including verified identical duplicate consolidation of *Mastering Private Equity*]) in `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\`. Totaling ~4,200+ pages across **22 distinct intellectual works**, this sweep brings the Gilgamis LLM Wiki to the **100-book milestone**.
+- **Ingested Works (22 Distinct Works across 25 Source Files)**:
+  - **IoT (4 files → 2 works)**:
+    - [[internet-of-things-from-hype-to-reality]] ([[ammar-rayes]], [[samer-salam]], 2019, 393 pp.) — `BOOKS/IoT/2019_Book_InternetOfThingsFromHypeToReal.pdf`
+    - [[iot-for-dummies-applications-solutions-and-security-compendium]] ([[lawrence-c-miller]], 2016–2018, 117 pp. across 3 volumes) — `BOOKS/IoT/Book IoT_Security_for_Dummies_VNK.pdf`, `Book IoT for Dummies Volume1 - Qorvo.pdf`, `Book IoT-solutions-for-dummies-arm.pdf`
+  - **Cloud (9 files → 9 works)**:
+    - [[kubernetes-up-and-running]] ([[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]], 2022, 330 pp.) — `BOOKS/Cloud/kubernetesup&running.pdf`
+    - [[microservices-up-and-running]] ([[ronnie-mitra]], [[irakli-nadareishvili]], 2021, 318 pp.) — `BOOKS/Cloud/Microservices-Up-and-Running_complete.pdf`
+    - [[snowflake-the-definitive-guide]] ([[joyce-kay-avila]], 2022, 468 pp.) — `BOOKS/Cloud/Snowflake-The-Definitive-Guide-1.pdf`
+    - [[practical-fraud-prevention]] ([[gilit-saporta]], [[shoshana-maraney]], 2022, 398 pp.) — `BOOKS/Cloud/3683-practical-fraud-prevention.pdf`
+    - [[deploying-a-modern-security-data-lake]] ([[david-baum]], 2022, 46 pp.) — `BOOKS/Cloud/Deploying a Modern Security Data Lake.pdf`
+    - [[api-strategy-for-decision-makers]] ([[mike-amundsen]], [[derric-gilling]], 2022, 51 pp.) — `BOOKS/Cloud/OReilly-API-Strategy-for-Decision-Makers.pdf`
+    - [[state-of-it-asset-management-2022]] ([[flexera-research]], 2022, 64 pp.) — `BOOKS/Cloud/itam-report-state-of-it-asset-management-2022.pdf`
+    - [[iaas-for-dummies-oracle-special-edition]] ([[lawrence-c-miller]], 2018, 69 pp.) — `BOOKS/Cloud/Book IaaS_For_Dummies_2nd_Oracle_Special_Edition.pdf`
+    - [[enterprise-cloud-for-dummies-nutanix-special-edition]] ([[scott-d-lowe]], 2016, 53 pp.) — `BOOKS/Cloud/Book Enterprise Cloud for Dummies_.pdf`
+  - **SaaS (7 files → 7 works)**:
+    - [[behind-the-cloud]] ([[marc-benioff]], [[carlye-adler]], 2009, 326 pp.) — `BOOKS/SaaS/Behind the Cloud_ The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company-and Revolutionized an Industry   ( PDFDrive ).pdf`
+    - [[blueprints-for-a-saas-sales-organization]] ([[jacco-van-der-kooij]], [[fernando-pizarro]], 2018, 196 pp.) — `BOOKS/SaaS/(Winning By Design) Jacco Van Der Kooij and Fernando Pizarro - Blueprints for a SaaS Sales Organization-Fernando Pizzaro, Jacco Van Der Kooij (2017) (2).pdf`
+    - [[the-saas-sales-method-for-customer-success-and-account-managers]] ([[dominique-levin]], [[jacco-van-der-kooij]], 2018, 83 pp.) — `BOOKS/SaaS/Dominique Levin  Jacco van der Kooij  Winning by Design - The SaaS Sales Method for Customer Success  Account Managers_ How to Grow Customers (Sales Blueprints Book 6)-Winning By Design (2018).pdf`
+    - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] ([[david-cancel]], 2016, 76 pp.) — `BOOKS/SaaS/HYPERGROWTH-by-David-Cancel.pdf`
+    - [[retention-point-membership-and-subscription-growth]] ([[robert-skrob]], 2018, 147 pp.) — `BOOKS/SaaS/Robert Skrob - Retention Point_ The Single Biggest Secret to Membership and Subscription Growth for Associations, SAAS, Publishers, Digital Access, Subscription Boxes and all Membership and Subscripti.pdf`
+    - [[architecting-data-intensive-saas-applications]] ([[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], [[dinesh-kulkarni]], 2021, 69 pp.) — `BOOKS/SaaS/OReilly-Report-Architecting-Data-Intensive-SaaS-Applications.pdf`
+    - [[saas-for-dummies-oracle-special-edition]] ([[lawrence-c-miller]], 2021, 64 pp.) — `BOOKS/SaaS/saas-for-dummies-3rdedition.pdf`
+  - **Private Equity (5 files → 4 works; 1 duplicate consolidated)**:
+    - [[mastering-private-equity]] ([[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]], 2017, 370 pp.) — `BOOKS/Private Equity/2017 mastering-private-equity-transformation-via-venture-capital-minority-investments-and-buyouts.pdf` & `Mastering Private Equity_.pdf` (verified identical 370-page dual copy)
+    - [[the-buyout-of-america]] ([[josh-kosman]], 2009, 304 pp.) — `BOOKS/Private Equity/2009 The_Buyout_of_America_-_Josh_Kosman.pdf`
+    - [[the-ultimate-private-equity-playbook]] ([[jo-hands]], [[james-ciuffetelli]], 2021, 44 pp.) — `BOOKS/Private Equity/Private+Equity+Playbook+-+by+Whiteark.pdf`
+    - [[venture-capital-and-private-equity-mms-curriculum]] ([[tushar-balkrishna-raut]], 2023, 131 pp.) — `BOOKS/Private Equity/Private Equity & Venture Capital MS Thesis.pdf`
+- **Entity Pages Created / Updated**:
+  - **Books**: 22 new pages created (total: **100**)
+  - **Authors**: 36 new author profiles created (total: **198**)
+  - **Genres**: 4 new genre indices created ([[cloud-computing-and-distributed-systems]], [[internet-of-things-and-edge-computing]], [[saas-and-subscription-business-models]], [[private-equity-and-venture-capital]]) and 9 existing genres updated (total: **55**)
+  - **Themes**: 5 new thematic syntheses created ([[cloud-native-architecture-and-declarative-infrastructure]], [[iot-cyber-physical-convergence-and-edge-security]], [[recurring-revenue-customer-success-and-retention-mechanics]], [[cloud-scale-fraud-analytics-and-security-data-lakes]], [[private-equity-value-creation-leverage-and-systemic-risk]]) and 13 existing themes updated (total: **60**)
+- **Verification**:
+  - Rebuilt `wiki/index.md`, updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard.html`, `wiki/dashboard_data.json`, and skill resources).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 413 entity pages (415 total markdown files).

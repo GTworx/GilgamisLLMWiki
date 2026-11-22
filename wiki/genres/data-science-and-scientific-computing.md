@@ -2,7 +2,7 @@
 
 **Description**: Methodologies, programming architectures (Python and R), exploratory statistics, and computational pipelines for extracting actionable knowledge and predictive models from complex empirical datasets.
 **Key Themes**: [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[evolution-of-strategies]]
-**Last updated**: 2026-11-03
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,11 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[architecting-data-intensive-saas-applications]] (2021) — [[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], [[dinesh-kulkarni]]
+- [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
+- [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
+- [[snowflake-the-definitive-guide]] (2022) — [[joyce-kay-avila]]
+- [[kubernetes-up-and-running]] (2022) — [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]]
 - [[an-introduction-to-machine-learning]] (2017) — [[miroslav-kubat]]
 - [[introduction-to-artificial-intelligence]] (2017) — [[wolfgang-ertel]]
 - [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] (2018) — [[sandro-skansi]]

@@ -1,7 +1,7 @@
 # Theme: Social Critique and Moral Conscience
 
 **Summary**: The use of literature, satire (*taşlama*), and public testimony to denounce corruption, economic exploitation, hypocrisy, and ignorance while defending civic justice and integrity.  
-**Last updated**: 2026-09-12  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -20,6 +20,7 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[the-buyout-of-america]] (2009) — [[josh-kosman]]
 
 - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]

@@ -2,7 +2,7 @@
 
 **Description**: Philosophical and cross-cultural inquiry into axiology (the Metaphysics of Quality), universal vs. contextual global values, character virtues, and academic ethics.
 **Key Themes**: [[metaphysics-of-quality-and-global-ethics]], [[rationality-and-decision-making]], [[critique-of-academic-orthodoxy]], [[universal-love-and-human-dignity]], [[cooperation-and-reciprocity]], [[institutional-neutrality-and-academic-freedom]], [[student-centric-and-blended-learning]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[zen-and-the-art-of-motorcycle-maintenance]] (1974) — [[robert-m-pirsig]]
 - [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
 - [[ethics-in-higher-education-values-driven-leaders-for-the-future]] (2017) — [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]]

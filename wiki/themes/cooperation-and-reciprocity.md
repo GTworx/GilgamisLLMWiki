@@ -1,7 +1,7 @@
 # Theme: Cooperation and Reciprocity
 
 **Summary**: The theoretical and empirical principles governing how conditional cooperation, mutual restraint, and reciprocal punishment emerge and persist among self-interested actors without centralized enforcement.  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -31,6 +31,8 @@ Contemporary leadership and mathematical social choice further expand the wiki's
 ---
 
 ## Featured Works
+- [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
+- [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]
 
 - [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
 - [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]

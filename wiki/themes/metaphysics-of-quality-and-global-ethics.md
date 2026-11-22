@@ -1,7 +1,7 @@
 # Theme: Metaphysics of Quality (Arete), Virtue Ethics, and Global-Contextual Values
 
 **Summary**: Healing the Romantic–Classical schism through pre-intellectual Quality (Arete) while balancing universal ethical standards with contextual cultural virtues.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ In [[zen-and-the-art-of-motorcycle-maintenance]], [[robert-m-pirsig]] demonstrat
 ---
 
 ## Featured Works
+- [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[zen-and-the-art-of-motorcycle-maintenance]] (1974) — [[robert-m-pirsig]]
 - [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
 - [[ethics-in-higher-education-values-driven-leaders-for-the-future]] (2017) — [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]]

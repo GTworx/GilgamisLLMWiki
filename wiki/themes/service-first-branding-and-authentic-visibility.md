@@ -1,7 +1,7 @@
 # Theme: Service-First Branding and Authentic Visibility
 
 **Summary**: The ethical and strategic practice of sharing domain expertise, lived wisdom, and proprietary frameworks in the public square to serve others—prioritizing measurable human impact over performative self-promotion.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -16,6 +16,8 @@ In [[valuable-and-visible]] (2026), [[vanessa-errecarte]] resolves this moral di
 ---
 
 ## Featured Works
+- [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]
+- [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
 - [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
 - [[valuable-and-visible]] (2026) — [[vanessa-errecarte]] (Formulates Service-First Personal Branding, the EPIC Method, the TRUTH framework, the ABCs of Framework Creation, and the critique of "unintentional selfishness")
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Demonstrates how quiet technical experts build authentic executive visibility and boardroom gravitas through results-first counsel)

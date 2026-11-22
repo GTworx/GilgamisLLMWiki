@@ -1,7 +1,7 @@
 # Genre: Investigative Non-Fiction
 
 **Summary**: A journalistic and literary discipline that applies rigorous investigative methods—fieldwork, archival research, whistleblower interviews, and forensic analysis—to uncover hidden historical, political, or scientific realities.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-22
 
 ---
 
@@ -26,3 +26,6 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 
 - [[critique-of-academic-orthodoxy]]
 - [[alternative-archaeology]]
+
+## Books in Wiki
+- [[the-buyout-of-america]] (2009) — [[josh-kosman]]

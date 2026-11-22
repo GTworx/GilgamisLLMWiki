@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-11-03  
+**Generated**: 2026-11-22  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 78 distinct intellectual works (across 92 source files/volumes and ~26,800 pages)
-- **Total Generated Wiki Pages**: 348 interlinked markdown files (346 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 100 distinct intellectual works (across 117 source files/volumes and ~31,000+ pages)
+- **Total Generated Wiki Pages**: 415 interlinked markdown files (413 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 78 ([books/](wiki/books/))
-- **Author Profile Pages**: 162 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 51 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 55 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 100 ([books/](wiki/books/))
+- **Author Profile Pages**: 198 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 55 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 60 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -188,3 +188,49 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 78. **[[python-and-r-scientific-computing-foundations-for-ai-and-data-science]]** ([[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], & [[erik-h-w-g-meesters]], 2009–2019, Springer, 4 Vols., 1,404 pp.)  
     Four-volume Springer computing foundation uniting **Python 3 object-oriented/functional software engineering**, **computational complexity ($O(n)$) & data structures (ASTs, AVL/B-Trees, graphs)**, and **R biostatistical computing**.
 
+
+### Category H: Option A — IoT, Cloud Infrastructure, SaaS & Private Equity (`BOOKS/IoT/`, `BOOKS/Cloud/`, `BOOKS/SaaS/`, `BOOKS/Private Equity/` — 22 Works across 25 Source Files)
+79. **[[internet-of-things-from-hype-to-reality]]** ([[ammar-rayes]] & [[samer-salam]], 2019, Springer 2nd Ed., 393 pp.)  
+    Cisco engineers' textbook spanning the 12-factor IT/OT storm, constrained protocols (`IEEE 802.15.4e TSCH`, `LoRaWAN`, `6LoWPAN`, `TSN`), **Fog Computing**, IoT security, **Blockchain in IoT**, and the **"second thin waist"** of the IP hourglass.
+80. **[[iot-for-dummies-applications-solutions-and-security-compendium]]** ([[lawrence-c-miller]], 2016–2018, Wiley, 3 Vols., 117 pp.)  
+    Executive & hardware-security trilogy (*INSIDE Secure*, *Qorvo*, *Arm* editions) framing IoT as recurring services (**Smart Home as a Service**), edge ML on 32-bit RTOS, and the **Four Elements of IoT Security** against lethal cyber-physical attacks.
+81. **[[kubernetes-up-and-running]]** ([[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], & [[lachlan-evenson]], 2022, O'Reilly 3rd Ed., 330 pp.)  
+    Canonical cloud-native orchestration manual detailing **immutable containers**, **declarative manifests**, self-healing reconciliation loops, `Pods`, `Services`, `Ingress`, `Deployments`, `RBAC`, `StatefulSets`, and worldwide multicluster deployments.
+82. **[[microservices-up-and-running]]** ([[ronnie-mitra]] & [[irakli-nadareishvili]], 2021, O'Reilly, 318 pp.)  
+    End-to-end socio-technical microservices guide uniting **Team Topologies**, the **SEED(S)** OpenAPI method, DDD/Event Storming, **Event Sourcing/CQRS/Sagas**, Terraform IaC, Kubernetes, and Argo CD GitOps.
+83. **[[snowflake-the-definitive-guide]]** ([[joyce-kay-avila]], 2022, O'Reilly, 468 pp.)  
+    Hands-on Data Cloud manual covering Snowflake's three-layer decoupled architecture (hybrid columnar storage, elastic Virtual Warehouses, Cloud Services), Streams/Tasks, RBAC, **Zero-Copy Cloning**, **Time Travel**, and **Secure Data Sharing**.
+84. **[[practical-fraud-prevention]]** ([[gilit-saporta]] & [[shoshana-maraney]], 2022, O'Reilly, 398 pp.)  
+    SQL/Python fraud and AML treatise categorizing eight adversarial **Fraudster Archetypes**, calibrating dynamic **risk vs. friction** tension, story-based adversarial ML, and defenses across eCommerce, consumer banking, marketplaces, and AML.
+85. **[[deploying-a-modern-security-data-lake]]** ([[david-baum]], 2022, O'Reilly, 46 pp.)  
+    Modern SOC blueprint replacing brittle legacy SIEMs with unified cloud **Security Data Lakes**, the **Connected Applications Model**, Threat Detection Maturity Framework, and CI/CD **Detection-as-Code**.
+86. **[[api-strategy-for-decision-makers]]** ([[mike-amundsen]] & [[derric-gilling]], 2022, O'Reilly, 51 pp.)  
+    Applies **Jobs to Be Done** product thinking to APIs—covering non-breaking side-by-side evolution, **Time-to-First-Hello (TTFH)** adoption funnels, usage-based monetization, and customer observability.
+87. **[[state-of-it-asset-management-2022]]** ([[flexera-research]], 2022, 64 pp.)  
+    Empirical survey of 465 enterprise ITAM/SAM leaders exposing the governance lag across cloud/SaaS/containers (only 28% track cloud IaaS/containers) while 83% of SAM bandwidth goes to vendor audits.
+88. **[[iaas-for-dummies-oracle-special-edition]]** ([[lawrence-c-miller]], 2018, Wiley, 69 pp.)  
+    NIST cloud taxonomy and second-generation **single-tenant bare-metal IaaS** architecture for predictable, low-latency enterprise workloads, HPC, and dedicated private cloud interconnects.
+89. **[[enterprise-cloud-for-dummies-nutanix-special-edition]]** ([[scott-d-lowe]], 2016, Wiley, 53 pp.)  
+    Traces flash storage, software-defined datacenters, and **Hyperconverged Infrastructure (HCI)** to unite public-cloud one-click agility with private-cloud security and economics.
+90. **[[behind-the-cloud]]** ([[marc-benioff]] & [[carlye-adler]], 2009, Jossey-Bass / Wiley, 326 pp.)  
+    111 operational plays chronicling Salesforce.com's **"End of Software"** SaaS revolution, Land-and-Expand inside sales, `trust.salesforce.com`, AppExchange, the **1-1-1 Philanthropy Model**, and **V2MOM** alignment.
+91. **[[blueprints-for-a-saas-sales-organization]]** ([[jacco-van-der-kooij]] & [[fernando-pizarro]], 2018, Winning by Design, 196 pp.)  
+    Scientific post-Series A B2B SaaS scaling manual closing the buyer **Innovation Gap** via ACV tiering, buyer-journey mapping, specialized SDR/AE/CSM pods, and a data-driven Sales Operations Center.
+92. **[[the-saas-sales-method-for-customer-success-and-account-managers]]** ([[dominique-levin]] & [[jacco-van-der-kooij]], 2018, Winning by Design, 83 pp.)  
+    Post-sale expansion playbook operationalizing **SPICED** diagnostics, **Critical Events**, Customer Health Scores, **The Golden Sequence**, and Executive Impact Reviews to drive **Net Revenue Retention > 130%**.
+93. **[[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]]** ([[david-cancel]], 2016, Drift, 76 pp.)  
+    Declares the end of inward-facing Waterfall/Agile cycles—championed via 1:1 messaging, **Responsible Development**, engineers on live customer support, and **three-person autonomous engineering teams**.
+94. **[[retention-point-membership-and-subscription-growth]]** ([[robert-skrob]], 2018, Membership Services, Inc., 147 pp.)  
+    Subscription-growth field manual on moving the finish line from sign-up to 12-month renewal via an automated **Member On-Ramp** delivering the **Fastest Win First** to multiply LTV 3x–10x.
+95. **[[architecting-data-intensive-saas-applications]]** ([[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], & [[dinesh-kulkarni]], 2021, O'Reilly, 69 pp.)  
+    Cloud-first architectural guide for Customer 360, IoT, ML, security, and embedded-analytics SaaS apps covering multi-tenant storage/compute isolation, ELT pipelines, and zero-copy **Data Sharing by Reference**.
+96. **[[saas-for-dummies-oracle-special-edition]]** ([[lawrence-c-miller]], 2021, Wiley, 64 pp.)  
+    Enterprise SaaS adoption guide across CX, HCM, ERP, and SCM advocating complete suites with **natively embedded AI** over siloed point tools.
+97. **[[mastering-private-equity]]** ([[claudia-zeisberger]], [[michael-prahl]], & [[bowen-white]], 2017, Wiley / INSEAD GPEI, 370 pp., 2 identical copies)  
+    Definitive 25-chapter institutional treatise (Foreword by Henry R. Kravis) covering VC, Growth Equity, LBOs, GP–LP J-curves, active governance, **Operational Value Creation**, ESG, and PE Secondaries.
+98. **[[the-buyout-of-america]]** ([[josh-kosman]], 2009, Portfolio / Penguin, 304 pp.)  
+    Hard-hitting investigative exposé of the 2001–2007 LBO boom dissecting debt-funded **dividend recapitalizations**, management fees, capital starvation, service cuts, and systemic credit-market fragility.
+99. **[[the-ultimate-private-equity-playbook]]** ([[jo-hands]] & [[james-ciuffetelli]], 2021, Whiteark, 44 pp.)  
+    Visual value-creation playbook separating **Strategic Multiple-Expansion Levers** (buy-and-build M&A achieving 31.6% avg. IRR, strategic pricing, digital retooling) from **Operational EBITDA-Margin Levers**.
+100. **[[venture-capital-and-private-equity-mms-curriculum]]** ([[tushar-balkrishna-raut]], 2023, University of Mumbai IDOL, 131 pp.)  
+     Eleven-unit graduate textbook integrating global VC/PE valuation, term sheets, and exits with **SEBI AIF regulations**, Indian Income Tax Act provisions, and developing-market fiduciary ethics.

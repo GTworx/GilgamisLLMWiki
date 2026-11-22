@@ -2,7 +2,7 @@
 
 **Description**: Technical, organizational, and behavioral methodologies for securing information systems, handling cyber intrusions, and conducting legally defensible network forensics.
 **Key Themes**: [[hybrid-threats-and-cyber-warfare]], [[adaptive-intelligence-and-organizational-resilience]], [[rationality-and-decision-making]], [[human-centered-ai-and-augmented-leadership]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,10 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 ---
 
 ## Books in Wiki
+- [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
+- [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
+- [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]
+- [[internet-of-things-from-hype-to-reality]] (2019) — [[ammar-rayes]], [[samer-salam]]
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
 - [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]

@@ -2,7 +2,7 @@
 
 **Description**: Empirical behavioral science of complex B2B sales conversations, need-discovery questioning (SPIN), and insight-led commercial teaching (Challenger).
 **Key Themes**: [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,9 @@ In the wiki, [[neil-rackham]]'s [[spin-selling]] (35,000 sales calls) and [[matt
 ---
 
 ## Books in Wiki
+- [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]
+- [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]
+- [[blueprints-for-a-saas-sales-organization]] (2018) — [[jacco-van-der-kooij]], [[fernando-pizarro]]
 - [[spin-selling]] (1988) — [[neil-rackham]]
 - [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
 

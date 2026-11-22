@@ -1,7 +1,7 @@
 # Theme: General Purpose Technologies (GPTs), Learning by Doing, and Intersectional Innovation
 
 **Summary**: How radical inventions born at disciplinary intersections require decades of structural redesign and worker 'learning by doing' before generating broad-based productivity and wage growth.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -11,6 +11,12 @@
 ---
 
 ## Featured Works
+- [[enterprise-cloud-for-dummies-nutanix-special-edition]] (2016) — [[scott-d-lowe]]
+- [[iaas-for-dummies-oracle-special-edition]] (2018) — [[lawrence-c-miller]]
+- [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
+- [[snowflake-the-definitive-guide]] (2022) — [[joyce-kay-avila]]
+- [[kubernetes-up-and-running]] (2022) — [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]]
+- [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
 - [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]
 - [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]

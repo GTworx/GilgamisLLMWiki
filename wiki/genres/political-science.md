@@ -2,7 +2,7 @@
 
 **Description**: The social scientific discipline that studies systems of governance, political behavior, institutional design, power dynamics, and public policy.  
 **Key Themes**: [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[rationality-and-decision-making]], [[deterrence-and-coercion]], [[topological-social-choice-and-preference-cycles]]  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,7 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[the-buyout-of-america]] (2009) — [[josh-kosman]]
 
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
 - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]

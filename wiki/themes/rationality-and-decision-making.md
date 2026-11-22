@@ -1,7 +1,7 @@
 # Theme: Rationality and Decision Making
 
 **Summary**: The analysis of how human cognition, heuristics, biases, emotions, and computational algorithms shape, distort, or enable strategic decisions in conflict and cooperation.  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -30,6 +30,12 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
+- [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
+- [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]
+- [[blueprints-for-a-saas-sales-organization]] (2018) — [[jacco-van-der-kooij]], [[fernando-pizarro]]
+- [[state-of-it-asset-management-2022]] (2022) — [[flexera-research]]
+- [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
 
 - [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
 - [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]

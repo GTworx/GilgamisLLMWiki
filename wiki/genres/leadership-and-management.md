@@ -2,7 +2,7 @@
 
 **Description**: The interdisciplinary study and practice of executive decision-making, organizational design, adaptive strategy, cultural stewardship, and human-centered governance in complex institutions.
 **Key Themes**: [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]], [[human-centered-ai-and-augmented-leadership]], [[trusted-strategic-advisors-and-influence]], [[service-first-branding-and-authentic-visibility]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -19,6 +19,16 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
+- [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
+- [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]
+- [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]
+- [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
+- [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]
+- [[blueprints-for-a-saas-sales-organization]] (2018) — [[jacco-van-der-kooij]], [[fernando-pizarro]]
+- [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
+- [[state-of-it-asset-management-2022]] (2022) — [[flexera-research]]
+- [[microservices-up-and-running]] (2021) — [[ronnie-mitra]], [[irakli-nadareishvili]]
 - [[machine-learning-for-dummies-ibm-limited-edition]] (2018) — [[judith-hurwitz]], [[daniel-kirsch]]
 - [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
 - [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]

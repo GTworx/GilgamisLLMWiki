@@ -1,7 +1,7 @@
 # Theme: Adaptive Intelligence and Organizational Resilience
 
 **Summary**: The neurobiological, psychological, and strategic capacities that enable leaders and institutions to unlearn obsolete playbooks, regulate nervous-system stress, and thrive amid exponential uncertainty.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -17,6 +17,13 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
+- [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
+- [[enterprise-cloud-for-dummies-nutanix-special-edition]] (2016) — [[scott-d-lowe]]
+- [[iaas-for-dummies-oracle-special-edition]] (2018) — [[lawrence-c-miller]]
+- [[state-of-it-asset-management-2022]] (2022) — [[flexera-research]]
+- [[microservices-up-and-running]] (2021) — [[ronnie-mitra]], [[irakli-nadareishvili]]
+- [[kubernetes-up-and-running]] (2022) — [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]]
 - [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]

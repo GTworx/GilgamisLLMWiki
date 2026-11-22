@@ -1,7 +1,7 @@
 # Theme: Hybrid Threats and Cyber Warfare
 
 **Summary**: The integration of unconventional, covert, cyber, electronic, economic, and informational instruments designed to achieve strategic goals below the threshold of open armed conflict.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -26,6 +26,9 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 ---
 
 ## Featured Works
+- [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
+- [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
+- [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]
 
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
 - [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]

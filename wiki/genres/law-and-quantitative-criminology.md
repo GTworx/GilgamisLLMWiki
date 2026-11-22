@@ -2,7 +2,7 @@
 
 **Description**: Doctrinal, philosophical, and empirical-experimental study of legal systems, constitutional governance, crime concentration, and criminal justice policy.
 **Key Themes**: [[rule-of-law-and-experimental-justice]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]], [[tyranny-of-the-majority-and-civil-associations]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
 - [[introduction-to-law]] (2017) — [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]]
 

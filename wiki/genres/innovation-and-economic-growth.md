@@ -2,7 +2,7 @@
 
 **Description**: Evolutionary, historical, and empirical analysis of technological revolutions, General Purpose Technologies (GPTs), learning-by-doing skill diffusion, and cross-disciplinary creativity.
 **Key Themes**: [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[general-purpose-technologies-and-learning-by-doing]], [[cooperation-and-reciprocity]], [[attention-economy-and-cultural-analytics]], [[student-centric-and-blended-learning]], [[adaptive-intelligence-and-organizational-resilience]], [[evolution-of-strategies]], [[human-centered-ai-and-augmented-leadership]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,16 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
+- [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
+- [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
+- [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
+- [[enterprise-cloud-for-dummies-nutanix-special-edition]] (2016) — [[scott-d-lowe]]
+- [[iaas-for-dummies-oracle-special-edition]] (2018) — [[lawrence-c-miller]]
+- [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
+- [[microservices-up-and-running]] (2021) — [[ronnie-mitra]], [[irakli-nadareishvili]]
+- [[kubernetes-up-and-running]] (2022) — [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]]
+- [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]
 - [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] (2019) — [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]]
 - [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]

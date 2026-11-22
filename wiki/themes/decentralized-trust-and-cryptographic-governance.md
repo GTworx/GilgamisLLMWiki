@@ -1,7 +1,7 @@
 # Theme: Decentralized Trust, Cryptoeconomics, and Distributed Ledgers
 
 **Summary**: Replacing centralized intermediaries with cryptographic proofs, consensus protocols, smart contracts, and permissioned or permissionless network governance.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ This theme connects [[marco-di-maggio]]'s analysis of Bitcoin, Ethereum, DeFi Au
 ---
 
 ## Featured Works
+- [[internet-of-things-from-hype-to-reality]] (2019) — [[ammar-rayes]], [[samer-salam]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
 
