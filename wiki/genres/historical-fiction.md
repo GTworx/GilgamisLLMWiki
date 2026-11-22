@@ -1,7 +1,7 @@
 # Genre: Historical Fiction
 
 **Summary**: Narrative literary fiction set in a accurately researched historical period that dramatizes historical events, cultural clashes, and psychological atmospheres through both real historical personages and imaginative characters.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-22
 
 ---
 
@@ -22,3 +22,8 @@ Historical fiction dramatizes transformative civilizational encounters. In [[war
 - [[clash-of-civilizations]]
 - [[alternative-archaeology]]
 - [[anthropology-of-consciousness]]
+
+## Books in Wiki
+- [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
+- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
+- [[hadji-murad]] (1912) — [[leo-tolstoy]], [[aylmer-maude]]

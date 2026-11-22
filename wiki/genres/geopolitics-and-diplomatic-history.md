@@ -14,6 +14,7 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 - [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]

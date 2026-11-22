@@ -547,3 +547,46 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 599 entity pages (601 total markdown files).
+
+---
+
+## [2026-11-22] ingest | Option E Sweep — Complete `BOOKS/Literature/` Ingestion (23 Works across 23 Files)
+
+- **Scope**: Completed full recursive ingestion of `BOOKS/Literature/` (root + `Fiction/`, `Fiction/Futuristic_/`, and `French/` — 23 distinct PDFs totaling 9,019 pages; zero duplicates or skipped files).
+- **Ingested Works**:
+  - **Ottoman, Turkish & Persian Poetics, Philology & Modernist Satire (9 works)**:
+    - [[rubab-i-sikeste]] ([[tevfik-fikret]], 1910 [H. 1326 Tanin Matbaası], 428 pp.) — `BOOKS/Literature/1910 Rubabi Sikeste by Tevfik Fikret.pdf`
+    - [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] ([[ayse-cevirici-cagin]], 2006, 486 pp.) — `BOOKS/Literature/2006 TEVFIK FIKRET'IN sIIRLERINDEKI EDEBI SANATLAR.pdf`
+    - [[osmanli-turkcesi-metinleri-1]] ([[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]], 2012, 373 pp.) — `BOOKS/Literature/2012 Osmanlı Metinleri.pdf`
+    - [[fusul-i-asikan]] ([[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]], 2024, 880 pp.) — `BOOKS/Literature/2024 fusul-i-asikan.pdf`
+    - [[turk-sairleri-cilt-2]] ([[sadettin-nuzhet-ergun]], 1936–1945, 479 pp.) — `BOOKS/Literature/Türk_Şairleri_2.pdf`
+    - [[saatleri-ayarlama-enstitusu]] ([[ahmet-hamdi-tanpinar]], 1961, 1,455 pp.) — `BOOKS/Literature/Fiction/Saatleri Ayarlama Enstitüsü - Ahmet Hamdi Tanpınar.pdf`
+    - [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]] ([[omar-khayyam]], [[edward-heron-allen]], 1898, 352 pp.) — `BOOKS/Literature/rubaiyat00omaruoft.pdf`
+    - [[the-sufistic-quatrains-of-omar-khayyam]] ([[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]], 1903, 309 pp.) — `BOOKS/Literature/The Sufistic Quatrains of Omar Khayyam, by Omar Khayyam -- a Project Gutenberg e.pdf`
+    - [[the-rubaiyat-of-omar-khayyam-batson-ross]] ([[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]], 1900, 342 pp.) — `BOOKS/Literature/TheRubaiyatofOmarKhayyam_10063182.pdf`
+  - **World Classics, Historical Novella, Romantic Speculation & Language Readers (5 works)**:
+    - [[hadji-murad]] ([[leo-tolstoy]], [[aylmer-maude]], 1912, 300 pp.) — `BOOKS/Literature/1912 Tolstoy Hadji Murad.pdf`
+    - [[tolstoy-treatise-on-muhammad]] ([[leo-tolstoy]], [[telman-khurshidoglu-aliyev]], 2011, 50 pp.) — `BOOKS/Literature/Fiction/Tolstoy_the_Treatise_of_Famous_Russian_W.pdf`
+    - [[the-decameron-volume-three]] ([[giovanni-boccaccio]], [[john-payne]], 1895, 397 pp.) — `BOOKS/Literature/Fiction/The_Decameron_of_Giovanni_Boccaccio.pdf`
+    - [[the-last-man-volume-one]] ([[mary-shelley]], 1826, 371 pp.) — `BOOKS/Literature/Fiction/The_Last_Man.pdf`
+    - [[30-french-short-stories-for-complete-beginners]] ([[frederic-bibard]], 2017, 117 pp.) — `BOOKS/Literature/French/French Short Stories.pdf`
+  - **Contemporary AI, Synthetic Consciousness & Post-Cyberpunk Literary Fiction (`BOOKS/Literature/Fiction/Futuristic_/`, 3 works)**:
+    - [[klara-and-the-sun]] ([[kazuo-ishiguro]], 2021, 254 pp.) — `BOOKS/Literature/Fiction/Futuristic_/Klara-and-the-Sun.pdf`
+    - [[machines-like-me]] ([[ian-mcewan]], 2019, 221 pp.) — `BOOKS/Literature/Fiction/Futuristic_/Machines-Like-Me_.pdf`
+    - [[the-diamond-age]] ([[neal-stephenson]], 1995, 472 pp.) — `BOOKS/Literature/Fiction/Futuristic_/The Diamond Age neal-stephenson.pdf`
+  - **Osman Pamukoğlu Military Memoir, War Fiction, Statecraft & Grand Strategy Corpus (6 works)**:
+    - [[unutulanlar-disinda-yeni-bir-sey-yok]] ([[osman-pamukoglu]], 2004, 386 pp.) — `BOOKS/Literature/Osman Pamukoğlu - Unutulanlar Dışında Yeni Bir Şey Yok.pdf`
+    - [[ey-vatan]] ([[osman-pamukoglu]], 2004, 159 pp.) — `BOOKS/Literature/Osman Pamukoğlu - Ey Vatan.pdf`
+    - [[insan-ve-devlet]] ([[osman-pamukoglu]], 2007, 224 pp.) — `BOOKS/Literature/Osman Pamukoğlu - İnsan ve Devlet.pdf`
+    - [[korkunun-cocuklari]] ([[osman-pamukoglu]], [[nuriye-atabey]], 2010, 281 pp.) — `BOOKS/Literature/Osman Pamukoğlu - Korkunun Çocukları.pdf`
+    - [[cehennemdere-kanyonu]] ([[osman-pamukoglu]], 2013, 233 pp.) — `BOOKS/Literature/Osman Pamukoğlu - Cehennemdere Kanyonu.pdf`
+    - [[strateji-yenecek-ve-kazanacaksin]] ([[osman-pamukoglu]], 2016, 450 pp.) — `BOOKS/Literature/Osman Pamukoğlu - Strateji.pdf`
+- **Entity Pages Created / Updated**:
+  - **Books**: 23 new pages created (total: 191)
+  - **Authors**: 31 new author profiles created: [[tevfik-fikret]], [[ayse-cevirici-cagin]], [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]], [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]], [[sadettin-nuzhet-ergun]], [[ahmet-hamdi-tanpinar]], [[omar-khayyam]], [[edward-heron-allen]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[henrietta-m-batson]], [[edward-denison-ross]], [[leo-tolstoy]], [[aylmer-maude]], [[telman-khurshidoglu-aliyev]], [[giovanni-boccaccio]], [[john-payne]], [[mary-shelley]], [[frederic-bibard]], [[kazuo-ishiguro]], [[ian-mcewan]], [[neal-stephenson]], [[osman-pamukoglu]], [[nuriye-atabey]] (total: 324)
+  - **Genres**: 3 new genre indices created ([[ottoman-philology-and-literary-historiography]], [[world-classics-and-comparative-literature]], [[cyberpunk-ai-fiction-and-techno-humanism]]) and 16 existing genres updated (total: 68)
+  - **Themes**: 4 new thematic syntheses created ([[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[persian-sufism-skepticism-and-comparative-translation]], [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]]) and 15 existing themes updated (total: 77)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 660 entity pages (662 total markdown files).

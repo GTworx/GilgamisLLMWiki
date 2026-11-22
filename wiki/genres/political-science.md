@@ -15,6 +15,9 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
+- [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
+- [[ey-vatan]] (2004) — [[osman-pamukoglu]]
 - [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
 - [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]

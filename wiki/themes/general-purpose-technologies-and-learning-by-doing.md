@@ -11,6 +11,7 @@
 ---
 
 ## Featured Works
+- [[the-diamond-age]] (1995) — [[neal-stephenson]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
 - [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
 - [[the-digital-as-para-world]] (2011) — [[lane-denicola]]

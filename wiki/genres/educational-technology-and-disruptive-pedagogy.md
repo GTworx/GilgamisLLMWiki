@@ -14,6 +14,9 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Books in Wiki
+- [[the-diamond-age]] (1995) — [[neal-stephenson]]
+- [[30-french-short-stories-for-complete-beginners]] (2017) — [[frederic-bibard]]
+- [[osmanli-turkcesi-metinleri-1]] (2012) — [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]]
 - [[the-math-hacker-book]] (2015) — [[paul-carson]]
 - [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]

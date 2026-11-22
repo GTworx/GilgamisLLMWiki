@@ -20,6 +20,7 @@ In the 20th and 21st centuries, poets such as Âşık Veysel, Mahzuni Şerif, an
 ---
 
 ## Books in Wiki
+- [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 
 - [[asik-borani-soz-insanin-aynasi]] (2020) — Âşık Borani (Halil Çimen), edited by İbrahim Gösterir

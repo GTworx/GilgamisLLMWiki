@@ -13,6 +13,8 @@ Across the Gilgamis LLM Wiki, [[leopold-aschenbrenner]]'s [[situational-awarenes
 ---
 
 ## Featured Works
+- [[machines-like-me]] (2019) — [[ian-mcewan]]
+- [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]

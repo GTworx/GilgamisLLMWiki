@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 168 distinct intellectual works (across 195 source files/volumes and ~54,000+ pages)
-- **Total Generated Wiki Pages**: 601 interlinked markdown files (599 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 191 distinct intellectual works (across 218 source files/volumes and ~63,000+ pages)
+- **Total Generated Wiki Pages**: 662 interlinked markdown files (660 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 168 ([books/](wiki/books/))
-- **Author Profile Pages**: 293 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 65 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 73 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 191 ([books/](wiki/books/))
+- **Author Profile Pages**: 324 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 68 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 77 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -376,3 +376,52 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Four-thousand-year historical anthology tracing how puzzles from the Rhind Papyrus, Alcuin, Fibonacci, and Euler sparked graph theory, topology, and combinatorics.
 168. **[[the-worlds-200-hardest-brain-teasers]]** ([[gary-r-gruber]], 2010, Sourcebooks, 201 pp.)  
      200 high-difficulty visual-symmetry, logic, and geometry teasers designed to replace brute-force calculation with transferable insight heuristics.
+
+### Category L: Option E — Literature, Ottoman-Turkish Philology, World Classics, AI Fiction & Strategic Essays (`BOOKS/Literature/` — 23 Works across 23 Files)
+
+169. **[[rubab-i-sikeste]]** ([[tevfik-fikret]], 1910 [H. 1326 Tanin Matbaası], 428 pp.)  
+     Expanded post-Constitutional Ottoman-script edition of *Servet-i Fünun*'s defining poetry collection uniting lyrical melancholy, *Sis*, *Bir Lahza-i Teahhur*, *Millet Şarkısı*, and *Haluk'un Defterinden*.
+170. **[[tevfik-fikretin-siirlerindeki-edebi-sanatlar]]** ([[ayse-cevirici-cagin]], 2006, Istanbul Univ. M.A. Thesis, 486 pp.)  
+     Exhaustive quantitative and stylistic taxonomy of similes, metaphors, gradation (*tedric*), and aposiopesis (*kat'*) across Tevfik Fikret's complete poetry.
+171. **[[osmanli-turkcesi-metinleri-1]]** ([[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]], 2012, Anadolu Univ., 373 pp.)  
+     Eight-unit Ottoman paleography textbook bridging printed chronicles (*matbu*) and archival manuscripts (*el yazması*) from Oruç Bey and Kâtip Çelebi to Cevdet Paşa.
+172. **[[fusul-i-asikan]]** ([[kastamonulu-ishak-zade-hasan-fevzi]] & [[eyup-akman]], 2024, AKM, 880 pp.)  
+     Critical transcription of a 19th-century Kastamonu *mecmua* (1877–1906) preserving minstrel (*âşık*), Divan, and Sufi poetry alongside musical *beste* and *makam* notations.
+173. **[[turk-sairleri-cilt-2]]** ([[sadettin-nuzhet-ergun]], 1936–1945, 479 pp.)  
+     Second volume of Ergun's foundational biographical encyclopedia of Turkish Divan, Sufi, and *sazşairi* poets (entries #313–#595+, Ali Turan through Celîlî).
+174. **[[saatleri-ayarlama-enstitusu]]** ([[ahmet-hamdi-tanpinar]], 1961, 1,455 pp. digital ed.)  
+     Modernist satirical masterwork chronicling Hayri İrdal, Halit Ayarcı, and the absurd Time Regulation Institute as an allegory of Turkey's cultural split between Ottoman and modern time.
+175. **[[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]]** ([[omar-khayyam]] & [[edward-heron-allen]], 1898, H. S. Nichols, 352 pp.)  
+     Photographic facsimile of Oxford's 1460 Bodleian Ouseley MS. 140 paired with Persian transcript, literal English translation, notes, and Khayyam bibliography.
+176. **[[the-sufistic-quatrains-of-omar-khayyam]]** ([[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]], 1903, 309 pp.)  
+     Comparative Universal Classics Library compendium juxtaposing FitzGerald's poetic paraphrase, Whinfield's 500 scholarly quatrains, Nicolas's 464 Sufi-allegorical quatrains, and Heron-Allen's source analysis.
+177. **[[the-rubaiyat-of-omar-khayyam-batson-ross]]** ([[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]], 1900, Methuen, 342 pp.)  
+     Annotated fifth-edition FitzGerald *Rubaiyat* pairing Prof. E. Denison Ross's historical biography of Seljuk Nishapur with H. M. Batson's stanza-by-stanza philosophical commentary.
+178. **[[hadji-murad]]** ([[leo-tolstoy]] & [[aylmer-maude]], 1912, Dodd, Mead & Co., 300 pp.)  
+     Tolstoy's posthumous Caucasian novella depicting Avar warrior Hadji Murad caught between Tsar Nicholas I and Imam Shamil—exposing the human cost of imperial and theocratic autocracy.
+179. **[[tolstoy-treatise-on-muhammad]]** ([[leo-tolstoy]] & [[telman-khurshidoglu-aliyev]], 2011, 50 pp.)  
+     Anthology compiling Tolstoy's 1909 *Posrednik* selection from Abdullah al-Suhrawardy's *Sayings of Muhammad*, his 1909 letter to Elena Vekilova, and excerpts from *A Confession*.
+180. **[[the-decameron-volume-three]]** ([[giovanni-boccaccio]] & [[john-payne]], 1895 Florentine Edition Vol. III, 397 pp.)  
+     Limited subscriber edition covering Day VII (Stories 8–10), Days VIII–X, and Boccaccio's *Author's Conclusion*, rising from Florentine comic pranks (*Calandrino*) to Renaissance magnanimity (*Griselda*).
+181. **[[the-last-man-volume-one]]** ([[mary-shelley]], 1826 First Edition Vol. I, 371 pp.)  
+     Opening volume of Shelley's futuristic 21st-century apocalyptic novel framed through the Cumaean Sibyl's Cave, tracking Lionel Verney, Adrian, and Lord Raymond from republican Britain to the Greco-Turkish war.
+182. **[[30-french-short-stories-for-complete-beginners]]** ([[frederic-bibard]], 2017, TalkInFrench.com, 117 pp.)  
+     Graded-reader anthology of thirty ~300-word everyday French micro-stories paired with inline glossaries and dual-speed native audio tracks.
+183. **[[klara-and-the-sun]]** ([[kazuo-ishiguro]], 2021, Alfred A. Knopf, 254 pp.)  
+     Nobel laureate's luminous first-person philosophical novel narrated by solar-powered Artificial Friend Klara, probing genetic stratification, synthetic empathy, and whether human uniqueness lives in the heart of the beholder.
+184. **[[machines-like-me]]** ([[ian-mcewan]], 2019, Jonathan Cape, 221 pp.)  
+     Counterfactual 1982 Turing-era novel in which synthetic human Adam's uncompromising moral logic collides with Charlie and Miranda's human loyalties and legal compromises.
+185. **[[the-diamond-age]]** ([[neal-stephenson]], 1995, Bantam Spectra, 472 pp.)  
+     Hugo Award-winning post-cyberpunk epic of molecular nanotechnology, neo-tribal geopolitics, and *A Young Lady's Illustrated Primer*—exploring how adaptive AI pedagogy still depends on human care.
+186. **[[unutulanlar-disinda-yeni-bir-sey-yok]]** ([[osman-pamukoglu]], 2004, Harmoni / İnkılap, 386 pp.)  
+     Bestselling operational memoir of 778 days commanding the Hakkâri Mountain and Commando Brigade (1993–1995) in winter alpine counterinsurgency and cross-border operations.
+187. **[[ey-vatan]]** ([[osman-pamukoglu]], 2004, İnkılap Kitabevi, 159 pp.)  
+     Historical-political essays linking late-Ottoman intervention treaties, the Turkish War of Independence, and early warnings on the 2003 U.S. invasion of Iraq.
+188. **[[insan-ve-devlet]]** ([[osman-pamukoglu]], 2007, İnkılap Kitabevi, 224 pp.)  
+     Political-philosophy and national-security treatise examining human nature, statecraft, democratic leadership, and four converging strategic threats facing 21st-century Turkey.
+189. **[[korkunun-cocuklari]]** ([[osman-pamukoglu]] & [[nuriye-atabey]], 2010, Kripto Kitaplar, 281 pp.)  
+     Biographical sketch and counterterrorism critique diagnosing why insurgencies persist, warning against "lawless democracy," and chronicling Pamukoğlu's entry into civic politics.
+190. **[[cehennemdere-kanyonu]]** ([[osman-pamukoglu]], 2013, İnkılap Kitabevi, 233 pp.)  
+     Visceral winter war novel following twenty-one Turkish commandos tracking insurgents across the Cilo and Sat Mountains to Cehennemdere Canyon.
+191. **[[strateji-yenecek-ve-kazanacaksin]]** ([[osman-pamukoglu]], 2016, İnkılap Kitabevi, 450 pp.)  
+     Grand-strategy treatise synthesizing classical captains (Alexander to Napoleon), Jomini, Clausewitz, combat psychology, Mahan, Douhet, Haushofer, Machiavelli, total-war statesmen, and economic power theorists.

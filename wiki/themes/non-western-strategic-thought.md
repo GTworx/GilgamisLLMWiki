@@ -1,7 +1,7 @@
 # Theme: Non-Western Strategic Thought
 
 **Summary**: The doctrines, cultural concepts, and operational paradigms of deterrence, coercion, and strategy developed in non-Western strategic cultures, specifically Russia, China, Iran, and South Asia.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -31,6 +31,10 @@ Western deterrence theory has historically been grounded in Anglo-American ratio
 ---
 
 ## Featured Works
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[ey-vatan]] (2004) — [[osman-pamukoglu]]
+- [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
+- [[the-diamond-age]] (1995) — [[neal-stephenson]]
 
 - [[deterrence-in-the-21st-century]] — Dedicated chapters analyzing Russian strategic doctrine (Adamsky, ch. 9), Chinese military thought (Cheng, ch. 10), Japanese defense evolution (Katagiri, ch. 11), India-Pakistan stability-instability (Aarten, ch. 12), and Iranian forward deterrence (Ahmadian & Mohseni, ch. 13).
 - [[the-evolution-of-cooperation]] — Provides comparative insight into how culturally distinct strategic heuristics develop and stabilize in competitive environments.

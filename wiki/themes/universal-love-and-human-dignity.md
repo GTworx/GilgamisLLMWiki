@@ -26,6 +26,12 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
+- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
+- [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
+- [[the-sufistic-quatrains-of-omar-khayyam]] (1903) — [[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]]
+- [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
+- [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
 - [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
 - [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
 - [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]

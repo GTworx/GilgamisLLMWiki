@@ -14,6 +14,10 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 ---
 
 ## Books in Wiki
+- [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]
+- [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
+- [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]
+- [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
 - [[orientalism]] (1978) — [[edward-w-said]]
 - [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
 

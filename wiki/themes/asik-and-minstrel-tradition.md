@@ -21,6 +21,8 @@ His instrument (*saz*) is not merely musical entertainment, but a moral confidan
 ---
 
 ## Featured Works
+- [[turk-sairleri-cilt-2]] (1936) — [[sadettin-nuzhet-ergun]]
+- [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]
 

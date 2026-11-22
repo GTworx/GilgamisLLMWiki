@@ -15,6 +15,13 @@ Through formal metrics (such as the Turkish syllabic *hece vezni* or free verse 
 ---
 
 ## Books in Wiki
+- [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]
+- [[the-sufistic-quatrains-of-omar-khayyam]] (1903) — [[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]]
+- [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]] (1898) — [[omar-khayyam]], [[edward-heron-allen]]
+- [[turk-sairleri-cilt-2]] (1936) — [[sadettin-nuzhet-ergun]]
+- [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
+- [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]
+- [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
 - [[riddles-riddles-riddles]] (1953) — [[joseph-leeming]]
 
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]

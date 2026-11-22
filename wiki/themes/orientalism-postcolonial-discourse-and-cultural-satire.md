@@ -13,6 +13,8 @@
 ---
 
 ## Featured Works
+- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
+- [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
 - [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]

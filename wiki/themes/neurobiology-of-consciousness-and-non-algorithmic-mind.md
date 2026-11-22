@@ -13,6 +13,7 @@ In [[discovering-the-brain]], [[sandra-ackerman]] maps the *Decade of the Brain*
 ---
 
 ## Featured Works
+- [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
 - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
 - [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
 - [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] (2018) — [[sandro-skansi]]

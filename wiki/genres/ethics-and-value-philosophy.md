@@ -14,6 +14,8 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[machines-like-me]] (2019) — [[ian-mcewan]]
+- [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
 - [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
 - [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]
 - [[karl-marx-a-biography]] (1973) — [[david-mclellan]]

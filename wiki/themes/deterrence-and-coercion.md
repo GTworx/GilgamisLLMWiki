@@ -21,6 +21,7 @@ In *Deterrence in the 21st Century*, Lawrence Freedman, Frans Osinga, and Tim Sw
 ---
 
 ## Featured Works
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 - [[the-room-where-it-happened]] (2020) — [[john-bolton]]
 - [[world-order]] (2014) — [[henry-kissinger]]

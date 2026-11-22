@@ -15,6 +15,11 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 ---
 
 ## Books in Wiki
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
+- [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
+- [[ey-vatan]] (2004) — [[osman-pamukoglu]]
+- [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
 - [[world-order]] (2014) — [[henry-kissinger]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 

@@ -2,7 +2,7 @@
 
 **Description**: The centuries-old oral and written literary tradition of Anatolia, composed in the vernacular language using syllabic verse (*hece ölçüsü*), musical accompaniment (*bağlama/saz*), and traditional forms (*koşma*, *semai*, *mani*, *taşlama*, *deyiş*).  
 **Key Themes**: [[asik-and-minstrel-tradition]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[anatolian-humanism]]  
-**Last updated**: 2026-09-12  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,8 @@ Characterized by transparent vernacular Turkish rather than ornate court idioms,
 ---
 
 ## Books in Wiki
+- [[turk-sairleri-cilt-2]] (1936) — [[sadettin-nuzhet-ergun]]
+- [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 
 - [[asik-borani-soz-insanin-aynasi]] (2020) — Âşık Borani (Halil Çimen), edited by İbrahim Gösterir (Comprehensive 1,150-page two-volume compendium spanning 60 years of contemporary minstrel creation).
 

@@ -15,6 +15,9 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
+- [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 
 - [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)

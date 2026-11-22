@@ -14,6 +14,10 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
+- [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
+- [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
+- [[turk-sairleri-cilt-2]] (1936) — [[sadettin-nuzhet-ergun]]
 - [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[born-a-crime]] (2016) — [[trevor-noah]]
 - [[i-am-malala]] (2013) — [[malala-yousafzai]], [[christina-lamb]]

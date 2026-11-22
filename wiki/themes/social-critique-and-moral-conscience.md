@@ -20,6 +20,17 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[ey-vatan]] (2004) — [[osman-pamukoglu]]
+- [[machines-like-me]] (2019) — [[ian-mcewan]]
+- [[the-last-man-volume-one]] (1826) — [[mary-shelley]]
+- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
+- [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
+- [[hadji-murad]] (1912) — [[leo-tolstoy]], [[aylmer-maude]]
+- [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]
+- [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]] (1898) — [[omar-khayyam]], [[edward-heron-allen]]
+- [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
+- [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]
+- [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
 - [[born-a-crime]] (2016) — [[trevor-noah]]
 - [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
 - [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]

@@ -2,7 +2,7 @@
 
 **Description**: Narrative fiction in which philosophical inquiry, epistemology, ethics, and the critique of civilization form the central dramatic engine.
 **Key Themes**: [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]], [[fanaticism-and-human-sacrifice]], [[metaphysics-of-quality-and-global-ethics]], [[rationality-and-decision-making]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,13 @@ In the wiki, this genre encompasses [[robert-m-pirsig]]'s Chautauqua on the Meta
 ---
 
 ## Books in Wiki
+- [[machines-like-me]] (2019) — [[ian-mcewan]]
+- [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
+- [[the-last-man-volume-one]] (1826) — [[mary-shelley]]
+- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
+- [[hadji-murad]] (1912) — [[leo-tolstoy]], [[aylmer-maude]]
+- [[the-sufistic-quatrains-of-omar-khayyam]] (1903) — [[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]]
+- [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
 - [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
 - [[zen-and-the-art-of-motorcycle-maintenance]] (1974) — [[robert-m-pirsig]]
 

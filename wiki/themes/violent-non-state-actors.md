@@ -1,7 +1,7 @@
 # Theme: Violent Non-State Actors
 
 **Summary**: The theoretical concepts, operational methodologies, and challenges of applying deterrence, coercion, and counter-influence against terrorists, insurgent groups, and violent non-state actors (VNSAs).  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -24,6 +24,10 @@ Following the 9/11 attacks, a widespread consensus emerged among security analys
 ---
 
 ## Featured Works
+- [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
+- [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
+- [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
+- [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
 
 - [[deterrence-in-the-21st-century]] — Comprehensive coverage across Part III: VNSAs (Shamir, ch. 14), localized COIN deterrence (Kitzen & van Kuijck, ch. 15), authoritarian revolt deterrence (Rothman, ch. 16), and peace operations (Jakobsen, ch. 17).
 - [[the-evolution-of-cooperation]] — Explains how localized, repeat interactions among small decentralized units foster behavioral norms even in violent environments.

@@ -13,6 +13,8 @@
 ---
 
 ## Featured Works
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[the-last-man-volume-one]] (1826) — [[mary-shelley]]
 - [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 - [[trump-the-art-of-the-deal]] (1987) — [[donald-j-trump]]
