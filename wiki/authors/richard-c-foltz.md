@@ -2,7 +2,7 @@
 
 **Bio / Role**: Historian of Iranian and Central Asian religions and professor at Concordia University, author of *Spirituality in the Land of the Noble: How Iran Shaped the World's Religions* (Oneworld, 2004), critically examined in the corpus's academic review dossier.  
 **Key Themes**: [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[persian-sufism-skepticism-and-comparative-translation]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -13,6 +13,7 @@ Historian of Iranian and Central Asian religions and professor at Concordia Univ
 ---
 
 ## Works in Wiki
+- [[religions-of-the-silk-road]] (1999) — Religions of the Silk Road: Overland Trade and Cultural Exchange from Antiquity to the Fifteenth Century
 - [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — Spirituality in the Land of the Noble: Critical Scholarly Reviews
 
 ---

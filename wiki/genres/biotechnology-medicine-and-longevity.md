@@ -2,7 +2,7 @@
 
 **Description**: Molecular biologics, CAR-T and CRISPR cell/gene therapies, neurological patient care, healthcare supply-chain disruption, and Blue Zone lifestyle longevity.
 **Key Themes**: [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[universal-love-and-human-dignity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
+- [[homo-deus]] (2016) — [[yuval-noah-harari]]
 - [[tools-of-titans]] (2017) — [[timothy-ferriss]]
 - [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]

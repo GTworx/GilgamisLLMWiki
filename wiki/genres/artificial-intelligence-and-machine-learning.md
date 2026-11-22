@@ -2,7 +2,7 @@
 
 **Description**: Theoretical, algorithmic, architectural, and strategic foundations of symbolic AI, statistical machine learning, deep neural networks, large language models, and autonomous agentic systems.
 **Key Themes**: [[human-centered-ai-and-augmented-leadership]], [[agi-trajectories-and-superalignment]], [[adaptive-intelligence-and-organizational-resilience]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,8 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 ---
 
 ## Books in Wiki
+- [[homo-deus]] (2016) — [[yuval-noah-harari]]
+- [[21-lessons-for-the-21st-century]] (2018) — [[yuval-noah-harari]]
 - [[the-human-use-of-human-beings]] (1950) — [[norbert-wiener]], [[steve-j-heims]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]

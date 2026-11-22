@@ -2,7 +2,7 @@
 
 **Description**: The subfield of biology that studies the evolutionary processes—natural selection, adaptation, speciation, and population genetics—that produced the diversity of life.  
 **Key Themes**: [[evolution-of-strategies]], [[cooperation-and-reciprocity]], [[shadow-of-the-future]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -15,6 +15,7 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 ---
 
 ## Books in Wiki
+- [[sapiens-a-brief-history-of-humankind]] (2014) — [[yuval-noah-harari]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[the-god-delusion]] (2006) — [[richard-dawkins]]

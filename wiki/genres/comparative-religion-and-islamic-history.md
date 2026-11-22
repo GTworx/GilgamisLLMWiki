@@ -2,7 +2,7 @@
 
 **Description**: Historical, archaeological, and scientific investigations tracing ancient Near Eastern religious origins, Iranian pluralism, the early Islamic caliphate, and Islamic Golden Age science.
 **Key Themes**: [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[islamic-golden-age-science-and-civilizational-transmission]], [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,12 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 ---
 
 ## Books in Wiki
+- [[the-worlds-sixteen-crucified-saviors]] (1875) — [[kersey-graves]]
+- [[the-story-of-civilization-vol-1-our-oriental-heritage]] (1935) — [[will-durant]], [[ariel-durant]]
+- [[the-thirteenth-tribe]] (1976) — [[arthur-koestler]]
+- [[an-introduction-to-the-history-of-the-turkic-peoples]] (1992) — [[peter-b-golden]]
+- [[religions-of-the-silk-road]] (1999) — [[richard-c-foltz]]
+- [[destiny-disrupted]] (2009) — [[tamim-ansary]]
 - [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
 - [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]

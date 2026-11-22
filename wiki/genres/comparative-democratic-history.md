@@ -2,7 +2,7 @@
 
 **Description**: The cross-civilizational historical, sociological, and constitutional study of popular assemblies, electoral representation, civil associations, and power-monitoring institutions from third-millennium BC Mesopotamia to modern post-parliamentary democracies.
 **Key Themes**: [[pre-athenian-and-indigenous-democracies]], [[tyranny-of-the-majority-and-civil-associations]], [[monitory-democracy-and-power-scrutiny]], [[institutional-neutrality-and-academic-freedom]], [[topological-social-choice-and-preference-cycles]], [[critique-of-academic-orthodoxy]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -17,6 +17,8 @@
 ---
 
 ## Books in Wiki
+- [[ottoman-brothers]] (2011) — [[michelle-u-campos]]
+- [[the-dawn-of-everything]] (2021) — [[david-graeber]], [[david-wengrow]]
 - [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[the-open-society-and-its-enemies-vol-1]] (1962) — [[karl-popper]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]

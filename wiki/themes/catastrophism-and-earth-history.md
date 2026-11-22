@@ -1,7 +1,7 @@
 # Theme: Catastrophism and Earth History
 
 **Summary**: The scientific and historical perspective that Earth's geological, biological, and human history has been punctuated by sudden, violent, planetary-scale convulsions, overturning rigid uniformitarian assumptions.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

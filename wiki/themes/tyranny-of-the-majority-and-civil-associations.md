@@ -1,7 +1,7 @@
 # Theme: Tyranny of the Majority and Civil Associations
 
 **Summary**: The structural tension in democratic societies between majoritarian conformity or centralized "soft despotism" on one hand, and the protective counterweights of voluntary civil associations, local self-government, judicial review, and pluralist norms on the other.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

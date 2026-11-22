@@ -1,7 +1,7 @@
 # Theme: Abrahamic Origins, Sectarian Schism, and Iranian–Mesopotamian Continuity
 
 **Summary**: Tracing shared ancient Near Eastern flood, creation, and ethical motifs from Sumer and pre-Islamic Iran into Abrahamic scripture and the political birth of the Sunni–Shia divide.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

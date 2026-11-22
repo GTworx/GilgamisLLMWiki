@@ -1,7 +1,7 @@
 # Theme: Platform Power, Data Governance, and Career Adaptability
 
 **Summary**: Navigating an economy dominated by algorithmic platforms, pervasive data analytics, hybrid inclusion, and the demise of linear lifetime employment.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

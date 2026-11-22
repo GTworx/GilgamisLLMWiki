@@ -2,7 +2,7 @@
 
 **Description**: Foundational treatises and critical syntheses exploring the wealth of nations, resource limits, the sociology of money, inclusive vs. extractive institutions, urban capitalism, and macroeconomic stabilization.
 **Key Themes**: [[inclusive-institutions-economic-thought-and-ecological-limits]], [[energy-transition-and-storage-economics]], [[political-intuitionism-administrative-state-and-capitalist-democracy]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,7 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 ---
 
 ## Books in Wiki
+- [[leaving-socialism-behind]] (2019) — [[russell-a-berman]]
 - [[benim-pencerem]] (2022) — [[burak-dalgin]]
 - [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
 - [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]

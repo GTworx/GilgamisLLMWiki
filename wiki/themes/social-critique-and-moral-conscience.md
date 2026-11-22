@@ -1,7 +1,7 @@
 # Theme: Social Critique and Moral Conscience
 
 **Summary**: The use of literature, satire (*taşlama*), and public testimony to denounce corruption, economic exploitation, hypocrisy, and ignorance while defending civic justice and integrity.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

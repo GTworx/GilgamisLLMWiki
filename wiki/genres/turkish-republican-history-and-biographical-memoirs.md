@@ -2,7 +2,7 @@
 
 **Description**: Primary archival documents, eyewitness memoirs, historical biographies, investigative studies, and humanist essays illuminating Ottoman-Turkish continuity, Atatürk and the Republican founding, and modern Turkish cultural life.
 **Key Themes**: [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[revolutionary-ambition-power-and-historical-legacy]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -12,6 +12,15 @@ Anchors a rich Turkish-language and comparative historical cluster spanning tent
 ---
 
 ## Books in Wiki
+- [[four-years-beneath-the-crescent]] (1926) — [[rafael-de-nogales]], [[muna-lee]]
+- [[an-introduction-to-the-history-of-the-turkic-peoples]] (1992) — [[peter-b-golden]]
+- [[the-armenian-massacres-in-ottoman-turkey]] (2005) — [[guenter-lewy]]
+- [[tasnak-partisinin-yapacagi-bir-sey-yok]] (2008) — [[hovhannes-kajaznuni]], [[arif-acaloglu]]
+- [[ottoman-brothers]] (2011) — [[michelle-u-campos]]
+- [[buyuk-ataturk-albumu-1]] (2013) — [[hanri-benazus]]
+- [[ermenilerin-kaleminden-kurtlesen-ermeniler]] (2016) — [[thomas-k-mugerditchian]], [[esther-mugerditchian]], [[kaya-ataberk]]
+- [[the-greek-invasion-of-smyrna-1919]] (2019) — [[y-turan-cetiner]], [[pat-walsh]]
+- [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]
 - [[benim-pencerem]] (2022) — [[burak-dalgin]]
 - [[bir-omur-nasil-yasanir]] (2019) — [[ilber-ortayli]], [[yenal-bilgici]]
 - [[tarihi-degistiren-liderler]] (2012) — [[ali-cimen]]

@@ -2,7 +2,7 @@
 
 **Description**: Dialectical debates spanning evolutionary naturalism, cognitive science of religion, New Atheism, classical Christian apologetics, secular ethics, and lived afterlife testimony.
 **Key Themes**: [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[rationality-and-decision-making]], [[gene-centric-evolution-and-memetics]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,7 @@ Within this wiki, the secular-evolutionary wing is represented by [[richard-dawk
 ---
 
 ## Books in Wiki
+- [[the-worlds-sixteen-crucified-saviors]] (1875) — [[kersey-graves]]
 - [[law-of-attraction-secret-power]] (2014) — [[jenny-loveless]]
 - [[confessions-of-saint-augustine]] (1838) — [[saint-augustine]], [[edward-b-pusey]]
 - [[atheism-all-that-matters]] (2014) — [[dylan-evans]]

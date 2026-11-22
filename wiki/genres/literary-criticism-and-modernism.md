@@ -2,7 +2,7 @@
 
 **Description**: Critical, historical, and philological scholarship examining modernist fiction, narrative form, and the intersection of literature with intellectual and political crises.
 **Key Themes**: [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]], [[fanaticism-and-human-sacrifice]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,7 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 ---
 
 ## Books in Wiki
+- [[the-idea-of-israel]] (2014) — [[ilan-pappe]]
 - [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
 - [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
 - [[mehmet-akif]] (1987) — [[sezai-karakoc]]

@@ -4,8 +4,8 @@
 **Genre(s)**: [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]]  
 **Key Themes**: [[pre-athenian-and-indigenous-democracies]], [[critique-of-academic-orthodoxy]], [[rationality-and-decision-making]]  
 **Publication Year**: 1997  
-**Source**: ARTICLES-REPORTS/Democracy/World’s First Democracies book review_.pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\Democracy\)  
-**Last updated**: 2026-11-01  
+**Source**: BOOKS/History_/1997 the-first-democracies-early-popular-government-outside-athens-Eric Robinson.pdf (139 pp., Franz Steiner Verlag); ARTICLES-REPORTS/Democracy/World’s First Democracies book review_.pdf (Mount: C:\\Users\\gokha\\iCloudDrive\\Documents\\_GilgameshLibrary\\)
+**Last updated**: 2026-11-23
 
 ---
 

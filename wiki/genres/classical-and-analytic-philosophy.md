@@ -2,7 +2,7 @@
 
 **Description**: Primary philosophical canons from Plato and Saint Augustine through Popper, Schumpeter, and Marx scholarship to formal logic, vice epistemology, and modern Stoicism.
 **Key Themes**: [[open-society-creative-destruction-and-epistemic-virtue]], [[rationality-and-decision-making]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,11 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 ---
 
 ## Books in Wiki
+- [[the-story-of-civilization-vol-1-our-oriental-heritage]] (1935) — [[will-durant]], [[ariel-durant]]
+- [[tarih-devrim-sosyalizm]] (1965) — [[hikmet-kivilcimli]]
+- [[diodorus-of-sicily-library-of-history]] (1967) — [[diodorus-siculus]], [[c-h-oldfather]], [[c-bradford-welles]]
+- [[the-lessons-of-history]] (1968) — [[will-durant]], [[ariel-durant]]
+- [[the-scythian-empire]] (2023) — [[christopher-i-beckwith]]
 - [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
 - [[the-daily-stoic]] (2016) — [[ryan-holiday]], [[stephen-hanselman]]
 - [[entelektuelin-kutsal-kitabi-biyografiler]] (2013) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]

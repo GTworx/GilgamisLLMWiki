@@ -1,7 +1,7 @@
 # Theme: Deterrence and Coercion
 
 **Summary**: The strategy and psychology of preventing unwanted adversary actions through the credible threat of unacceptable costs (punishment) or rendering the objective unattainable (denial).  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

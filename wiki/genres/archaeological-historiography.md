@@ -1,7 +1,7 @@
 # Genre: Archaeological Historiography
 
 **Summary**: The critical examination of the history, institutional politics, methodologies, and ideological contexts surrounding archaeological discoveries and the formation of academic consensus.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -30,5 +30,12 @@ Archaeological historiography investigates how archaeological research is commis
 - [[rationality-and-decision-making]]
 
 ## Books in Wiki
+- [[cambridge-ancient-history-scythia-and-thrace]] (1991) — [[tadeusz-sulimirski]], [[timothy-taylor]], [[georgi-mihailov]]
+- [[kayip-yazilar-ve-diller]] (2000) — [[johannes-friedrich]], [[recai-tekoglu]]
+- [[etruscan-an-archaic-form-of-hungarian]] (2003) — [[mario-alinei]]
+- [[the-horse-the-wheel-and-language]] (2007) — [[david-w-anthony]]
+- [[timelines-of-history]] (2011) — [[dorling-kindersley]], [[smithsonian-institution]]
+- [[1177-bc-the-year-civilization-collapsed]] (2014) — [[eric-h-cline]]
+- [[how-the-world-made-the-west]] (2024) — [[josephine-quinn]]
 - [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]

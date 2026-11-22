@@ -1,7 +1,7 @@
 # Theme: Evolutionary Naturalism, New Atheism, and Theistic Apologetics
 
 **Summary**: The twenty-first-century clash between Darwinian/memetic explanations of religion, secular moral philosophy, Thomistic-historical Christian apologetics, and personal afterlife narratives.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

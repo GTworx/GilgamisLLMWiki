@@ -2,7 +2,7 @@
 
 **Description**: The systematic study of military processes, operational doctrine, weapon systems, command and control (C2), and the conduct of warfare.  
 **Key Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -15,6 +15,14 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[four-years-beneath-the-crescent]] (1926) — [[rafael-de-nogales]], [[muna-lee]]
+- [[diodorus-of-sicily-library-of-history]] (1967) — [[diodorus-siculus]], [[c-h-oldfather]], [[c-bradford-welles]]
+- [[ancient-china-and-its-enemies]] (2002) — [[nicola-di-cosmo]]
+- [[the-barbarian-empires-of-the-steppes]] (2014) — [[kenneth-w-harl]]
+- [[the-huns-hyun-jin-kim]] (2016) — [[hyun-jin-kim]]
+- [[the-greek-invasion-of-smyrna-1919]] (2019) — [[y-turan-cetiner]], [[pat-walsh]]
+- [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]
+- [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]
 - [[kazim-karabekir-hayatim]] (2008) — [[kazim-karabekir]]
 - [[ataturkun-not-defterleri]] (1996) — [[ali-mithat-inan]]
 - [[tarihi-degistiren-askerler]] (2007) — [[ali-cimen]]

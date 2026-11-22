@@ -2,7 +2,7 @@
 
 **Description**: The social scientific discipline that studies systems of governance, political behavior, institutional design, power dynamics, and public policy.  
 **Key Themes**: [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[rationality-and-decision-making]], [[deterrence-and-coercion]], [[topological-social-choice-and-preference-cycles]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -15,6 +15,13 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[tarih-devrim-sosyalizm]] (1965) — [[hikmet-kivilcimli]]
+- [[the-lessons-of-history]] (1968) — [[will-durant]], [[ariel-durant]]
+- [[the-ethnic-cleansing-of-palestine]] (2006) — [[ilan-pappe]]
+- [[tasnak-partisinin-yapacagi-bir-sey-yok]] (2008) — [[hovhannes-kajaznuni]], [[arif-acaloglu]]
+- [[the-idea-of-israel]] (2014) — [[ilan-pappe]]
+- [[leaving-socialism-behind]] (2019) — [[russell-a-berman]]
+- [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[kazim-karabekir-anlatiyor]] (1990) — [[ugur-mumcu]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
 - [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]

@@ -1,7 +1,7 @@
 # Genre: Investigative Non-Fiction
 
 **Summary**: A journalistic and literary discipline that applies rigorous investigative methods—fieldwork, archival research, whistleblower interviews, and forensic analysis—to uncover hidden historical, political, or scientific realities.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -28,6 +28,10 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[alternative-archaeology]]
 
 ## Books in Wiki
+- [[the-thirteenth-tribe]] (1976) — [[arthur-koestler]]
+- [[the-armenian-massacres-in-ottoman-turkey]] (2005) — [[guenter-lewy]]
+- [[the-ethnic-cleansing-of-palestine]] (2006) — [[ilan-pappe]]
+- [[ermenilerin-kaleminden-kurtlesen-ermeniler]] (2016) — [[thomas-k-mugerditchian]], [[esther-mugerditchian]], [[kaya-ataberk]]
 - [[kazim-karabekir-anlatiyor]] (1990) — [[ugur-mumcu]]
 - [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]

@@ -1,7 +1,7 @@
 # Theme: Rationality and Decision Making
 
 **Summary**: The analysis of how human cognition, heuristics, biases, emotions, and computational algorithms shape, distort, or enable strategic decisions in conflict and cooperation.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

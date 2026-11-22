@@ -1,7 +1,7 @@
 # Theme: Revolutionary Ambition, Power, and Historical Legacy
 
 **Summary**: Comparative biographies of figures who sought to remake empires, economies, or political orders through military genius, ideological theory, guerrilla insurrection, or leveraged commercial branding.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

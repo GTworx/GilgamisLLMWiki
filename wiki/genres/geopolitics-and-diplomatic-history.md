@@ -2,7 +2,7 @@
 
 **Description**: Comparative international orders, Westphalian balance of power, post-Cold War ideological transitions, great-power rivalry, Eurasian corridors, and high-level diplomatic memoirs.
 **Key Themes**: [[westphalian-world-order-end-of-history-and-great-power-realism]], [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[deterrence-and-coercion]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,23 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[the-encyclopedia-of-world-history-stearns]] (2001) — [[peter-n-stearns]]
+- [[ancient-china-and-its-enemies]] (2002) — [[nicola-di-cosmo]]
+- [[the-armenian-massacres-in-ottoman-turkey]] (2005) — [[guenter-lewy]]
+- [[the-ethnic-cleansing-of-palestine]] (2006) — [[ilan-pappe]]
+- [[tasnak-partisinin-yapacagi-bir-sey-yok]] (2008) — [[hovhannes-kajaznuni]], [[arif-acaloglu]]
+- [[encyclopedia-of-world-history-facts-on-file]] (2008) — [[marsha-e-ackermann]], [[michael-j-schroeder]], [[janice-j-terry]], [[jiu-hwa-lo-upshur]], [[mark-f-whitters]]
+- [[empires-of-the-silk-road]] (2009) — [[christopher-i-beckwith]]
+- [[destiny-disrupted]] (2009) — [[tamim-ansary]]
+- [[ottoman-brothers]] (2011) — [[michelle-u-campos]]
+- [[the-idea-of-israel]] (2014) — [[ilan-pappe]]
+- [[the-barbarian-empires-of-the-steppes]] (2014) — [[kenneth-w-harl]]
+- [[a-history-of-russia-central-asia-and-mongolia-vol-2]] (2018) — [[david-christian]]
+- [[21-lessons-for-the-21st-century]] (2018) — [[yuval-noah-harari]]
+- [[the-greek-invasion-of-smyrna-1919]] (2019) — [[y-turan-cetiner]], [[pat-walsh]]
+- [[leaving-socialism-behind]] (2019) — [[russell-a-berman]]
+- [[how-the-world-made-the-west]] (2024) — [[josephine-quinn]]
+- [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[ataturk-bir-milletin-yeniden-dogusu]] (1994) — [[lord-kinross]], [[necdet-sander]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
 - [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]

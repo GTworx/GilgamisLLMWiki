@@ -1,7 +1,7 @@
 # Theme: Inclusive Institutions, Economic Thought, and Ecological Limits
 
 **Summary**: How division of labor, institutional pluralism, macroeconomic reform, urban space, and finite ecological endowments interact to determine whether nations flourish or stagnate.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

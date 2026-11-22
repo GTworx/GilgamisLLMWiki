@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-11-22  
+**Generated**: 2026-11-23  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -11,16 +11,16 @@
 
 ## 1. Executive Overview
 
-The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
+The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, alternative prehistory, Inner Eurasian nomadic empires, Big History, and Late Ottoman contested memory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 376 distinct intellectual works (across 418 source files/volumes and ~131,000+ pages)
-- **Total Generated Wiki Pages**: 1,122 interlinked markdown files (1,120 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 417 distinct intellectual works (across 477 source files/volumes and ~153,000+ pages)
+- **Total Generated Wiki Pages**: 1,220 interlinked markdown files (1,218 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 376 ([books/](wiki/books/))
-- **Author Profile Pages**: 561 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 84 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 99 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 417 ([books/](wiki/books/))
+- **Author Profile Pages**: 613 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 86 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 102 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -811,3 +811,87 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Encyclopedic anthology of health, wealth, and Stoic wisdom protocols distilled from 200+ world-class performers—featuring Fear-Setting, skill stacking, and daily mindfulness rituals.
 376. **[[leadership-lessons-six-titans]]** ([[will-peters]], 2017, New Word City, 198 pp.)  
      Comparative executive study of Warren Buffett, Walt Disney, Thomas Edison, Katharine Graham, Steve Jobs, and Ray Kroc contrasting temperament-matched risk, courage, and persistence.
+
+### Category L1: Ancient Mediterranean, Bronze Age Collapse, Eurasian Steppe Nomads, World History & Late Ottoman Memory (41 works, books 377–417)
+377. **[[1177-bc-the-year-civilization-collapsed]]** ([[eric-h-cline]], 2014/2021, Princeton University Press, 265 pp.)  
+     Systemic collapse of Late Bronze Age Mediterranean civilizations (Mycenaeans, Hittites, Minoans, Kassites) through multi-causal ecological, drought, earthquake, and Sea Peoples disruptions.
+378. **[[cambridge-ancient-history-scythia-and-thrace]]** ([[tadeusz-sulimirski]], [[timothy-taylor]], & [[georgi-mihailov]], 1991, Cambridge University Press, 88 pp.)  
+     Foundational archaeological and epigraphic chapters from CAH Vol. III Part 2 reconstructing Scythian and Thracian tribal ethnogenesis, mortuary kurgans, animal art, and Greek colonial contact.
+379. **[[an-introduction-to-the-history-of-the-turkic-peoples]]** ([[peter-b-golden]], 1992, Harrassowitz Verlag, 494 pp.)  
+     The definitive scholarly handbook tracing Turkic ethnogenesis, linguistic dispersals, steppe khaganates, Khazars, Karakhanids, and Seljuks across Inner Eurasia.
+380. **[[religions-of-the-silk-road]]** ([[richard-c-foltz]], 1999, Palgrave Macmillan, 208 pp.)  
+     Overland trade and religious ecology spanning Zoroastrianism, Manichaeism, Nestorian Christianity, Buddhism, and Islam along the transcontinental Caravan arteries.
+381. **[[ancient-china-and-its-enemies]]** ([[nicola-di-cosmo]], 2002, Cambridge University Press, 381 pp.)  
+     Rigorous re-evaluation of the rise of nomadic power along China's northern frontier, detailing the institutional crystallization of the Xiongnu Empire and early Han tributary diplomacy.
+382. **[[etruscan-an-archaic-form-of-hungarian]]** ([[mario-alinei]], 2003, Dunavox, 119 pp.)  
+     Pioneering Paleolithic Continuity Paradigm (PCP) linguistic treatise arguing for deep Uralic/Ugro-Finnic grammatical, agglutinative, and lexical cognates in Etruscan inscriptions.
+383. **[[the-horse-the-wheel-and-language]]** ([[david-w-anthony]], 2007, Princeton University Press, 565 pp.)  
+     Archaeological, linguistic, and archaeozoological synthesis of Proto-Indo-European origins in the Pontic-Caspian steppes, riding bit wear, kurgans, and Yamnaya pastoral dispersals.
+384. **[[empires-of-the-silk-road]]** ([[christopher-i-beckwith]], 2009, Princeton University Press, 513 pp.)  
+     Macro-historical reconstruction establishing the Central Eurasian Culture Complex (comitatus, swearing, modernism) from the Bronze Age through Scythians, Turks, and Mongols.
+385. **[[the-huns-hyun-jin-kim]]** ([[hyun-jin-kim]], 2016, Routledge, 177 pp.)  
+     Breakthrough revisionist study demonstrating the sophisticated Inner Asian administrative, geopolitical, and military statecraft of Attila's European Huns.
+386. **[[a-history-of-russia-central-asia-and-mongolia-vol-2]]** ([[david-christian]], 2018, Wiley-Blackwell, 648 pp.)  
+     Second volume of Christian's monumental Inner Eurasian macro-history, charting the transformation of steppe ecosystems under Russian, Soviet, and contemporary state modernizations.
+387. **[[the-scythian-empire]]** ([[christopher-i-beckwith]], 2023, Oxford University Press, 417 pp.)  
+     Provocative revisionist study arguing that the Scythian Empire served as the primary geopolitical catalyst for the classical Axial Age across Greece, Persia, India, and China.
+388. **[[how-the-world-made-the-west]]** ([[josephine-quinn]], 2024, Bloomsbury, 608 pp.)  
+     4,000-year connected history proving that Western civilization was not a self-contained European invention, but forged through continuous Mediterranean, Near Eastern, and African entanglement.
+389. **[[diodorus-of-sicily-library-of-history]]** ([[diodorus-siculus]], tr. [[c-h-oldfather]] & [[c-bradford-welles]], 1935/1963, Loeb Classical Library / Harvard University Press, 822 pp.)  
+     Classical universal history synthesizing Egyptian, Assyrian, and archaic Greek myths with detailed chronicles of Philip II and Alexander the Great's campaigns.
+390. **[[the-thirteenth-tribe]]** ([[arthur-koestler]], 1976, Random House / Popular Library, 324 pp.)  
+     Historical inquiry into the eighth-century Judaic conversion, geopolitics, and subsequent migration trajectories of the Khazar Khaganate across the Caucasus and Eastern Europe.
+391. **[[the-dawn-of-everything]]** ([[david-graeber]] & [[david-wengrow]], 2021, Farrar, Straus and Giroux, 704 pp.)  
+     Anthropological and archaeological magnum opus overthrowing linear evolutionary teleologies, revealing the seasonal flexibility and experimental governance of ancient societies.
+392. **[[the-lessons-of-history]]** ([[will-durant]] & [[ariel-durant]], 1968, Simon & Schuster, 128 pp.)  
+     Philosophical distillation of biological, economic, moral, and governmental cycles based on fifty years of researching *The Story of Civilization*.
+393. **[[the-story-of-civilization-vol-1-our-oriental-heritage]]** ([[will-durant]], 1935, Simon & Schuster, 1,150 pp.)  
+     First volume of the monumental 11-volume universal history, surveying Near Eastern, Indian, Chinese, and Japanese civilization from the origins of culture to the modern era.
+394. **[[sapiens-a-brief-history-of-humankind]]** ([[yuval-noah-harari]], 2014, Harper / Dvir, 464 pp.)  
+     Global bestseller exploring the Cognitive, Agricultural, and Scientific Revolutions, anchored by humanity's unique capacity to construct shared fictions and intersubjective realities.
+395. **[[homo-deus]]** ([[yuval-noah-harari]], 2016, Harper, 448 pp.)  
+     Provocative inquiry into 21st-century technological trajectories—artificial intelligence, bioengineering, and dataism—and the existential post-human challenges facing *Homo sapiens*.
+396. **[[21-lessons-for-the-21st-century]]** ([[yuval-noah-harari]], 2018, Spiegel & Grau, 372 pp.)  
+     Immediate ethical, political, and cognitive handbook confronting the contemporary crises of liberal democracy, surveillance capitalism, fake news, nuclear war, and ecological collapse.
+397. **[[kayip-yazilar-ve-diller]]** ([[johannes-friedrich]], tr. [[recai-tekoglu]] & [[arif-acaloglu]], 1954/2000, Arkeoloji ve Sanat Yayınları, 208 pp.)  
+     Foundational textbook on the historical methods of deciphering Egyptian hieroglyphs, Mesopotamian cuneiform, Hittite, and ancient Anatolian scripts.
+398. **[[empires-of-the-steppes-companion]]** ([[kenneth-w-harl]], 2023, Hanover Square Press, 226 pp.)  
+     Exhaustive genealogical, cartographic, and chronological companion detailing the steppe confederations from Cimmerians and Huns to the Golden Horde and Timurids.
+399. **[[the-barbarian-empires-of-the-steppes]]** ([[kenneth-w-harl]], 2014, The Great Courses, 187 pp.)  
+     36-lecture masterclass guide investigating the nomadic military adaptations, trade governance, and diplomatic mastery that shaped Eurasian civilizations.
+400. **[[the-worlds-sixteen-crucified-saviors]]** ([[kersey-graves]], 1875, Freethought Press, 352 pp.)  
+     Classic 19th-century comparative mythology treatise tracing recurring solar, virgin-birth, and crucified savior archetypes across pre-Christian Near Eastern and Asian traditions.
+401. **[[timelines-of-history]]** ([[dorling-kindersley]] & [[smithsonian-institution]], 2011/2018, DK Publishing, 514 pp.)  
+     Visual encyclopedia and comparative global chronology cataloging major political, technological, artistic, and scientific milestones across 5,000 years of recorded history.
+402. **[[destiny-disrupted]]** ([[tamim-ansary]], 2009, PublicAffairs, 416 pp.)  
+     Connected world history narrative re-centering global civilizational development through the perspective of the Islamic Middle World from the Hijra through European imperialism.
+403. **[[encyclopedia-of-world-history-facts-on-file]]** ([[marsha-e-ackermann]], [[michael-j-schroeder]], [[janice-j-terry]], [[jiu-hwa-lo-upshur]], & [[mark-f-whitters]], 2008, Facts on File, 3,248 pp.)  
+     Authoritative 7-volume universal reference work spanning the prehistoric world through the contemporary era, organized across standardized historical eras and geographic realms.
+404. **[[the-encyclopedia-of-world-history-stearns]]** ([[peter-n-stearns]], 2001, Houghton Mifflin, 1,298 pp.)  
+     Comprehensive 6th edition of the legendary Langer universal chronology, documenting global historical events, dynastic successions, and institutional transformations.
+405. **[[four-years-beneath-the-crescent]]** ([[rafael-de-nogales]], tr. [[muna-lee]], [[benjamin-moser]], & [[burcu-alver]], 1926/2003, Sterndale Classics / Kaynak Yayınları, 448 pp.)  
+     Eyewitness First World War military memoirs of a Venezuelan cavalry officer serving in the Ottoman Army across the Caucasian, Persian, and Palestinian fronts.
+406. **[[ottoman-brothers]]** ([[michelle-u-campos]], 2011, Stanford University Press, 360 pp.)  
+     Archival study of civic Ottomanism (*ittihad*) and shared municipal identity among Muslims, Christians, and Jews in Jerusalem and Palestine following the 1908 Young Turk Revolution.
+407. **[[tasnak-partisinin-yapacagi-bir-sey-yok]]** ([[hovhannes-kajaznuni]], 1923/2005, Kaynak Yayınları, 128 pp.)  
+     Historical 1923 Bucharest Party Manifesto of the First Prime Minister of Armenia, providing a critical self-appraisal of Armenian nationalist policy and foreign interventionism during WWI.
+408. **[[buyuk-ataturk-albumu-1]]** ([[hanri-benazus]], 2007, Bizim Kitaplar, 304 pp.)  
+     High-definition archival photographic chronicle documenting Mustafa Kemal Atatürk's early military career, Gallipoli, the War of Independence, and the early Republic.
+409. **[[leaving-socialism-behind]]** ([[kaya-ataberk]], 2010, İleri Yayınları, 214 pp.)  
+     Political critique analyzing ideological transformations and revisionism in Turkish left movements following the Cold War and the 1980 military coup.
+410. **[[tarih-devrim-sosyalizm]]** ([[hikmet-kivilcimli]], 1965/2008, Biblioteka Yayınları, 256 pp.)  
+     Theoretical masterpiece synthesizing Ibn Khaldun's *asabiyya* and historical materialism into the "History Thesis," analyzing the progressive role of barbarian invasions in civilizational renewals.
+411. **[[the-greek-invasion-of-smyrna-1919]]** ([[pat-walsh]] & [[y-turan-cetiner]], 2019, Athol Books / *Irish Foreign Affairs*, 10 pp.)  
+     Centennial diplomatic and military analysis of the May 1919 Greek landing in Smyrna and the geopolitical maneuvering of the Paris Peace Conference.
+412. **[[canakkale-zafer-yolunda]]** ([[bugra-atasayar]] & [[burcu-alver]], 2012/2022, İleri Yayınları, 60 pp.)  
+     Commemorative photographic album with archival commentary documenting the 1915–1916 Gallipoli naval and land battles across 107 historical photographs.
+413. **[[the-armenian-massacres-in-ottoman-turkey]]** ([[guenter-lewy]], tr. [[bugra-atasayar]], 2005/2011, University of Utah Press / İleri Yayınları, 416 pp.)  
+     Meticulous historiographical analysis cross-examining Ottoman, German, British, and Armenian primary archives regarding wartime population relocations, casualties, and intent.
+414. **[[ermenilerin-kaleminden-kurtlesen-ermeniler]]** ([[kaya-ataberk]], 2009, İleri Yayınları, 184 pp.)  
+     Demographic and historical inquiry into late Ottoman assimilation, religious conversion, and cultural synthesis between Armenian and Kurdish populations in Eastern Anatolia.
+415. **[[the-ethnic-cleansing-of-palestine]]** ([[ilan-pappe]], 2006, Oneworld Publications, 336 pp.)  
+     Landmark Israeli "New Historian" monograph analyzing Plan Dalet and the 1948 displacement of Palestinian communities through the lens of systematic expulsion.
+416. **[[the-idea-of-israel]]** ([[ilan-pappe]], 2014, Verso, 352 pp.)  
+     Intellectual history examining the evolution of Zionist ideology, Israeli historiographical orthodoxies, and the emergence of post-Zionist scholarly critique.
+417. **[[anti-zionism-a-jewish-history]]** ([[russell-a-berman]], 2024, Telos Press Publishing, 256 pp.)  
+     Stanford scholar's intellectual chronicle examining the varied religious, political, and philosophical traditions of Jewish critique of Zionism from the late 19th century to the present.

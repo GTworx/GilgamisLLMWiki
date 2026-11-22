@@ -2,7 +2,7 @@
 
 **Description**: Lives of transformative moral reformers, political revolutionaries, conquerors, humorists, and dealmakers—illuminating how personal character collides with historical structures.
 **Key Themes**: [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[revolutionary-ambition-power-and-historical-legacy]], [[universal-love-and-human-dignity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,10 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[four-years-beneath-the-crescent]] (1926) — [[rafael-de-nogales]], [[muna-lee]]
+- [[buyuk-ataturk-albumu-1]] (2013) — [[hanri-benazus]]
+- [[ermenilerin-kaleminden-kurtlesen-ermeniler]] (2016) — [[thomas-k-mugerditchian]], [[esther-mugerditchian]], [[kaya-ataberk]]
+- [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[leadership-lessons-six-titans]] (2017) — [[will-peters]]
 - [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
 - [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]

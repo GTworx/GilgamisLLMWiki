@@ -2,7 +2,7 @@
 
 **Description**: Ethnographic and philosophical study of human ways of living—from pastoral Anatolian nomadism and ecological relations to ubiquitous computing, digital materiality, and Web3 subcultures.
 **Key Themes**: [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[universal-love-and-human-dignity]], [[attention-economy-and-cultural-analytics]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
@@ -14,6 +14,8 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[sapiens-a-brief-history-of-humankind]] (2014) — [[yuval-noah-harari]]
+- [[the-dawn-of-everything]] (2021) — [[david-graeber]], [[david-wengrow]]
 - [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
 - [[how-societies-remember]] (1989) — [[paul-connerton]]
 - [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]

@@ -1,7 +1,7 @@
 # Theme: Moral Courage, Nonviolent Resistance, and Transformative Biography
 
 **Summary**: How individuals and grassroots communities confront colonial rule, racial apartheid, segregation, and extremist violence through truth-force (*satyagraha*), education, cultural humor, and ethical agency.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

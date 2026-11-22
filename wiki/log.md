@@ -895,3 +895,77 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,120 entity pages (1,122 total markdown files).
+
+---
+
+## [2026-11-23T00:45:00+01:00] Ingestion of Option L1 (BOOKS/History_/ Tranche 1: Files [001]–[059])
+
+- **Folder Processed**: `BOOKS/History_/` (Tranche 1, files `[001]` to `[059]`)
+- **Files Processed**: 59 source files (22,467 pages)
+- **Ingestion & Consolidation Summary**:
+  - **41 new canonical book pages** created in `wiki/books/`
+  - **1 existing book synchronized**: `the-first-democracies-early-popular-government-outside-athens.md` (source field updated to include the full 139 pp. Franz Steiner Verlag monograph alongside the existing review)
+  - **Consolidations**:
+    - `[001] + [002]`: Eric H. Cline *1177 B.C.* (265 pp. complete book + 13 pp. Prologue extract)
+    - `[005] + [068]`: Peter B. Golden *An Introduction to the History of the Turkic Peoples* (494 pp., duplicate with `[068]`)
+    - `[007] + [071]`: Richard C. Foltz *Religions of the Silk Road* (208 pp., duplicate with `[071]`)
+    - `[010] + [011]`: David W. Anthony *The Horse, the Wheel, and Language* (565 pp. duplicate editions)
+    - `[016] + [017]`: Christopher I. Beckwith *The Scythian Empire* (417 pp. PDF + companion summary notes)
+    - `[019] + [020]`: Diodorus Siculus *Library of History* (Loeb Classical Library Vols. II & VIII, 562 pp. + 260 pp.)
+    - `[021] + [022] + [023]`: Arthur Koestler *The Thirteenth Tribe* (99 pp. + 85 pp. + 324 pp.)
+    - `[026] + [027–037]`: Will Durant *The Story of Civilization: Our Oriental Heritage* (1,150 pp. Vol. I PDF + 11 BookReader `.html` index stubs)
+    - `[046] + [108]`: Kersey Graves *The World's Sixteen Crucified Saviors* (352 pp. duplicate with `[108]`)
+- **Canonical Works Ingested**:
+  - **Ancient Mediterranean, Bronze Age Collapse & Steppe Antiquity (14 works)**:
+    - [[1177-bc-the-year-civilization-collapsed]] ([[eric-h-cline]], 2014/2021, 265 pp.)
+    - [[cambridge-ancient-history-scythia-and-thrace]] ([[tadeusz-sulimirski]], [[timothy-taylor]], [[georgi-mihailov]], 1991, 88 pp.)
+    - [[an-introduction-to-the-history-of-the-turkic-peoples]] ([[peter-b-golden]], 1992, 494 pp.)
+    - [[religions-of-the-silk-road]] ([[richard-c-foltz]], 1999, 208 pp.)
+    - [[ancient-china-and-its-enemies]] ([[nicola-di-cosmo]], 2002, 381 pp.)
+    - [[etruscan-an-archaic-form-of-hungarian]] ([[mario-alinei]], 2003, 119 pp.)
+    - [[the-horse-the-wheel-and-language]] ([[david-w-anthony]], 2007, 565 pp.)
+    - [[empires-of-the-silk-road]] ([[christopher-i-beckwith]], 2009, 513 pp.)
+    - [[the-huns-hyun-jin-kim]] ([[hyun-jin-kim]], 2016, 177 pp.)
+    - [[a-history-of-russia-central-asia-and-mongolia-vol-2]] ([[david-christian]], 2018, 648 pp.)
+    - [[the-scythian-empire]] ([[christopher-i-beckwith]], 2023, 417 pp.)
+    - [[how-the-world-made-the-west]] ([[josephine-quinn]], 2024, 608 pp.)
+    - [[diodorus-of-sicily-library-of-history]] ([[diodorus-siculus]], tr. [[c-h-oldfather]], [[c-bradford-welles]], 1935/1963, 822 pp.)
+    - [[the-thirteenth-tribe]] ([[arthur-koestler]], 1976, 324 pp.)
+  - **Macro-Anthropology, Big History & Universal Chronologies (13 works)**:
+    - [[the-dawn-of-everything]] ([[david-graeber]], [[david-wengrow]], 2021, 704 pp.)
+    - [[the-lessons-of-history]] ([[will-durant]], [[ariel-durant]], 1968, 128 pp.)
+    - [[the-story-of-civilization-vol-1-our-oriental-heritage]] ([[will-durant]], 1935, 1,150 pp.)
+    - [[sapiens-a-brief-history-of-humankind]] ([[yuval-noah-harari]], 2014, 464 pp.)
+    - [[homo-deus]] ([[yuval-noah-harari]], 2016, 448 pp.)
+    - [[21-lessons-for-the-21st-century]] ([[yuval-noah-harari]], 2018, 372 pp.)
+    - [[kayip-yazilar-ve-diller]] ([[johannes-friedrich]], tr. [[recai-tekoglu]], [[arif-acaloglu]], 1954/2000, 208 pp.)
+    - [[empires-of-the-steppes-companion]] ([[kenneth-w-harl]], 2023, 226 pp.)
+    - [[the-barbarian-empires-of-the-steppes]] ([[kenneth-w-harl]], 2014, 187 pp.)
+    - [[the-worlds-sixteen-crucified-saviors]] ([[kersey-graves]], 1875, 352 pp.)
+    - [[timelines-of-history]] ([[dorling-kindersley]], [[smithsonian-institution]], 2011/2018, 514 pp.)
+    - [[destiny-disrupted]] ([[tamim-ansary]], 2009, 416 pp.)
+    - [[encyclopedia-of-world-history-facts-on-file]] ([[marsha-e-ackermann]], [[michael-j-schroeder]], [[janice-j-terry]], [[jiu-hwa-lo-upshur]], [[mark-f-whitters]], 2008, 3,248 pp.)
+  - **Late Ottoman, Middle East, Zionism, Palestine & Revolutionary History (14 works)**:
+    - [[the-encyclopedia-of-world-history-stearns]] ([[peter-n-stearns]], 2001, 1,298 pp.)
+    - [[four-years-beneath-the-crescent]] ([[rafael-de-nogales]], tr. [[muna-lee]], [[benjamin-moser]], [[burcu-alver]], 1926/2003, 448 pp.)
+    - [[ottoman-brothers]] ([[michelle-u-campos]], 2011, 360 pp.)
+    - [[tasnak-partisinin-yapacagi-bir-sey-yok]] ([[hovhannes-kajaznuni]], 1923/2005, 128 pp.)
+    - [[buyuk-ataturk-albumu-1]] ([[hanri-benazus]], 2007, 304 pp.)
+    - [[leaving-socialism-behind]] ([[kaya-ataberk]], 2010, 214 pp.)
+    - [[tarih-devrim-sosyalizm]] ([[hikmet-kivilcimli]], 1965/2008, 256 pp.)
+    - [[the-greek-invasion-of-smyrna-1919]] ([[pat-walsh]], [[y-turan-cetiner]], 2019, 10 pp.)
+    - [[canakkale-zafer-yolunda]] ([[bugra-atasayar]], [[burcu-alver]], 2012/2022, 60 pp.)
+    - [[the-armenian-massacres-in-ottoman-turkey]] ([[guenter-lewy]], tr. [[bugra-atasayar]], 2005/2011, 416 pp.)
+    - [[ermenilerin-kaleminden-kurtlesen-ermeniler]] ([[kaya-ataberk]], 2009, 184 pp.)
+    - [[the-ethnic-cleansing-of-palestine]] ([[ilan-pappe]], 2006, 336 pp.)
+    - [[the-idea-of-israel]] ([[ilan-pappe]], 2014, 352 pp.)
+    - [[anti-zionism-a-jewish-history]] ([[russell-a-berman]], 2024, 256 pp.)
+- **Entity Pages Created / Updated**:
+  - **Books**: 41 new canonical pages created + 1 existing page synced (total: 417)
+  - **Authors**: 52 new author profiles created + 1 existing updated cleanly ([[richard-c-foltz]]) (total: 613)
+  - **Genres**: 2 new genre indices created ([[central-eurasian-steppe-and-silk-road-history]], [[world-history-macro-anthropology-and-ancient-civilizations]]) and 18 existing genres updated bidirectionally (total: 86)
+  - **Themes**: 3 new thematic syntheses created ([[bronze-age-collapse-big-history-and-civilizational-cycles]], [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[late-ottoman-conflict-palestine-zionism-and-contested-memory]]) and 27 existing themes updated bidirectionally (total: 102)
+- **Verification**:
+  - Master index `wiki/index.md` rebuilt cleanly.
+  - Interactive dashboard regenerated (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,218 entity pages (1,220 total markdown files).

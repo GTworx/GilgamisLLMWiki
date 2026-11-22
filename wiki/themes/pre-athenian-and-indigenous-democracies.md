@@ -1,7 +1,7 @@
 # Theme: Pre-Athenian and Indigenous Democracies
 
 **Summary**: Archaeological, epigraphic, and philological evidence demonstrating that deliberative citizen assemblies, popular courts, and consensual governance flourished in ancient Mesopotamia, Phoenicia, Bronze Age India, and archaic non-Athenian Greek poleis centuries to millennia before fifth-century BC Classical Athens.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-23
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Counterinsurgency, Mountain Warfare, and Classical Military Strategy
 
 **Summary**: Irregular highland combat, small-unit endurance, civil-military tension, and the continuity between frontline counterinsurgency and classical grand strategy from Alexander to Clausewitz.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: General Purpose Technologies (GPTs), Learning by Doing, and Intersectional Innovation
 
 **Summary**: How radical inventions born at disciplinary intersections require decades of structural redesign and worker 'learning by doing' before generating broad-based productivity and wage growth.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ---
 
