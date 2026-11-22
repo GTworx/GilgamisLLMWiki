@@ -14,6 +14,7 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 - [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]

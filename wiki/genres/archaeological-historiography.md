@@ -1,7 +1,7 @@
 # Genre: Archaeological Historiography
 
 **Summary**: The critical examination of the history, institutional politics, methodologies, and ideological contexts surrounding archaeological discoveries and the formation of academic consensus.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-22
 
 ---
 
@@ -28,3 +28,7 @@ Archaeological historiography investigates how archaeological research is commis
 - [[anatolian-civilizations]]
 - [[critique-of-academic-orthodoxy]]
 - [[rationality-and-decision-making]]
+
+## Books in Wiki
+- [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
+- [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]

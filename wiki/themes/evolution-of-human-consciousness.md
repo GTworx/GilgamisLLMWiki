@@ -14,6 +14,8 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 3. **Humanistic Self-Transcendence**: In [[leading-for-tomorrow]] (2026), humanistic psychologist [[scott-barry-kaufman]] and [[chris-shipley]] extend Abraham Maslow's late theory of **self-transcendence**, showing how mature leadership requires evolving from defensive ego-protection toward integrated wisdom, empathy, and service to the whole of humanity.
 
 ## Featured Works
+- [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]
+- [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
 
 - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]

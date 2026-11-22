@@ -14,6 +14,10 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 ---
 
 ## Books in Wiki
+- [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-essential-rumi]] (1995) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-masnavi-whinfield]] (1898) — [[jalal-al-din-rumi]], [[edward-henry-whinfield]]
+- [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]
 - [[30-french-short-stories-for-complete-beginners]] (2017) — [[frederic-bibard]]
 - [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
 - [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]

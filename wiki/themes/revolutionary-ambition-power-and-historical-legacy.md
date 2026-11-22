@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[the-last-man-volume-one]] (1826) — [[mary-shelley]]
 - [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]

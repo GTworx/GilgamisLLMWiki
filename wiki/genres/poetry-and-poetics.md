@@ -15,6 +15,10 @@ Through formal metrics (such as the Turkish syllabic *hece vezni* or free verse 
 ---
 
 ## Books in Wiki
+- [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-essential-rumi]] (1995) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-masnavi-whinfield]] (1898) — [[jalal-al-din-rumi]], [[edward-henry-whinfield]]
+- [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]
 - [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]
 - [[the-sufistic-quatrains-of-omar-khayyam]] (1903) — [[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]]
 - [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]] (1898) — [[omar-khayyam]], [[edward-heron-allen]]

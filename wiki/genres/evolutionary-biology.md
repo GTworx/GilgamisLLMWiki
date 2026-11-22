@@ -15,6 +15,8 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 ---
 
 ## Books in Wiki
+- [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
+- [[the-god-delusion]] (2006) — [[richard-dawkins]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
 

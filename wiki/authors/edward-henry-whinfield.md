@@ -13,6 +13,7 @@ British Indian Civil Service officer and Persian scholar (1836–1922) who trans
 ---
 
 ## Works in Wiki
+- [[the-masnavi-whinfield]] (1898) — The Masnavi: The Spiritual Couplets (Books I–VI Abridged)
 - [[the-sufistic-quatrains-of-omar-khayyam]] (1903) — The Sufistic Quatrains of Omar Khayyam
 
 ---

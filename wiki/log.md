@@ -590,3 +590,40 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 660 entity pages (662 total markdown files).
+
+---
+
+## [2026-11-22] ingest | Option F Sweep — Complete `BOOKS/Religion_/` Ingestion (17 Distinct Works across 24 Files)
+
+- **Scope**: Completed full recursive ingestion of `BOOKS/Religion_/` (root + `2010 FuatSezginslamdaBilimVeTeknik 6 Volumes/` — all 24 PDFs totaling 6,203 pages, consolidated into 17 distinct works: Fuat Sezgin 6-file multi-volume compendium, Rumi *Masnavi* Oxford Books I–II pair, and Richard C. Foltz 2-file scholarly review dossier, plus 14 standalone works).
+- **Ingested Works**:
+  - **History of Islamic Science (6 files → 1 consolidated multi-volume work)**:
+    - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] ([[fuat-sezgin]], [[eckhard-neubauer]], 2007–2010, 1,407 pp. across Turkish Cilt I–V & English Vol. IV)
+  - **Sufism, Rumi & Shams-i Tabrizi Cluster (8 files → 7 works)**:
+    - [[the-masnavi-books-one-and-two-mojaddedi]] ([[jalal-al-din-rumi]], [[jawid-mojaddedi]], 2004–2007, Oxford World's Classics, 596 pp. across 2 vols.)
+    - [[the-masnavi-whinfield]] ([[jalal-al-din-rumi]], [[edward-henry-whinfield]], 1898, 388 pp.)
+    - [[the-essential-rumi]] ([[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]], 1995/1997, 318 pp.)
+    - [[rumi-the-book-of-love]] ([[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]], 2003, 234 pp.)
+    - [[me-and-rumi-shams-i-tabrizi]] ([[shams-i-tabrizi]], [[william-c-chittick]], 2004, 436 pp.)
+    - [[the-life-and-work-of-jalal-ud-din-rumi]] ([[afzal-iqbal]], [[a-j-arberry]], 1956/1991, 361 pp.)
+    - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] ([[leonard-lewisohn]], 2014, 346 pp.)
+  - **Comparative Religion, Ancient Near East & Islamic History (4 files → 3 works)**:
+    - [[after-the-prophet-shia-sunni-split]] ([[lesley-hazleton]], 2009, 329 pp.)
+    - [[spirituality-in-the-land-of-the-noble-reviews]] ([[burzine-k-waghmar]], [[dale-bishop]], reviewing [[richard-c-foltz]], 2004, 17 pp. across 2 academic review dossiers)
+    - [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] ([[muazzez-ilmiye-cig]], 1995/2005, 107 pp.)
+  - **Philosophy of Religion, New Atheism, Apologetics & Spirituality (6 files → 6 works)**:
+    - [[the-god-delusion]] ([[richard-dawkins]], 2006/2007, 396 pp.)
+    - [[richard-dawkins-god-delusion-bloch]] ([[pawel-bloch]], 2011/2014, 174 pp.)
+    - [[breaking-the-spell]] ([[daniel-c-dennett]], 2006, 456 pp.)
+    - [[atheism-all-that-matters]] ([[dylan-evans]], 2014, 158 pp.)
+    - [[korkunun-otesi-beyond-fear]] ([[don-miguel-ruiz]], [[mary-carroll-nelson]], 1997/2008, 330 pp.)
+    - [[heaven-is-for-real]] ([[todd-burpo]], [[lynn-vincent]], 2010, 150 pp.)
+- **Entity Pages Created / Updated**:
+  - **Books**: 17 new pages created (total: 208)
+  - **Authors**: 24 new author profiles created + 2 existing updated ([[richard-dawkins]], [[edward-henry-whinfield]]): [[fuat-sezgin]], [[eckhard-neubauer]], [[jalal-al-din-rumi]], [[jawid-mojaddedi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]], [[shams-i-tabrizi]], [[william-c-chittick]], [[afzal-iqbal]], [[leonard-lewisohn]], [[lesley-hazleton]], [[richard-c-foltz]], [[burzine-k-waghmar]], [[dale-bishop]], [[muazzez-ilmiye-cig]], [[pawel-bloch]], [[daniel-c-dennett]], [[dylan-evans]], [[don-miguel-ruiz]], [[mary-carroll-nelson]], [[todd-burpo]], [[lynn-vincent]] (total: 348)
+  - **Genres**: 3 new genre indices created ([[sufism-mysticism-and-rumi-studies]], [[comparative-religion-and-islamic-history]], [[philosophy-of-religion-secularism-and-apologetics]]) and 14 existing genres updated (total: 71)
+  - **Themes**: 4 new thematic syntheses created ([[islamic-golden-age-science-and-civilizational-transmission]], [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]) and 12 existing themes updated (total: 81)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 708 entity pages (710 total markdown files).

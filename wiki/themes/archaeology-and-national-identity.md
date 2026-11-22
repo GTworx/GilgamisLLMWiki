@@ -10,6 +10,7 @@
 Archaeology is rarely a detached academic pursuit; it frequently operates as an instrument of state-building and ideological identity. In the early Turkish Republic, Mustafa Kemal Atatürk transformed archaeology into a primary pillar of his modern, secular "Scientific Republic" (*Bilim Cumhuriyeti*). By excavating prehistoric and Bronze Age Anatolian sites (Alacahöyük, Ahlatlıbel) through the Turkish Historical Society (Türk Tarih Kurumu) and establishing the Faculty of Language, History, and Geography (DTCF), the Republic established that the modern Turkish nation was the rightful heir and steward of millennia of indigenous Anatolian civilizations (Hittite, Phrygian, Urartian, classical Ionian), rather than being solely bounded by Ottoman-Islamic dynasticism.
 
 ## Featured Works
+- [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]
 

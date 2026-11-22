@@ -20,6 +20,10 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
+- [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]
+- [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
+- [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
 - [[ey-vatan]] (2004) — [[osman-pamukoglu]]
 - [[machines-like-me]] (2019) — [[ian-mcewan]]
 - [[the-last-man-volume-one]] (1826) — [[mary-shelley]]

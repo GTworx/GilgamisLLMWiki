@@ -26,6 +26,15 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]
+- [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]
+- [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
+- [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]
+- [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
+- [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-essential-rumi]] (1995) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-masnavi-whinfield]] (1898) — [[jalal-al-din-rumi]], [[edward-henry-whinfield]]
+- [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]
 - [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
 - [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
 - [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]

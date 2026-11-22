@@ -13,6 +13,7 @@ The philosophical root lies in [[mahatma-gandhi]]'s [[gandhi-my-experiments-with
 ---
 
 ## Featured Works
+- [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]
 - [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
 - [[hadji-murad]] (1912) — [[leo-tolstoy]], [[aylmer-maude]]
 - [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]

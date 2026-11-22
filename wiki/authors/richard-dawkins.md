@@ -2,7 +2,7 @@
 
 **Eras / Movements**: Neo-Darwinian Evolutionary Biology, Gene-Centric Selection, and Memetics
 **Primary Genres**: [[evolutionary-biology]], [[game-theory]], [[anthropology-of-consciousness]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -38,3 +38,6 @@ Synthesizing the mathematical work of [[william-d-hamilton]], George C. Williams
 - [[gene-centric-evolution-and-memetics]]
 - [[cooperation-and-reciprocity]]
 - [[tit-for-tat]]
+
+## Works in Wiki
+- [[the-god-delusion]] (2006) — The God Delusion

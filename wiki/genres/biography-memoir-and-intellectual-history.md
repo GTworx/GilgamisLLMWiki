@@ -14,6 +14,10 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]
+- [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
+- [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]
+- [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
 - [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
 - [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]

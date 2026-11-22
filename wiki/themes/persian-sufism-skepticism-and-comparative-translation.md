@@ -13,6 +13,13 @@ Nowhere is this clearer than in our three-edition [[omar-khayyam]] triad: [[edwa
 ---
 
 ## Featured Works
+- [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
+- [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
+- [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]
+- [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-essential-rumi]] (1995) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
+- [[the-masnavi-whinfield]] (1898) — [[jalal-al-din-rumi]], [[edward-henry-whinfield]]
+- [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]
 - [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
 - [[the-sufistic-quatrains-of-omar-khayyam]] (1903) — [[omar-khayyam]], [[robert-arnot]], [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]], [[edward-heron-allen]]
 - [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]

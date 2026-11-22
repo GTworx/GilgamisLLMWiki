@@ -1,7 +1,7 @@
 # Theme: Gene-Centric Evolution and Memetics
 
 **Summary**: The neo-Darwinian paradigm explaining biological and cultural evolution through the differential survival of self-copying digital information units—genes in the biological sphere and memes in human culture—operating through organismal vehicles and extended phenotypes.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,8 @@ Anchored in [[richard-dawkins]]'s [[the-selfish-gene]] (1976 / 2006 30th Anniver
 ---
 
 ## Featured Works
+- [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
+- [[the-god-delusion]] (2006) — [[richard-dawkins]]
 - [[the-selfish-gene]] (1976 / 2006) — [[richard-dawkins]]
 - [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]], [[william-d-hamilton]]
 - [[the-adaptability-advantage]] (2026) — [[john-sanei]]

@@ -81,18 +81,18 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 191 distinct intellectual works (across 218 source files/volumes and ~63,000+ pages)
-- **Total Maintained Wiki Pages**: 662 interlinked markdown documents (660 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 191 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 324 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 68 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 77 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 208 distinct intellectual works (across 242 source files/volumes and ~69,000+ pages)
+- **Total Maintained Wiki Pages**: 710 interlinked markdown documents (708 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 208 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 348 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 71 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 81 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
-## 📚 Recent & Featured Ingested Library Catalog (191 Total Works)
+## 📚 Recent & Featured Ingested Library Catalog (208 Total Works)
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -190,18 +190,19 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Fun & Puzzles_/                      # Ingested: All 8 files across 8 works (Dudeney/Gardner 536, David Wells, Talwalkar, Romanowicz, Gruber, Carson, Leeming)
 │   ├── BOOKS/Game Theory/                         # Verified SHA-256 identical to raw/ (Axelrod & Deterrence in 21st Century)
 │   ├── BOOKS/Literature/                          # Ingested: All 23 files across 23 works (Tevfik Fikret, Tanpınar, Omar Khayyam x3, Tolstoy x2, Boccaccio, Mary Shelley, Ishiguro, McEwan, Stephenson, Osman Pamukoğlu x6, Ottoman philology & French readers)
+│   ├── BOOKS/Religion_/                           # Ingested: All 24 files across 17 distinct works (Fuat Sezgin 6-file compendium, Rumi & Shams x7, Hazleton, Foltz reviews, Muazzez İlmiye Çığ, Dawkins, Bloch, Dennett, Evans, Ruiz, Burpo)
 │   └── BOOKS/History_/, Philosophy..., ...        # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (662 markdown pages)
+├── wiki/                                          # Maintained knowledge base (710 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (191 pages)
-│   ├── authors/                                   # Author profile pages (324 pages)
-│   ├── genres/                                    # Genre index pages (68 pages)
-│   └── themes/                                    # Core thematic concept pages (77 pages)
+│   ├── books/                                     # Ingested book detail pages (208 pages)
+│   ├── authors/                                   # Author profile pages (348 pages)
+│   ├── genres/                                    # Genre index pages (71 pages)
+│   └── themes/                                    # Core thematic concept pages (81 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

@@ -30,6 +30,9 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
+- [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]
+- [[the-god-delusion]] (2006) — [[richard-dawkins]]
 - [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]
 - [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
 - [[stock-trading-strategy-3-book-bundle]] (2016) — [[tyler-yamazaki]]

@@ -11,6 +11,8 @@
 This discipline explores the interface between neurobiology, ethnobotany, archaeology, and applied neuroscience. Investigating the Upper Paleolithic "Creative Explosion" (~40,000 BP), researchers such as David Lewis-Williams and [[graham-hancock]] argue that rock and cave art (Chauvet, Lascaux) were not mundane hunting records or "art for art's sake," but precise depictions of visionary experiences induced by altered states of consciousness. Comparative studies with modern Amazonian Ayahuasca shamanism reveal recurring transcultural archetypes, therianthropes, and visionary encounters. In contemporary futures strategy, thinkers such as [[john-sanei]] extend the study of consciousness to neuroplasticity, nervous-system regulation, and the transition from survival-driven reactivity to higher-order adaptive awareness.
 
 ## Books in Wiki
+- [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]
+- [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]
 

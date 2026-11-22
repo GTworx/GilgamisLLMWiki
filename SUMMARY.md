@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 191 distinct intellectual works (across 218 source files/volumes and ~63,000+ pages)
-- **Total Generated Wiki Pages**: 662 interlinked markdown files (660 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 208 distinct intellectual works (across 242 source files/volumes and ~69,000+ pages)
+- **Total Generated Wiki Pages**: 710 interlinked markdown files (708 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 191 ([books/](wiki/books/))
-- **Author Profile Pages**: 324 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 68 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 77 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 208 ([books/](wiki/books/))
+- **Author Profile Pages**: 348 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 71 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 81 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -425,3 +425,40 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Visceral winter war novel following twenty-one Turkish commandos tracking insurgents across the Cilo and Sat Mountains to Cehennemdere Canyon.
 191. **[[strateji-yenecek-ve-kazanacaksin]]** ([[osman-pamukoglu]], 2016, İnkılap Kitabevi, 450 pp.)  
      Grand-strategy treatise synthesizing classical captains (Alexander to Napoleon), Jomini, Clausewitz, combat psychology, Mahan, Douhet, Haushofer, Machiavelli, total-war statesmen, and economic power theorists.
+
+### Category M: Option F — Comparative Religion, Islamic Science, Sufism & Rumi Studies, Atheism & Apologetics (`BOOKS/Religion_/` — 17 Distinct Works across 24 Files)
+
+192. **[[islamda-bilim-ve-teknik-science-and-technology-in-islam]]** ([[fuat-sezgin]] & [[eckhard-neubauer]], 2007–2010, 1,407 pp. across Turkish Cilt I–V & English Vol. IV)  
+     Five-volume illustrated reconstruction of Arabic-Islamic astronomy, cartography, optics, medicine, chemistry, mineralogy, and mechanical engineering challenging the Eurocentric Dark Ages gap.
+193. **[[the-masnavi-books-one-and-two-mojaddedi]]** ([[jalal-al-din-rumi]] & [[jawid-mojaddedi]], 2004–2007, Oxford World's Classics, 596 pp. across 2 vols.)  
+     First modern rhyming-couplet English verse translation of Books One and Two of Rumi's *Masnavi*, preserving both poetic form and Qur'anic depth.
+194. **[[the-masnavi-whinfield]]** ([[jalal-al-din-rumi]] & [[edward-henry-whinfield]], 1898, 388 pp.)  
+     Classic annotated Victorian six-book abridgment of Rumi's *Masnavi* with scholarly footnotes tracing Qur'anic, *hadith*, and classical Sufi intertexts plus notes on the apocryphal Book VII.
+195. **[[the-essential-rumi]]** ([[jalal-al-din-rumi]] & [[coleman-barks]] with [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]], 1995/1997, Castle Books, 318 pp.)  
+     Landmark American free-verse anthology organizing Rumi's lyrics and teaching stories into twenty-eight experiential moods that brought Rumi to global mass readership.
+196. **[[rumi-the-book-of-love]]** ([[jalal-al-din-rumi]] & [[coleman-barks]] et al., 2003, HarperCollins, 234 pp.)  
+     Focused anthology and commentary on Rumi's ecstatic love lyrics (*ishq*), *sohbet*, and tavern madness placed in dialogue with global contemplative poetry.
+197. **[[me-and-rumi-shams-i-tabrizi]]** ([[shams-i-tabrizi]] & [[william-c-chittick]], 2004, Fons Vitae, 436 pp.)  
+     Thematically reconstructed translation of Shams-i Tabrizi's *Maqalat*, recovering the fiercely learned, prophet-centered mystic behind Rumi's spiritual awakening.
+198. **[[the-life-and-work-of-jalal-ud-din-rumi]]** ([[afzal-iqbal]] with Foreword by [[a-j-arberry]], 1956/1991 6th Ed., 361 pp.)  
+     Comprehensive intellectual biography situating Rumi within the 13th-century Mongol and Crusader crises and analyzing his mature philosophy of love, intellect, and spiritual evolution.
+199. **[[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]]** ([[leonard-lewisohn]], ed., 2014, World Wisdom, 346 pp.)  
+     Twelve-essay international scholarly volume illuminating Rumi's ecstatic poetics, ring-compositional *Masnavi* architecture, and Islamic Sufi ecumenism.
+200. **[[after-the-prophet-shia-sunni-split]]** ([[lesley-hazleton]], 2009, Doubleday, 329 pp.)  
+     Three-act narrative history tracing the 632–680 CE political succession crisis from Muhammad's deathbed and Ali's caliphate to Hussein's martyrdom at Karbala.
+201. **[[spirituality-in-the-land-of-the-noble-reviews]]** ([[burzine-k-waghmar]] & [[dale-bishop]], reviewing [[richard-c-foltz]], 2004, 17 pp. across 2 academic review dossiers)  
+     Critical Iranological and comparative-religion reviews auditing Foltz's survey of Iran's pluralistic religious heritage from Zoroastrianism and Manichaeism to Shiism.
+202. **[[kuran-incil-ve-tevratin-sumerdeki-kokeni]]** ([[muazzez-ilmiye-cig]], 1995/2005 9th Ed., Kaynak Yayınları, 107 pp.)  
+     Popular Sumerological study tracing Abrahamic narratives of creation, Eden, the Great Flood, Job, veiling, and angels back to third-millennium BCE cuneiform tablets.
+203. **[[the-god-delusion]]** ([[richard-dawkins]], 2006/2007, Bantam Press, 396 pp.)  
+     Flagship New Atheist treatise treating the God Hypothesis as an improbable scientific claim, advancing the Ultimate Boeing 747 argument and Darwinian-secular ethics.
+204. **[[richard-dawkins-god-delusion-bloch]]** ([[pawel-bloch]], 2011/2014, Flavius Publishing House, 174 pp.)  
+     Systematic philosophical, bioethical, and Gospel-historical rebuttal contesting Dawkins's epistemology, infinite-regress argument, and moral Darwinism.
+205. **[[breaking-the-spell]]** ([[daniel-c-dennett]], 2006, Viking, 456 pp.)  
+     Evolutionary-cognitive investigation of religion as a natural memetic phenomenon—introducing 'belief in belief,' agency detection, and folk-to-domesticated institutional evolution.
+206. **[[atheism-all-that-matters]]** ([[dylan-evans]], 2014, Hodder & Stoughton, 158 pp.)  
+     Lucid concise primer covering classical arguments on deities, global history of unbelief, cognitive psychology of faith, secular ethics, and existential meaning.
+207. **[[korkunun-otesi-beyond-fear]]** ([[don-miguel-ruiz]] & [[mary-carroll-nelson]], 1997/2008, Alfa, 330 pp.)  
+     Neo-Toltec spiritual-psychology guide anchored in Teotihuacan symbolism, diagnosing fear-driven social conditioning (*Dream of Hell*) and practical awareness exercises.
+208. **[[heaven-is-for-real]]** ([[todd-burpo]] & [[lynn-vincent]], 2010, Thomas Nelson, 150 pp.)  
+     Bestselling Christian family memoir recounting four-year-old Colton Burpo's emergency surgery and subsequent afterlife testimony.

@@ -14,6 +14,7 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[brain-teasers-211-logic-puzzles]] (2009) — [[ian-livingstone]], [[jamie-thomson]]
 - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
 - [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
