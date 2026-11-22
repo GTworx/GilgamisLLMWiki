@@ -10,6 +10,8 @@
 Across alternative archaeology, revisionist history, and scientific philosophy, a major theme is the tendency of established academic institutions to enforce consensus models and aggressively marginalize dissenting empirical data (Thomas Kuhn's "paradigm paralysis"). Whether seen in the decades-long defense of the "Clovis-First" dogma in the Americas, the reluctance of Egyptologists to accept geological water-weathering on the Sphinx, or the resistance to the Younger Dryas comet impact hypothesis, this theme argues for open, interdisciplinary empiricism where anomalies are treated as gateways to discovery rather than threats to authority.
 
 ## Featured Works
+- [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]
+- [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
 - [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
 - [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]

@@ -673,3 +673,53 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 775 entity pages (777 total markdown files).
+
+---
+
+## [2026-11-22] ingest | Option H Sweep — Complete `BOOKS/EQ, Negotiation, Influence/` Ingestion (29 Works across 29 Files)
+
+- **Scope**: Completed full ingestion of `BOOKS/EQ, Negotiation, Influence/` (29 distinct PDFs totaling 9,574 pages; zero duplicates or skipped files).
+- **Ingested Works**:
+  - **Nassim Nicholas Taleb's Complete *Incerto* Pentad (5 works)**:
+    - [[fooled-by-randomness]] ([[nassim-nicholas-taleb]], 2001/2005, 356 pp.)
+    - [[the-black-swan]] ([[nassim-nicholas-taleb]], 2007/2010, 501 pp.)
+    - [[the-bed-of-procrustes]] ([[nassim-nicholas-taleb]], 2010, 90 pp.)
+    - [[antifragile]] ([[nassim-nicholas-taleb]], 2012, 638 pp.)
+    - [[skin-in-the-game]] ([[nassim-nicholas-taleb]], 2018, 318 pp.)
+  - **Malcolm Gladwell's Five-Book Behavioral Journalism Canon (5 works)**:
+    - [[the-tipping-point]] ([[malcolm-gladwell]], 2000, 287 pp.)
+    - [[blink-power-of-thinking-without-thinking]] ([[malcolm-gladwell]], 2005, 337 pp.)
+    - [[outliers-story-of-success]] ([[malcolm-gladwell]], 2008, 324 pp.)
+    - [[what-the-dog-saw]] ([[malcolm-gladwell]], 2009, 283 pp.)
+    - [[david-and-goliath]] ([[malcolm-gladwell]], 2013, 241 pp.)
+  - **Classical Stoicism Five-Book Canon (5 works)**:
+    - [[letters-from-a-stoic]] ([[seneca]], [[robin-campbell]], 1969, 256 pp.)
+    - [[meditations-marcus-aurelius]] ([[marcus-aurelius]], [[gregory-hays]], 2002, 307 pp.)
+    - [[epictetus-stoic-and-socratic-guide]] ([[a-a-long]], 2002, 325 pp.)
+    - [[seneca-the-life-of-a-stoic]] ([[paul-veyne]], 2003, 204 pp.)
+    - [[the-wisdom-of-the-stoics]] ([[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]], 1984, 186 pp.)
+  - **Machiavelli & Robert Greene Power, Strategy & Mastery Canon (4 works)**:
+    - [[the-prince-machiavelli]] ([[niccolo-machiavelli]], [[harvey-c-mansfield]], 1532/1998, 140 pp.)
+    - [[the-33-strategies-of-war]] ([[robert-greene]], 2006, 643 pp.)
+    - [[mastery-robert-greene]] ([[robert-greene]], 2012, 392 pp.)
+    - [[the-laws-of-human-nature]] ([[robert-greene]], 2018, 690 pp.)
+  - **EQ, Persuasion, Negotiation, Rhetoric, Boundaries & Intentional Life Design (10 works)**:
+    - [[emotional-intelligence]] ([[daniel-goleman]], 1995, 661 pp.)
+    - [[influence-the-psychology-of-persuasion]] ([[robert-b-cialdini]], 1984/2007, 278 pp.)
+    - [[never-split-the-difference]] ([[chris-voss]], [[tahl-raz]], 2016, 375 pp.)
+    - [[how-to-win-friends-and-influence-people]] ([[dale-carnegie]], 1936/1981, 215 pp.)
+    - [[thank-you-for-arguing]] ([[jay-heinrichs]], 2007, 336 pp.)
+    - [[how-to-win-every-argument]] ([[madsen-pirie]], 2006, 196 pp.)
+    - [[the-art-of-manipulation]] ([[r-b-sparkman]], 1978, 181 pp.)
+    - [[boundaries-cloud-townsend]] ([[henry-cloud]], [[john-townsend]], 1992, 357 pp.)
+    - [[how-will-you-measure-your-life]] ([[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]], 2012, 156 pp.)
+    - [[disrupt-you]] ([[jay-samit]], [[reid-hoffman]], 2015, 301 pp.)
+- **Entity Pages Created / Updated**:
+  - **Books**: 29 new pages created (total: 263)
+  - **Authors**: 26 new author profiles created + 2 existing updated ([[clayton-m-christensen]], [[reid-hoffman]]): [[nassim-nicholas-taleb]], [[malcolm-gladwell]], [[seneca]], [[robin-campbell]], [[marcus-aurelius]], [[gregory-hays]], [[a-a-long]], [[paul-veyne]], [[frances-hazlitt]], [[henry-hazlitt]], [[niccolo-machiavelli]], [[harvey-c-mansfield]], [[robert-greene]], [[daniel-goleman]], [[robert-b-cialdini]], [[chris-voss]], [[tahl-raz]], [[dale-carnegie]], [[jay-heinrichs]], [[madsen-pirie]], [[r-b-sparkman]], [[henry-cloud]], [[john-townsend]], [[james-allworth]], [[karen-dillon]], [[jay-samit]] (total: 408)
+  - **Genres**: 3 new genre indices created ([[stoic-philosophy-and-practical-ethics]], [[persuasion-negotiation-and-rhetoric]], [[behavioral-science-risk-and-antifragility]]) and 18 existing genres updated (total: 77)
+  - **Themes**: 4 new thematic syntheses created ([[antifragility-black-swans-and-skin-in-the-game]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[power-realism-social-contagion-and-intentional-life-design]]) and 19 existing themes updated (total: 89)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 837 entity pages (839 total markdown files).

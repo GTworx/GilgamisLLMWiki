@@ -18,6 +18,9 @@ Synthesizing internal boardroom counseling ([[influencing-leaders]]), external a
 ---
 
 ## Featured Works
+- [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
+- [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
+- [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
 - [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
 - [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
 - [[spin-selling]] (1988) — [[neil-rackham]]

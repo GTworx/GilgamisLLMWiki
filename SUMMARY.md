@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 234 distinct intellectual works (across 268 source files/volumes and ~78,000+ pages)
-- **Total Generated Wiki Pages**: 777 interlinked markdown files (775 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 263 distinct intellectual works (across 297 source files/volumes and ~88,000+ pages)
+- **Total Generated Wiki Pages**: 839 interlinked markdown files (837 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 234 ([books/](wiki/books/))
-- **Author Profile Pages**: 382 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 74 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 85 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 263 ([books/](wiki/books/))
+- **Author Profile Pages**: 408 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 77 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 89 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -517,3 +517,64 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Silicon Valley career-strategy playbook introducing Permanent Beta, ABZ adaptive planning, competitive advantage alignment, and network intelligence.
 234. **[[pivot-alan-zimmerman]]** ([[alan-r-zimmerman]], 2006, 194 pp.)  
      Behavioral-attitude and workplace communication guide outlining a three-stage pivot from negativity and worry toward self-discipline and constructive leadership.
+
+### Category O: Option H — EQ, Negotiation, Persuasion, Stoicism, Taleb's *Incerto*, Gladwell & Power Realism (`BOOKS/EQ, Negotiation, Influence/` — 29 Works across 29 Files)
+
+235. **[[fooled-by-randomness]]** ([[nassim-nicholas-taleb]], 2001/2005, 356 pp.)  
+     *Incerto* opener exposing survivorship bias, alternative histories, skewness blowups, and why markets routinely mistake luck for skill.
+236. **[[the-black-swan]]** ([[nassim-nicholas-taleb]], 2007/2010, Penguin, 501 pp.)  
+     Defines Black Swan outliers, Extremistan vs. Mediocristan, the Ludic and Narrative fallacies, and barbell protection against catastrophic tail risk.
+237. **[[the-bed-of-procrustes]]** ([[nassim-nicholas-taleb]], 2010, Random House, 90 pp.)  
+     Aphoristic distillation of the *Incerto* attacking Procrustean modern metrics and celebrating erudition, honor, and Stoic dignity.
+238. **[[antifragile]]** ([[nassim-nicholas-taleb]], 2012, Random House, 638 pp.)  
+     Introduces antifragility—systems that gain from volatility—via convexity, barbell optionality, via negativa subtraction, and the Lindy Effect.
+239. **[[skin-in-the-game]]** ([[nassim-nicholas-taleb]], 2018, Random House, 318 pp.)  
+     Elevates symmetric downside exposure, ergodicity, ruin avoidance, and the Minority Rule into core laws of ethics and systemic learning.
+240. **[[the-tipping-point]]** ([[malcolm-gladwell]], 2000, Little, Brown, 287 pp.)  
+     Epidemiological framework explaining cultural contagion through the Law of the Few (Connectors, Mavens, Salesmen), Stickiness, and Power of Context.
+241. **[[blink-power-of-thinking-without-thinking]]** ([[malcolm-gladwell]], 2005, Little, Brown, 337 pp.)  
+     Examines rapid cognition, thin-slicing intuition, frugal diagnostic heuristics, and structural defenses against unconscious implicit bias.
+242. **[[outliers-story-of-success]]** ([[malcolm-gladwell]], 2008, Little, Brown, 324 pp.)  
+     Demystifies extraordinary achievement through the Matthew Effect, 10,000 hours of deliberate practice, generational timing, and cultural legacies.
+243. **[[what-the-dog-saw]]** ([[malcolm-gladwell]], 2009, Little, Brown, 283 pp.)  
+     Nineteen *New Yorker* essays contrasting puzzles vs. mysteries and profiling minor geniuses including Nassim Taleb (*Blowing Up*) and Cesar Millan.
+244. **[[david-and-goliath]]** ([[malcolm-gladwell]], 2013, Little, Brown, 241 pp.)  
+     Reframes asymmetric underdog victories via inverted-U curves, desirable difficulties, Big Fish–Little Pond psychology, and limits of coercive power.
+245. **[[letters-from-a-stoic]]** ([[seneca]], tr. [[robin-campbell]], 1969, Penguin Classics, 256 pp.)  
+     Seneca's intimate *Epistulae Morales* guiding Lucilius in time stewardship, voluntary discomfort, human brotherhood, and calm mortality.
+246. **[[meditations-marcus-aurelius]]** ([[marcus-aurelius]], tr. [[gregory-hays]], 2002, Modern Library, 307 pp.)  
+     Emperor Marcus Aurelius's private wartime Danube notebook practicing the Inner Citadel, duty to the common good, and reframing obstacles.
+247. **[[epictetus-stoic-and-socratic-guide]]** ([[a-a-long]], 2002, Oxford Clarendon Press, 325 pp.)  
+     Definitive study of Epictetus's fusion of Socratic dialectic and Stoic *prohairesis* centered on the Dichotomy of Control.
+248. **[[seneca-the-life-of-a-stoic]]** ([[paul-veyne]], 2003, Routledge, 204 pp.)  
+     Unsentimental Collège de France biography illuminating how Seneca practiced Stoicism inside Nero's brutal imperial court until his 65 CE death.
+249. **[[the-wisdom-of-the-stoics]]** ([[frances-hazlitt]] & [[henry-hazlitt]], eds., 1984, Univ. Press of America, 186 pp.)  
+     Compact anthology uniting Seneca, Epictetus's complete *Enchiridion*, and Marcus Aurelius into one practical Stoic handbook.
+250. **[[the-prince-machiavelli]]** ([[niccolo-machiavelli]], tr. [[harvey-c-mansfield]], 1532/1998, Univ. of Chicago Press, 140 pp.)  
+     Foundational treatise of political realism analyzing *virtù* vs. *fortuna*, citizen arms, the lion and the fox, and state preservation.
+251. **[[the-33-strategies-of-war]]** ([[robert-greene]], 2006, Viking, 643 pp.)  
+     Distills three millennia of military history into thirty-three self-directed, organizational, defensive, offensive, and unconventional conflict strategies.
+252. **[[mastery-robert-greene]]** ([[robert-greene]], 2012, Viking, 392 pp.)  
+     Six-stage apprenticeship blueprint drawing on historical and modern masters to turn calling, observation, and mentorship into dimensional creativity.
+253. **[[the-laws-of-human-nature]]** ([[robert-greene]], 2018, Viking, 690 pp.)  
+     Eighteen-law psychological taxonomy diagnosing irrationality, narcissism, envy, and conformity to foster self-command and realistic empathy.
+254. **[[emotional-intelligence]]** ([[daniel-goleman]], 1995, Bantam, 661 pp.)  
+     Landmark synthesis of affective neuroscience and psychology establishing self-awareness, self-regulation, motivation, empathy, and social skill.
+255. **[[influence-the-psychology-of-persuasion]]** ([[robert-b-cialdini]], 1984/2007, HarperBusiness, 278 pp.)  
+     Experimental and undercover anatomy of six universal compliance triggers: Reciprocation, Commitment/Consistency, Social Proof, Liking, Authority, and Scarcity.
+256. **[[never-split-the-difference]]** ([[chris-voss]] & [[tahl-raz]], 2016, HarperBusiness, 375 pp.)  
+     FBI crisis-negotiation playbook mastering tactical empathy, mirroring, labeling, calibrated questions, Ackerman bargaining, and negotiation Black Swans.
+257. **[[how-to-win-friends-and-influence-people]]** ([[dale-carnegie]], 1936/1981, 215 pp.)  
+     Timeless human-relations classic built on genuine appreciation, attentive listening, face-saving leadership, and framing ideas around others' interests.
+258. **[[thank-you-for-arguing]]** ([[jay-heinrichs]], 2007, Three Rivers Press, 336 pp.)  
+     Witty revival of Aristotelian ethos, pathos, logos, kairos, and deliberative rhetoric for everyday persuasion.
+259. **[[how-to-win-every-argument]]** ([[madsen-pirie]], 2006, Continuum, 196 pp.)  
+     Alphabetical field guide to nearly eighty classical and modern logical fallacies for both rhetorical offense and cognitive self-defense.
+260. **[[the-art-of-manipulation]]** ([[r-b-sparkman]], 1978, The Dial Press, 181 pp.)  
+     Street-level 1970s sales and bargaining manual profiling manipulator archetypes and everyday interpersonal leverage mechanics.
+261. **[[boundaries-cloud-townsend]]** ([[henry-cloud]] & [[john-townsend]], 1992, Zondervan, 357 pp.)  
+     Clinical-psychology guide to the Ten Laws of Boundaries, distinguishing healthy responsibility from guilt-driven compliance and enmeshment.
+262. **[[how-will-you-measure-your-life]]** ([[clayton-m-christensen]], [[james-allworth]], & [[karen-dillon]], 2012, HarperBusiness, 156 pp.)  
+     Applies resource-allocation strategy, Jobs to Be Done, and the 100% Rule to career fulfillment, enduring family love, and moral integrity.
+263. **[[disrupt-you]]** ([[jay-samit]], Foreword by [[reid-hoffman]], 2015, Flatiron Books, 301 pp.)  
+     Entrepreneurial self-transformation playbook teaching readers to spot industry friction, build a Brand of One, and unlock value-chain disruption.

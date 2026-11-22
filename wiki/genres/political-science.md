@@ -15,6 +15,9 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
+- [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
+- [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
 - [[the-wealth-of-nations]] (1776) — [[adam-smith]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]

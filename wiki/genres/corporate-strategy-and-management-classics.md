@@ -14,6 +14,8 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
+- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]

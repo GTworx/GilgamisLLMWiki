@@ -14,6 +14,8 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[emotional-intelligence]] (1995) — [[daniel-goleman]]
+- [[blink-power-of-thinking-without-thinking]] (2005) — [[malcolm-gladwell]]
 - [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[brain-teasers-211-logic-puzzles]] (2009) — [[ian-livingstone]], [[jamie-thomson]]
 - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]

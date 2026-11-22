@@ -15,6 +15,10 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 ---
 
 ## Books in Wiki
+- [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
+- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
+- [[david-and-goliath]] (2013) — [[malcolm-gladwell]]
+- [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
 - [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]

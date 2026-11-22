@@ -13,6 +13,9 @@ In [[probabilistic-artificial-intelligence]] (2025), ETH Zurich professors [[and
 ---
 
 ## Featured Works
+- [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
+- [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
+- [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
 - [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
 - [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]

@@ -14,6 +14,7 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 ---
 
 ## Books in Wiki
+- [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
 - [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]

@@ -14,6 +14,15 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
+- [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
+- [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
+- [[the-wisdom-of-the-stoics]] (1984) — [[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]]
+- [[epictetus-stoic-and-socratic-guide]] (2002) — [[a-a-long]]
+- [[letters-from-a-stoic]] (1969) — [[seneca]], [[robin-campbell]]
+- [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
+- [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]
+- [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
 - [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
 - [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
 - [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]

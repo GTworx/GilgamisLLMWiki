@@ -13,6 +13,8 @@ Across the wiki, these frameworks reinforce [[james-e-lukaszewski]] and [[helio-
 ---
 
 ## Featured Works
+- [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
+- [[influence-the-psychology-of-persuasion]] (1984) — [[robert-b-cialdini]]
 - [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]
 - [[blueprints-for-a-saas-sales-organization]] (2018) — [[jacco-van-der-kooij]], [[fernando-pizarro]]
 - [[spin-selling]] (1988) — [[neil-rackham]]

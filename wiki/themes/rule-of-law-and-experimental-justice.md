@@ -13,6 +13,7 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Featured Works
+- [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
 - [[machines-like-me]] (2019) — [[ian-mcewan]]

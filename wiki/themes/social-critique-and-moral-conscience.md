@@ -20,6 +20,12 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
+- [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
+- [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
+- [[letters-from-a-stoic]] (1969) — [[seneca]], [[robin-campbell]]
+- [[outliers-story-of-success]] (2008) — [[malcolm-gladwell]]
+- [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
 - [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]

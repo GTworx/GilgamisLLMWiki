@@ -14,6 +14,10 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 ---
 
 ## Books in Wiki
+- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
+- [[the-wisdom-of-the-stoics]] (1984) — [[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]]
+- [[meditations-marcus-aurelius]] (2002) — [[marcus-aurelius]], [[gregory-hays]]
+- [[letters-from-a-stoic]] (1969) — [[seneca]], [[robin-campbell]]
 - [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
 - [[the-essential-rumi]] (1995) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
 - [[the-masnavi-whinfield]] (1898) — [[jalal-al-din-rumi]], [[edward-henry-whinfield]]

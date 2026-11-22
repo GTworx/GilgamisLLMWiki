@@ -14,6 +14,7 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 - [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]

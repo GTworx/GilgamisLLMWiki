@@ -30,6 +30,17 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[the-art-of-manipulation]] (1978) — [[r-b-sparkman]]
+- [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
+- [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
+- [[influence-the-psychology-of-persuasion]] (1984) — [[robert-b-cialdini]]
+- [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
+- [[the-wisdom-of-the-stoics]] (1984) — [[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]]
+- [[epictetus-stoic-and-socratic-guide]] (2002) — [[a-a-long]]
+- [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
+- [[blink-power-of-thinking-without-thinking]] (2005) — [[malcolm-gladwell]]
+- [[the-tipping-point]] (2000) — [[malcolm-gladwell]]
+- [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
 - [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]

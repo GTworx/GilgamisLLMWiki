@@ -2,7 +2,7 @@
 
 **Eras / Movements**: Disruptive Innovation Theory, Jobs-to-Be-Done & Public Sector Transformation
 **Primary Genres**: [[educational-technology-and-disruptive-pedagogy]], [[innovation-and-economic-growth]], [[organizational-psychology]], [[leadership-and-management]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ In [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-le
 ---
 
 ## Books in Wiki
+- [[how-will-you-measure-your-life]] (2012) — How Will You Measure Your Life?
 - [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008)
 - [[blended-using-disruptive-innovation-to-improve-schools]] (2015)
 

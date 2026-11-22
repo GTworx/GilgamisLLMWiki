@@ -14,6 +14,9 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[mastery-robert-greene]] (2012) — [[robert-greene]]
+- [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
+- [[epictetus-stoic-and-socratic-guide]] (2002) — [[a-a-long]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
 - [[reminiscences-of-a-stock-operator]] (1923) — [[edwin-lefevre]]
 - [[the-worldly-philosophers]] (1953) — [[robert-l-heilbroner]]

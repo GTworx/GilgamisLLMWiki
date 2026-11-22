@@ -26,6 +26,12 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
+- [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
+- [[the-wisdom-of-the-stoics]] (1984) — [[frances-hazlitt]], [[henry-hazlitt]], [[seneca]], [[marcus-aurelius]]
+- [[epictetus-stoic-and-socratic-guide]] (2002) — [[a-a-long]]
+- [[meditations-marcus-aurelius]] (2002) — [[marcus-aurelius]], [[gregory-hays]]
+- [[letters-from-a-stoic]] (1969) — [[seneca]], [[robin-campbell]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]
 - [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]

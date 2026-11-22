@@ -19,6 +19,15 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
+- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
+- [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
+- [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
+- [[emotional-intelligence]] (1995) — [[daniel-goleman]]
+- [[mastery-robert-greene]] (2012) — [[robert-greene]]
+- [[meditations-marcus-aurelius]] (2002) — [[marcus-aurelius]], [[gregory-hays]]
+- [[david-and-goliath]] (2013) — [[malcolm-gladwell]]
+- [[outliers-story-of-success]] (2008) — [[malcolm-gladwell]]
 - [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
 - [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]

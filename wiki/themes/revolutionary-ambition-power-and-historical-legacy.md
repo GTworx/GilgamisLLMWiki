@@ -13,6 +13,8 @@
 ---
 
 ## Featured Works
+- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
+- [[seneca-the-life-of-a-stoic]] (2003) — [[paul-veyne]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
 - [[the-worldly-philosophers]] (1953) — [[robert-l-heilbroner]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]

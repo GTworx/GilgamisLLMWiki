@@ -13,6 +13,7 @@ Silicon Valley entrepreneur, co-founder and executive chairman of LinkedIn, part
 ---
 
 ## Works in Wiki
+- [[disrupt-you]] (2015) — Disrupt You! (Foreword)
 - [[the-start-up-of-you]] (2012) — The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career
 
 ---

@@ -13,6 +13,8 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 ---
 
 ## Featured Works
+- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
+- [[mastery-robert-greene]] (2012) — [[robert-greene]]
 - [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
 - [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
 - [[the-math-hacker-book]] (2015) — [[paul-carson]]

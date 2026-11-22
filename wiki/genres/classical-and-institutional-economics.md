@@ -14,6 +14,8 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 ---
 
 ## Books in Wiki
+- [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
+- [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]

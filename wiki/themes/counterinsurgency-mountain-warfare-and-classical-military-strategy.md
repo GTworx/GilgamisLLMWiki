@@ -13,6 +13,7 @@ At the literary apex, [[leo-tolstoy]]'s [[hadji-murad]] exposes the human traged
 ---
 
 ## Featured Works
+- [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]

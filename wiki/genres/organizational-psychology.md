@@ -18,6 +18,13 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
+- [[emotional-intelligence]] (1995) — [[daniel-goleman]]
+- [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
+- [[mastery-robert-greene]] (2012) — [[robert-greene]]
+- [[outliers-story-of-success]] (2008) — [[malcolm-gladwell]]
+- [[blink-power-of-thinking-without-thinking]] (2005) — [[malcolm-gladwell]]
+- [[the-tipping-point]] (2000) — [[malcolm-gladwell]]
 - [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
 - [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]

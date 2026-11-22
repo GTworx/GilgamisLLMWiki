@@ -13,6 +13,7 @@ Historically anchored by [[david-wells]]'s 4,000-year survey [[the-penguin-book-
 ---
 
 ## Featured Works
+- [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
 - [[the-math-hacker-book]] (2015) — [[paul-carson]]
 - [[100-math-brainteasers]] (2014) — [[zbigniew-romanowicz]]
 - [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]

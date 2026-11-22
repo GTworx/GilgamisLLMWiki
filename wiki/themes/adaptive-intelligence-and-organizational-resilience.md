@@ -17,6 +17,12 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
+- [[emotional-intelligence]] (1995) — [[daniel-goleman]]
+- [[mastery-robert-greene]] (2012) — [[robert-greene]]
+- [[david-and-goliath]] (2013) — [[malcolm-gladwell]]
+- [[outliers-story-of-success]] (2008) — [[malcolm-gladwell]]
+- [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
 - [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
 - [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
 - [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]

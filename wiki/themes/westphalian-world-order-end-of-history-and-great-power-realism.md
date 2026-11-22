@@ -13,6 +13,7 @@ On the universalist-liberal pole, [[francis-fukuyama]]'s [[the-end-of-history-an
 ---
 
 ## Featured Works
+- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
 - [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
 - [[che-guevara-a-biography]] (2011) — [[richard-l-harris]]

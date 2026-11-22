@@ -13,6 +13,8 @@ Uniting [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[entertainment-scie
 ---
 
 ## Featured Works
+- [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
+- [[the-tipping-point]] (2000) — [[malcolm-gladwell]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
 - [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]
 - [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]

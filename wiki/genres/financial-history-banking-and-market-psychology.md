@@ -14,6 +14,7 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
 - [[reminiscences-of-a-stock-operator]] (1923) — [[edwin-lefevre]]

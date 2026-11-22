@@ -13,6 +13,7 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 ---
 
 ## Featured Works
+- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
