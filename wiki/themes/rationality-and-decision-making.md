@@ -30,6 +30,11 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
+- [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
+- [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
+- [[reminiscences-of-a-stock-operator]] (1923) — [[edwin-lefevre]]
+- [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]
 - [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
 - [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]
 - [[the-god-delusion]] (2006) — [[richard-dawkins]]

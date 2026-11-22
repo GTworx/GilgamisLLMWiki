@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[born-a-crime]] (2016) — [[trevor-noah]]
 - [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]

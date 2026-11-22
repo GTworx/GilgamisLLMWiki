@@ -28,6 +28,8 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[alternative-archaeology]]
 
 ## Books in Wiki
+- [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
+- [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[house-of-trump-house-of-putin]] (2018) — [[craig-unger]]
 - [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]

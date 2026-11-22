@@ -14,6 +14,8 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 ---
 
 ## Books in Wiki
+- [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
+- [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[the-digital-as-para-world]] (2011) — [[lane-denicola]]
 - [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]

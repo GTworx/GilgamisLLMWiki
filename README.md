@@ -81,18 +81,18 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 208 distinct intellectual works (across 242 source files/volumes and ~69,000+ pages)
-- **Total Maintained Wiki Pages**: 710 interlinked markdown documents (708 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 208 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 348 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 71 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 81 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 234 distinct intellectual works (across 268 source files/volumes and ~78,000+ pages)
+- **Total Maintained Wiki Pages**: 777 interlinked markdown documents (775 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 234 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 382 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 74 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 85 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
 ---
 
-## 📚 Recent & Featured Ingested Library Catalog (208 Total Works)
+## 📚 Recent & Featured Ingested Library Catalog (234 Total Works)
 
 | Year | Title | Author(s) | Primary Genres | Core Themes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -191,18 +191,19 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Game Theory/                         # Verified SHA-256 identical to raw/ (Axelrod & Deterrence in 21st Century)
 │   ├── BOOKS/Literature/                          # Ingested: All 23 files across 23 works (Tevfik Fikret, Tanpınar, Omar Khayyam x3, Tolstoy x2, Boccaccio, Mary Shelley, Ishiguro, McEwan, Stephenson, Osman Pamukoğlu x6, Ottoman philology & French readers)
 │   ├── BOOKS/Religion_/                           # Ingested: All 24 files across 17 distinct works (Fuat Sezgin 6-file compendium, Rumi & Shams x7, Hazleton, Foltz reviews, Muazzez İlmiye Çığ, Dawkins, Bloch, Dennett, Evans, Ruiz, Burpo)
+│   ├── BOOKS/Business Economy Finance/            # Ingested: All 26 files across 26 works (Adam Smith, Jevons, Simmel, Heilbroner, Schumacher, Acemoglu/Robinson, IMF Russia, Rothschilds, Credit Suisse Meltdown, Livermore, Collins x2, HBR x4, Cagan, Raymond, Facebook, Stata, Excel Scripts 2026, Hoffman EPUB)
 │   └── BOOKS/History_/, Philosophy..., ...        # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (710 markdown pages)
+├── wiki/                                          # Maintained knowledge base (777 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (208 pages)
-│   ├── authors/                                   # Author profile pages (348 pages)
-│   ├── genres/                                    # Genre index pages (71 pages)
-│   └── themes/                                    # Core thematic concept pages (81 pages)
+│   ├── books/                                     # Ingested book detail pages (234 pages)
+│   ├── authors/                                   # Author profile pages (382 pages)
+│   ├── genres/                                    # Genre index pages (74 pages)
+│   └── themes/                                    # Core thematic concept pages (85 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

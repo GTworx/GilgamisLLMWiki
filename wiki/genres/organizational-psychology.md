@@ -18,6 +18,12 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
+- [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
+- [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
+- [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]
+- [[good-to-great]] (2001) — [[jim-collins]]
+- [[built-to-last]] (1994) — [[jim-collins]], [[jerry-i-porras]]
 - [[stock-trading-strategy-3-book-bundle]] (2016) — [[tyler-yamazaki]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]

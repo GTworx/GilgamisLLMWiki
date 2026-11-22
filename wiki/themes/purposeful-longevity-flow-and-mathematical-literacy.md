@@ -13,6 +13,7 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 ---
 
 ## Featured Works
+- [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
 - [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
 - [[the-math-hacker-book]] (2015) — [[paul-carson]]
 - [[riddles-riddles-riddles]] (1953) — [[joseph-leeming]]

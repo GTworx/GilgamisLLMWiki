@@ -14,6 +14,9 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
+- [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
+- [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]
 - [[investing-for-dummies]] (2017) — [[eric-tyson]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]

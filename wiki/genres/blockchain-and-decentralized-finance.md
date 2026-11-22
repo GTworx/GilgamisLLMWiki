@@ -14,6 +14,7 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 ---
 
 ## Books in Wiki
+- [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]

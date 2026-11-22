@@ -13,6 +13,8 @@ Making the institutional and operational case, [[claudia-zeisberger]], [[michael
 ---
 
 ## Featured Works
+- [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
+- [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
 - [[financing-real-estate-investments-for-dummies]] (2009) — [[ralph-r-roberts]], [[chip-cummings]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]

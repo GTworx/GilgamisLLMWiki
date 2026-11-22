@@ -19,6 +19,14 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
+- [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
+- [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
+- [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
+- [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]
+- [[good-to-great]] (2001) — [[jim-collins]]
+- [[built-to-last]] (1994) — [[jim-collins]], [[jerry-i-porras]]
+- [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
 - [[inspiration-to-live-your-magic]] (2011) — [[larry-anderson]]
 - [[trump-the-art-of-the-deal]] (1987) — [[donald-j-trump]]
 - [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]

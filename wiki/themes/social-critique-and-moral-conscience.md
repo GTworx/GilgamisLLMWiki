@@ -20,6 +20,9 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
+- [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
+- [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]
 - [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
 - [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]

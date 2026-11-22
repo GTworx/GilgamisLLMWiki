@@ -14,6 +14,9 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
+- [[reminiscences-of-a-stock-operator]] (1923) — [[edwin-lefevre]]
+- [[the-worldly-philosophers]] (1953) — [[robert-l-heilbroner]]
 - [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
 - [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]

@@ -2,7 +2,7 @@
 
 **Eras / Movements**: Contemporary Organizational Behavior, Psychological Safety, and Teaming
 **Primary Genres**: [[organizational-psychology]], [[leadership-and-management]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,12 +15,17 @@ Edmondson pioneered the empirical construct of **team psychological safety**—d
 
 ## Books in Wiki
 - [[leading-for-tomorrow]] (2026, Chapter 20 contributor)
+- [[hbr-women-at-work-collection]] (2022, contributor on hybrid psychological safety)
+- [[hbr-at-100]] (2022, Chapter 29 contributor with Mark Mortensen)
 
 ---
 
 ## Recurring Themes
 - [[organizational-culture-and-rewilding]]
 - [[adaptive-intelligence-and-organizational-resilience]]
+- [[hbr-women-at-work-collection]]
+- [[hbr-at-100]]
+- [[platform-power-data-governance-and-career-adaptability]]
 - [[rationality-and-decision-making]]
 - [[cooperation-and-reciprocity]]
 

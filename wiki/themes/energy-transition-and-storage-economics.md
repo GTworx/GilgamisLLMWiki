@@ -13,6 +13,8 @@ In the wiki, [[berat-albayrak]]'s [[burasi-cok-onemli-enerjiden-ekonomiye-tam-ba
 ---
 
 ## Featured Works
+- [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
+- [[the-coal-question]] (1865) — [[william-stanley-jevons]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
 - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]

@@ -14,6 +14,7 @@ This genre spans the origin story of cloud CRM in [[marc-benioff]] & [[carlye-ad
 ---
 
 ## Books in Wiki
+- [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[snowflake-the-definitive-guide]] (2022) — [[joyce-kay-avila]]
 - [[state-of-it-asset-management-2022]] (2022) — [[flexera-research]]

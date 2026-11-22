@@ -14,6 +14,8 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
+- [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]

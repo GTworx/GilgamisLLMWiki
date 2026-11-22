@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 208 distinct intellectual works (across 242 source files/volumes and ~69,000+ pages)
-- **Total Generated Wiki Pages**: 710 interlinked markdown files (708 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 234 distinct intellectual works (across 268 source files/volumes and ~78,000+ pages)
+- **Total Generated Wiki Pages**: 777 interlinked markdown files (775 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 208 ([books/](wiki/books/))
-- **Author Profile Pages**: 348 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 71 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 81 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 234 ([books/](wiki/books/))
+- **Author Profile Pages**: 382 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 74 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 85 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -62,7 +62,7 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 14. **[[rapid-reculturing]]** ([[alex-bailey]] & [[kerri-oneill]], 2026, 302 pp.)  
     **Organizational Rewilding** across Four Pillars (**Human**, **Connect**, **Simplicity**, **Empowerment**), the five-step **HUMAN Model**, the **5-5-5 Coaching Conversation**, and human-centered AI workplace transformation.
 15. **[[leading-for-tomorrow]]** (eds. [[scott-barry-kaufman]] & [[chris-shipley]], Foreword by [[rita-mcgrath]], 2026, 355 pp.)  
-    26-chapter anthology uniting transient competitive advantage, humanistic self-transcendence, generative AI co-piloting, [[amy-c-edmondson]]'s **intelligent failure** & psychological safety, and [[jonathan-haidt]]'s institutional trust across the "Anxious Generation."
+    26-chapter anthology uniting transient competitive advantage, humanistic self-transcendence, generative AI co-piloting's **intelligent failure** & psychological safety, and [[jonathan-haidt]]'s institutional trust across the "Anxious Generation."
 16. **[[valuable-and-visible]]** ([[vanessa-errecarte]], 2026, 273 pp.)  
     **Service-First Personal Branding** and the **EPIC Method** (**E**stablish, **P**ackage, **I**nform, **C**ultivate); **TRUTH** positioning, **ABCs of Framework Creation**, **The FaceTime Effect**, and reframing expert silence as *"unintentional selfishness."*
 
@@ -462,3 +462,58 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Neo-Toltec spiritual-psychology guide anchored in Teotihuacan symbolism, diagnosing fear-driven social conditioning (*Dream of Hell*) and practical awareness exercises.
 208. **[[heaven-is-for-real]]** ([[todd-burpo]] & [[lynn-vincent]], 2010, Thomas Nelson, 150 pp.)  
      Bestselling Christian family memoir recounting four-year-old Colton Burpo's emergency surgery and subsequent afterlife testimony.
+
+### Category N: Option G — Classical & Institutional Economics, Corporate Strategy, HBR Classics, Banking History & Tech Platforms (`BOOKS/Business Economy Finance/` — 26 Works across 26 Files)
+
+209. **[[the-wealth-of-nations]]** ([[adam-smith]], 1776, ElecBook Classics, 1,280 pp.)  
+     Foundational treatise of classical political economy establishing division of labor, market coordination, anti-mercantilist critique, and canons of public finance.
+210. **[[the-coal-question]]** ([[william-stanley-jevons]], 1865/1866, Macmillan / Liberty Fund, 179 pp.)  
+     Pioneering resource-economics inquiry warning of British coal exhaustion and formulating the celebrated Jevons Paradox of energy efficiency rebound.
+211. **[[the-philosophy-of-money]]** ([[georg-simmel]] & [[david-frisby]], 1900/2004, Routledge 3rd Ed., 616 pp.)  
+     Sociological-philosophical masterwork analyzing how the money economy fosters personal freedom while flattening qualitative life into abstract urban calculation.
+212. **[[the-worldly-philosophers]]** ([[robert-l-heilbroner]], 1953/1999 7th Ed., Touchstone, 248 pp.)  
+     Iconic intellectual history of economic thinkers from Adam Smith, Malthus, Ricardo, and Marx to Veblen, Keynes, and Schumpeter.
+213. **[[small-is-beautiful]]** ([[e-f-schumacher]], 1973, 193 pp.)  
+     Manifesto of human-scale ecological economics championing natural-capital stewardship, Buddhist economics, and decentralized intermediate technology.
+214. **[[cagdas-kapitalizmin-mekansal-orgutlenmesi]]** ([[hakki-yirtici]], 2005/2009, İstanbul Bilgi Univ. Press, 206 pp.)  
+     Critical spatial-theory monograph analyzing global post-Fordist urbanism and big-box Istanbul hypermarket morphologies (Carrefour İçerenköy & Real Kartal).
+215. **[[why-nations-fail]]** ([[daron-acemoglu]] & [[james-a-robinson]], 2012, Crown, 533 pp.)  
+     Nobel-winning institutional theory proving that inclusive vs. extractive political and economic institutions—not geography or culture—govern national prosperity.
+216. **[[russia-rebounds]]** ([[david-owen]] & [[david-o-robinson]], eds., 2003, IMF, 190 pp.)  
+     Empirical macroeconomic and structural assessment of Russia's rapid post-1998 sovereign-default recovery, flat-tax overhaul, and banking bottlenecks.
+217. **[[reminiscences-of-a-stock-operator]]** ([[edwin-lefevre]], 1923, Sun Dial Press, 263 pp.)  
+     Timeless Wall Street classic chronicling Jesse Livermore's lessons in trend patience, cutting losses, liquidity, and speculative human psychology.
+218. **[[la-saga-des-rothschild]]** ([[tristan-gaston-breton]], 2017, Éditions Tallandier, 326 pp.)  
+     Pan-European 250-year history uniting all five historic Rothschild banking houses alongside family cohesion, women leaders, and cultural patronage.
+219. **[[meltdown-credit-suisse]]** ([[duncan-mavin]], 2024, Macmillan Business, 300 pp.)  
+     Investigative post-mortem tracing Credit Suisse's March 2023 collapse back to four decades of governance breakdown, Spygate, Greensill, and Archegos.
+220. **[[venture-capital-a-practical-guide]]** ([[hambleton-lord]] & [[christopher-mirabile]], 2018, Seraf LLC, 174 pp.)  
+     Hands-on operational handbook covering VC fund thesis design, LP fundraising, legal/accounting structures, carried-interest waterfalls, and cap-table modeling.
+221. **[[financial-intelligence-for-managers]]** ([[karen-berman]], [[joe-knight]], & [[john-case]], 2013 2nd Ed., HBR Press, 266 pp.)  
+     Executive guide demystifying income statements, balance sheets, cash flows, and ROI by exposing the managerial assumptions embedded in accounting numbers.
+222. **[[built-to-last]]** ([[jim-collins]] & [[jerry-i-porras]], 1994, HarperBusiness, 527 pp.)  
+     Six-year Stanford study of eighteen enduring visionary companies introducing clock-building, core ideology, BHAGs, and the Genius of the AND.
+223. **[[good-to-great]]** ([[jim-collins]], 2001, HarperBusiness, 334 pp.)  
+     Empirical corporate-transformation framework establishing Level 5 Leadership, First Who Then What, the Stockdale Paradox, the Hedgehog Concept, and the Flywheel.
+224. **[[hbr-10-must-reads-on-teams]]** ([[harvard-business-review-editorial]], 2013, HBR Press, 202 pp.)  
+     Curated anthology uniting Pentland's sociometric team science, Katzenbach & Smith's team discipline, Hackman's caveats, and Amabile's Power of Small Wins.
+225. **[[hbr-at-100]]** ([[harvard-business-review-editorial]] & [[adi-ignatius]], 2022, HBR Press, 462 pp.)  
+     Centenary collection of thirty defining HBR essays from Drucker, Porter, Christensen, and Goleman to Brynjolfsson, McAfee, Edmondson, and Davenport.
+226. **[[hbr-insights-future-of-business-boxed-set]]** ([[harvard-business-review-editorial]], 2020, HBR Press, 978 pp.)  
+     Eight-book executive omnibus spanning Strategic Analytics, AI, Cybersecurity, Tech Monopolies, Blockchain, Agile, Climate Change, and Customer Privacy.
+227. **[[hbr-women-at-work-collection]]** ([[harvard-business-review-editorial]] & [[amy-c-edmondson]], 2022, HBR Press, 172 pp.)  
+     Three-book omnibus (*Making Real Connections*, *Speak Up, Speak Out*, *You, the Leader*) addressing hybrid psychological safety, sponsorship, and inclusive leadership.
+228. **[[inspired-how-to-create-tech-products-customers-love]]** ([[marty-cagan]], 2018 2nd Ed., Wiley, 370 pp.)  
+     Definitive tech product-management playbook replacing waterfall feature factories with empowered teams practicing continuous discovery across four product risks.
+229. **[[the-cathedral-and-the-bazaar]]** ([[eric-steven-raymond]], 1997/1999, 40 pp.)  
+     Foundational open-source manifesto contrasting centralized software cathedrals with distributed Linux-style bazaars governed by Linus's Law.
+230. **[[an-ugly-truth-inside-facebook]]** ([[sheera-frenkel]] & [[cecilia-kang]], 2021, Harper, 258 pp.)  
+     Investigative chronicle of Facebook's executive clash between growth-at-all-costs engagement economics, Russian disinformation, Cambridge Analytica, and civic harm.
+231. **[[market-research-process-data-methods-stata]]** ([[erik-mooi]], [[marko-sarstedt]], & [[irma-mooi-reci]], 2018, Springer, 429 pp.)  
+     Graduate quantitative market-research textbook integrating research design, survey ethics, regression, factor analysis, and cluster segmentation in Stata.
+232. **[[microsoft-365-excel-office-scripts-for-dummies]]** ([[michael-alexander]], 2026, Wiley, 338 pp.)  
+     2026 technical manual automating cloud Excel spreadsheets using TypeScript-based Office Scripts and Microsoft Power Automate workflows.
+233. **[[the-start-up-of-you]]** ([[reid-hoffman]] & [[ben-casnocha]], 2012, Crown Business, 174 pp. EPUB)  
+     Silicon Valley career-strategy playbook introducing Permanent Beta, ABZ adaptive planning, competitive advantage alignment, and network intelligence.
+234. **[[pivot-alan-zimmerman]]** ([[alan-r-zimmerman]], 2006, 194 pp.)  
+     Behavioral-attitude and workplace communication guide outlining a three-stage pivot from negativity and worry toward self-discipline and constructive leadership.

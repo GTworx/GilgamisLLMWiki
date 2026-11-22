@@ -13,6 +13,8 @@
 ---
 
 ## Featured Works
+- [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
+- [[the-worldly-philosophers]] (1953) — [[robert-l-heilbroner]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[the-last-man-volume-one]] (1826) — [[mary-shelley]]

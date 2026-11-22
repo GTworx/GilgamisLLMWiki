@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]

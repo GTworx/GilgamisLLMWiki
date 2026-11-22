@@ -13,6 +13,7 @@ Tracing the arc from [[marc-benioff]] & [[carlye-adler]]'s pioneering Land-and-E
 ---
 
 ## Featured Works
+- [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]
 - [[blueprints-for-a-saas-sales-organization]] (2018) — [[jacco-van-der-kooij]], [[fernando-pizarro]]

@@ -31,6 +31,7 @@ Contemporary leadership and mathematical social choice further expand the wiki's
 ---
 
 ## Featured Works
+- [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
 - [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]

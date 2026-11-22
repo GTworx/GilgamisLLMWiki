@@ -13,6 +13,7 @@ In [[probabilistic-artificial-intelligence]] (2025), ETH Zurich professors [[and
 ---
 
 ## Featured Works
+- [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
 - [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
 - [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]

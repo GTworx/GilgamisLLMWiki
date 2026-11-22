@@ -13,6 +13,7 @@ This theme connects [[marco-di-maggio]]'s analysis of Bitcoin, Ethereum, DeFi Au
 ---
 
 ## Featured Works
+- [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[internet-of-things-from-hype-to-reality]] (2019) — [[ammar-rayes]], [[samer-salam]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]

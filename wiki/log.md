@@ -225,7 +225,7 @@ This file provides an append-only historical audit log of all book ingestions, c
    - Updated `Source` metadata to reflect both `raw/Art/` and `BOOKS/Art/` and added cross-disciplinary thematic links to [[leading-for-tomorrow]], [[rapid-reculturing]], [[valuable-and-visible]], and [[service-first-branding-and-authentic-visibility]].
 
 ### 3. New & Updated Entity Pages
-- **14 New Author Pages Created**: [[james-e-lukaszewski]], [[helio-fred-garcia]], [[john-sanei]], [[alex-bailey]], [[kerri-oneill]], [[scott-barry-kaufman]], [[chris-shipley]], [[rita-mcgrath]], [[amy-c-edmondson]], [[jonathan-haidt]], [[vanessa-errecarte]], [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]].
+- **14 New Author Pages Created**: [[james-e-lukaszewski]], [[helio-fred-garcia]], [[john-sanei]], [[alex-bailey]], [[kerri-oneill]], [[scott-barry-kaufman]], [[chris-shipley]], [[rita-mcgrath]], [[jonathan-haidt]], [[vanessa-errecarte]], [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]].
 - **5 New Genre Pages Created & 4 Updated**: Created [[leadership-and-management]], [[organizational-psychology]], [[strategic-communication]], [[social-choice-theory]], [[algebraic-topology]]; updated [[game-theory]], [[political-science]], [[strategic-studies]], [[anthropology-of-consciousness]].
 - **6 New Theme Pages Created & 5 Updated**: Created [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]], [[human-centered-ai-and-augmented-leadership]], [[service-first-branding-and-authentic-visibility]], [[topological-social-choice-and-preference-cycles]]; updated [[rationality-and-decision-making]], [[cooperation-and-reciprocity]], [[evolution-of-strategies]], [[evolution-of-human-consciousness]], [[universal-love-and-human-dignity]].
 
@@ -540,7 +540,7 @@ This file provides an append-only historical audit log of all book ingestions, c
     - Synced `Source` metadata on [[the-evolution-of-cooperation]] (`e816ca61aebd`) and [[deterrence-in-the-21st-century]] (`91454a899444`).
 - **Entity Pages Created / Updated**:
   - **Books**: 28 new pages created + 2 existing pages synced (total: 168)
-  - **Authors**: 35 new author profiles created: [[unity-stoakes]], [[donald-j-trump]], [[troy-jackson]], [[richard-l-harris]], [[firoozeh-dumas]], [[mahatma-gandhi]], [[david-mclellan]], [[frank-mclynn]], [[trevor-noah]], [[malala-yousafzai]], [[christina-lamb]], [[larry-anderson]], [[conrad-carlberg]], [[vj-books-editorial]], [[ralph-r-roberts]], [[chip-cummings]], [[eric-tyson]], [[david-p-stowell]], [[ted-benna]], [[stephen-r-bucci]], [[melanie-bien]], [[julian-knight]], [[tony-levene]], [[paul-mladjenovic]], [[tyler-yamazaki]], [[zbigniew-romanowicz]], [[henry-ernest-dudeney]], [[martin-gardner]], [[ian-livingstone]], [[jamie-thomson]], [[presh-talwalkar]], [[joseph-leeming]], [[paul-carson]], [[david-wells]], [[gary-r-gruber]] (total: 293)
+  - **Authors**: 34 new author profiles created + 1 existing updated ([[amy-c-edmondson]]): [[unity-stoakes]], [[donald-j-trump]], [[troy-jackson]], [[richard-l-harris]], [[firoozeh-dumas]], [[mahatma-gandhi]], [[david-mclellan]], [[frank-mclynn]], [[trevor-noah]], [[malala-yousafzai]], [[christina-lamb]], [[larry-anderson]], [[conrad-carlberg]], [[vj-books-editorial]], [[ralph-r-roberts]], [[chip-cummings]], [[eric-tyson]], [[david-p-stowell]], [[ted-benna]], [[stephen-r-bucci]], [[melanie-bien]], [[julian-knight]], [[tony-levene]], [[paul-mladjenovic]], [[tyler-yamazaki]], [[zbigniew-romanowicz]], [[henry-ernest-dudeney]], [[martin-gardner]], [[ian-livingstone]], [[jamie-thomson]], [[presh-talwalkar]], [[joseph-leeming]], [[paul-carson]], [[david-wells]], [[gary-r-gruber]] (total: 293)
   - **Genres**: 3 new genre indices created ([[biography-memoir-and-intellectual-history]], [[personal-finance-investing-and-capital-markets]], [[recreational-mathematics-and-logic-puzzles]]) and 18 existing genres updated (total: 65)
   - **Themes**: 4 new thematic syntheses created ([[moral-courage-nonviolent-resistance-and-transformative-biography]], [[revolutionary-ambition-power-and-historical-legacy]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]]) and 16 existing themes updated (total: 73)
 - **Verification**:
@@ -627,3 +627,49 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 708 entity pages (710 total markdown files).
+
+---
+
+## [2026-11-22] ingest | Option G Sweep — Complete `BOOKS/Business Economy Finance/` Ingestion (26 Works across 26 Files)
+
+- **Scope**: Completed full ingestion of `BOOKS/Business Economy Finance/` (25 PDFs + 1 EPUB totaling 9,252 pages; 26 distinct works, zero duplicates or skipped files).
+- **Ingested Works**:
+  - **Classical, Institutional & Ecological Political Economy (8 works)**:
+    - [[the-wealth-of-nations]] ([[adam-smith]], 1776, 1,280 pp.)
+    - [[the-coal-question]] ([[william-stanley-jevons]], 1865/1866, 179 pp.)
+    - [[the-philosophy-of-money]] ([[georg-simmel]], [[david-frisby]], 1900/2004, 616 pp.)
+    - [[the-worldly-philosophers]] ([[robert-l-heilbroner]], 1953/1999 7th Ed., 248 pp.)
+    - [[small-is-beautiful]] ([[e-f-schumacher]], 1973, 193 pp.)
+    - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] ([[hakki-yirtici]], 2005/2009, 206 pp.)
+    - [[why-nations-fail]] ([[daron-acemoglu]], [[james-a-robinson]], 2012, 533 pp.)
+    - [[russia-rebounds]] ([[david-owen]], [[david-o-robinson]], 2003 IMF, 190 pp.)
+  - **Financial History, Banking, Venture Capital & Corporate Finance (5 works)**:
+    - [[reminiscences-of-a-stock-operator]] ([[edwin-lefevre]], 1923, 263 pp.)
+    - [[la-saga-des-rothschild]] ([[tristan-gaston-breton]], 2017, 326 pp.)
+    - [[meltdown-credit-suisse]] ([[duncan-mavin]], 2024, 300 pp.)
+    - [[venture-capital-a-practical-guide]] ([[hambleton-lord]], [[christopher-mirabile]], 2018, 174 pp.)
+    - [[financial-intelligence-for-managers]] ([[karen-berman]], [[joe-knight]], [[john-case]], 2013, 266 pp.)
+  - **Corporate Strategy, Management Canons & HBR Anthologies (6 works)**:
+    - [[built-to-last]] ([[jim-collins]], [[jerry-i-porras]], 1994, 527 pp.)
+    - [[good-to-great]] ([[jim-collins]], 2001, 334 pp.)
+    - [[hbr-10-must-reads-on-teams]] ([[harvard-business-review-editorial]], 2013, 202 pp.)
+    - [[hbr-at-100]] ([[harvard-business-review-editorial]], [[adi-ignatius]], 2022, 462 pp.)
+    - [[hbr-insights-future-of-business-boxed-set]] ([[harvard-business-review-editorial]], 2020, 978 pp.)
+    - [[hbr-women-at-work-collection]] ([[harvard-business-review-editorial]], [[amy-c-edmondson]], 2022, 172 pp.)
+  - **Tech Product Management, Open Source, Platform Accountability, Analytics & Career Strategy (7 works)**:
+    - [[inspired-how-to-create-tech-products-customers-love]] ([[marty-cagan]], 2018 2nd Ed., 370 pp.)
+    - [[the-cathedral-and-the-bazaar]] ([[eric-steven-raymond]], 1997/1999, 40 pp.)
+    - [[an-ugly-truth-inside-facebook]] ([[sheera-frenkel]], [[cecilia-kang]], 2021, 258 pp.)
+    - [[market-research-process-data-methods-stata]] ([[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]], 2018, 429 pp.)
+    - [[microsoft-365-excel-office-scripts-for-dummies]] ([[michael-alexander]], 2026, 338 pp.)
+    - [[the-start-up-of-you]] ([[reid-hoffman]], [[ben-casnocha]], 2012, 174 pp. EPUB)
+    - [[pivot-alan-zimmerman]] ([[alan-r-zimmerman]], 2006, 194 pp.)
+- **Entity Pages Created / Updated**:
+  - **Books**: 26 new pages created (total: 234)
+  - **Authors**: 34 new author profiles created + 1 existing updated ([[amy-c-edmondson]]): [[adam-smith]], [[william-stanley-jevons]], [[georg-simmel]], [[david-frisby]], [[robert-l-heilbroner]], [[e-f-schumacher]], [[hakki-yirtici]], [[daron-acemoglu]], [[james-a-robinson]], [[david-owen]], [[david-o-robinson]], [[edwin-lefevre]], [[tristan-gaston-breton]], [[duncan-mavin]], [[hambleton-lord]], [[christopher-mirabile]], [[karen-berman]], [[joe-knight]], [[john-case]], [[jim-collins]], [[jerry-i-porras]], [[harvard-business-review-editorial]], [[adi-ignatius]], [[marty-cagan]], [[eric-steven-raymond]], [[sheera-frenkel]], [[cecilia-kang]], [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]], [[michael-alexander]], [[reid-hoffman]], [[ben-casnocha]], [[alan-r-zimmerman]] (total: 382)
+  - **Genres**: 3 new genre indices created ([[classical-and-institutional-economics]], [[corporate-strategy-and-management-classics]], [[financial-history-banking-and-market-psychology]]) and 21 existing genres updated (total: 74)
+  - **Themes**: 4 new thematic syntheses created ([[inclusive-institutions-economic-thought-and-ecological-limits]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]], [[platform-power-data-governance-and-career-adaptability]]) and 24 existing themes updated (total: 85)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 775 entity pages (777 total markdown files).

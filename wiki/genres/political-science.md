@@ -15,6 +15,8 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
+- [[the-wealth-of-nations]] (1776) — [[adam-smith]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
 - [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
 - [[ey-vatan]] (2004) — [[osman-pamukoglu]]

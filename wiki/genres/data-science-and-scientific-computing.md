@@ -14,6 +14,8 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
+- [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
 - [[financial-analysis-using-excel]] (2002) — [[vj-books-editorial]]
 - [[excel-for-accountants]] (2007) — [[conrad-carlberg]]
 - [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]

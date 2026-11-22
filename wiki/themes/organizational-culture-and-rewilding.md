@@ -19,6 +19,10 @@ This rewilding framework converges directly with [[amy-c-edmondson]]'s work on *
 ---
 
 ## Featured Works
+- [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
+- [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]
+- [[good-to-great]] (2001) — [[jim-collins]]
+- [[built-to-last]] (1994) — [[jim-collins]], [[jerry-i-porras]]
 - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
 - [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
 - [[microservices-up-and-running]] (2021) — [[ronnie-mitra]], [[irakli-nadareishvili]]

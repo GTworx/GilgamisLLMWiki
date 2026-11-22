@@ -1,7 +1,7 @@
 # Theme: Trusted Strategic Advisors and Influence
 
 **Summary**: The behavioral, rhetorical, and psychological principles through which subject-matter experts transition from technical executors ("doers") into indispensable C-suite confidants who guide leaders through crisis, ambiguity, and high-stakes decisions.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -18,6 +18,7 @@ Synthesizing internal boardroom counseling ([[influencing-leaders]]), external a
 ---
 
 ## Featured Works
+- [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
 - [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
 - [[spin-selling]] (1988) — [[neil-rackham]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Defines the 14-chapter operating doctrine for becoming a trusted strategic advisor, including the "Language of Done," the "Single-Page Rule," and navigating the "No-Friendship Zone")

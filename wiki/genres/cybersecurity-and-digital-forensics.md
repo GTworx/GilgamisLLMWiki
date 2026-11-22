@@ -14,6 +14,8 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 ---
 
 ## Books in Wiki
+- [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
+- [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
 - [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
 - [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]

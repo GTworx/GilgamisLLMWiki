@@ -17,6 +17,14 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
+- [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
+- [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
+- [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
+- [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]
+- [[good-to-great]] (2001) — [[jim-collins]]
+- [[built-to-last]] (1994) — [[jim-collins]], [[jerry-i-porras]]
+- [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]

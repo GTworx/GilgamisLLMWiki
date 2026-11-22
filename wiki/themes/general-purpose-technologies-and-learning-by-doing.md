@@ -11,6 +11,9 @@
 ---
 
 ## Featured Works
+- [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
+- [[the-coal-question]] (1865) — [[william-stanley-jevons]]
+- [[the-wealth-of-nations]] (1776) — [[adam-smith]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]
 - [[the-diamond-age]] (1995) — [[neal-stephenson]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]

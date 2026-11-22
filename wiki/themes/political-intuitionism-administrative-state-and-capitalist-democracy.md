@@ -13,6 +13,9 @@ Starting from the constitutional baseline compiled by [[nick-ragone]] in [[us-de
 ---
 
 ## Featured Works
+- [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
+- [[the-worldly-philosophers]] (1953) — [[robert-l-heilbroner]]
+- [[the-wealth-of-nations]] (1776) — [[adam-smith]]
 - [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
 - [[karl-marx-a-biography]] (1973) — [[david-mclellan]]
 - [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]

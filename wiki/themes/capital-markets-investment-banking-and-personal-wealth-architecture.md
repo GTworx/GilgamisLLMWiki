@@ -13,6 +13,13 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 ---
 
 ## Featured Works
+- [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
+- [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
+- [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
+- [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
+- [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
+- [[reminiscences-of-a-stock-operator]] (1923) — [[edwin-lefevre]]
+- [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]
 - [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
 - [[investing-for-dummies]] (2017) — [[eric-tyson]]
 - [[stock-investing-for-dummies]] (2016) — [[paul-mladjenovic]]

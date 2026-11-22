@@ -14,6 +14,8 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 ---
 
 ## Books in Wiki
+- [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
+- [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]

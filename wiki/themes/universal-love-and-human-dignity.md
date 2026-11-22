@@ -26,6 +26,7 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[heaven-is-for-real]] (2010) — [[todd-burpo]], [[lynn-vincent]]
 - [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]

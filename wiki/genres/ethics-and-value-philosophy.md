@@ -14,6 +14,10 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[pivot-alan-zimmerman]] (2006) — [[alan-r-zimmerman]]
+- [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
+- [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]
+- [[the-wealth-of-nations]] (1776) — [[adam-smith]]
 - [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]
 - [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
 - [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]
