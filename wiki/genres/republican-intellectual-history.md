@@ -1,7 +1,7 @@
 # Genre: Republican Intellectual History
 
 **Summary**: The historiographical study of political, social, and cultural thought, philosophical movements, and educational reforms during the formative decades of the Turkish Republic (post-1923).  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-22
 
 ---
 
@@ -28,3 +28,6 @@ Republican intellectual history investigates the philosophical and institutional
 - [[archaeological-historiography]]
 - [[archaeology-and-national-identity]]
 - [[anatolian-civilizations]]
+
+## Books in Wiki
+- [[yorukler]] (1991) — [[mehmet-eroz]]

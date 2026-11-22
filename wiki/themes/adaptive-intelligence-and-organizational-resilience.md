@@ -17,6 +17,7 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
 - [[enterprise-cloud-for-dummies-nutanix-special-edition]] (2016) — [[scott-d-lowe]]

@@ -1,7 +1,7 @@
 # Theme: Âşık and Minstrel Tradition
 
 **Summary**: The oral, musical, and poetic heritage of the wandering Anatolian bard (*âşık / ozan*), acting as communal historian, cultural preserver, spiritual guide, and public conscience through the sacred instrument of the *bağlama*.  
-**Last updated**: 2026-09-12  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -21,6 +21,7 @@ His instrument (*saz*) is not merely musical entertainment, but a moral confidan
 ---
 
 ## Featured Works
+- [[yorukler]] (1991) — [[mehmet-eroz]]
 
 - [[asik-borani-soz-insanin-aynasi]] — Spans 60 years of contemporary minstrelcy, demonstrating how traditional oral forms adapt to 21st-century civic and technological realities.
 

@@ -2,7 +2,7 @@
 
 **Description**: The interdisciplinary field of study devoted to the relationship between political objectives, military power, coercion, deterrence, and international conflict resolution.  
 **Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]]  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,7 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 ---
 
 ## Books in Wiki
+- [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
 - [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]

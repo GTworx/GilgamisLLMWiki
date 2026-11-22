@@ -2,7 +2,7 @@
 
 **Description**: Empirical and regulatory analysis of public transit systems, automotive fuel-economy standards, and shared urban micromobility governance.
 **Key Themes**: [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ Featured in [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility
 ---
 
 ## Books in Wiki
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
 
 ---

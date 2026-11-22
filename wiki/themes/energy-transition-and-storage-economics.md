@@ -1,7 +1,7 @@
 # Theme: Energy Transition, Sovereign Supply Security, and Storage Economics
 
 **Summary**: Techno-economic and geopolitical strategies for decarbonizing power grids and transport via renewable energy, Levelized Cost of Storage (LCOS), EV batteries, and sovereign supply security.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ In the wiki, [[berat-albayrak]]'s [[burasi-cok-onemli-enerjiden-ekonomiye-tam-ba
 ---
 
 ## Featured Works
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
 - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]
 - [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]

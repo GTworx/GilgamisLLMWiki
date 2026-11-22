@@ -1,7 +1,7 @@
 # Theme: The Containment Problem, Omni-Use Proliferation, and AI Statecraft
 
 **Summary**: Why general-purpose technologies characterized by asymmetry, hyper-evolution, omni-use, and autonomy resist historical containment, amplifying nation-state fragility between the poles of catastrophe and surveillance dystopia.
-**Last updated**: 2026-11-03
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 ---
 
 ## Featured Works
+- [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
 
 ---

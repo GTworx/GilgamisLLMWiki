@@ -1,7 +1,7 @@
 # Theme: Evolution of Human Consciousness
 
 **Summary**: The study of the biological, neuropsychological, and cultural shifts that enabled abstract thought, symbolic language, visionary spirituality, neuroplastic adaptability, and self-transcendence in *Homo sapiens*.  
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 3. **Humanistic Self-Transcendence**: In [[leading-for-tomorrow]] (2026), humanistic psychologist [[scott-barry-kaufman]] and [[chris-shipley]] extend Abraham Maslow's late theory of **self-transcendence**, showing how mature leadership requires evolving from defensive ego-protection toward integrated wisdom, empathy, and service to the whole of humanity.
 
 ## Featured Works
+- [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
 
 - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] (2016) — [[eric-r-kandel]]

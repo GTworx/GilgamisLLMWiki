@@ -2,7 +2,7 @@
 
 **Description**: The subfield of biology that studies the evolutionary processes—natural selection, adaptation, speciation, and population genetics—that produced the diversity of life.  
 **Key Themes**: [[evolution-of-strategies]], [[cooperation-and-reciprocity]], [[shadow-of-the-future]]  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -15,6 +15,8 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 ---
 
 ## Books in Wiki
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
+- [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
 
 - [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
 - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]

@@ -17,6 +17,7 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 ---
 
 ## Featured Works
+- [[the-digital-as-para-world]] (2011) — [[lane-denicola]]
 - [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]
 - [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
 - [[introduction-to-artificial-intelligence]] (2017) — [[wolfgang-ertel]]

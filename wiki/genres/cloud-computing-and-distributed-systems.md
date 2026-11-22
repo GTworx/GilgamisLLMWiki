@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 ---
 
 ## Books in Wiki
+- [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
 - [[kubernetes-up-and-running]] (2022) — [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]]

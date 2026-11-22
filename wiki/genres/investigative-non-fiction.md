@@ -28,4 +28,5 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[alternative-archaeology]]
 
 ## Books in Wiki
+- [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[the-buyout-of-america]] (2009) — [[josh-kosman]]

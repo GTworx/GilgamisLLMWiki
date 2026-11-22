@@ -418,3 +418,48 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md`, updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard.html`, `wiki/dashboard_data.json`, and skill resources).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 413 entity pages (415 total markdown files).
+
+
+---
+
+## [2026-11-22T18:55:00+01:00] ingest | Option B: Medium Science & Humanities Sweep (`BOOKS/Anthropology_/`, `BOOKS/Physics/`, `BOOKS/Health Pharma/`, `BOOKS/Math/` — 24 Distinct Works across All 29 Source Files)
+
+- **Operation**: Complete multi-folder batch ingestion of all 29 source PDFs across four science and humanities libraries (`BOOKS/Anthropology_/` [6 files → 5 works], `BOOKS/Physics/` [11 files → 10 works], `BOOKS/Health Pharma/` [7 files → 5 works], and `BOOKS/Math/` [5 files → 4 works]) in `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\`. Totaling ~6,500+ pages across **24 distinct intellectual works** (including scanned-image transcription of Hugh Everett III's 1957 Princeton thesis, PyMuPDF extraction of Irodov's deep-page-tree physics problem book, and CP1254 Turkish glyph decoding revealing `Math/03_EGE.pdf` as Doğa Derneği's Aegean Key Biodiversity Areas chapter), this sweep grows the Gilgamis LLM Wiki from **100 → 124 books**.
+- **Ingested Works (24 Distinct Works across 29 Source Files)**:
+  - **Anthropology (6 files → 5 works)**:
+    - [[anthropology-why-it-matters]] ([[tim-ingold]], 2018) — `BOOKS/Anthropology_/Anthropology_Why_It_Matters_-_Tim_Ingold.pdf`
+    - [[digital-anthropology]] ([[heather-a-horst]], [[daniel-miller]], 2012) — `BOOKS/Anthropology_/Digital-Anthropology-edited-by-Heather-A.-Horst-and-Daniel-Miller.pdf` & `MillerHorst.2012.DigitaltheHumanDigitalAnthropology.pdf`
+    - [[the-digital-as-para-world]] ([[lane-denicola]], 2011) — `BOOKS/Anthropology_/denicola-in-clarke The Digital as Para-world.pdf`
+    - [[crypto-and-nft-philanthropy-afsp-case-study]] ([[the-giving-block]], 2022) — `BOOKS/Anthropology_/CASE STUDY-TGB-AFSP.pdf`
+    - [[yorukler]] ([[mehmet-eroz]], 1991) — `BOOKS/Anthropology_/Yorukler_Mehmet_Eroz.pdf`
+  - **Physics (11 files → 10 works)**:
+    - [[a-brief-history-of-time]] ([[stephen-hawking]], 1988) — `BOOKS/Physics/A Brief History of Time ( PDFDrive ).pdf`
+    - [[the-theory-of-everything-origin-and-fate-of-the-universe]] ([[stephen-hawking]], 2005) — `BOOKS/Physics/The Theory of Everything.pdf ( PDFDrive ).pdf`
+    - [[the-grand-design]] ([[stephen-hawking]], [[leonard-mlodinow]], 2010) — `BOOKS/Physics/The Grand Design ( PDFDrive ).pdf`
+    - [[brief-answers-to-the-big-questions]] ([[stephen-hawking]], 2018) — `BOOKS/Physics/Brief Answers to the Big Questions ( PDFDrive ).pdf`
+    - [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] ([[hugh-everett-iii]], 1957) — `BOOKS/Physics/Everett short thesis as defended.pdf`
+    - [[mind-matter-and-quantum-mechanics]] ([[henry-p-stapp]], 2009) — `BOOKS/Physics/Henry Stapp - Mind Matter and Quantum mechanics.pdf`
+    - [[quantum-mechanics-for-pedestrians]] ([[jochen-pade]], 2018) — `BOOKS/Physics/2018_Book_QuantumMechanicsForPedestrians I.pdf` & `2018_Book_QuantumMechanicsForPedestrians II.pdf`
+    - [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] ([[stephan-fackler]], 2015) — `BOOKS/Physics/Ulm notes_mathematical_found_Quantum Mechanics.pdf`
+    - [[mathematical-foundations-of-quantum-physics]] ([[adrian-stan]], [[monica-ramona-costache]], 2006) — `BOOKS/Physics/Adrian-Stan-2018 Mathematical Foundations of Quantum Physics.pdf`
+    - [[problems-in-general-physics]] ([[igor-yevgenyevich-irodov]], 1981) — `BOOKS/Physics/1981 Irodov-Problems_in_General_Physics.pdf`
+  - **Health & Pharma (7 files → 5 works)**:
+    - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] ([[stat-news-editorial]], 2026) — `BOOKS/Health Pharma/2026 STAT_Ebook_BeyondCancer_September2026.pdf`
+    - [[pharmaceutical-biotechnology-fundamentals-and-applications]] ([[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]], 2013) — `BOOKS/Health Pharma/2013_Book_PharmaceuticalBiotechnology.pdf`
+    - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] ([[cb-insights-research]], 2018) — `BOOKS/Health Pharma/CB-Insights_Amazon-Strategy-Healthcare.pdf`
+    - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] ([[hector-garcia]], [[francesc-miralles]], 2017) — `BOOKS/Health Pharma/Ikigai _ the Japanese secret to a long and happy life ( PDFDrive ).pdf`, `Ikigai _ the Japanese secret to a long and hap.pdf` (identical SHA-256 copy), & `ikigai- japonlarin uzun ve mutlu yasama sirri[dergicin.com].pdf` (Turkish ed.)
+    - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] ([[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]], 2013) — `BOOKS/Health Pharma/Parkinson-Hastaligi-Hasta-ve-Yakinlari-icin-El-Kitabi.pdf`
+  - **Math & Biodiversity (5 files → 4 works)**:
+    - [[calculus-one-and-several-variables]] ([[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]], 2007) — `BOOKS/Math/C A L C U L U S_ONE AND SEVERAL VARIABLES Artun.pdf`
+    - [[precalculus-openstax]] ([[jay-abramson]], 2017) — `BOOKS/Math/Precalculus-OP_9wwF7YT.pdf`
+    - [[501-math-word-problems-and-middle-school-math-challenges]] ([[learningexpress-editors]], [[alex-oconnor]], 2019) — `BOOKS/Math/MathWorldProblems.pdf` & `BOOKS/Math/8th Grade Math/8thGradeMathChallengeoftheWeekProblems.pdf`
+    - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] ([[doga-dernegi-researchers]], 2007) — `BOOKS/Math/03_EGE.pdf` (decoded `/MT<num>` CP1254 glyph encoding revealing Aegean Key Biodiversity Areas chapter)
+- **Entity Pages Created / Updated**:
+  - **Books**: 24 new pages created (total: 124)
+  - **Authors**: 33 new author profiles created: [[tim-ingold]], [[heather-a-horst]], [[daniel-miller]], [[lane-denicola]], [[mehmet-eroz]], [[the-giving-block]], [[stephen-hawking]], [[leonard-mlodinow]], [[hugh-everett-iii]], [[henry-p-stapp]], [[jochen-pade]], [[stephan-fackler]], [[adrian-stan]], [[monica-ramona-costache]], [[igor-yevgenyevich-irodov]], [[stat-news-editorial]], [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]], [[cb-insights-research]], [[hector-garcia]], [[francesc-miralles]], [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]], [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]], [[jay-abramson]], [[learningexpress-editors]], [[alex-oconnor]], [[doga-dernegi-researchers]] (total: 231)
+  - **Genres**: 4 new genre indices created ([[cultural-and-digital-anthropology]], [[theoretical-physics-and-cosmology]], [[biotechnology-medicine-and-longevity]], [[pure-and-applied-mathematics]]) and 17 existing genres updated (total: 59)
+  - **Themes**: 5 new thematic syntheses created ([[quantum-foundations-measurement-and-many-worlds]], [[cosmology-black-holes-and-the-arrow-of-time]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[purposeful-longevity-flow-and-mathematical-literacy]]) and 20 existing themes updated (total: 65)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 479 entity pages (481 total markdown files).

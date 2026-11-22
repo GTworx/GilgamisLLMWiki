@@ -11,6 +11,10 @@
 ---
 
 ## Featured Works
+- [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
+- [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
+- [[the-digital-as-para-world]] (2011) — [[lane-denicola]]
+- [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]
 - [[enterprise-cloud-for-dummies-nutanix-special-edition]] (2016) — [[scott-d-lowe]]
 - [[iaas-for-dummies-oracle-special-edition]] (2018) — [[lawrence-c-miller]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]

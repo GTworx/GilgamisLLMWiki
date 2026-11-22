@@ -14,6 +14,12 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
+- [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
+- [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
+- [[a-brief-history-of-time]] (1988) — [[stephen-hawking]]
+- [[the-digital-as-para-world]] (2011) — [[lane-denicola]]
+- [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
 - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]

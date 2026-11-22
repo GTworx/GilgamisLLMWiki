@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 100 distinct intellectual works (across 117 source files/volumes and ~31,000+ pages)
-- **Total Generated Wiki Pages**: 415 interlinked markdown files (413 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 124 distinct intellectual works (across 146 source files/volumes and ~37,500+ pages)
+- **Total Generated Wiki Pages**: 481 interlinked markdown files (479 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 100 ([books/](wiki/books/))
-- **Author Profile Pages**: 198 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 55 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 60 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 124 ([books/](wiki/books/))
+- **Author Profile Pages**: 231 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 59 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 65 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -234,3 +234,53 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
     Visual value-creation playbook separating **Strategic Multiple-Expansion Levers** (buy-and-build M&A achieving 31.6% avg. IRR, strategic pricing, digital retooling) from **Operational EBITDA-Margin Levers**.
 100. **[[venture-capital-and-private-equity-mms-curriculum]]** ([[tushar-balkrishna-raut]], 2023, University of Mumbai IDOL, 131 pp.)  
      Eleven-unit graduate textbook integrating global VC/PE valuation, term sheets, and exits with **SEBI AIF regulations**, Indian Income Tax Act provisions, and developing-market fiduciary ethics.
+
+### Category I: Option B — Anthropology, Theoretical Physics, Health/Biotechnology & Mathematics (`BOOKS/Anthropology_/`, `BOOKS/Physics/`, `BOOKS/Health Pharma/`, `BOOKS/Math/` — 24 Works across 29 Source Files)
+101. **[[anthropology-why-it-matters]]** ([[tim-ingold]], 2018, Polity Press, 152 pp.)  
+     Manifesto redefining anthropology as *"philosophy with the people in"*—championing **participant observation as education**, **correspondence**, and **one-world biosocial becoming** over detached ethnographic data-mining.
+102. **[[digital-anthropology]]** (eds. [[heather-a-horst]] & [[daniel-miller]], 2012, Berg / Bloomsbury, 327 pp. + 27 pp. Ch. 1 offprint)  
+     Foundational 14-chapter anthology establishing **Six Principles of Digital Anthropology**, proving the digital intensifies **materiality**, **polymedia**, and cultural particularity rather than erasing humanity.
+103. **[[the-digital-as-para-world]]** ([[lane-denicola]], 2011, in Clarke's *Design Anthropology*, 19 pp.)  
+     Ethnographic critique of pervasive computing, RFID, and spatial UI framing digital infrastructure as a **para-world** entangled with physical design, privacy, and socio-technical norms.
+104. **[[crypto-and-nft-philanthropy-afsp-case-study]]** ([[the-giving-block]], 2022, 6 pp.)  
+     Nonprofit fundraising case study detailing how the American Foundation for Suicide Prevention diversified millennial/Gen-Z donor streams via tax-advantaged cryptocurrency and NFT campaigns.
+105. **[[yorukler]]** ([[mehmet-eroz]], 1991, Türk Dünyası Araştırmaları Vakfı, 459 pp.)  
+     Landmark Turkish historical-ethnographic treatise tracing **Yörük** and **Türkmen** nomadic pastoral tribes from Central Asian Oghuz origins through Ottoman *iskan* settlement policies, transhumant material culture, and Anatolian folkways.
+106. **[[a-brief-history-of-time]]** ([[stephen-hawking]], 1988, Bantam, 127 pp.)  
+     Iconic cosmological synthesis unifying Big Bang singularity theorems, spacetime light cones, quantum uncertainty, **Hawking radiation**, **imaginary time / no-boundary proposal**, and the three **arrows of time**.
+107. **[[the-theory-of-everything-origin-and-fate-of-the-universe]]** ([[stephen-hawking]], 2005, Jaico / Phoenix, 120 pp.)  
+     Seven Cambridge public lectures distilling relativistic cosmology, expanding-universe geometry, black hole entropy, primordial quantum fluctuations, and the pursuit of a unified **string / M-theory**.
+108. **[[the-grand-design]]** ([[stephen-hawking]] & [[leonard-mlodinow]], 2010, Bantam, 146 pp.)  
+     Proposes **Model-Dependent Realism**, **Feynman sum-over-histories** applied to the cosmos, and the **M-theory landscape** ($10^{500}$ vacua) to explain spontaneous cosmic creation from quantum gravity without external fine-tuning.
+109. **[[brief-answers-to-the-big-questions]]** ([[stephen-hawking]], 2018, Bantam, 240 pp.)  
+     Posthumous ten-question manifesto tackling cosmic origins, black holes, time travel, interstellar colonization, nuclear/climate perils, genetic engineering, and **superintelligent AI alignment**.
+110. **[[on-the-foundations-of-quantum-mechanics-relative-state-formulation]]** ([[hugh-everett-iii]], 1957, Princeton University Ph.D. Thesis, 36 pp. scanned)  
+     Original defended doctoral dissertation abolishing von Neumann's discontinuous wavefunction collapse via the **Universal Wave Function**, **Relative States**, and **observer memory-branching** (birth of the **Many-Worlds Interpretation**).
+111. **[[mind-matter-and-quantum-mechanics]]** ([[henry-p-stapp]], 2009, Springer 3rd Ed., 294 pp.)  
+     Integrates von Neumann–Heisenberg orthodox quantum mechanics (Process 1 probing choices + Process 2 Schrödinger evolution) and the **Quantum Zeno Effect** to construct a non-reductive neurophysical theory of conscious volition.
+112. **[[quantum-mechanics-for-pedestrians]]** ([[jochen-pade]], 2018, Springer 2nd Ed., 2 Vols., 1,112 pp.)  
+     Two-volume pedagogical tour de force bridging intuitive wave-particle physics with rigorous **Hilbert-space formalism**, **Bell's inequalities**, **decoherence**, **quantum entanglement**, and **quantum information/cryptography**.
+113. **[[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]]** ([[stephan-fackler]], 2015, Ulm University, 124 pp.)  
+     Rigorous functional-analytic lecture notes covering **unbounded self-adjoint operators**, **Stone's theorem**, the **Spectral Theorem**, **Kato–Rellich perturbation theory**, and **CCR / Weyl relations**.
+114. **[[mathematical-foundations-of-quantum-physics]]** ([[adrian-stan]] & [[monica-ramona-costache]], 2006, Han-sur-Lesse Winterschool, 134 pp.)  
+     Operator-algebraic introduction spanning **$C^*$-algebras**, **von Neumann algebras**, **GNS representation**, **quantum Markov semigroups**, and open quantum system dynamics.
+115. **[[problems-in-general-physics]]** ([[igor-yevgenyevich-irodov]], 1981, Mir Publishers Moscow, 402 pp.)  
+     Legendary 1,878-problem Soviet physics canon across classical mechanics, thermodynamics, electrodynamics, wave optics, and atomic/nuclear physics renowned for Olympiad and engineering mastery.
+116. **[[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]]** ([[stat-news-editorial]], 2026, STAT E-Book, 49 pp.)  
+     Investigative biotech briefing charting **CAR-T** cell therapies moving beyond oncology into severe autoimmune diseases (lupus, myasthenia gravis), **CRISPR** base/prime editing, and in-vivo gene-delivery economics.
+117. **[[pharmaceutical-biotechnology-fundamentals-and-applications]]** (eds. [[daan-j-a-crommelin]], [[robert-d-sindelar]], & [[bernd-meibohm]], 2013, Springer 4th Ed., 559 pp.)  
+     Authoritative 25-chapter textbook covering **recombinant DNA**, **monoclonal antibodies**, protein formulation/PK-PD, immunogenicity, **biosimilars**, vaccines, and regulatory chemistry, manufacturing, and controls (CMC).
+118. **[[amazon-in-healthcare-strategy-for-a-3-trillion-market]]** ([[cb-insights-research]], 2018, 67 pp.)  
+     Strategic teardown of Amazon's multi-front healthcare disruption spanning **PillPack** pharmacy logistics, B2B medical supplies, **Alexa** ambient voice health, **AWS** genomics cloud, and **Haven** employer-care experiments.
+119. **[[ikigai-the-japanese-secret-to-a-long-and-happy-life]]** ([[hector-garcia]] & [[francesc-miralles]], 2017, Penguin, 123 pp. + Turkish ed. 176 pp.)  
+     Field ethnography of **Ogimi (Okinawa)** centenarians uniting *hara hachi bu*, **moai** community support, **Csikszentmihalyi's flow**, Viktor Frankl's **logotherapy**, and micro-habit **antifragility** into ten rules of purposeful longevity.
+120. **[[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]]** ([[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], & [[ismail-zileli]], 2013, Türkiye Parkinson Hastalığı Derneği, 130 pp.)  
+     Compassionate Turkish clinical handbook covering nigrostriatal dopamine pathophysiology, motor/non-motor symptom management, **levodopa** & **deep brain stimulation (DBS)**, physical rehabilitation, and caregiver resilience.
+121. **[[calculus-one-and-several-variables]]** ([[saturnino-l-salas]], [[einar-hille]], & [[garret-j-etgen]], 2007, Wiley 10th Ed., 1,164 pp.)  
+     Rigorous university calculus treatise spanning $\varepsilon\text{–}\delta$ limits, single-variable differentiation/integration, infinite series, vector fields, partial derivatives, multiple integrals, and **Green's, Stokes', and Divergence theorems**.
+122. **[[precalculus-openstax]]** ([[jay-abramson]], 2017, OpenStax / Rice University, 1,226 pp.)  
+     Open-educational foundation building mastery across algebraic, polynomial, rational, exponential/logarithmic, and trigonometric functions, analytic geometry, matrices, combinatorics, and limits.
+123. **[[501-math-word-problems-and-middle-school-math-challenges]]** ([[learningexpress-editors]] & [[alex-oconnor]], 2003/2019, 2 Vols., 238 pp.)  
+     Applied mathematical-literacy compendium pairing 501 structured real-world arithmetic/algebra/geometry problems with 8th-grade weekly proof and creative problem-solving challenges.
+124. **[[turkiyenin-onemli-doga-alanlari-ege-bolgesi]]** ([[doga-dernegi-researchers]], 2007, Doğa Derneği, 80 pp., pp. 169–248)  
+     Conservation biodiversity inventory cataloging the **Aegean Region's Key Biodiversity Areas (ÖDA)**—including **Büyük Menderes Delta, Gediz Delta, Kaz Dağları, Gökova, and Babadağ**—with IUCN endemic flora/fauna thresholds and wetland threats (cataloged from `BOOKS/Math/03_EGE.pdf` via CP1254 glyph decoding).

@@ -1,7 +1,7 @@
 # Genre: Anatolian Civilizations
 
 **Summary**: The multidisciplinary study of the prehistoric, Bronze Age, Iron Age, and classical cultures that inhabited Anatolia (Asia Minor), emphasizing its role as the bridge and wellspring of world civilization.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-22
 
 ---
 
@@ -29,3 +29,7 @@ Anatolia represents one of the dense epicenters of human civilization, from the 
 - [[anatolian-humanism]]
 - [[archaeological-historiography]]
 - [[younger-dryas-impact-hypothesis]]
+
+## Books in Wiki
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
+- [[yorukler]] (1991) — [[mehmet-eroz]]

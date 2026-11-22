@@ -1,7 +1,7 @@
 # Theme: Archaeology and National Identity
 
 **Summary**: The utilization of archaeological excavations, museum curation, and historical historiography by state institutions to define national identity, foster civic solidarity, and construct modern cultural legitimacy.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-22
 
 ---
 
@@ -10,6 +10,8 @@
 Archaeology is rarely a detached academic pursuit; it frequently operates as an instrument of state-building and ideological identity. In the early Turkish Republic, Mustafa Kemal Atatürk transformed archaeology into a primary pillar of his modern, secular "Scientific Republic" (*Bilim Cumhuriyeti*). By excavating prehistoric and Bronze Age Anatolian sites (Alacahöyük, Ahlatlıbel) through the Turkish Historical Society (Türk Tarih Kurumu) and establishing the Faculty of Language, History, and Geography (DTCF), the Republic established that the modern Turkish nation was the rightful heir and steward of millennia of indigenous Anatolian civilizations (Hittite, Phrygian, Urartian, classical Ionian), rather than being solely bounded by Ottoman-Islamic dynasticism.
 
 ## Featured Works
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
+- [[yorukler]] (1991) — [[mehmet-eroz]]
 
 - [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
 - [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]

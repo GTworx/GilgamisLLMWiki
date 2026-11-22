@@ -1,7 +1,7 @@
 # Theme: Universal Love and Human Dignity
 
 **Summary**: The ontological and ethical principle that all human beings possess intrinsic dignity, that love (*sevgi*) is a foundational science for societal survival, and that artificial sectarian, racial, or national divisions must be rejected.  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-22
 
 ---
 
@@ -26,6 +26,10 @@ When cross-referenced with modern social science, game theory, and organizationa
 ---
 
 ## Featured Works
+- [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
+- [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
+- [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
+- [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]
 
 - [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
 - [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]

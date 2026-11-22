@@ -2,7 +2,7 @@
 
 **Description**: Study of cryptographic distributed ledgers, consensus protocols, smart contracts, decentralized financial markets, and permissioned enterprise networks.
 **Key Themes**: [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[human-centered-ai-and-augmented-leadership]], [[semiconductor-geopolitics-and-chokepoints]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 ---
 
 ## Books in Wiki
+- [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
 

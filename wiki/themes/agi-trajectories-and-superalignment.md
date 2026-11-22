@@ -1,7 +1,7 @@
 # Theme: AGI Trajectories, Intelligence Explosions, and Superalignment
 
 **Summary**: Quantitative scaling forecasts (Orders of Magnitude of compute, algorithmic efficiency, and agentic unhobbling), recursive AI R&D automation, and the technical and geopolitical challenges of aligning superhuman intelligence.
-**Last updated**: 2026-11-03
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ Across the Gilgamis LLM Wiki, [[leopold-aschenbrenner]]'s [[situational-awarenes
 ---
 
 ## Featured Works
+- [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
 - [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]

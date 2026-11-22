@@ -2,7 +2,7 @@
 
 **Description**: The scientific study of human behavior, motivation, psychological safety, neuroplasticity, and collective culture within workplaces and complex institutions.
 **Key Themes**: [[organizational-culture-and-rewilding]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]], [[evolution-of-human-consciousness]], [[universal-love-and-human-dignity]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -18,6 +18,7 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
 - [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] (2006) — [[frans-johansson]]
 - [[educational-technology-a-primer-for-the-21st-century]] (2019) — [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]]

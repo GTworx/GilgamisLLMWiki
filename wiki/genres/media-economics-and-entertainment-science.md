@@ -2,7 +2,7 @@
 
 **Description**: Econometric, managerial, and industrial-organization analysis of movies, music, games, publishing, and digital streaming platforms.
 **Key Themes**: [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]], [[service-first-branding-and-authentic-visibility]], [[general-purpose-technologies-and-learning-by-doing]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,8 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 ---
 
 ## Books in Wiki
+- [[the-digital-as-para-world]] (2011) — [[lane-denicola]]
+- [[digital-anthropology]] (2012) — [[heather-a-horst]], [[daniel-miller]]
 - [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]
 - [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
 - [[media-and-digital-management]] (2019) — [[eli-m-noam]]

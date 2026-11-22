@@ -1,7 +1,7 @@
 # Theme: Probabilistic Inference, Epistemic Uncertainty, and Safe Sequential Decision-Making
 
 **Summary**: Treating probability as the logic of uncertainty to decompose aleatoric noise from epistemic ignorance across Bayesian deep learning, Gaussian processes, active learning, clinical biostatistics, and safe reinforcement learning.
-**Last updated**: 2026-11-03
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,7 @@ In [[probabilistic-artificial-intelligence]] (2025), ETH Zurich professors [[and
 ---
 
 ## Featured Works
+- [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
 - [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] (2018) — [[sandro-skansi]]
 - [[probabilistic-artificial-intelligence]] (2025) — [[andreas-krause]], [[jonas-hubotter]]

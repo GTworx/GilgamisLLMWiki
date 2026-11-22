@@ -30,6 +30,17 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
+- [[precalculus-openstax]] (2017) — [[jay-abramson]]
+- [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]
+- [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
+- [[problems-in-general-physics]] (1981) — [[igor-yevgenyevich-irodov]]
+- [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] (2015) — [[stephan-fackler]]
+- [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
+- [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] (1957) — [[hugh-everett-iii]]
+- [[the-grand-design]] (2010) — [[stephen-hawking]], [[leonard-mlodinow]]
+- [[the-theory-of-everything-origin-and-fate-of-the-universe]] (2005) — [[stephen-hawking]]
+- [[a-brief-history-of-time]] (1988) — [[stephen-hawking]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
 - [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]

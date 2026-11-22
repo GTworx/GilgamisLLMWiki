@@ -2,7 +2,7 @@
 
 **Description**: Theoretical, algorithmic, architectural, and strategic foundations of symbolic AI, statistical machine learning, deep neural networks, large language models, and autonomous agentic systems.
 **Key Themes**: [[human-centered-ai-and-augmented-leadership]], [[agi-trajectories-and-superalignment]], [[adaptive-intelligence-and-organizational-resilience]]
-**Last updated**: 2026-11-03
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 ---
 
 ## Books in Wiki
+- [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
 - [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
 - [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] (2017) — [[laura-igual]], [[santi-segui]]

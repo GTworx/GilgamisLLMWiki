@@ -2,7 +2,7 @@
 
 **Description**: Biological, physical, and philosophical investigation of brain architecture, synaptic memory, visual perception of art, and the non-algorithmic nature of consciousness.
 **Key Themes**: [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]], [[human-performance-enhancement-and-neuro-warfare]], [[adaptive-intelligence-and-organizational-resilience]], [[altered-states-and-origin-of-art]], [[evolution-of-human-consciousness]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,10 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
+- [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
+- [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] (1957) — [[hugh-everett-iii]]
+- [[the-grand-design]] (2010) — [[stephen-hawking]], [[leonard-mlodinow]]
 - [[introduction-to-artificial-intelligence]] (2017) — [[wolfgang-ertel]]
 - [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] (2018) — [[sandro-skansi]]
 - [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] (2020) — [[michael-wooldridge]]

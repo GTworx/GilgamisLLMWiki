@@ -1,7 +1,7 @@
 # Theme: Student-Centric Disruption, Blended Learning, and Smart Pedagogy
 
 **Summary**: Replacing standardized factory-batch schooling with modular, competency-based blended learning models (Rotation, Flex, A La Carte, Enriched Virtual) and smart classrooms.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -13,6 +13,8 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Featured Works
+- [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
+- [[precalculus-openstax]] (2017) — [[jay-abramson]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
 - [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]
 - [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] (2008) — [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]]

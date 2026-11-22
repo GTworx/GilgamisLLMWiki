@@ -2,7 +2,7 @@
 
 **Description**: Research and design frameworks for transforming K–12 and higher education through student-centric online learning, blended models, and smart classrooms.
 **Key Themes**: [[student-centric-and-blended-learning]], [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]], [[metaphysics-of-quality-and-global-ethics]], [[institutional-neutrality-and-academic-freedom]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-22
 
 ---
 
@@ -14,6 +14,11 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Books in Wiki
+- [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
+- [[precalculus-openstax]] (2017) — [[jay-abramson]]
+- [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]
+- [[problems-in-general-physics]] (1981) — [[igor-yevgenyevich-irodov]]
+- [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] (2019) — [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]]
 - [[an-introduction-to-machine-learning]] (2017) — [[miroslav-kubat]]
 - [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]

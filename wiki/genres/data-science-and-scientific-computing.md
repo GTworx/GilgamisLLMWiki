@@ -14,6 +14,7 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]
 - [[architecting-data-intensive-saas-applications]] (2021) — [[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], [[dinesh-kulkarni]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
 - [[practical-fraud-prevention]] (2022) — [[gilit-saporta]], [[shoshana-maraney]]
