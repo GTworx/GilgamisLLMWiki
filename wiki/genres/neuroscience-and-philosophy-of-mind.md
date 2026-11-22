@@ -14,6 +14,7 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[psychology-of-perception]] (2016) — [[simon-grondin]]
 - [[bilimsel-bir-psikoloji-projesi-1895]] (1895) — [[sigmund-freud]], [[ibrahim-sahin-ates]]

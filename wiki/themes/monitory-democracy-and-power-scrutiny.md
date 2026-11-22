@@ -15,6 +15,7 @@ Coined by political theorist [[john-keane]] in [[the-life-and-death-of-democracy
 ---
 
 ## Featured Works
+- [[kazim-karabekir-anlatiyor]] (1990) — [[ugur-mumcu]]
 - [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]

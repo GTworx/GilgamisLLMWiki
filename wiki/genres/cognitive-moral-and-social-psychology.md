@@ -14,6 +14,11 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
+- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
+- [[deep-work]] (2016) — [[cal-newport]]
+- [[intentional-attention]] (2026) — [[justin-anderson]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]

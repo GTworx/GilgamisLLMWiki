@@ -14,6 +14,8 @@ In this wiki, the genre encompasses [[stephen-hawking]]'s cosmological quartet (
 ---
 
 ## Books in Wiki
+- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
+- [[tarihi-degistiren-bilginler]] (2008) — [[ali-cimen]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] (2015) — [[stephan-fackler]]

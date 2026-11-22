@@ -13,6 +13,10 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 ---
 
 ## Featured Works
+- [[tools-of-titans]] (2017) — [[timothy-ferriss]]
+- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
+- [[bir-omur-nasil-yasanir]] (2019) — [[ilber-ortayli]], [[yenal-bilgici]]
+- [[deep-work]] (2016) — [[cal-newport]]
 - [[a-guide-to-the-good-life-stoic-joy]] (2009) — [[william-b-irvine]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[mastery-robert-greene]] (2012) — [[robert-greene]]

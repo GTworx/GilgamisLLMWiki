@@ -15,6 +15,9 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[kazim-karabekir-hayatim]] (2008) — [[kazim-karabekir]]
+- [[ataturkun-not-defterleri]] (1996) — [[ali-mithat-inan]]
+- [[tarihi-degistiren-askerler]] (2007) — [[ali-cimen]]
 - [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
 - [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]

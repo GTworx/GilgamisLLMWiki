@@ -13,6 +13,9 @@
 ---
 
 ## Featured Works
+- [[the-great-ceo-within]] (2021) — [[matt-mochary]]
+- [[trillion-dollar-coach]] (2019) — [[eric-schmidt]], [[jonathan-rosenberg]], [[alan-eagle]]
+- [[high-output-management]] (1983) — [[andrew-s-grove]]
 - [[the-startup-playbook]] (2012) — [[david-s-kidder]], [[reid-hoffman]]
 - [[value-proposition-design]] (2014) — [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]]
 - [[the-lean-startup]] (2011) — [[eric-ries]]

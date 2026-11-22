@@ -14,6 +14,8 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 ---
 
 ## Books in Wiki
+- [[benim-pencerem]] (2022) — [[burak-dalgin]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
 - [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]

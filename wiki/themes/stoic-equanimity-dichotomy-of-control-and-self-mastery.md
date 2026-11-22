@@ -13,6 +13,11 @@
 ---
 
 ## Featured Works
+- [[the-7-habits-of-highly-effective-people]] (1989) — [[stephen-r-covey]]
+- [[ego-is-the-enemy]] (2016) — [[ryan-holiday]]
+- [[the-daily-stoic]] (2016) — [[ryan-holiday]], [[stephen-hanselman]]
+- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
+- [[bir-omur-nasil-yasanir]] (2019) — [[ilber-ortayli]], [[yenal-bilgici]]
 - [[the-tools-stutz-michels]] (2012) — [[phil-stutz]], [[barry-michels]]
 - [[the-untethered-soul]] (2007) — [[michael-a-singer]]
 - [[a-guide-to-the-good-life-stoic-joy]] (2009) — [[william-b-irvine]]

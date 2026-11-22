@@ -14,6 +14,10 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 ---
 
 ## Books in Wiki
+- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
+- [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
+- [[mehmet-akif]] (1987) — [[sezai-karakoc]]
+- [[99-yuz]] (2010) — [[cemal-sureya]]
 - [[finnegans-wake]] (1939) — [[james-joyce]]
 - [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]

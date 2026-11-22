@@ -13,6 +13,8 @@ At the literary apex, [[leo-tolstoy]]'s [[hadji-murad]] exposes the human traged
 ---
 
 ## Featured Works
+- [[ataturkun-not-defterleri]] (1996) — [[ali-mithat-inan]]
+- [[tarihi-degistiren-askerler]] (2007) — [[ali-cimen]]
 - [[psychology-of-terrorism-ncjrs]] (2004) — [[randy-borum]]
 - [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
 - [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]

@@ -15,6 +15,7 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[kazim-karabekir-anlatiyor]] (1990) — [[ugur-mumcu]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
 - [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]

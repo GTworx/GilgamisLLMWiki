@@ -14,6 +14,7 @@ In this wiki, the field spans primary Ottoman-script print ([[tevfik-fikret]]'s 
 ---
 
 ## Books in Wiki
+- [[sultan-cemin-portreleri-hakkinda]] (1973) — [[semavi-eyice]]
 - [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 - [[osmanli-turkcesi-metinleri-1]] (2012) — [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]]
 - [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]

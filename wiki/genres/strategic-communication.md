@@ -16,6 +16,8 @@ Together, these works establish that effective strategic communication is never 
 ---
 
 ## Books in Wiki
+- [[tarihi-degistiren-konusmalar]] (2005) — [[ali-cimen]]
+- [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]
 - [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
 - [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]

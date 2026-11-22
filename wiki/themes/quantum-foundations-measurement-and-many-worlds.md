@@ -13,6 +13,7 @@ On the formal side, [[jochen-pade]]'s [[quantum-mechanics-for-pedestrians]] buil
 ---
 
 ## Featured Works
+- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] (2015) — [[stephan-fackler]]
 - [[the-grand-design]] (2010) — [[stephen-hawking]], [[leonard-mlodinow]]

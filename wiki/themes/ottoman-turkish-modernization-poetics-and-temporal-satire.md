@@ -13,6 +13,11 @@ From the classical chronicles and archival hands taught in [[recep-ahishali]] et
 ---
 
 ## Featured Works
+- [[mehmet-akif]] (1987) — [[sezai-karakoc]]
+- [[kazim-karabekir-hayatim]] (2008) — [[kazim-karabekir]]
+- [[99-yuz]] (2010) — [[cemal-sureya]]
+- [[ataturk-hakkinda-hatiralar-ve-belgeler]] (2009) — [[afet-inan]], [[ari-inan]]
+- [[ataturk-bir-milletin-yeniden-dogusu]] (1994) — [[lord-kinross]], [[necdet-sander]]
 - [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
 - [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 - [[osmanli-turkcesi-metinleri-1]] (2012) — [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]]

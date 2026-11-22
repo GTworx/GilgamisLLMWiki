@@ -13,6 +13,8 @@ Anchored by [[fuat-sezgin]] and [[eckhard-neubauer]]'s six-file multi-volume cat
 ---
 
 ## Featured Works
+- [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
+- [[tarihi-degistiren-bilginler]] (2008) — [[ali-cimen]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]
 
 ---

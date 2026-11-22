@@ -14,6 +14,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
+- [[tools-of-titans]] (2017) — [[timothy-ferriss]]
 - [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]

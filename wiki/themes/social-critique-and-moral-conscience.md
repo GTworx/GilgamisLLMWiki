@@ -20,6 +20,8 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 ---
 
 ## Featured Works
+- [[99-yuz]] (2010) — [[cemal-sureya]]
+- [[ataturkun-usaginin-gizli-defteri]] (1971) — [[turhan-gurkan]], [[cemal-granda]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]

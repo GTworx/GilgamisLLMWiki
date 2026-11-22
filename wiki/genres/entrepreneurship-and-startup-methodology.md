@@ -14,6 +14,15 @@ In this wiki, the genre anchors the complete Silicon Valley intellectual arc: [[
 ---
 
 ## Books in Wiki
+- [[tools-of-titans]] (2017) — [[timothy-ferriss]]
+- [[starting-and-running-a-coaching-business]] (2009) — [[aryanne-oade]]
+- [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]] (2006) — [[uzeyir-garih]]
+- [[how-to-build-a-career-in-tech]] (2017) — [[product-hunt]], [[melissa-joy-kong]], [[niv-dror]]
+- [[the-great-ceo-within]] (2021) — [[matt-mochary]]
+- [[trillion-dollar-coach]] (2019) — [[eric-schmidt]], [[jonathan-rosenberg]], [[alan-eagle]]
+- [[so-good-they-cant-ignore-you]] (2012) — [[cal-newport]]
+- [[high-output-management]] (1983) — [[andrew-s-grove]]
+- [[the-mission-generation]] (2026) — [[arun-gupta]], [[thomas-j-fewer]]
 - [[how-to-start-a-startup-pragmatic-coders]] (2022) — [[wiktor-zolnowski]], [[pragmatic-coders]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]

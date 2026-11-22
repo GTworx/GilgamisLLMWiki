@@ -14,6 +14,7 @@ In the wiki, this genre encompasses [[robert-m-pirsig]]'s Chautauqua on the Meta
 ---
 
 ## Books in Wiki
+- [[lord-of-the-flies]] (1954) — [[william-golding]]
 - [[finnegans-wake]] (1939) — [[james-joyce]]
 - [[sophies-world]] (1991) — [[jostein-gaarder]]
 - [[machines-like-me]] (2019) — [[ian-mcewan]]

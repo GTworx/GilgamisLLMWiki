@@ -14,6 +14,7 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 ---
 
 ## Books in Wiki
+- [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
 - [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]

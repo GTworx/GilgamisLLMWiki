@@ -19,6 +19,9 @@ This rewilding framework converges directly with [[amy-c-edmondson]]'s work on *
 ---
 
 ## Featured Works
+- [[leaders-eat-last]] (2014) — [[simon-sinek]]
+- [[leadership-today]] (2017) — [[joan-marques]], [[satinder-dhiman]]
+- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
 - [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]

@@ -16,6 +16,7 @@ In [[valuable-and-visible]] (2026), [[vanessa-errecarte]] resolves this moral di
 ---
 
 ## Featured Works
+- [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]
 - [[trump-the-art-of-the-deal]] (1987) — [[donald-j-trump]]
 - [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]

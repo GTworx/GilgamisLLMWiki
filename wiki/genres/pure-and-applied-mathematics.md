@@ -14,6 +14,7 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
 - [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
 - [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
 - [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]

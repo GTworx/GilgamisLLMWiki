@@ -13,6 +13,8 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 ---
 
 ## Featured Works
+- [[entelektuelin-kutsal-kitabi-biyografiler]] (2013) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
+- [[tarihi-degistiren-bilginler]] (2008) — [[ali-cimen]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]

@@ -13,6 +13,8 @@ American serial entrepreneur, co-founder/CEO of Bionic and Clickable, co-author 
 ---
 
 ## Works in Wiki
+- [[entelektuelin-kutsal-kitabi-biyografiler]] (2013) — Entelektüelin Kutsal Kitabı: Biyografiler
+- [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — Entelektüelin Kutsal Kitabı: Modern Kültür
 - [[the-startup-playbook]] (2012) — The Startup Playbook: Secrets of the Fastest-Growing Startups from Their Founding Entrepreneurs
 
 ---

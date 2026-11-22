@@ -15,6 +15,7 @@ Through formal metrics (such as the Turkish syllabic *hece vezni* or free verse 
 ---
 
 ## Books in Wiki
+- [[mehmet-akif]] (1987) — [[sezai-karakoc]]
 - [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
 - [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
 - [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]

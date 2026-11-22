@@ -14,6 +14,7 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 ---
 
 ## Books in Wiki
+- [[lord-of-the-flies]] (1954) — [[william-golding]]
 - [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]

@@ -14,6 +14,7 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 ---
 
 ## Books in Wiki
+- [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
 - [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]
 - [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
 - [[the-tipping-point]] (2000) — [[malcolm-gladwell]]

@@ -17,6 +17,10 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 ---
 
 ## Featured Works
+- [[benim-pencerem]] (2022) — [[burak-dalgin]]
+- [[coaching-for-leadership]] (2006) — [[marshall-goldsmith]], [[laurence-s-lyons]]
+- [[the-mission-generation]] (2026) — [[arun-gupta]], [[thomas-j-fewer]]
+- [[intentional-attention]] (2026) — [[justin-anderson]]
 - [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
 - [[the-tools-stutz-michels]] (2012) — [[phil-stutz]], [[barry-michels]]
 - [[the-lean-startup]] (2011) — [[eric-ries]]

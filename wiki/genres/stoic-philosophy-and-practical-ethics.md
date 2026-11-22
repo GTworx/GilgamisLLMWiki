@@ -14,6 +14,8 @@ In this wiki, the genre gathers the complete Roman Stoic triad—[[seneca]]'s [[
 ---
 
 ## Books in Wiki
+- [[ego-is-the-enemy]] (2016) — [[ryan-holiday]]
+- [[the-daily-stoic]] (2016) — [[ryan-holiday]], [[stephen-hanselman]]
 - [[the-untethered-soul]] (2007) — [[michael-a-singer]]
 - [[a-guide-to-the-good-life-stoic-joy]] (2009) — [[william-b-irvine]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]

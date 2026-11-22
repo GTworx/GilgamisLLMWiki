@@ -81,12 +81,12 @@ The repository includes a standalone, browser-based user interface (`index.html`
 
 ## 📊 Knowledge Base Metrics
 
-- **Total Ingested Works**: 330 distinct intellectual works (across 370 source files/volumes and ~112,000+ pages)
-- **Total Maintained Wiki Pages**: 1,017 interlinked markdown documents (1,015 entity pages + `index.md` & `log.md`)
-- **Book Analyses**: 330 ([wiki/books/](wiki/books/))
-- **Author Profiles**: 507 ([wiki/authors/](wiki/authors/))
-- **Genre Indices**: 82 ([wiki/genres/](wiki/genres/))
-- **Thematic Syntheses**: 96 ([wiki/themes/](wiki/themes/))
+- **Total Ingested Works**: 376 distinct intellectual works (across 418 source files/volumes and ~131,000+ pages)
+- **Total Maintained Wiki Pages**: 1,122 interlinked markdown documents (1,120 entity pages + `index.md` & `log.md`)
+- **Book Analyses**: 376 ([wiki/books/](wiki/books/))
+- **Author Profiles**: 561 ([wiki/authors/](wiki/authors/))
+- **Genre Indices**: 84 ([wiki/genres/](wiki/genres/))
+- **Thematic Syntheses**: 99 ([wiki/themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken `[[...]]` links, 0 orphaned pages, 0 unindexed pages)
 - **Source Integrity**: Strict textual citations referencing exact source files and page numbers; source libraries (`BOOKS/`, `ARTICLES-REPORTS/`, and `raw/`) remain immutable and are excluded from GitHub synchronization via `.gitignore`.
 
@@ -193,18 +193,21 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Religion_/                           # Ingested: All 24 files across 17 distinct works (Fuat Sezgin 6-file compendium, Rumi & Shams x7, Hazleton, Foltz reviews, Muazzez İlmiye Çığ, Dawkins, Bloch, Dennett, Evans, Ruiz, Burpo)
 │   ├── BOOKS/Business Economy Finance/            # Ingested: All 26 files across 26 works (Adam Smith, Jevons, Simmel, Heilbroner, Schumacher, Acemoglu/Robinson, IMF Russia, Rothschilds, Credit Suisse Meltdown, Livermore, Collins x2, HBR x4, Cagan, Raymond, Facebook, Stata, Excel Scripts 2026, Hoffman EPUB)
 │   ├── BOOKS/EQ, Negotiation, Influence/          # Ingested: All 29 files across 29 works (Taleb Incerto x5, Gladwell x5, Stoics x5, Machiavelli, Robert Greene x3, Goleman, Cialdini, Voss, Carnegie, Heinrichs, Pirie, Sparkman, Cloud/Townsend, Christensen, Samit)
-│   └── BOOKS/History_/, Philosophy..., ...        # Remaining domain libraries (immutable, git-ignored)
+│   ├── BOOKS/Entrepreneurship_/                   # Ingested: All 31 files across 28 new works + 1 SHA-256 sync (Naval, Blitzscaling, Crossing the Chasm, Hooked, Start With Why, Horowitz, Christensen, Ries, Blank, Thiel, Shoe Dog, Venture Deals, etc.)
+│   ├── BOOKS/Philosophy Psychology Sociology/     # Ingested: All 42 files across 39 new works + 2 Sowell syncs + 1 Wiener dup (Plato, Augustine, Attar, Al-Ghazali, Popper, Schumpeter, Freud x2, Lacan x2, Joyce, Campbell, Wiener, Postman, Pinker, Haidt, Hoffman, etc.)
+│   ├── BOOKS/Leadership_/                         # Ingested: All 53 files (5 pre-ingested + 46 new works + 2 edition pairs; Grove x2, Kinross x2, Kahneman, Grant, Newport x2, Duhigg, Sinek, Schmidt/Campbell, Mochary, Covey, Holiday x2, Bohm, Ferriss, Golding, Atatürk primary cluster, Karabekir, Mumcu, Süreya, Ortaylı, Karakoç, Ali Çimen x4)
+│   └── BOOKS/History_/ & remaining articles       # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (839 markdown pages)
+├── wiki/                                          # Maintained knowledge base (1,122 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html                                 # Dashboard web application copy
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (263 pages)
-│   ├── authors/                                   # Author profile pages (408 pages)
-│   ├── genres/                                    # Genre index pages (77 pages)
-│   └── themes/                                    # Core thematic concept pages (89 pages)
+│   ├── books/                                     # Ingested book detail pages (376 pages)
+│   ├── authors/                                   # Author profile pages (561 pages)
+│   ├── genres/                                    # Genre index pages (84 pages)
+│   └── themes/                                    # Core thematic concept pages (99 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[psychology-of-perception]] (2016) — [[simon-grondin]]
 - [[the-undoing-project]] (2016) — [[michael-lewis]]

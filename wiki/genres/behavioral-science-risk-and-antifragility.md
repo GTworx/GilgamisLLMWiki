@@ -14,6 +14,9 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
+- [[you-are-a-badass]] (2013) — [[jen-sincero]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
+- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
 - [[the-undoing-project]] (2016) — [[michael-lewis]]
 - [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]

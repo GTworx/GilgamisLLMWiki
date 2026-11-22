@@ -13,6 +13,7 @@ Starting from [[adam-smith]]'s [[the-wealth-of-nations]] and narrated across gen
 ---
 
 ## Featured Works
+- [[benim-pencerem]] (2022) — [[burak-dalgin]]
 - [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
 - [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]

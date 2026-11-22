@@ -30,6 +30,7 @@ Republican intellectual history investigates the philosophical and institutional
 - [[anatolian-civilizations]]
 
 ## Books in Wiki
+- [[ataturk-hakkinda-hatiralar-ve-belgeler]] (2009) — [[afet-inan]], [[ari-inan]]
 - [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
 - [[ey-vatan]] (2004) — [[osman-pamukoglu]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]

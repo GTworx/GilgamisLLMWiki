@@ -13,6 +13,7 @@ Originating in [[geoffrey-a-moore]]'s [[crossing-the-chasm]] and codified exhaus
 ---
 
 ## Featured Works
+- [[so-good-they-cant-ignore-you]] (2012) — [[cal-newport]]
 - [[how-to-start-a-startup-pragmatic-coders]] (2022) — [[wiktor-zolnowski]], [[pragmatic-coders]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]

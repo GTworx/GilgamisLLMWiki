@@ -13,6 +13,7 @@ Across the wiki, these frameworks reinforce [[james-e-lukaszewski]] and [[helio-
 ---
 
 ## Featured Works
+- [[starting-and-running-a-coaching-business]] (2009) — [[aryanne-oade]]
 - [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]
 - [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
 - [[influence-the-psychology-of-persuasion]] (1984) — [[robert-b-cialdini]]

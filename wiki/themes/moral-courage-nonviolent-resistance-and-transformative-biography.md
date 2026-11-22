@@ -13,6 +13,9 @@ The philosophical root lies in [[mahatma-gandhi]]'s [[gandhi-my-experiments-with
 ---
 
 ## Featured Works
+- [[mehmet-akif]] (1987) — [[sezai-karakoc]]
+- [[tarihi-degistiren-liderler]] (2012) — [[ali-cimen]]
+- [[tarihi-degistiren-konusmalar]] (2005) — [[ali-cimen]]
 - [[shoe-dog]] (2016) — [[phil-knight]]
 - [[meditations-marcus-aurelius]] (2002) — [[marcus-aurelius]], [[gregory-hays]]
 - [[david-and-goliath]] (2013) — [[malcolm-gladwell]]

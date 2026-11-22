@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
 - [[how-societies-remember]] (1989) — [[paul-connerton]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]

@@ -13,6 +13,18 @@
 ---
 
 ## Featured Works
+- [[leadership-lessons-six-titans]] (2017) — [[will-peters]]
+- [[ego-is-the-enemy]] (2016) — [[ryan-holiday]]
+- [[entelektuelin-kutsal-kitabi-biyografiler]] (2013) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
+- [[sultan-cemin-portreleri-hakkinda]] (1973) — [[semavi-eyice]]
+- [[kazim-karabekir-anlatiyor]] (1990) — [[ugur-mumcu]]
+- [[kazim-karabekir-hayatim]] (2008) — [[kazim-karabekir]]
+- [[ataturkun-usaginin-gizli-defteri]] (1971) — [[turhan-gurkan]], [[cemal-granda]]
+- [[ataturkun-not-defterleri]] (1996) — [[ali-mithat-inan]]
+- [[ataturk-bir-milletin-yeniden-dogusu]] (1994) — [[lord-kinross]], [[necdet-sander]]
+- [[tarihi-degistiren-liderler]] (2012) — [[ali-cimen]]
+- [[tarihi-degistiren-konusmalar]] (2005) — [[ali-cimen]]
+- [[tarihi-degistiren-askerler]] (2007) — [[ali-cimen]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]

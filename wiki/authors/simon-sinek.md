@@ -13,6 +13,7 @@ British-American author, organizational consultant, and inspirational speaker (b
 ---
 
 ## Works in Wiki
+- [[leaders-eat-last]] (2014) — Leaders Eat Last: Why Some Teams Pull Together and Others Don't
 - [[start-with-why]] (2009) — Start With Why: How Great Leaders Inspire Everyone to Take Action
 
 ---

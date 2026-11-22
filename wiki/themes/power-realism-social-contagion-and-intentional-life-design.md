@@ -13,6 +13,11 @@ Starting from [[niccolo-machiavelli]]'s [[the-prince-machiavelli]] and expanded 
 ---
 
 ## Featured Works
+- [[law-of-attraction-secret-power]] (2014) — [[jenny-loveless]]
+- [[you-are-a-badass]] (2013) — [[jen-sincero]]
+- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
+- [[so-good-they-cant-ignore-you]] (2012) — [[cal-newport]]
+- [[the-mission-generation]] (2026) — [[arun-gupta]], [[thomas-j-fewer]]
 - [[think-like-an-entrepreneur-act-like-a-ceo]] (2016) — [[beverly-e-jones]]
 - [[shoe-dog]] (2016) — [[phil-knight]]
 - [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]

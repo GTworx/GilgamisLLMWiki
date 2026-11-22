@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
 - [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[the-devil-made-me-do-it-malevolent-creativity]] (2017) — [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]]

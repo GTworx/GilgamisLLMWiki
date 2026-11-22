@@ -18,6 +18,9 @@ Synthesizing internal boardroom counseling ([[influencing-leaders]]), external a
 ---
 
 ## Featured Works
+- [[starting-and-running-a-coaching-business]] (2009) — [[aryanne-oade]]
+- [[coaching-for-leadership]] (2006) — [[marshall-goldsmith]], [[laurence-s-lyons]]
+- [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]
 - [[crack-the-funding-code]] (2019) — [[judy-robinett]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
 - [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]

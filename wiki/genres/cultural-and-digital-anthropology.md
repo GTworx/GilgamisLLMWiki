@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
 - [[how-societies-remember]] (1989) — [[paul-connerton]]
 - [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]

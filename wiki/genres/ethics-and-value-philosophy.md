@@ -14,6 +14,7 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 ---
 
 ## Books in Wiki
+- [[the-7-habits-of-highly-effective-people]] (1989) — [[stephen-r-covey]]
 - [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[lying-sam-harris]] (2011) — [[sam-harris]]
 - [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]

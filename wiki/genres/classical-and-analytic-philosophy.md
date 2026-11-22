@@ -14,6 +14,9 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 ---
 
 ## Books in Wiki
+- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
+- [[the-daily-stoic]] (2016) — [[ryan-holiday]], [[stephen-hanselman]]
+- [[entelektuelin-kutsal-kitabi-biyografiler]] (2013) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]

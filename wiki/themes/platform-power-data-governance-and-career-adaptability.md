@@ -13,6 +13,8 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 ---
 
 ## Featured Works
+- [[how-to-build-a-career-in-tech]] (2017) — [[product-hunt]], [[melissa-joy-kong]], [[niv-dror]]
+- [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]
 - [[think-like-an-entrepreneur-act-like-a-ceo]] (2016) — [[beverly-e-jones]]
 - [[blitzscaling]] (2018) — [[reid-hoffman]], [[chris-yeh]]
 - [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]

@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, and alternative prehistory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 330 distinct intellectual works (across 370 source files/volumes and ~112,000+ pages)
-- **Total Generated Wiki Pages**: 1,017 interlinked markdown files (1,015 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 376 distinct intellectual works (across 418 source files/volumes and ~131,000+ pages)
+- **Total Generated Wiki Pages**: 1,122 interlinked markdown files (1,120 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 330 ([books/](wiki/books/))
-- **Author Profile Pages**: 507 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 82 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 96 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 376 ([books/](wiki/books/))
+- **Author Profile Pages**: 561 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 84 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 99 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -716,3 +716,98 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Experimental study proving that situational Press/priming exerts stronger influence than stable Dark Triad traits in eliciting malevolent creativity.
 330. **[[the-case-against-reality]]** ([[donald-d-hoffman]], 2019, W. W. Norton, 246 pp.)  
      Cognitive-evolutionary treatise proposing the Fitness-Beats-Truth Theorem, desktop Interface Theory of Perception, and Conscious Agent realism.
+
+
+### Category R: Option K Batch — Leadership, Executive Coaching, Cognitive/Habit Mastery & Turkish Republican Memoirs (`BOOKS/Leadership_/`, 53 Total Files: 5 Pre-Ingested + 46 New Canonical Works + 2 Edition Consolidations)
+331. **[[intentional-attention]]** ([[justin-anderson]], 2026, Wiley, 339 pp.)  
+     Sport-and-performance psychology blueprint introducing the Intentional Attention Framework and Personal Attentional Attribute Inventory to close the Cognitive Developmental Gap under pressure.
+332. **[[the-linkedin-playbook-for-employees]]** ([[james-cheo]], 2026, Wiley, 333 pp.)  
+     Employer-safe career-visibility manual turning corporate profiles into living résumés via the Three-Second Test, Positioning Venn Diagram, and disciplined editorial content pillars.
+333. **[[the-mission-generation]]** ([[arun-gupta]] & [[thomas-j-fewer]], 2026, Wiley, 273 pp.)  
+     Navigates five converging global disruptions by replacing obsolete stability bargains with the Six Compass Capitals (Financial, Mission, Trust, Health, Learning, Experience) and the Mission Flywheel.
+334. **[[give-and-take]]** ([[adam-grant]], 2013, Viking, 260 pp.)  
+     Empirical reciprocity study showing why "Otherish" Givers outperform Takers and Matchers at the top of the success ladder through network ripple effects, powerless communication, and burnout protection.
+335. **[[high-output-management]]** ([[andrew-s-grove]], 1983/1995, Vintage Books, 203 pp. & 739 pp. consolidated)  
+     Intel CEO's foundational Silicon Valley management treatise covering the Breakfast Factory production model, Managerial Leverage, 1:1s, OKRs, Dual Reporting, Task-Relevant Maturity, and boss-led training.
+336. **[[deep-work]]** ([[cal-newport]], 2016, Grand Central Publishing, 190 pp.)  
+     Defines distraction-free Deep Work vs. Shallow Work and establishes four behavioral rules—scheduling rituals, embracing boredom, craftsman tool selection, and draining the shallows.
+337. **[[so-good-they-cant-ignore-you]]** ([[cal-newport]], 2012, Business Plus, 771 pp.)  
+     Refutes the "follow your passion" dogma in favor of the Craftsman Mindset, building rare and valuable Career Capital via deliberate practice to earn autonomy, control, and adjacent-possible missions.
+338. **[[the-power-of-habit]]** ([[charles-duhigg]], 2012, Random House, 295 pp.)  
+     Synthesizes basal-ganglia neuroscience, the Cue–Routine–Reward Habit Loop, Keystone Habits (Paul O'Neill's Alcoa), predictive consumer analytics, and social-movement architecture.
+339. **[[coaching-for-leadership]]** (eds. [[marshall-goldsmith]] & [[laurence-s-lyons]], 2006 2nd Ed., Pfeiffer/Wiley, 284 pp.)  
+     Premier executive-coaching anthology assembling Feedforward, Pay-for-Results behavioral coaching, situational coaching, upward influence, and strategic organizational coaching.
+340. **[[thinking-fast-and-slow]]** ([[daniel-kahneman]], 2011, Farrar, Straus and Giroux, 533 pp.)  
+     Nobel laureate's magnum opus mapping System 1 vs. System 2 cognition, heuristics and biases, Reference Class Forecasting, Prospect Theory / Loss Aversion, and the Experiencing vs. Remembering Self.
+341. **[[trillion-dollar-coach]]** ([[eric-schmidt]], [[jonathan-rosenberg]], & [[alan-eagle]], 2019, HarperBusiness, 168 pp.)  
+     Codifies Silicon Valley legend Bill Campbell's servant-coaching playbook for Google, Apple, and Intuit leaders: operational rigor, the Envelope of Trust, Team First, and the Power of Love.
+342. **[[leadership-today]]** (eds. [[joan-marques]] & [[satinder-dhiman]], 2017, Springer, 412 pp.)  
+     Peer-reviewed anthology bridging soft-skill competencies, moral leadership, Richard Barrett's Seven Levels of Consciousness / Cultural Entropy, Buurtzorg self-management, and workplace mindfulness.
+343. **[[leaders-eat-last]]** ([[simon-sinek]], 2014, Portfolio/Penguin, 260 pp.)  
+     Translates E.D.S.O. neurochemistry and Cortisol into the organizational Circle of Safety, critiquing destructive short-term abstraction in favor of people-first servant leadership.
+344. **[[the-great-ceo-within]]** ([[matt-mochary]], 2021, Open-Source Edition, 135 pp.)  
+     Tactical copy-and-paste scaling manual for technical startup CEOs covering GTD, Zone of Genius, RAPID decisions, Impeccable Agreements, Conscious Leadership, Company Wikis, and Areas of Responsibility.
+345. **[[how-to-build-a-career-in-tech]]** ([[product-hunt]], [[melissa-joy-kong]], & [[niv-dror]], 2017, Product Hunt, 105 pp.)  
+     Distills hundreds of Product Hunt LIVE Q&As with tech founders and investors across startups vs. big tech, networking, mentorship, hiring, inclusion, engineering, product, and venture investing.
+346. **[[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]]** ([[uzeyir-garih]], 2006, Hayat Yayınları, 77 pp.)  
+     Alarko Holding co-founder's crisp industrial anecdotes and ethical counsel for young Turkish engineers emphasizing knowledge-as-capital, quality discipline, and constructive criticism.
+347. **[[tarihi-degistiren-askerler]]** ([[ali-cimen]], 2007, Timaş Yayınları, 341 pp.)  
+     Profiles twenty-nine history-shaping military commanders from Sun Tzu, Alexander, Hannibal, Alparslan, Saladin, and Mehmed II to Washington, Napoleon, Atatürk, Patton, and Zhukov.
+348. **[[tarihi-degistiren-bilginler]]** ([[ali-cimen]], 2008, Timaş Yayınları, 272 pp.)  
+     Thirty-seven accessible portraits of world scientists bridging Greek antiquity, Islamic Golden Age polymaths (Al-Khwarizmi, Ibn al-Haytham, Al-Biruni, Ibn Sina, Al-Jazari), and modern physics.
+349. **[[tarihi-degistiren-konusmalar]]** ([[ali-cimen]], 2005, Timaş Yayınları, 277 pp.)  
+     Curates and contextualizes forty-one watershed historical speeches from Socrates, Cicero, Alparslan, and Fatih to Lincoln, Atatürk, Gandhi, Churchill, MLK Jr., Mandela, and Alija Izetbegović.
+350. **[[tarihi-degistiren-liderler]]** ([[ali-cimen]], 2012/2014, Timaş Yayınları, 371 pp.)  
+     Comparative gallery of political statecraft, revolution, and nation-building rounding out Ali Çimen's four-volume *Tarihi Değiştiren...* biographical quartet.
+351. **[[ataturk-bir-milletin-yeniden-dogusu]]** ([[lord-kinross]], tr. [[necdet-sander]], 1964/1994, Altın Kitaplar, 699 pp. & 836 pp. consolidated)  
+     Landmark sixty-chapter international biography of Mustafa Kemal Atatürk spanning Ottoman decline, Gallipoli, the Anatolian War of Independence, Lausanne, and Republican modernization.
+352. **[[ataturk-hakkinda-hatiralar-ve-belgeler]]** ([[afet-inan]], ed. [[ari-inan]], 1959/2009, İş Bankası Kültür Yayınları, 536 pp.)  
+     Premier primary archive and eyewitness memoir documenting Atatürk's intellectual seminars, the Turkish Historical & Language Societies, women's full suffrage, and civic nation-building.
+353. **[[ataturkun-not-defterleri]]** ([[ali-mithat-inan]], 1996, Gündoğan Yayınları, 309 pp.)  
+     Archival transcription and psychological-historical analysis of Atatürk's personal pocket notebooks across Ottoman campaigns, Karlsbad diaries, and War of Independence front inspections.
+354. **[[ataturkun-usaginin-gizli-defteri]]** ([[turhan-gurkan]] & [[cemal-granda]], 1971, Fer Yayınları, 246 pp.)  
+     Intimate twelve-year domestic testimony of Atatürk's personal valet Cemal Granda humanizing "Citizen Mustafa Kemal" across Çankaya, Dolmabahçe, Florya, and the *Savarona*.
+355. **[[benim-pencerem]]** ([[burak-dalgin]], 2022, Open-Source Copyleft Edition, 213 pp.)  
+     162 Turkish essays across eight thematic "windows" synthesizing executive habits, private equity, strategy, algocracy/AI disruption, and data-driven Turkish economic reform.
+356. **[[99-yuz]]** ([[cemal-sureya]], 1991/2010, Yapı Kredi Yayınları, 607 pp.)  
+     Poet Cemal Süreya's epigrammatic literary gallery of over one hundred 1980s Turkish politicians, poets, industrialists, journalists, and artists—including portraits of Sezai Karakoç and Uğur Mumcu.
+357. **[[ibni-fadlan-seyahatnamesi]]** ([[ibn-fadlan]], tr. [[lutfi-dogan]], 922 CE/1954, 22 pp. scanned)  
+     Classic tenth-century Abbasid diplomatic travelogue providing foundational primary ethnography of the Oghuz Turks, Volga Bulgars, Khazars, and Viking Rus' ship-burial rites.
+358. **[[bir-omur-nasil-yasanir]]** ([[ilber-ortayli]] & [[yenal-bilgici]], 2019, Kronik Kitap, 292 pp. scanned)  
+     Extended humanist dialogue offering blunt, erudite life counsel on languages, libraries, slow cultural travel, urban literacy, mentorship, and dignified self-cultivation across life stages.
+359. **[[kazim-karabekir-hayatim]]** ([[kazim-karabekir]], 2008, Yapı Kredi Yayınları, 554 pp.)  
+     Richly detailed late-Ottoman autobiography of Eastern Front commander Kâzım Karabekir from Van, Erzurum, and Mecca childhood through Kuleli, Harbiye, and Salonika's revolutionary ferment.
+360. **[[kazim-karabekir-anlatiyor]]** ([[ugur-mumcu]], 1990, *Cumhuriyet* / um:ag, 395 pp.)  
+     Forensic documentary history examining the founding-era ideological and institutional rift between Mustafa Kemal Atatürk and Kâzım Karabekir across 1920–1926 parliamentary and army records.
+361. **[[sultan-cemin-portreleri-hakkinda]]** ([[semavi-eyice]], 1973, *TTK Belleten* XXXVII/145, 80 pp. scanned)  
+     Pioneering iconographic study critically cataloging Renaissance European paintings, frescoes (Pinturicchio), and woodcuts depicting exiled Ottoman prince Cem Sultan.
+362. **[[mehmet-akif]]** ([[sezai-karakoc]], 1968/1987, Diriliş Yayınları, 39 pp.)  
+     Concentrated biographical and literary monograph honoring *Safahat* poet Mehmet Akif Ersoy as a moral archetype of rooted civilizational renewal (*diriliş*) and incorruptible social realism.
+363. **[[entelektuelin-kutsal-kitabi-biyografiler]]** ([[david-s-kidder]] & [[noah-d-oppenheim]], tr. [[egemen-yilgur]], 2013, Maya Kitap, 1,036 pp.)  
+     365 structured daily world-history biographies spanning ancient Pharaohs, Greek and Islamic polymaths, Renaissance masters, and modern pioneers.
+364. **[[entelektuelin-kutsal-kitabi-modern-kultur]]** ([[david-s-kidder]] & [[noah-d-oppenheim]], tr. [[egemen-yilgur]], 2008/2014, Maya Kitap, 3,774 pp.)  
+     365 daily cultural essays mapping twentieth-century high modernism, cinema, jazz, ideology, science, sports, and mass media from Freud and Picasso to Oppenheimer and Brecht.
+365. **[[the-power-of-now]]** ([[eckhart-tolle]], 1997/2004, Hodder/New World Library, 124 two-page spreads scanned)  
+     Non-dual contemplative guide to disidentifying from the compulsive time-bound ego and Pain-Body, anchoring awareness in inner-body Presence and active Surrender.
+366. **[[you-are-a-badass]]** ([[jen-sincero]], 2013, Running Press, 689 pp.)  
+     Irreverent, action-oriented mindset handbook confronting "The Big Snooze" of subconscious limiting beliefs, scarcity guilt, and procrastination with "The Almighty Decision."
+367. **[[law-of-attraction-secret-power]]** ([[jenny-loveless]], 2014, Self-Published, 89 pp.)  
+     Concise New Thought primer contrasting "Living by Default" with intentional visualization, gratitude, detachment, goal-setting, and persistent real-world action.
+368. **[[lord-of-the-flies]]** ([[william-golding]], 1954, Faber and Faber, 251 pp.)  
+     Nobel laureate's harrowing allegorical novel dissecting democratic order (conch, Ralph, Piggy) vs. charismatic tribal demagoguery (Jack), deindividuation, and the inner "Beast."
+369. **[[review-math-and-the-mona-lisa]]** ([[kim-williams]], 2005, *Nexus Network Journal* 7(1), 4 pp.)  
+     Scholarly journal review appraising Bülent Atalay's bridge between Renaissance art and mathematical physics (Leonardo da Vinci, Fibonacci numbers, and the Golden Section).
+370. **[[the-daily-stoic]]** ([[ryan-holiday]] & [[stephen-hanselman]], 2016, Portfolio/Penguin, 406 pp.)  
+     366 daily translations and commentaries from Epictetus, Seneca, and Marcus Aurelius structured around Pierre Hadot's three Stoic disciplines of Perception, Action, and Will.
+371. **[[ego-is-the-enemy]]** ([[ryan-holiday]], 2016, Portfolio/Penguin, 168 pp.)  
+     Stoic-historical playbook combating hubris across Aspire, Success, and Failure via the Canvas Strategy, sobriety in victory, Alive Time vs. Dead Time, and an Inner Scorecard.
+372. **[[starting-and-running-a-coaching-business]]** ([[aryanne-oade]], 2009, How To Books Oxford, 145 pp.)  
+     Chartered Psychologist's operational blueprint for launching and governing an independent coaching practice—niche packaging, consultative sales, supervision, confidentiality, and finances.
+373. **[[the-7-habits-of-highly-effective-people]]** ([[stephen-r-covey]], 1989, Simon & Schuster, 172 pp.)  
+     Principle-centered Character Ethic classic progressing from Private Victory (Proactivity, End in Mind, Quadrant II) to Public Victory (Win/Win, Empathic Listening, Synergy) and Renewal.
+374. **[[the-essential-david-bohm]]** ([[david-bohm]], ed. [[lee-nichol]], 2003, Routledge, 360 pp.)  
+     Definitive reader uniting Bohm's causal quantum theory, holographic Implicate Order, Soma-Significance, critique of fragmented thought, and Bohmian Dialogue.
+375. **[[tools-of-titans]]** ([[timothy-ferriss]], 2017, Houghton Mifflin Harcourt, 509 pp.)  
+     Encyclopedic anthology of health, wealth, and Stoic wisdom protocols distilled from 200+ world-class performers—featuring Fear-Setting, skill stacking, and daily mindfulness rituals.
+376. **[[leadership-lessons-six-titans]]** ([[will-peters]], 2017, New Word City, 198 pp.)  
+     Comparative executive study of Warren Buffett, Walt Disney, Thomas Edison, Katharine Graham, Steve Jobs, and Ray Kroc contrasting temperament-matched risk, courage, and persistence.

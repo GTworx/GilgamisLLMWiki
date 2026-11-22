@@ -13,6 +13,12 @@
 ---
 
 ## Featured Works
+- [[leadership-lessons-six-titans]] (2017) — [[will-peters]]
+- [[tools-of-titans]] (2017) — [[timothy-ferriss]]
+- [[how-to-build-a-career-in-tech]] (2017) — [[product-hunt]], [[melissa-joy-kong]], [[niv-dror]]
+- [[the-great-ceo-within]] (2021) — [[matt-mochary]]
+- [[trillion-dollar-coach]] (2019) — [[eric-schmidt]], [[jonathan-rosenberg]], [[alan-eagle]]
+- [[high-output-management]] (1983) — [[andrew-s-grove]]
 - [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]

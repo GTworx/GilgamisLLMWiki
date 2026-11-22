@@ -14,6 +14,7 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 ---
 
 ## Books in Wiki
+- [[lord-of-the-flies]] (1954) — [[william-golding]]
 - [[the-hero-with-a-thousand-faces]] (1949) — [[joseph-campbell]]
 - [[finnegans-wake]] (1939) — [[james-joyce]]
 - [[sophies-world]] (1991) — [[jostein-gaarder]]

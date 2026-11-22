@@ -18,6 +18,10 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[leaders-eat-last]] (2014) — [[simon-sinek]]
+- [[leadership-today]] (2017) — [[joan-marques]], [[satinder-dhiman]]
+- [[coaching-for-leadership]] (2006) — [[marshall-goldsmith]], [[laurence-s-lyons]]
+- [[give-and-take]] (2013) — [[adam-grant]]
 - [[think-like-an-entrepreneur-act-like-a-ceo]] (2016) — [[beverly-e-jones]]
 - [[boundaries-cloud-townsend]] (1992) — [[henry-cloud]], [[john-townsend]]
 - [[emotional-intelligence]] (1995) — [[daniel-goleman]]

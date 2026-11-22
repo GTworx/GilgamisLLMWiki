@@ -13,6 +13,7 @@
 ---
 
 ## Featured Works
+- [[sultan-cemin-portreleri-hakkinda]] (1973) — [[semavi-eyice]]
 - [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
 - [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
 - [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]

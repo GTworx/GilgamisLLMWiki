@@ -30,6 +30,9 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 ---
 
 ## Featured Works
+- [[the-daily-stoic]] (2016) — [[ryan-holiday]], [[stephen-hanselman]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
+- [[intentional-attention]] (2026) — [[justin-anderson]]
 - [[the-devil-made-me-do-it-malevolent-creativity]] (2017) — [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]]
 - [[the-undoing-project]] (2016) — [[michael-lewis]]
 - [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]

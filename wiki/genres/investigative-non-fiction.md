@@ -28,6 +28,7 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[alternative-archaeology]]
 
 ## Books in Wiki
+- [[kazim-karabekir-anlatiyor]] (1990) — [[ugur-mumcu]]
 - [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]

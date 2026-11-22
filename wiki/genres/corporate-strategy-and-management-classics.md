@@ -14,6 +14,9 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[leadership-lessons-six-titans]] (2017) — [[will-peters]]
+- [[leaders-eat-last]] (2014) — [[simon-sinek]]
+- [[high-output-management]] (1983) — [[andrew-s-grove]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
 - [[value-proposition-design]] (2014) — [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]]

@@ -14,6 +14,7 @@ Within this wiki, the secular-evolutionary wing is represented by [[richard-dawk
 ---
 
 ## Books in Wiki
+- [[law-of-attraction-secret-power]] (2014) — [[jenny-loveless]]
 - [[confessions-of-saint-augustine]] (1838) — [[saint-augustine]], [[edward-b-pusey]]
 - [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
 - [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]

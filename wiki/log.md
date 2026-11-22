@@ -829,3 +829,69 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,015 entity pages (1,017 total markdown files).
+
+
+---
+
+## [2026-11-22T21:45:00+01:00] Option K Batch Ingestion: Leadership, Executive Coaching, Cognitive/Habit Mastery & Turkish Republican Memoirs (`BOOKS/Leadership_/`)
+
+- **Scope**: Completed full ingestion of the remaining **48 un-ingested files** (out of 53 total files; 5 pre-ingested 2026 cohort files already verified) in `BOOKS/Leadership_/` (**19,391 pages** across all 48 newly processed files / **18,489 net-new unique pages** after consolidating 2 multi-edition pairs: Andrew Grove's *High Output Management* [203 pp. + 739 pp.] and Lord Kinross's *Atatürk: Bir Milletin Yeniden Doğuşu* [699 pp. + 836 pp.]). All 4 scanned PDFs (`#31` Eckhart Tolle, `#33` İbn Fadlan, `#34` İlber Ortaylı, `#47` Semavi Eyice) were visually verified via rendered PNG spreads. Corrected misleading PDF metadata on `#07` (*The LinkedIn Playbook for Employees* — actual author James Cheo, not stub `BURNS`) and accurately cataloged `#42` as Kim Williams's 2005 *Nexus Network Journal* book review of Bülent Atalay's *Math and the Mona Lisa*.
+- **46 New Canonical Works Added**:
+  - **Executive Leadership, 2026 Cohort, Coaching & Cognitive/Habit Mastery (15 works)**:
+    - [[intentional-attention]] ([[justin-anderson]], 2026, 339 pp.)
+    - [[the-linkedin-playbook-for-employees]] ([[james-cheo]], 2026, 333 pp.)
+    - [[the-mission-generation]] ([[arun-gupta]], [[thomas-j-fewer]], 2026, 273 pp.)
+    - [[give-and-take]] ([[adam-grant]], 2013, 260 pp.)
+    - [[high-output-management]] ([[andrew-s-grove]], 1983/1995, 203 pp. & 739 pp. consolidated)
+    - [[deep-work]] ([[cal-newport]], 2016, 190 pp.)
+    - [[so-good-they-cant-ignore-you]] ([[cal-newport]], 2012, 771 pp.)
+    - [[the-power-of-habit]] ([[charles-duhigg]], 2012, 295 pp.)
+    - [[coaching-for-leadership]] (eds. [[marshall-goldsmith]], [[laurence-s-lyons]], 2006 2nd Ed., 284 pp.)
+    - [[thinking-fast-and-slow]] ([[daniel-kahneman]], 2011, 533 pp.)
+    - [[trillion-dollar-coach]] ([[eric-schmidt]], [[jonathan-rosenberg]], [[alan-eagle]], 2019, 168 pp.)
+    - [[leadership-today]] (eds. [[joan-marques]], [[satinder-dhiman]], 2017, 412 pp.)
+    - [[leaders-eat-last]] ([[simon-sinek]], 2014, 260 pp.)
+    - [[the-great-ceo-within]] ([[matt-mochary]], 2021, 135 pp.)
+    - [[how-to-build-a-career-in-tech]] ([[product-hunt]], [[melissa-joy-kong]], [[niv-dror]], 2017, 105 pp.)
+  - **Turkish Republican History, Atatürk Primary Sources, Memoirs & Ottoman-Turkish Portraits (16 works)**:
+    - [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]] ([[uzeyir-garih]], 2006, 77 pp.)
+    - [[tarihi-degistiren-askerler]] ([[ali-cimen]], 2007, 341 pp.)
+    - [[tarihi-degistiren-bilginler]] ([[ali-cimen]], 2008, 272 pp.)
+    - [[tarihi-degistiren-konusmalar]] ([[ali-cimen]], 2005, 277 pp.)
+    - [[tarihi-degistiren-liderler]] ([[ali-cimen]], 2012/2014, 371 pp.)
+    - [[ataturk-bir-milletin-yeniden-dogusu]] ([[lord-kinross]], tr. [[necdet-sander]], 1964/1994, 699 pp. & 836 pp. consolidated)
+    - [[ataturk-hakkinda-hatiralar-ve-belgeler]] ([[afet-inan]], ed. [[ari-inan]], 1959/2009, 536 pp.)
+    - [[ataturkun-not-defterleri]] ([[ali-mithat-inan]], 1996, 309 pp.)
+    - [[ataturkun-usaginin-gizli-defteri]] ([[turhan-gurkan]], [[cemal-granda]], 1971, 246 pp.)
+    - [[benim-pencerem]] ([[burak-dalgin]], 2022, 213 pp.)
+    - [[99-yuz]] ([[cemal-sureya]], 1991/2010, 607 pp.)
+    - [[ibni-fadlan-seyahatnamesi]] ([[ibn-fadlan]], tr. [[lutfi-dogan]], 922 CE/1954, 22 pp. scanned)
+    - [[bir-omur-nasil-yasanir]] ([[ilber-ortayli]], [[yenal-bilgici]], 2019, 292 pp. scanned)
+    - [[kazim-karabekir-hayatim]] ([[kazim-karabekir]], 2008, 554 pp.)
+    - [[kazim-karabekir-anlatiyor]] ([[ugur-mumcu]], 1990, 395 pp.)
+    - [[sultan-cemin-portreleri-hakkinda]] ([[semavi-eyice]], 1973, 80 pp. scanned)
+  - **Stoicism, Consciousness, Quantum Philosophy, Self-Mastery & Classic Literature (15 works)**:
+    - [[mehmet-akif]] ([[sezai-karakoc]], 1968/1987, 39 pp.)
+    - [[entelektuelin-kutsal-kitabi-biyografiler]] ([[david-s-kidder]], [[noah-d-oppenheim]], tr. [[egemen-yilgur]], 2013, 1,036 pp.)
+    - [[entelektuelin-kutsal-kitabi-modern-kultur]] ([[david-s-kidder]], [[noah-d-oppenheim]], tr. [[egemen-yilgur]], 2008/2014, 3,774 pp.)
+    - [[the-power-of-now]] ([[eckhart-tolle]], 1997/2004, 124 two-page spreads scanned)
+    - [[you-are-a-badass]] ([[jen-sincero]], 2013, 689 pp.)
+    - [[law-of-attraction-secret-power]] ([[jenny-loveless]], 2014, 89 pp.)
+    - [[lord-of-the-flies]] ([[william-golding]], 1954, 251 pp.)
+    - [[review-math-and-the-mona-lisa]] ([[kim-williams]], 2005, 4 pp. *Nexus Network Journal* review)
+    - [[the-daily-stoic]] ([[ryan-holiday]], [[stephen-hanselman]], 2016, 406 pp.)
+    - [[ego-is-the-enemy]] ([[ryan-holiday]], 2016, 168 pp.)
+    - [[starting-and-running-a-coaching-business]] ([[aryanne-oade]], 2009, 145 pp.)
+    - [[the-7-habits-of-highly-effective-people]] ([[stephen-r-covey]], 1989, 172 pp.)
+    - [[the-essential-david-bohm]] ([[david-bohm]], ed. [[lee-nichol]], 2003, 360 pp.)
+    - [[tools-of-titans]] ([[timothy-ferriss]], 2017, 509 pp.)
+    - [[leadership-lessons-six-titans]] ([[will-peters]], 2017, 198 pp.)
+- **Entity Pages Created / Updated**:
+  - **Books**: 46 new canonical pages created across 48 source files (total: 376)
+  - **Authors**: 54 new author profiles created + 2 existing updated cleanly ([[david-s-kidder]], [[simon-sinek]]) (total: 561)
+  - **Genres**: 2 new genre indices created ([[executive-coaching-and-personal-mastery]], [[turkish-republican-history-and-biographical-memoirs]]) and 32 existing genres updated (total: 84)
+  - **Themes**: 3 new thematic syntheses created ([[ataturk-republican-founding-and-ottoman-turkish-memory]], [[deep-work-habit-architecture-and-cognitive-systems]], [[servant-coaching-high-output-management-and-stoic-ego]]) and 35 existing themes updated (total: 99)
+- **Verification**:
+  - Rebuilt `wiki/index.md` and updated `SUMMARY.md` and `README.md`.
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,120 entity pages (1,122 total markdown files).

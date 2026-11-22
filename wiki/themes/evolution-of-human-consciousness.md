@@ -14,6 +14,11 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 3. **Humanistic Self-Transcendence**: In [[leading-for-tomorrow]] (2026), humanistic psychologist [[scott-barry-kaufman]] and [[chris-shipley]] extend Abraham Maslow's late theory of **self-transcendence**, showing how mature leadership requires evolving from defensive ego-protection toward integrated wisdom, empathy, and service to the whole of humanity.
 
 ## Featured Works
+- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
+- [[law-of-attraction-secret-power]] (2014) — [[jenny-loveless]]
+- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
+- [[tarihi-degistiren-bilginler]] (2008) — [[ali-cimen]]
+- [[leadership-today]] (2017) — [[joan-marques]], [[satinder-dhiman]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[the-untethered-soul]] (2007) — [[michael-a-singer]]

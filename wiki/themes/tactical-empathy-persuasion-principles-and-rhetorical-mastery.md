@@ -13,6 +13,8 @@
 ---
 
 ## Featured Works
+- [[tarihi-degistiren-konusmalar]] (2005) — [[ali-cimen]]
+- [[give-and-take]] (2013) — [[adam-grant]]
 - [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[lying-sam-harris]] (2011) — [[sam-harris]]
 - [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]

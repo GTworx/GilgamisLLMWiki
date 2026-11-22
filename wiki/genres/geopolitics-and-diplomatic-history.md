@@ -14,6 +14,7 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[ataturk-bir-milletin-yeniden-dogusu]] (1994) — [[lord-kinross]], [[necdet-sander]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
 - [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
