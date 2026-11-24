@@ -4,7 +4,7 @@
 **Publication Year**: 2014 (Portfolio / Penguin Group)
 **Genre(s)**: [[leadership-and-management]], [[organizational-psychology]], [[corporate-strategy-and-management-classics]]
 **Key Themes**: [[servant-coaching-high-output-management-and-stoic-ego]], [[cooperation-and-reciprocity]], [[organizational-culture-and-rewilding]]
-**Source**: `BOOKS/Leadership_/Leaders Eat Last_ Why Some Teams Pull Together and Others Donâ€™t ( PDFDrive ).pdf` (260 pp.)
+**Source**: `BOOKS/Leadership_/Leaders Eat Last_ Why Some Teams Pull Together and Others Donâ€™t ( PDFDrive ).pdf` (260 pp.) (Filesystem name: `Leaders Eat Last_ Why Some Teams Pull Together and Others Donât ( PDFDrive ).pdf`)
 **Last updated**: 2026-11-22
 
 ---

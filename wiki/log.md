@@ -1062,3 +1062,29 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Master index `wiki/index.md` rebuilt cleanly (1,322 total entity pages).
   - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,322 entity pages (1,324 total markdown files).
+
+
+## 2026-11-24 — Option M: Full Library Audit & Canonical Ingestion Gap-Closure (100.0% of `BOOKS/` Complete)
+
+- **Scope & Objective**: Complete a full-system audit of all physical files across `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\` to achieve 100.0% verified coverage and resolve all remaining file tracking variances.
+- **Physical Files Audited**: **542 of 542 document files accounted for (100.0% complete, 0 unmatched files)**.
+  - Resolved exact disk-level filename references across all consolidated multi-volume and multi-edition works:
+    - Will Durant's *The Story of Civilization* 11-volume BookReader `.html` stubs (`Durant_Will_-_The_story_of_civilization_1.html` through `_11.html`) in [[the-story-of-civilization-vol-1-our-oriental-heritage]].
+    - Doğan Avcıoğlu's 4-volume *Millî Kurtuluş Tarihi* individual volume files (`1975 Book 1...` through `Book 4...`) in [[milli-kurtulus-tarihi-1838den-1995e]].
+    - Fuat Sezgin's 5-volume *İslam'da Bilim ve Teknik* set (`cilt I.pdf` through `cilt V.pdf` + English Vol IV) in [[islamda-bilim-ve-teknik-science-and-technology-in-islam]].
+    - Burhan Oğuz's 3-volume *Türk Halk Düşüncesi* set (`2252-1...`, `2252-2...`, `2252-3...`) in [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]].
+    - Muazzez İlmiye Çığ's duplicate scan paths in [[zaman-tuneli-ile-gecmiste-sumere-yolculuk]].
+    - Verbatim filesystem encoding matches for Gladwell's [[blink-power-of-thinking-without-thinking]], Yamazaki's [[stock-trading-strategy-3-book-bundle]], and Sinek's [[leaders-eat-last]].
+    - Graham Hancock's dual-edition releases (*Message of the Sphinx* / *Keeper of Genesis* and *Mysteries of the Ancient Past* / *Magicians of the Gods*) mapped to [[keeper-of-genesis]] and [[magicians-of-the-gods]].
+    - NASEM energy study mapped to [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]].
+    - HBR collections mapped to [[financial-intelligence-for-managers]] and [[hbr-women-at-work-collection]].
+    - Frenkel & Kang Facebook investigation mapped to [[an-ugly-truth-inside-facebook]].
+    - Zeisberger et al. private equity texts mapped to [[mastering-private-equity]].
+    - Hilbrenner terrorism chapter mapped to [[of-heroes-and-villains-pre-revolutionary-russia]].
+    - García & Miralles English + Turkish editions mapped to [[ikigai-the-japanese-secret-to-a-long-and-happy-life]].
+- **Wiki Verification**:
+  - **471 canonical books** representing **542 physical volumes/editions**.
+  - **658 author profiles**, **88 genres**, **105 themes** (1,322 total entity pages).
+  - All interactive dashboards recompiled (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Strict audit passed with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+- **Milestone Reached**: 100% of the primary `BOOKS/` library is now canonically ingested into the Gilgamis LLM Wiki! The next frontier for ingestion is `ARTICLES-REPORTS/` (2,901 files).

@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-11-23  
+**Generated**: 2026-11-24 (100% Coverage Milestone for `BOOKS/`)  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -14,7 +14,8 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, alternative prehistory, Inner Eurasian nomadic empires, Big History, and Late Ottoman contested memory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 471 distinct intellectual works (across 551 source files/volumes and ~177,000+ pages)
+- **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
+- **Total Ingested Works**: 471 distinct intellectual works (across 542 source files/volumes and ~177,000+ pages)
 - **Total Generated Wiki Pages**: 1,324 interlinked markdown files (1,322 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
 - **Book Summary & Analysis Pages**: 471 ([books/](wiki/books/))

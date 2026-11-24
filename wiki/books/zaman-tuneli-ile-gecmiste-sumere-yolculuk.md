@@ -4,7 +4,7 @@
 **Publication Year**: 1993 / 2001 (Kültür Bakanlığı / Kaynak Yayınları; 38 pp., ISBN 975-17-1335-8)
 **Genre(s)**: [[anatolian-civilizations]], [[archaeological-historiography]]
 **Key Themes**: [[sumerology-cuneiform-epigraphy-and-mesopotamian-mythology]]
-**Source**: `BOOKS/History_/Turkiye and Region/Zaman tüneli ile geçmişte Sumer'e yolculuk ( PDFDrive.com ).pdf` (38 pp.) & identical scan in `Muazzez Ilmiye Cig/` (38 pp.)
+**Source**: `BOOKS/History_/Turkiye and Region/Zaman tüneli ile geçmişte Sumer'e yolculuk ( PDFDrive.com ).pdf` (38 pp.) & identical scan in `BOOKS/History_/Turkiye and Region/Muazzez Ilmiye Cig/Muazzez İlmiye Çığ - Zaman Tüneli ile Geçmişte Sümer'e Yolculuk.pdf` (38 pp.)
 **Last updated**: 2026-11-24
 
 ---

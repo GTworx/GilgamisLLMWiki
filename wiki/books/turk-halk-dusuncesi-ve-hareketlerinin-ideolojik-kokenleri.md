@@ -4,7 +4,7 @@
 **Publication Year**: 1997  
 **Genre(s)**: [[anatolian-civilizations]], [[political-science]], [[anatolian-humanism]]  
 **Key Themes**: [[orientalism-postcolonial-discourse-and-cultural-satire]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]]  
-**Source**: BOOKS/Politics_/2252-1-Turk_Xalq_Dushuncesi_Ve_Hereketlerinin_Ideolojik_Kokenleri-1-Burhan_Oghuz-1997-390s.pdf (390 pp.), 2252-2-...-2-Burhan_Oghuz-1997-423s.pdf (423 pp.), & 2252-3-...-3-Burhan_Oghuz-1997-429s.pdf (429 pp.) (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Politics_\)  
+**Source**: `BOOKS/Politics_/2252-1-Turk_Xalq_Dushuncesi_Ve_Hereketlerinin_Ideolojik_Kokenleri-1-Burhan_Oghuz-1997-390s.pdf` (390 pp.), `BOOKS/Politics_/2252-2-Turk_Xalq_Dushuncesi_Ve_Hereketlerinin_Ideolojik_Kokenleri-2-Burhan_Oghuz-1997-423s.pdf` (423 pp.), & `BOOKS/Politics_/2252-3-Turk_Xalq_Dushuncesi_Ve_Hereketlerinin_Ideolojik_Kokenleri-3-Burhan_Oghuz-1997-429s.pdf` (429 pp.) (Mount: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Politics_\`)  
 **Last updated**: 2026-11-22
 
 ---

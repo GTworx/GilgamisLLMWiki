@@ -4,7 +4,7 @@
 **Publication Year**: 2005 (Little, Brown and Company, New York)
 **Genre(s)**: [[behavioral-science-risk-and-antifragility]], [[neuroscience-and-philosophy-of-mind]], [[organizational-psychology]]
 **Key Themes**: [[power-realism-social-contagion-and-intentional-life-design]], [[rationality-and-decision-making]], [[evolution-of-human-consciousness]]
-**Source**: `BOOKS/EQ, Negotiation, Influence/Blink by Malcom Gladwell â€“ The Power of Thinking Without Thinking ( PDFDrive ).pdf` (337 pp., scanned edition)
+**Source**: `BOOKS/EQ, Negotiation, Influence/Blink by Malcom Gladwell â€“ The Power of Thinking Without Thinking ( PDFDrive ).pdf` (337 pp., scanned edition) (Filesystem name: `Blink by Malcom Gladwell â The Power of Thinking Without Thinking ( PDFDrive ).pdf`)
 **Last updated**: 2026-11-22
 
 ---

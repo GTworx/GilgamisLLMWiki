@@ -4,7 +4,7 @@
 **Publication Year**: 2016  
 **Genre(s)**: [[personal-finance-investing-and-capital-markets]], [[organizational-psychology]]  
 **Key Themes**: [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]]  
-**Source**: BOOKS/Investment_/Stock Trading Strategy_ 3-Book Bundle – Stock Market Investing for Beginners + Day Trading for Beginners + Penny Stocks + BONUS Content_ Trading Psychology of Millionaire Investors ( PDFDrive ).pdf (Mount: C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Investment_\)  
+**Source**: `BOOKS/Investment_/Stock Trading Strategy_ 3-Book Bundle – Stock Market Investing for Beginners + Day Trading for Beginners + Penny Stocks + BONUS Content_ Trading Psychology of Millionaire Investors ( PDFDrive ).pdf` (verbatim filesystem entry: `Stock Trading Strategy_ 3-Book Bundle â€“ Stock Market Investing for Beginners + Day Trading for Beginners + Penny Stocks + BONUS Content_ Trading Psychology of Millionaire Investors ( PDFDrive ).pdf`, 125 pp., Mount: `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\BOOKS\Investment_\`)   (Filesystem name: `Stock Trading Strategy_ 3-Book Bundle â Stock Market Investing for Beginners + Day Trading for Beginners + Penny Stocks + BONUS Content_ Trading Psychology of Millionaire Investors ( PDFDrive ).pdf`)
 **Last updated**: 2026-11-22
 
 ---

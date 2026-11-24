@@ -4,7 +4,7 @@
 **Publication Year**: 1935 (Simon and Schuster, New York; 1942 printing; complete 11-volume series 1935–1975)
 **Genre(s)**: [[world-history-macro-anthropology-and-ancient-civilizations]], [[comparative-religion-and-islamic-history]], [[classical-and-analytic-philosophy]]
 **Key Themes**: [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[evolution-of-human-consciousness]], [[islamic-golden-age-science-and-civilizational-transmission]]
-**Source**: `BOOKS/History_/Durant story of civilization.pdf` (1,150 pp., Vol. I: *Our Oriental Heritage*, 1942 printing) & 11 Internet Archive BookReader `.html` stubs `Durant_Will_-_The_story_of_civilization_1.html` through `_11.html` (Vols. I–XI bookmarks consolidated)
+**Source**: `BOOKS/History_/Durant story of civilization.pdf` (1,150 pp., Vol. I: *Our Oriental Heritage*, 1942 printing) & 11 Internet Archive BookReader `.html` stubs: `Durant_Will_-_The_story_of_civilization_1.html`, `Durant_Will_-_The_story_of_civilization_2.html`, `Durant_Will_-_The_story_of_civilization_3.html`, `Durant_Will_-_The_story_of_civilization_4.html`, `Durant_Will_-_The_story_of_civilization_5.html`, `Durant_Will_-_The_story_of_civilization_6.html`, `Durant_Will_-_The_story_of_civilization_7.html`, `Durant_Will_-_The_story_of_civilization_8.html`, `Durant_Will_-_The_story_of_civilization_9.html`, `Durant_Will_-_The_story_of_civilization_10.html`, `Durant_Will_-_The_story_of_civilization_11.html` (Vols. I–XI bookmarks consolidated)
 **Last updated**: 2026-11-22
 
 ---

@@ -4,7 +4,7 @@
 **Publication Year**: 1974–1975 (Tekin Yayınevi; 4 Volumes, 1,729 pp. total; Vol 1: 401 pp., Vol 2: 476 pp., Vol 3: 403 pp., Vol 4: 449 pp.)
 **Genre(s)**: [[turkish-republican-history-and-biographical-memoirs]], [[republican-intellectual-history]], [[geopolitics-and-diplomatic-history]]
 **Key Themes**: [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[panturkism-modernization-and-national-awakening]], [[late-ottoman-conflict-palestine-zionism-and-contested-memory]]
-**Source**: `BOOKS/History_/Turkiye and Region/1975 Book 1-4 Milli_Kurtulush_Tarihi_1838_Den_1995e_Dek_Doğan_Avcıoğlu_1975.pdf` (1,729 pp., 4 volumes complete)
+**Source**: `BOOKS/History_/Turkiye and Region/1975 Book 1 Milli_Kurtulush_Tarihi_1838_Den_1995e_Dek_Doğan_Avcıoğlu_1975.pdf` (401 pp.), `1975 Book 2 Milli_Kurtulush_Tarihi_1838_Den_1995e_Dek_Doğan_Avcıoğlu_1975.pdf` (476 pp.), `1975 Book 3 Milli_Kurtulush_Tarihi_1838_Den_1995e_Dek_Doğan_Avcıoğlu_1975.pdf` (403 pp.), `1975 Book 4 Milli_Kurtulush_Tarihi_1838_Den_1995e_Dek_Doğan_Avcıoğlu_1975.pdf` (449 pp.) — 4 volumes complete (1,729 pp. total)
 **Last updated**: 2026-11-24
 
 ---
