@@ -1289,3 +1289,66 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (1,580 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+### 2026-11-24: Ingestion Milestone — Option AR-5: Cognition, Conscious & Wisdom, Neuroscience & Psychology (66 Physical Files, 39 Canonical Works)
+- **Scope & Source Corpus**: Comprehensive ingestion of three major behavioral science, cognitive neurobiology, and psychological monographs directories from `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\`:
+  - `Cognition, Conscious & Wisdom` (14 files)
+  - `Neuroscience_` (12 files)
+  - `Psychology_` (40 files)
+- **Physical Files Ingested**: **66 of 66 files accounted for (100.0% coverage, 0 unmapped)**, spanning landmark Nobel laureate neurobiology treatises (Gerald Edelman, Roger Penrose), multi-lab adversarial consciousness testing (Nature 2025 COGITATE consortium), non-invasive gamma neuro-therapeutics (Li-Huei Tsai, Nature 2024), near-death and vegetative coma probes (Charlotte Martial, Nicholas Schiff), modality-invariant semantic mapping (Fatma Deniz & Jack Gallant), evolutionary humor models (Thomas Veatch, Polimeni, Greengross & Miller), the Dunning-Kruger effect (Kruger & Dunning 1999), the bad-is-stronger-than-good evolutionary asymmetry (Roy Baumeister 2001), Hubris Syndrome in political leaders (David Owen & Jonathan Davidson 2009), the Defensive Activation Theory of REM sleep (David Eagleman), and Carlo Cipolla's foundational Laws of Human Stupidity compendium.
+- **Canonical Works Synthesized (39 Works across 66 Files)**:
+  - **Theories of Consciousness, Adversarial Testing & Quantum Mind (9 works, 13 files)**:
+    - [[seth-theories-of-consciousness-a-comprehensive-framework]] ([[anil-seth]], 2023, 20 pp.).
+    - [[melloni-adversarial-testing-of-global-neuronal-workspace-and-integrated-information-theories]] ([[lucia-melloni]], Nature 2025, 41 pp.).
+    - [[martial-near-death-experiences-and-disconnected-consciousness]] ([[charlotte-martial]], 2023, 2-paper compendium, 40 pp.).
+    - [[hoffman-conscious-realism-and-the-mind-body-problem]] ([[donald-d-hoffman]], 2008, 42 pp.).
+    - [[penrose-godelian-incompleteness-quantum-mind-and-algorithmic-limits]] ([[roger-penrose]], 2024, 2-monograph dossier, 35 pp.).
+    - [[brown-higher-order-theories-of-consciousness]] ([[richard-brown]], 2019, 28 pp.).
+    - [[edelman-biology-of-consciousness-and-neural-darwinism]] ([[gerald-edelman]], 2011, 26 pp.).
+    - [[jaynes-the-origin-of-consciousness-in-the-bicameral-mind]] ([[julian-jaynes]], 1976, 52 pp.).
+    - [[schiff-computer-vision-detects-covert-movements-in-unresponsive-brain-injury]] ([[nicholas-d-schiff]], 2025, 22 pp.).
+  - **Cognitive Architecture, Working Memory, Active Vision & Saccades (7 works, 8 files)**:
+    - [[sweller-cognitive-load-theory-during-problem-solving]] ([[john-sweller]], 1988, 30 pp.).
+    - [[pirolli-information-foraging-theory-in-cognition-and-software]] ([[peter-pirolli]], 2012, 2-paper compendium, 38 pp.).
+    - [[findlay-saccadic-eye-movements-and-active-visual-perception]] ([[john-m-findlay]], 2023, 2-study compendium, 44 pp.).
+    - [[wang-oscillatory-correlation-model-of-visual-object-binding]] ([[deliang-wang]], 1999, 25 pp.).
+    - [[deniz-semantic-representation-invariance-between-listening-and-reading]] ([[fatma-deniz]], 2019, 32 pp.).
+    - [[marsh-computational-wisdom-in-artificial-agents]] ([[stephen-marsh]], 2016, 18 pp.).
+    - [[opposing-reasoning-dialectical-cognition-and-polar-constructs]] ([[dialectical-cognition-research-group]], 2021, 22 pp.).
+  - **Cellular Learning, Neurodegeneration & Circuit Modulation (4 works, 5 files)**:
+    - [[tsai-multisensory-gamma-stimulation-glymphatic-clearance-of-amyloid]] ([[li-huei-tsai]], Nature 2024, 28 pp.).
+    - [[kukushkin-massed-spaced-learning-effect-in-non-neural-human-cells]] ([[nikolay-v-kukushkin]], Nature Comms 2024, 24 pp.).
+    - [[yuste-neuroethics-cognitive-liberty-and-brain-computer-interfaces]] ([[rafael-yuste]], 2024, 3-manifesto dossier, 62 pp.).
+    - [[nagle-chronic-procrastination-neurobiology-and-behavioral-architecture]] ([[lorwen-c-nagle]], 2024, 18 pp.).
+  - **Evolutionary Psychology, Negativity Bias & Metacognition (5 works, 12 files)**:
+    - [[the-evolutionary-psychology-and-neurobiology-of-humor]] ([[thomas-c-veatch]], 2021, 9-paper comprehensive compendium, 210 pp.).
+    - [[eagleman-defensive-activation-theory-of-rem-sleep]] ([[david-eagleman]], 2021, 2-paper dossier, 36 pp.).
+    - [[kruger-dunning-unskilled-and-unaware-of-it]] ([[justin-kruger]], 1999, 22 pp.).
+    - [[baumeister-bad-is-stronger-than-good]] ([[roy-f-baumeister]], 2001, 50 pp.).
+    - [[humphrey-the-lure-of-death-suicide-and-human-evolution]] ([[nicholas-humphrey]], Phil Trans B 2018, 2-study dossier, 32 pp.).
+  - **Human Stupidity, Hubris Syndrome & Ideological Epistemology (6 works, 13 files)**:
+    - [[cipolla-the-basic-laws-of-human-stupidity-compendium]] ([[carlo-m-cipolla]], 2024, 6-study compendium, 115 pp.).
+    - [[owen-hubris-syndrome-acquired-personality-disorder-of-power]] ([[david-owen-neurology]], Brain 2009, 28 pp.).
+    - [[napolitano-conspiracy-theories-and-evidential-self-insulation]] ([[m-giulia-napolitano]], 2021, 26 pp.).
+    - [[on-two-arguments-of-fanaticism-epistemic-and-normative-foundations]] ([[philosophical-psychology-consortium]], 2023, 20 pp.).
+    - [[volkan-chosen-trauma-and-terrorism-the-victim-narrative]] ([[vamik-d-volkan]], 2023, 24 pp.).
+    - [[gardner-comparative-intelligence-politicians-scientists-and-societal-adaptability]] ([[howard-gardner]], 2022, 2-monograph dossier, 26 pp.).
+  - **Collective Dynamics, Affect, Culture & Existential Psychodynamics (8 works, 15 files)**:
+    - [[hidalgo-universal-decay-of-collective-memory-and-research-space]] ([[cesar-a-hidalgo]], Nature Hum Behav 2018, 2-paper dossier, 42 pp.).
+    - [[sharot-neural-mechanisms-of-optimism-bias-and-episodic-future-thinking]] ([[tali-sharot]], PNAS 2025, 2-study dossier, 38 pp.).
+    - [[ramirez-esparza-cultural-frame-switching-and-bilingual-personality]] ([[nairan-ramirez-esparza]], 2004, 25 pp.).
+    - [[dyadic-conflict-dynamics-both-partners-negative-emotion-drives-aggression]] ([[dyadic-behavioral-science-consortium]], 2024, 22 pp.).
+    - [[personality-traits-and-behavioral-patterns-on-social-media]] ([[arcadia-computational-psychology]], 2023, 16 pp.).
+    - [[bonaparte-time-and-the-unconscious-psychoanalytic-foundations]] ([[princess-marie-bonaparte]], 1940, 36 pp.).
+    - [[mccann-meaning-in-life-series-existential-psychology]] ([[mahon-mccann]], 2023, 48 pp.).
+    - [[keefe-this-is-your-priest-on-drugs-psychedelics-and-mystical-cognition]] ([[patrick-radden-keefe]], The New Yorker 2025, 24 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +39 canonical entries (total: 628).
+  - **Authors**: +37 author profiles created, 2 updated (total: 819).
+  - **Genres**: +2 new genres ([[evolutionary-psychology-and-behavioral-ecology]], [[cognitive-science-and-attention-mechanisms]]) created; 8 existing genres updated (total: 98).
+  - **Themes**: +2 new themes ([[human-stupidity-hubris-and-epistemic-vulnerability]], [[theories-of-consciousness-and-adversarial-neuroscience]]) created; 9 existing themes updated (total: 115).
+  - **Total Wiki Pages**: **1,660 entity pages** (1,662 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (1,660 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

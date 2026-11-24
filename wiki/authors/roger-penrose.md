@@ -14,6 +14,7 @@ In [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] 
 ---
 
 ## Books in Wiki
+- [[penrose-godelian-incompleteness-quantum-mind-and-algorithmic-limits]]
 - [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989)
 
 ---
@@ -26,6 +27,9 @@ In [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] 
 ---
 
 ## Related pages
+- [[theories-of-consciousness-and-adversarial-neuroscience]]
+- [[data-science-and-scientific-computing]]
+- [[penrose-godelian-incompleteness-quantum-mind-and-algorithmic-limits]]
 - [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]]
 - [[neuroscience-and-philosophy-of-mind]]
 - [[algebraic-topology]]

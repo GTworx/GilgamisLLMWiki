@@ -18,6 +18,10 @@ Professor of Cognitive Sciences at UC Irvine (b. 1955), co-formulator of the Fit
 ---
 
 ## Related pages
+- [[theories-of-consciousness-and-adversarial-neuroscience]]
+- [[neuroscience-and-philosophy-of-mind]]
+- [[evolutionary-psychology-and-behavioral-ecology]]
+- [[hoffman-conscious-realism-and-the-mind-body-problem]]
 - [[the-case-against-reality]]
 - [[simon-grondin]]
 - [[roger-penrose]]
