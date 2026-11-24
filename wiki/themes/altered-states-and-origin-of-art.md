@@ -1,7 +1,7 @@
 # Theme: Altered States and Origin of Art
 
 **Summary**: The thesis that human symbolic culture, representational art, spiritual cosmologies, and religious impulses originated from shamanic altered states of consciousness, dreams, and entheogenic visionary experiences.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

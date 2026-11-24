@@ -2,7 +2,7 @@
 
 **Description**: Primary mystical epics, oral discourses, comparative translations, biographies, and academic philology illuminating the Sufi path—centered on Jalal al-Din Rumi and Shams-i Tabrizi.
 **Key Themes**: [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,34 +14,35 @@ In this wiki, the genre revolves around an extraordinary seven-work [[jalal-al-d
 ---
 
 ## Books in Wiki
-- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
+- [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
 - [[the-untethered-soul]] (2007) — [[michael-a-singer]]
+- [[the-masnavi-books-one-and-two-mojaddedi]] (2004–2007) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]
+- [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
+- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
+- [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
 - [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
 - [[mantikut-tayr-conference-of-the-birds]] (1998) — [[farid-ud-din-attar]], [[yasar-kececi]]
-- [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
-- [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
-- [[the-masnavi-books-one-and-two-mojaddedi]] (2004) — [[jalal-al-din-rumi]], [[jawid-mojaddedi]]
-- [[rumi-the-book-of-love]] (2003) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
 - [[the-essential-rumi]] (1995) — [[jalal-al-din-rumi]], [[coleman-barks]], [[john-moyne]], [[a-j-arberry]], [[reynold-a-nicholson]]
 - [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]
 - [[the-masnavi-whinfield]] (1898) — [[jalal-al-din-rumi]], [[edward-henry-whinfield]]
 
----
-
 ## Key Authors & Theorists
-- [[leonard-lewisohn]]
-- [[shams-i-tabrizi]]
-- [[william-c-chittick]]
+- [[a-j-arberry]]
+- [[afzal-iqbal]]
+- [[coleman-barks]]
+- [[eckhart-tolle]]
+- [[edward-henry-whinfield]]
+- [[farid-ud-din-attar]]
+- [[imam-al-ghazali]]
 - [[jalal-al-din-rumi]]
 - [[jawid-mojaddedi]]
-- [[coleman-barks]]
 - [[john-moyne]]
-- [[a-j-arberry]]
+- [[leonard-lewisohn]]
+- [[michael-a-singer]]
 - [[reynold-a-nicholson]]
-- [[afzal-iqbal]]
-- [[edward-henry-whinfield]]
-
----
+- [[shams-i-tabrizi]]
+- [[william-c-chittick]]
+- [[yasar-kececi]]
 
 ## Related Genres & Themes
 - [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]]

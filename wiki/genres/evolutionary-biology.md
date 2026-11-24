@@ -2,7 +2,7 @@
 
 **Description**: The subfield of biology that studies the evolutionary processes—natural selection, adaptation, speciation, and population genetics—that produced the diversity of life.  
 **Key Themes**: [[evolution-of-strategies]], [[cooperation-and-reciprocity]], [[shadow-of-the-future]]  
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -15,26 +15,34 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 ---
 
 ## Books in Wiki
-- [[sapiens-a-brief-history-of-humankind]] (2014) — [[yuval-noah-harari]]
+- [[the-evolution-of-cooperation]] (N/A) — [[robert-axelrod]], [[william-d-hamilton]]
+- [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
+- [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
+- [[sapiens-a-brief-history-of-humankind]] (2014) — [[yuval-noah-harari]]
+- [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[breaking-the-spell]] (2006) — [[daniel-c-dennett]]
 - [[the-god-delusion]] (2006) — [[richard-dawkins]]
-- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
-- [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
-
-- [[machine-learning-in-medicine-a-complete-overview]] (2015) — [[ton-j-cleophas]], [[aeilko-h-zwinderman]]
-- [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
+- [[the-selfish-gene]] (2006) — [[richard-dawkins]]
 - [[discovering-the-brain]] (1992) — [[sandra-ackerman]]
-- [[the-evolution-of-cooperation]] (1984) — Robert Axelrod (especially Chapter 5 with William D. Hamilton)
-
----
 
 ## Key Authors & Theorists
 
-- [[william-d-hamilton]]: Pioneer of kin selection and evolutionary game models.
-- [[robert-axelrod]]: Pioneer of computational evolutionary simulations of behavioral strategies.
-
----
+- [[aeilko-h-zwinderman]]
+- [[bernd-meibohm]]
+- [[daan-j-a-crommelin]]
+- [[daniel-c-dennett]]
+- [[doga-dernegi-researchers]]
+- [[donald-d-hoffman]]
+- [[max-solomon-bennett]]
+- [[richard-dawkins]]
+- [[robert-axelrod]]
+- [[robert-d-sindelar]]
+- [[sandra-ackerman]]
+- [[ton-j-cleophas]]
+- [[william-d-hamilton]]
+- [[yuval-noah-harari]]
 
 ## Related Genres & Themes
 

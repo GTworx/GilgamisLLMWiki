@@ -1,7 +1,7 @@
 # Genre: Hermeticism
 
 **Summary**: A philosophical, religious, and esoteric tradition based primarily upon writings attributed to Hermes Trismegistus, uniting Egyptian theology, Greek philosophy, alchemy, and sacred geometry under the maxim "As above, so below."  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

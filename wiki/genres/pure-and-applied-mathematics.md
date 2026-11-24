@@ -2,7 +2,7 @@
 
 **Description**: Single- and multivariable calculus, open-access precalculus, functional analysis and operator theory, and structured problem-solving curricula underpinning science and engineering.
 **Key Themes**: [[purposeful-longevity-flow-and-mathematical-literacy]], [[quantum-foundations-measurement-and-many-worlds]], [[probabilistic-inference-and-uncertainty-quantification]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,46 +14,53 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
-- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
-- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
-- [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
-- [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]
-- [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
-- [[the-math-hacker-book]] (2015) — [[paul-carson]]
-- [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
-- [[536-puzzles-and-curious-problems]] (1967) — [[henry-ernest-dudeney]], [[martin-gardner]]
-- [[100-math-brainteasers]] (2014) — [[zbigniew-romanowicz]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
+- [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[precalculus-openstax]] (2017) — [[jay-abramson]]
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
 - [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] (2015) — [[stephan-fackler]]
+- [[the-math-hacker-book]] (2015) — [[paul-carson]]
+- [[100-math-brainteasers]] (2014) — [[zbigniew-romanowicz]]
+- [[math-puzzles-classic-riddles]] (2012) — [[presh-talwalkar]]
 - [[the-grand-design]] (2010) — [[stephen-hawking]], [[leonard-mlodinow]]
+- [[the-worlds-200-hardest-brain-teasers]] (2010) — [[gary-r-gruber]]
 - [[calculus-one-and-several-variables]] (2007) — [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]]
 - [[mathematical-foundations-of-quantum-physics]] (2006) — [[adrian-stan]], [[monica-ramona-costache]]
+- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
 - [[the-theory-of-everything-origin-and-fate-of-the-universe]] (2005) — [[stephen-hawking]]
+- [[the-penguin-book-of-curious-and-interesting-puzzles]] (1992) — [[david-wells]]
 - [[a-brief-history-of-time]] (1988) — [[stephen-hawking]]
 - [[problems-in-general-physics]] (1981) — [[igor-yevgenyevich-irodov]]
+- [[536-puzzles-and-curious-problems]] (1967) — [[henry-ernest-dudeney]], [[martin-gardner]]
 - [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] (1957) — [[hugh-everett-iii]]
 
----
-
 ## Key Authors & Theorists
-- [[learningexpress-editors]]
+- [[adrian-stan]]
 - [[alex-oconnor]]
-- [[jochen-pade]]
-- [[jay-abramson]]
-- [[stephan-fackler]]
-- [[stephen-hawking]]
-- [[leonard-mlodinow]]
-- [[saturnino-l-salas]]
+- [[david-wells]]
 - [[einar-hille]]
 - [[garret-j-etgen]]
-- [[adrian-stan]]
-- [[monica-ramona-costache]]
-- [[igor-yevgenyevich-irodov]]
+- [[gary-r-gruber]]
+- [[hans-peters]]
+- [[henry-ernest-dudeney]]
 - [[hugh-everett-iii]]
-
----
+- [[igor-yevgenyevich-irodov]]
+- [[jay-abramson]]
+- [[jochen-pade]]
+- [[kim-williams]]
+- [[learningexpress-editors]]
+- [[leonard-mlodinow]]
+- [[martin-gardner]]
+- [[monica-ramona-costache]]
+- [[paul-carson]]
+- [[presh-talwalkar]]
+- [[saturnino-l-salas]]
+- [[stephan-fackler]]
+- [[stephen-hawking]]
+- [[sven-ove-hansson]]
+- [[vincent-f-hendricks]]
+- [[zbigniew-romanowicz]]
 
 ## Related Genres & Themes
 - [[purposeful-longevity-flow-and-mathematical-literacy]]

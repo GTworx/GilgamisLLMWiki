@@ -2,7 +2,7 @@
 
 **Description**: Behavioral psychology of compliance, FBI hostage-negotiation tactics, Aristotelian rhetoric, informal logic, interpersonal goodwill, relational boundaries, and human-nature realism.
 **Key Themes**: [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[power-realism-social-contagion-and-intentional-life-design]], [[rationality-and-decision-making]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,12 +14,12 @@ Within this wiki, the genre links [[robert-b-cialdini]]'s [[influence-the-psycho
 ---
 
 ## Books in Wiki
-- [[the-art-of-gathering]] (2018) — [[priya-parker]]
-- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
 - [[crack-the-funding-code]] (2019) — [[judy-robinett]]
-- [[start-with-why]] (2009) — [[simon-sinek]]
+- [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
 - [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
+- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
+- [[start-with-why]] (2009) — [[simon-sinek]]
 - [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
 - [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
 - [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
@@ -28,21 +28,22 @@ Within this wiki, the genre links [[robert-b-cialdini]]'s [[influence-the-psycho
 - [[the-art-of-manipulation]] (1978) — [[r-b-sparkman]]
 - [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
 
----
-
 ## Key Authors & Theorists
-- [[robert-greene]]
+- [[brad-feld]]
 - [[chris-voss]]
-- [[tahl-raz]]
-- [[jay-heinrichs]]
-- [[madsen-pirie]]
-- [[henry-cloud]]
-- [[john-townsend]]
-- [[robert-b-cialdini]]
-- [[r-b-sparkman]]
 - [[dale-carnegie]]
-
----
+- [[henry-cloud]]
+- [[jason-mendelson]]
+- [[jay-heinrichs]]
+- [[john-townsend]]
+- [[judy-robinett]]
+- [[madsen-pirie]]
+- [[priya-parker]]
+- [[r-b-sparkman]]
+- [[robert-b-cialdini]]
+- [[robert-greene]]
+- [[simon-sinek]]
+- [[tahl-raz]]
 
 ## Related Genres & Themes
 - [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]]

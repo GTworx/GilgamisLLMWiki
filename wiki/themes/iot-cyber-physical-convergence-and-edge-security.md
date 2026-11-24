@@ -1,7 +1,7 @@
 # Theme: IoT Cyber-Physical Convergence, Fog Computing, and Hardware-Rooted Edge Security
 
 **Summary**: Extending internet protocols, distributed fog/edge intelligence, and silicon-rooted cryptographic trust into physical sensors, actuators, smart homes, and industrial machines where breaches carry lethal real-world consequences.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

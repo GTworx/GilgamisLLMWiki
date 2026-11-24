@@ -2,7 +2,7 @@
 
 **Description**: The indigenous philosophical, spiritual, and ethical tradition of Anatolia emphasizing universal human dignity, tolerance, egalitarianism, and divine reflection within the human conscience.  
 **Key Themes**: [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[non-western-strategic-thought]], [[cooperation-and-reciprocity]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -21,18 +21,16 @@ In the 20th and 21st centuries, poets such as Âşık Veysel, Mahzuni Şerif, an
 
 ## Books in Wiki
 - [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
+- [[asik-borani-soz-insanin-aynasi]] (2020) — [[asik-borani]], [[ibrahim-gosterir]]
 - [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
-
-- [[asik-borani-soz-insanin-aynasi]] (2020) — Âşık Borani (Halil Çimen), edited by İbrahim Gösterir
-
----
 
 ## Key Authors & Theorists
 
-- [[asik-borani]]: Contemporary exponent of Anatolian Sufi humanism, preaching universal brotherhood and anti-sectarian unity.
-- [[ibrahim-gosterir]]: Folklorist and compiler documenting the ethical roots of Anatolian folk poetry.
-
----
+- [[asik-borani]]
+- [[burhan-oguz]]
+- [[eyup-akman]]
+- [[ibrahim-gosterir]]
+- [[kastamonulu-ishak-zade-hasan-fevzi]]
 
 ## Related Genres & Themes
 

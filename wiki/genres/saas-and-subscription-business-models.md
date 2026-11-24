@@ -2,7 +2,7 @@
 
 **Description**: Multi-tenant cloud software delivery, recurring-revenue unit economics (LTV:CAC, NRR), buyer-centric sales blueprints, customer-driven product engineering, and post-join retention mechanics.
 **Key Themes**: [[recurring-revenue-customer-success-and-retention-mechanics]], [[cloud-native-architecture-and-declarative-infrastructure]], [[service-first-branding-and-authentic-visibility]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,40 +14,37 @@ This genre spans the origin story of cloud CRM in [[marc-benioff]] & [[carlye-ad
 ---
 
 ## Books in Wiki
-- [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[snowflake-the-definitive-guide]] (2022) — [[joyce-kay-avila]]
 - [[state-of-it-asset-management-2022]] (2022) — [[flexera-research]]
 - [[architecting-data-intensive-saas-applications]] (2021) — [[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], [[dinesh-kulkarni]]
 - [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]
 - [[blueprints-for-a-saas-sales-organization]] (2018) — [[jacco-van-der-kooij]], [[fernando-pizarro]]
+- [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[retention-point-membership-and-subscription-growth]] (2018) — [[robert-skrob]]
 - [[the-saas-sales-method-for-customer-success-and-account-managers]] (2018) — [[dominique-levin]], [[jacco-van-der-kooij]]
 - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] (2016) — [[david-cancel]]
 - [[behind-the-cloud]] (2009) — [[marc-benioff]], [[carlye-adler]]
 
----
-
 ## Key Authors & Theorists
-- [[mike-amundsen]]
-- [[derric-gilling]]
-- [[joyce-kay-avila]]
-- [[flexera-research]]
-- [[william-waddington]]
-- [[kevin-mcginley]]
-- [[pui-kei-johnston-chu]]
-- [[gjorgji-georgievski]]
-- [[dinesh-kulkarni]]
-- [[lawrence-c-miller]]
-- [[jacco-van-der-kooij]]
-- [[fernando-pizarro]]
-- [[robert-skrob]]
-- [[dominique-levin]]
-- [[david-cancel]]
-- [[marc-benioff]]
 - [[carlye-adler]]
-
----
+- [[david-cancel]]
+- [[derric-gilling]]
+- [[dinesh-kulkarni]]
+- [[dominique-levin]]
+- [[fernando-pizarro]]
+- [[flexera-research]]
+- [[gjorgji-georgievski]]
+- [[jacco-van-der-kooij]]
+- [[joyce-kay-avila]]
+- [[kevin-mcginley]]
+- [[lawrence-c-miller]]
+- [[marc-benioff]]
+- [[marty-cagan]]
+- [[mike-amundsen]]
+- [[pui-kei-johnston-chu]]
+- [[robert-skrob]]
+- [[william-waddington]]
 
 ## Related Genres & Themes
 - [[recurring-revenue-customer-success-and-retention-mechanics]]

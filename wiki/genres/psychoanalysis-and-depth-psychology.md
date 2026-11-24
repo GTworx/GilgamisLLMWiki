@@ -2,7 +2,7 @@
 
 **Description**: Foundational Freudian, Lacanian, and post-Freudian clinical theory alongside comparative mythology, somatic trauma recovery, and action-oriented psychological liberation.
 **Key Themes**: [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[evolution-of-human-consciousness]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -26,32 +26,28 @@ Our shelf unites [[sigmund-freud]]'s foundational pair ([[bilimsel-bir-psikoloji
 - [[ruyalari-yorumu-interpretation-of-dreams]] (1900) — [[sigmund-freud]], [[dilman-muradoglu]]
 - [[bilimsel-bir-psikoloji-projesi-1895]] (1895) — [[sigmund-freud]], [[ibrahim-sahin-ates]]
 
----
-
 ## Key Authors & Theorists
-- [[peter-a-levine]]
-- [[maggie-kline]]
-- [[katerina-honzikova]]
-- [[if-epfcl-editorial]]
-- [[patrick-barillot]]
-- [[phil-stutz]]
 - [[barry-michels]]
-- [[michael-a-singer]]
-- [[russell-grigg]]
-- [[dominique-hecq]]
+- [[cormac-gallagher]]
 - [[craig-smith]]
 - [[didier-anzieu]]
-- [[nesrin-tura-demiryontan]]
-- [[jacques-lacan]]
-- [[jacques-alain-miller]]
-- [[savas-kilic]]
-- [[cormac-gallagher]]
-- [[joseph-campbell]]
-- [[sigmund-freud]]
 - [[dilman-muradoglu]]
+- [[dominique-hecq]]
 - [[ibrahim-sahin-ates]]
-
----
+- [[if-epfcl-editorial]]
+- [[jacques-alain-miller]]
+- [[jacques-lacan]]
+- [[joseph-campbell]]
+- [[katerina-honzikova]]
+- [[maggie-kline]]
+- [[michael-a-singer]]
+- [[nesrin-tura-demiryontan]]
+- [[patrick-barillot]]
+- [[peter-a-levine]]
+- [[phil-stutz]]
+- [[russell-grigg]]
+- [[savas-kilic]]
+- [[sigmund-freud]]
 
 ## Related Genres & Themes
 - [[unconscious-desire-lacanian-subject-and-somatic-healing]]

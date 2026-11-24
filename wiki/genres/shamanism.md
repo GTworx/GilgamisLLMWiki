@@ -1,7 +1,7 @@
 # Genre: Shamanism
 
 **Summary**: An ancient spiritual and healing tradition practiced worldwide in which specialized practitioners (shamans) enter altered states of consciousness to perceive and interact with non-physical dimensions, spirits, and ancestors.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -25,3 +25,4 @@ Anthropological and archaeological research reveals shamanism as humanity's arch
 
 ## Books in Wiki
 - [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]
+- [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] (2005) — [[graham-hancock]]

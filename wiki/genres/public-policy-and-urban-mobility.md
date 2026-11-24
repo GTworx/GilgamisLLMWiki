@@ -2,7 +2,7 @@
 
 **Description**: Empirical and regulatory analysis of public transit systems, automotive fuel-economy standards, and shared urban micromobility governance.
 **Key Themes**: [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,21 +14,23 @@ Featured in [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility
 ---
 
 ## Books in Wiki
-- [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
 - [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
-- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
 - [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
-
----
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
+- [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 
 ## Key Authors & Theorists
-- [[kwo-young]]
-- [[gary-marchant]]
-- [[colin-murphy]]
 - [[alexander-kolpakov]]
-
----
+- [[colin-murphy]]
+- [[doga-dernegi-researchers]]
+- [[gary-marchant]]
+- [[hakki-yirtici]]
+- [[kevin-d-roberts]]
+- [[kwo-young]]
+- [[paul-dans]]
+- [[steven-groves]]
+- [[turkic-world-policy-analysts]]
 
 ## Related Genres & Themes
 - [[energy-transition-and-storage-economics]]

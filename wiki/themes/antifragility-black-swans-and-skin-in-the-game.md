@@ -1,7 +1,7 @@
 # Theme: Antifragility, Black Swans, and Skin in the Game
 
 **Summary**: Navigating fat-tailed Extremistan through optionality, barbell portfolios, via negativa subtraction, the Lindy Effect, and symmetric downside accountability.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Nuclear Strategy and Strategic Stability
 
 **Summary**: The doctrines, operational postures, arms control frameworks, and technological dynamics governing the role of nuclear weapons in preventing major power war while avoiding catastrophic escalation.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

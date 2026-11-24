@@ -1,7 +1,7 @@
 # Theme: Violent Non-State Actors
 
 **Summary**: The theoretical concepts, operational methodologies, and challenges of applying deterrence, coercion, and counter-influence against terrorists, insurgent groups, and violent non-state actors (VNSAs).  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

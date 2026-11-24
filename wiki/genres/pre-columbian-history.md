@@ -1,7 +1,7 @@
 # Genre: Pre-Columbian History
 
 **Summary**: The historical and archaeological study of the indigenous cultures, civilizations, technologies, and settlements of the Americas prior to the arrival of Christopher Columbus in 1492.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -25,4 +25,5 @@ Pre-Columbian history has undergone a profound revolution over the past three de
 - [[alternative-archaeology]]
 
 ## Books in Wiki
+- [[america-before-the-key-to-earths-lost-civilization]] (2019) — [[graham-hancock]]
 - [[korkunun-otesi-beyond-fear]] (2008) — [[don-miguel-ruiz]], [[mary-carroll-nelson]]

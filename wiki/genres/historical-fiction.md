@@ -1,7 +1,7 @@
 # Genre: Historical Fiction
 
 **Summary**: Narrative literary fiction set in a accurately researched historical period that dramatizes historical events, cultural clashes, and psychological atmospheres through both real historical personages and imaginative characters.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -25,5 +25,7 @@ Historical fiction dramatizes transformative civilizational encounters. In [[war
 
 ## Books in Wiki
 - [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
-- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]
+- [[war-god-nights-of-the-witch]] (2013) — [[graham-hancock]]
+- [[sumerli-ludingirra]] (1996) — [[muazzez-ilmiye-cig]]
 - [[hadji-murad]] (1912) — [[leo-tolstoy]], [[aylmer-maude]]
+- [[the-decameron-volume-three]] (1895) — [[giovanni-boccaccio]], [[john-payne]]

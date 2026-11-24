@@ -1,7 +1,7 @@
 # Theme: Monitory Democracy and Power Scrutiny
 
 **Summary**: The post-1945 historical form of democracy in which periodic electoral representation is surrounded and checked by a continuous, decentralized web of extra-parliamentary watchdog institutions, courts, integrity commissions, and public transparency networks.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

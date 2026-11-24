@@ -1,7 +1,7 @@
 # Theme: Probabilistic Inference, Epistemic Uncertainty, and Safe Sequential Decision-Making
 
 **Summary**: Treating probability as the logic of uncertainty to decompose aleatoric noise from epistemic ignorance across Bayesian deep learning, Gaussian processes, active learning, clinical biostatistics, and safe reinforcement learning.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Fanaticism and Human Sacrifice
 
 **Summary**: The philosophical and psychological critique of religious and ideological absolutism that demands the violent sacrifice of human lives in service to abstract dogmas, deities, or state terror.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

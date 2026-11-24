@@ -1,7 +1,7 @@
 # Theme: Âşık and Minstrel Tradition
 
 **Summary**: The oral, musical, and poetic heritage of the wandering Anatolian bard (*âşık / ozan*), acting as communal historian, cultural preserver, spiritual guide, and public conscience through the sacred instrument of the *bağlama*.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

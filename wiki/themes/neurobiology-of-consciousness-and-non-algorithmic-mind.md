@@ -1,7 +1,7 @@
 # Theme: Neurobiology of Consciousness, Neuroaesthetics, and the Non-Algorithmic Mind
 
 **Summary**: From synaptic memory (LTP) and bottom-up/top-down visual processing of abstract art ('The Beholder's Share') to Gödelian and quantum-gravitational arguments against algorithmic Strong AI.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

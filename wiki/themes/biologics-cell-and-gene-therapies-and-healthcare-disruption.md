@@ -1,7 +1,7 @@
 # Theme: Biologics, Cell & Gene Therapies, Clinical Care, and Healthcare Disruption
 
 **Summary**: The convergence of recombinant protein engineering, autoimmune CAR-T and in-utero/CRISPR gene editing, patient-centered neurological rehabilitation, and Big Tech disruption of healthcare delivery.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

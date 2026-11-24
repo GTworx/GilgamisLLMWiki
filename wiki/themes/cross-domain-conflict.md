@@ -1,7 +1,7 @@
 # Theme: Cross-Domain Conflict
 
 **Summary**: Strategic interaction and coercive bargaining where threats, denial, or punishment in one domain (e.g., cyber, space, economic, information, nuclear) are used to deter or respond to actions in another.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-24
 
 ---
 

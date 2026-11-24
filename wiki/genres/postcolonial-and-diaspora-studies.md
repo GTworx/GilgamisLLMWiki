@@ -2,7 +2,7 @@
 
 **Description**: Historical and cultural analysis of empire, settler-colonialism, diasporic migration, anti-racist solidarity, and the mirror dynamics of nationalism.
 **Key Themes**: [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[clash-of-civilizations]], [[tyranny-of-the-majority-and-civil-associations]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,21 +14,22 @@ Featured in [[ashley-dawson]]'s [[mongrel-nation-colonization-in-reverse]] (with
 ---
 
 ## Books in Wiki
-- [[born-a-crime]] (2016) — [[trevor-noah]]
-- [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
-- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
-- [[orientalism]] (1978) — [[edward-w-said]]
 - [[doppelganger-israel-palestine-and-the-doppelganger-effect]] (2023) — [[naomi-klein]]
+- [[born-a-crime]] (2016) — [[trevor-noah]]
+- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] (2011) — [[slavs-and-tatars]], [[jalil-mammadguluzadeh]]
 - [[mongrel-nation-colonization-in-reverse]] (2007) — [[ashley-dawson]], [[louise-bennett]]
-
----
+- [[funny-in-farsi]] (2004) — [[firoozeh-dumas]]
+- [[orientalism]] (1978) — [[edward-w-said]]
 
 ## Key Authors & Theorists
-- [[naomi-klein]]
 - [[ashley-dawson]]
+- [[edward-w-said]]
+- [[firoozeh-dumas]]
+- [[jalil-mammadguluzadeh]]
 - [[louise-bennett]]
-
----
+- [[naomi-klein]]
+- [[slavs-and-tatars]]
+- [[trevor-noah]]
 
 ## Related Genres & Themes
 - [[constrained-vs-unconstrained-visions-and-postcolonial-identity]]

@@ -2,7 +2,7 @@
 
 **Description**: Geopolitical, techno-economic, and engineering analysis of national energy security, renewable power integration, grid-scale energy storage, and electric mobility.
 **Key Themes**: [[energy-transition-and-storage-economics]], [[semiconductor-geopolitics-and-chokepoints]], [[archaeology-and-national-identity]], [[rationality-and-decision-making]], [[general-purpose-technologies-and-learning-by-doing]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,25 +14,24 @@ In the wiki, this genre unites [[berat-albayrak]]'s [[burasi-cok-onemli-enerjide
 ---
 
 ## Books in Wiki
+- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
+- [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
 - [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] (2015) — [[ashlee-vance]]
 - [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
 - [[the-coal-question]] (1865) — [[william-stanley-jevons]]
-- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
-- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
-- [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]
-
----
 
 ## Key Authors & Theorists
+- [[alexander-kolpakov]]
+- [[ashlee-vance]]
 - [[berat-albayrak]]
-- [[oliver-schmidt]]
+- [[colin-murphy]]
+- [[e-f-schumacher]]
+- [[gary-marchant]]
 - [[iain-staffell]]
 - [[kwo-young]]
-- [[gary-marchant]]
-- [[colin-murphy]]
-- [[alexander-kolpakov]]
-
----
+- [[oliver-schmidt]]
+- [[william-stanley-jevons]]
 
 ## Related Genres & Themes
 - [[energy-transition-and-storage-economics]]

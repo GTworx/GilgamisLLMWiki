@@ -2,7 +2,7 @@
 
 **Description**: The branch of mathematics that uses algebraic, combinatorial, and homological invariants—such as simplicial nerve complexes, fundamental groups, covering spaces, Euler characteristics, and orientability—to classify topological spaces and relational structures.
 **Key Themes**: [[topological-social-choice-and-preference-cycles]], [[rationality-and-decision-making]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-24
 
 ---
 
@@ -18,17 +18,14 @@ This topological perspective reveals that logical paradoxes of self-reference an
 ---
 
 ## Books in Wiki
+- [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]]
 - [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] (1989) — [[roger-penrose]]
-- [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], & [[mikhail-prokopenko]]
-
----
 
 ## Key Authors & Theorists
-- [[ori-livson]]
-- [[siddharth-pritam]]
 - [[mikhail-prokopenko]]
-
----
+- [[ori-livson]]
+- [[roger-penrose]]
+- [[siddharth-pritam]]
 
 ## Related Genres & Themes
 - [[social-choice-theory]]

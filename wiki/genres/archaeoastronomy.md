@@ -1,7 +1,7 @@
 # Genre: Archaeoastronomy
 
 **Summary**: The interdisciplinary study of how ancient civilizations understood, tracked, and incorporated celestial phenomena and astronomical alignments into their sacred architecture, monuments, calendars, and religious mythologies.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

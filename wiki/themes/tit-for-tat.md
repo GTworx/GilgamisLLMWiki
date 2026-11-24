@@ -1,7 +1,7 @@
 # Theme: Tit for Tat
 
 **Summary**: The decision rule and strategic heuristic of starting with cooperation and subsequently replicating the opponent's preceding action in every subsequent round.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-24
 
 ---
 

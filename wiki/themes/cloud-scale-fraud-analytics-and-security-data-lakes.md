@@ -1,7 +1,7 @@
 # Theme: Cloud-Scale Fraud Analytics, Detection-as-Code, and Security Data Lakes
 
 **Summary**: Unifying high-volume cloud telemetry, adversarial machine learning, dynamic risk-versus-friction calibration, and Detection-as-Code pipelines to defend modern fintech, ecommerce, and cloud enterprises.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

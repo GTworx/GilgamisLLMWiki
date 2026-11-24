@@ -1,7 +1,7 @@
 # Theme: Gene-Centric Evolution and Memetics
 
 **Summary**: The neo-Darwinian paradigm explaining biological and cultural evolution through the differential survival of self-copying digital information units—genes in the biological sphere and memes in human culture—operating through organismal vehicles and extended phenotypes.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

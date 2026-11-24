@@ -2,7 +2,7 @@
 
 **Description**: Practitioner playbooks, cognitive operating systems, habit architectures, and executive coaching methodologies bridging individual self-governance and high-trust organizational performance.
 **Key Themes**: [[deep-work-habit-architecture-and-cognitive-systems]], [[servant-coaching-high-output-management-and-stoic-ego]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -34,39 +34,35 @@ Unites Silicon Valley executive coaching (*Trillion Dollar Coach*, *The Great CE
 - [[the-power-of-now]] (2004) — [[eckhart-tolle]]
 - [[the-7-habits-of-highly-effective-people]] (1989) — [[stephen-r-covey]]
 
----
-
 ## Key Authors & Theorists
-- [[justin-anderson]]
-- [[james-cheo]]
-- [[arun-gupta]]
-- [[thomas-j-fewer]]
-- [[matt-mochary]]
-- [[ilber-ortayli]]
-- [[yenal-bilgici]]
-- [[eric-schmidt]]
-- [[jonathan-rosenberg]]
+- [[adam-grant]]
 - [[alan-eagle]]
-- [[product-hunt]]
+- [[arun-gupta]]
+- [[aryanne-oade]]
+- [[cal-newport]]
+- [[charles-duhigg]]
+- [[eckhart-tolle]]
+- [[eric-schmidt]]
+- [[ilber-ortayli]]
+- [[james-cheo]]
+- [[jen-sincero]]
+- [[jenny-loveless]]
+- [[joan-marques]]
+- [[jonathan-rosenberg]]
+- [[justin-anderson]]
+- [[laurence-s-lyons]]
+- [[marshall-goldsmith]]
+- [[matt-mochary]]
 - [[melissa-joy-kong]]
 - [[niv-dror]]
-- [[joan-marques]]
-- [[satinder-dhiman]]
-- [[timothy-ferriss]]
-- [[cal-newport]]
+- [[product-hunt]]
 - [[ryan-holiday]]
+- [[satinder-dhiman]]
 - [[stephen-hanselman]]
-- [[jenny-loveless]]
-- [[adam-grant]]
-- [[jen-sincero]]
-- [[charles-duhigg]]
-- [[aryanne-oade]]
-- [[marshall-goldsmith]]
-- [[laurence-s-lyons]]
-- [[eckhart-tolle]]
 - [[stephen-r-covey]]
-
----
+- [[thomas-j-fewer]]
+- [[timothy-ferriss]]
+- [[yenal-bilgici]]
 
 ## Related Genres & Themes
 - [[deep-work-habit-architecture-and-cognitive-systems]]

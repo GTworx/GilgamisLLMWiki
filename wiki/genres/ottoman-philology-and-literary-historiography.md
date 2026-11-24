@@ -2,7 +2,7 @@
 
 **Description**: Critical manuscript transcription, paleography, biographical dictionaries (*tezkire*), classical rhetoric (*belâgat*), and archival recovery across Ottoman and early Republican Turkish literature.
 **Key Themes**: [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[asik-and-minstrel-tradition]], [[persian-sufism-skepticism-and-comparative-translation]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,31 +14,39 @@ In this wiki, the field spans primary Ottoman-script print ([[tevfik-fikret]]'s 
 ---
 
 ## Books in Wiki
-- [[sultan-cemin-portreleri-hakkinda]] (1973) — [[semavi-eyice]]
 - [[fusul-i-asikan]] (2024) — [[kastamonulu-ishak-zade-hasan-fevzi]], [[eyup-akman]]
 - [[osmanli-turkcesi-metinleri-1]] (2012) — [[recep-ahishali]], [[muzaffer-dogan]], [[mehmet-topal]], [[mesut-aydiner]], [[omer-isbilir]]
+- [[gunumuz-turkcesiyle-evliya-celebi-seyahatnamesi-cilt-9-kitap-2]] (2011) — [[evliya-celebi]], [[seyit-ali-kahraman]], [[yucel-dagli]], [[robert-dankoff]]
+- [[the-turkic-world-in-mahmud-al-kashghari]] (2010) — [[peter-b-golden]]
 - [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]
-- [[turk-sairleri-cilt-2]] (1936) — [[sadettin-nuzhet-ergun]]
+- [[devranname-seyyah-i-fakir-evliya-celebi]] (1989) — [[evliya-celebi]], [[dilaver-cebeci]]
+- [[the-portraits-of-murad-iii]] (1983) — [[tulay-reyhanli]]
+- [[sultan-cemin-portreleri-hakkinda]] (1973) — [[semavi-eyice]]
+- [[turk-sairleri-cilt-2]] (1936–1945) — [[sadettin-nuzhet-ergun]]
 - [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
 - [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]] (1898) — [[omar-khayyam]], [[edward-heron-allen]]
 
----
-
 ## Key Authors & Theorists
-- [[kastamonulu-ishak-zade-hasan-fevzi]]
+- [[ayse-cevirici-cagin]]
+- [[dilaver-cebeci]]
+- [[edward-heron-allen]]
+- [[evliya-celebi]]
 - [[eyup-akman]]
-- [[recep-ahishali]]
-- [[muzaffer-dogan]]
+- [[kastamonulu-ishak-zade-hasan-fevzi]]
 - [[mehmet-topal]]
 - [[mesut-aydiner]]
-- [[omer-isbilir]]
-- [[ayse-cevirici-cagin]]
-- [[sadettin-nuzhet-ergun]]
-- [[tevfik-fikret]]
+- [[muzaffer-dogan]]
 - [[omar-khayyam]]
-- [[edward-heron-allen]]
-
----
+- [[omer-isbilir]]
+- [[peter-b-golden]]
+- [[recep-ahishali]]
+- [[robert-dankoff]]
+- [[sadettin-nuzhet-ergun]]
+- [[semavi-eyice]]
+- [[seyit-ali-kahraman]]
+- [[tevfik-fikret]]
+- [[tulay-reyhanli]]
+- [[yucel-dagli]]
 
 ## Related Genres & Themes
 - [[ottoman-turkish-modernization-poetics-and-temporal-satire]]

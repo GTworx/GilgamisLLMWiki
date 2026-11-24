@@ -1,7 +1,7 @@
 # Theme: Shadow of the Future
 
 **Summary**: The degree to which expected future interactions discount present decisions, shaping whether rational actors choose immediate exploitation or long-term cooperation.  
-**Last updated**: 2026-08-23  
+**Last updated**: 2026-11-24
 
 ---
 

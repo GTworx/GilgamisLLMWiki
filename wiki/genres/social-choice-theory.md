@@ -2,7 +2,7 @@
 
 **Description**: The mathematical and philosophical study of collective decision-making, preference aggregation, voting paradoxes, and the axiomatic foundations of democratic governance.
 **Key Themes**: [[topological-social-choice-and-preference-cycles]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -16,22 +16,27 @@ Within the Gilgamis LLM Wiki, Social Choice Theory bridges two major analytical 
 ---
 
 ## Books in Wiki
+- [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]]
 - [[the-relationship-between-capitalism-and-democracy]] (2017) — [[aleksandra-evelyn-petkovic]]
-- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[handbook-of-quantitative-criminology]] (2010) — [[alex-r-piquero]], [[david-weisburd]]
+- [[the-life-and-death-of-democracy-and-monitory-democracy]] (2009) — [[john-keane]]
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007) — [[thomas-sowell]]
 - [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]
-- [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], & [[mikhail-prokopenko]]
-- [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]]
-
----
+- [[democracy-in-america]] (1840) — [[alexis-de-tocqueville]]
 
 ## Key Authors & Theorists
+- [[aleksandra-evelyn-petkovic]]
+- [[alex-r-piquero]]
+- [[alexis-de-tocqueville]]
+- [[david-weisburd]]
+- [[fredric-jameson]]
+- [[jacques-attali]]
+- [[john-keane]]
+- [[mikhail-prokopenko]]
 - [[ori-livson]]
 - [[siddharth-pritam]]
-- [[mikhail-prokopenko]]
-- [[robert-axelrod]]
-
----
+- [[susan-mcclary]]
+- [[thomas-sowell]]
 
 ## Related Genres & Themes
 - [[algebraic-topology]]

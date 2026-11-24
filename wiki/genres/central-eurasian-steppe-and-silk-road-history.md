@@ -2,7 +2,7 @@
 
 **Description**: Macro-historical, nomadic, archaeological, and economic analysis of the Eurasian steppe corridor, transcontinental trade arteries, nomadic confederations, and pastoralist-sedentary state formation.
 **Key Themes**: [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[archaeology-and-national-identity]]
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -12,36 +12,49 @@ Central Eurasian Steppe and Silk Road History spans the immense belt connecting 
 ---
 
 ## Books in Wiki
+- [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]
 - [[the-scythian-empire]] (2023) — [[christopher-i-beckwith]]
 - [[a-history-of-russia-central-asia-and-mongolia-vol-2]] (2018) — [[david-christian]]
 - [[the-huns-hyun-jin-kim]] (2016) — [[hyun-jin-kim]]
+- [[turks-and-khazars-origins-institutions-and-interactions]] (2016) — [[peter-b-golden]]
 - [[the-barbarian-empires-of-the-steppes]] (2014) — [[kenneth-w-harl]]
+- [[central-asia-in-world-history]] (2010) — [[peter-b-golden]]
+- [[the-turkic-world-in-mahmud-al-kashghari]] (2010) — [[peter-b-golden]]
 - [[empires-of-the-silk-road]] (2009) — [[christopher-i-beckwith]]
 - [[the-horse-the-wheel-and-language]] (2007) — [[david-w-anthony]]
+- [[the-world-of-the-khazars-new-perspectives]] (2007) — [[peter-b-golden]], [[haggai-ben-shammai]], [[andras-rona-tas]]
+- [[the-mongols-and-the-west-1221-1410]] (2005) — [[peter-jackson]]
 - [[ancient-china-and-its-enemies]] (2002) — [[nicola-di-cosmo]]
+- [[turkler-cilt-05-orta-cag]] (2002) — [[hasan-celal-guzel]], [[kemal-cicek]], [[salim-koca]]
+- [[history-of-civilizations-of-central-asia-vol-4-part-2]] (2000) — [[c-e-bosworth]], [[m-s-asimov]]
 - [[religions-of-the-silk-road]] (1999) — [[richard-c-foltz]]
 - [[an-introduction-to-the-history-of-the-turkic-peoples]] (1992) — [[peter-b-golden]]
 - [[cambridge-ancient-history-scythia-and-thrace]] (1991) — [[tadeusz-sulimirski]], [[timothy-taylor]], [[georgi-mihailov]]
 - [[the-thirteenth-tribe]] (1976) — [[arthur-koestler]]
 
----
-
 ## Key Authors & Theorists
-- [[kenneth-w-harl]]
+- [[andras-rona-tas]]
+- [[arthur-koestler]]
+- [[c-e-bosworth]]
 - [[christopher-i-beckwith]]
 - [[david-christian]]
-- [[hyun-jin-kim]]
 - [[david-w-anthony]]
+- [[eren-tasar]]
+- [[georgi-mihailov]]
+- [[haggai-ben-shammai]]
+- [[hasan-celal-guzel]]
+- [[hyun-jin-kim]]
+- [[kemal-cicek]]
+- [[kenneth-w-harl]]
+- [[m-s-asimov]]
 - [[nicola-di-cosmo]]
-- [[richard-c-foltz]]
 - [[peter-b-golden]]
+- [[peter-jackson]]
+- [[richard-c-foltz]]
+- [[salim-koca]]
 - [[tadeusz-sulimirski]]
 - [[timothy-taylor]]
-- [[georgi-mihailov]]
-- [[arthur-koestler]]
-
----
 
 ## Related Genres & Themes
 - [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]]

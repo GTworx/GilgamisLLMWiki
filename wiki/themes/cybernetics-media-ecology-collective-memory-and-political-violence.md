@@ -1,7 +1,7 @@
 # Theme: Cybernetics, Media Ecology, Collective Memory, and Political Violence
 
 **Summary**: Examining how information feedback, entertainment media, embodied ritual memory, purposeful gathering, and situational climates govern social cohesion—or fracture into extremism and political violence.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Cosmology, Black-Hole Thermodynamics, and the Arrow of Time
 
 **Summary**: From Big Bang singularities, Hawking radiation, and M-theory multiverses to thermodynamic entropy arrows, model-dependent realism, and humanity's multi-planetary survival.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

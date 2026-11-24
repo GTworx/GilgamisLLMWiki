@@ -2,7 +2,7 @@
 
 **Description**: Narrative histories of European banking dynasties, systemic institutional collapses, and timeless chronicles of speculative market psychology and monetary culture.
 **Key Themes**: [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[private-equity-value-creation-leverage-and-systemic-risk]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,22 +14,19 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
-- [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
+- [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]
 - [[reminiscences-of-a-stock-operator]] (1923) — [[edwin-lefevre]]
 - [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]
 
----
-
 ## Key Authors & Theorists
+- [[david-frisby]]
 - [[duncan-mavin]]
-- [[tristan-gaston-breton]]
 - [[edwin-lefevre]]
 - [[georg-simmel]]
-- [[david-frisby]]
-
----
+- [[nassim-nicholas-taleb]]
+- [[tristan-gaston-breton]]
 
 ## Related Genres & Themes
 - [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]]

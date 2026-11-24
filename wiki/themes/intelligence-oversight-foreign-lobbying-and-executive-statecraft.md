@@ -1,7 +1,7 @@
 # Theme: Intelligence Oversight, Foreign Lobbying, Leader Profiling, and Executive Statecraft
 
 **Summary**: How covert agencies, domestic interest lobbies, transnational illicit networks, and individual leader psychology shape—and sometimes distort—democratic national-security decision-making.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

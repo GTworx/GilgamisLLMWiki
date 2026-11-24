@@ -2,7 +2,7 @@
 
 **Description**: Critical, historical, and philological scholarship examining modernist fiction, narrative form, and the intersection of literature with intellectual and political crises.
 **Key Themes**: [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]], [[fanaticism-and-human-sacrifice]]
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,28 +14,44 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 ---
 
 ## Books in Wiki
-- [[the-idea-of-israel]] (2014) — [[ilan-pappe]]
-- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
 - [[entelektuelin-kutsal-kitabi-modern-kultur]] (2014) — [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]]
-- [[mehmet-akif]] (1987) — [[sezai-karakoc]]
-- [[99-yuz]] (2010) — [[cemal-sureya]]
-- [[finnegans-wake]] (1939) — [[james-joyce]]
-- [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
+- [[the-idea-of-israel]] (2014) — [[ilan-pappe]]
 - [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] (2014) — [[leonard-lewisohn]]
-- [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]
-- [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
+- [[99-yuz]] (2010) — [[cemal-sureya]]
 - [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] (2006) — [[ayse-cevirici-cagin]]
-- [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
-- [[orientalism]] (1978) — [[edward-w-said]]
+- [[review-math-and-the-mona-lisa]] (2005) — [[kim-williams]]
+- [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
 - [[the-end-of-modernism-elias-canettis-auto-da-fe]] (2001) — [[william-collins-donahue]], [[elias-canetti]]
-
----
+- [[mehmet-akif]] (1987) — [[sezai-karakoc]]
+- [[orientalism]] (1978) — [[edward-w-said]]
+- [[saatleri-ayarlama-enstitusu]] (1961) — [[ahmet-hamdi-tanpinar]]
+- [[finnegans-wake]] (1939) — [[james-joyce]]
+- [[rubab-i-sikeste]] (1910) — [[tevfik-fikret]]
+- [[the-rubaiyat-of-omar-khayyam-batson-ross]] (1900) — [[omar-khayyam]], [[edward-fitzgerald]], [[henrietta-m-batson]], [[edward-denison-ross]]
 
 ## Key Authors & Theorists
-- [[william-collins-donahue]]
+- [[ahmet-hamdi-tanpinar]]
+- [[ayse-cevirici-cagin]]
+- [[burzine-k-waghmar]]
+- [[cemal-sureya]]
+- [[dale-bishop]]
+- [[david-s-kidder]]
+- [[edward-denison-ross]]
+- [[edward-fitzgerald]]
+- [[edward-w-said]]
+- [[egemen-yilgur]]
 - [[elias-canetti]]
-
----
+- [[henrietta-m-batson]]
+- [[ilan-pappe]]
+- [[james-joyce]]
+- [[kim-williams]]
+- [[leonard-lewisohn]]
+- [[noah-d-oppenheim]]
+- [[omar-khayyam]]
+- [[richard-c-foltz]]
+- [[sezai-karakoc]]
+- [[tevfik-fikret]]
+- [[william-collins-donahue]]
 
 ## Related Genres & Themes
 - [[critique-of-academic-orthodoxy]]

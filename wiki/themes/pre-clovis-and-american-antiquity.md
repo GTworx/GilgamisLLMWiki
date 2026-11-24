@@ -1,7 +1,7 @@
 # Theme: Pre-Clovis and American Antiquity
 
 **Summary**: The revolution in American archaeology demonstrating human occupation of the Americas tens of thousands of years before the "Clovis-First" paradigm (13,000 BP), revealing sophisticated prehistoric indigenous civilizations.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

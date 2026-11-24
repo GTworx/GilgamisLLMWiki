@@ -1,7 +1,7 @@
 # Theme: Hybrid Threats and Cyber Warfare
 
 **Summary**: The integration of unconventional, covert, cyber, electronic, economic, and informational instruments designed to achieve strategic goals below the threshold of open armed conflict.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

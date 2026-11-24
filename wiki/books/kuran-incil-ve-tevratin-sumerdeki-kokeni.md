@@ -4,8 +4,8 @@
 **Publication Year**: 1995 (Kaynak Yayınları, Istanbul; 9th edition April 2005, ISBN 975-343-110-4)
 **Genre(s)**: [[comparative-religion-and-islamic-history]], [[archaeological-historiography]], [[anatolian-civilizations]]
 **Key Themes**: [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[archaeology-and-national-identity]], [[critique-of-academic-orthodoxy]]
-**Source**: `BOOKS/Religion_/Muazzez_Ilmiye_Cig_Kuran_Incil_ve_Tevrat.pdf` (107 pp., Kaynak Yayınları 9th Ed. scan)
-**Last updated**: 2026-11-22
+**Source**: `BOOKS/Religion_/Muazzez_Ilmiye_Cig_Kuran_Incil_ve_Tevrat.pdf` (107 pp., Kaynak Yayınları 9th Ed. scan) & duplicate copies in `BOOKS/History_/Turkiye and Region/Muazzez_Ilmiye_Cig_-_Kuran_Incil_ve_Tevr.pdf` (107 pp.), `BOOKS/History_/Turkiye and Region/Muazzez Ilmiye Cig/Muazzez Ilmiye Cig - Kuran Incil ve Tevratin Sumerdeki Kokeni.pdf` (107 pp.), and `BOOKS/History_/Turkiye and Region/Muazzez Ilmiye Cig/Muazzez_Ilmiye_Cig_Kuran_Incil_ve_Tevrat.pdf` (107 pp.)
+**Last updated**: 2026-11-24
 
 ---
 

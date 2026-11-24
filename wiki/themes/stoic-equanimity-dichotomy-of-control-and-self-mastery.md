@@ -1,7 +1,7 @@
 # Theme: Stoic Equanimity, Dichotomy of Control, and Self-Mastery
 
 **Summary**: Building an unshakeable inner citadel by separating what lies within our moral volition from external fortune, status, and adversity.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

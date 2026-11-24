@@ -1,7 +1,7 @@
 # Theme: Moral Foundations, Cognitive Biases, and Interface Perception
 
 **Summary**: Investigating how evolution shaped human sensory interfaces, intuitive heuristics, loss aversion, strategic game rationality, moral taste buds, and the long-run pacification of human violence.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

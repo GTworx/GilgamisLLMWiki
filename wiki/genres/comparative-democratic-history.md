@@ -2,7 +2,7 @@
 
 **Description**: The cross-civilizational historical, sociological, and constitutional study of popular assemblies, electoral representation, civil associations, and power-monitoring institutions from third-millennium BC Mesopotamia to modern post-parliamentary democracies.
 **Key Themes**: [[pre-athenian-and-indigenous-democracies]], [[tyranny-of-the-majority-and-civil-associations]], [[monitory-democracy-and-power-scrutiny]], [[institutional-neutrality-and-academic-freedom]], [[topological-social-choice-and-preference-cycles]], [[critique-of-academic-orthodoxy]], [[cooperation-and-reciprocity]]
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -17,39 +17,43 @@
 ---
 
 ## Books in Wiki
-- [[ottoman-brothers]] (2011) — [[michelle-u-campos]]
 - [[the-dawn-of-everything]] (2021) — [[david-graeber]], [[david-wengrow]]
-- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
-- [[the-open-society-and-its-enemies-vol-1]] (1962) — [[karl-popper]]
-- [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
-- [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
-- [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
-- [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
 - [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
-- [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]
-- [[democracy-in-america]] (1840) — [[alexis-de-tocqueville]]
-- [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] (1967) — [[harry-kalven-jr]]
-- [[the-first-democracies-early-popular-government-outside-athens]] (1997) — [[eric-w-robinson]], [[richard-j-evans]]
-- [[the-life-and-death-of-democracy-and-monitory-democracy]] (2009) — [[john-keane]]
+- [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
+- [[ottoman-brothers]] (2011) — [[michelle-u-campos]]
+- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[the-secret-history-of-democracy-primitive-democracy]] (2011) — [[benjamin-isakhan]], [[stephen-stockwell]], [[thorkild-jacobsen]]
-- [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]]
-
----
+- [[russian-politics-from-lenin-to-putin]] (2010) — [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]]
+- [[the-life-and-death-of-democracy-and-monitory-democracy]] (2009) — [[john-keane]]
+- [[becoming-king-martin-luther-king-jr]] (2008) — [[troy-jackson]]
+- [[the-first-democracies-early-popular-government-outside-athens]] (1997) — [[eric-w-robinson]], [[richard-j-evans]]
+- [[the-end-of-history-and-the-last-man]] (1992) — [[francis-fukuyama]]
+- [[the-open-society-and-its-enemies-vol-1]] (1962) — [[karl-popper]]
+- [[gandhi-my-experiments-with-truth]] (1927) — [[mahatma-gandhi]]
+- [[democracy-in-america]] (1840) — [[alexis-de-tocqueville]]
 
 ## Key Authors & Theorists
 - [[alexis-de-tocqueville]]
-- [[thorkild-jacobsen]]
-- [[harry-kalven-jr]]
-- [[eric-w-robinson]]
-- [[richard-j-evans]]
-- [[john-keane]]
+- [[archie-brown]]
 - [[benjamin-isakhan]]
+- [[daron-acemoglu]]
+- [[david-graeber]]
+- [[david-wengrow]]
+- [[eric-w-robinson]]
+- [[francis-fukuyama]]
+- [[james-a-robinson]]
+- [[john-keane]]
+- [[karl-popper]]
+- [[mahatma-gandhi]]
+- [[michelle-u-campos]]
+- [[nick-ragone]]
+- [[richard-j-evans]]
+- [[sheila-fitzpatrick]]
+- [[stephen-fortescue]]
 - [[stephen-stockwell]]
-- [[ori-livson]]
-- [[siddharth-pritam]]
-- [[mikhail-prokopenko]]
-
----
+- [[steven-pinker]]
+- [[thorkild-jacobsen]]
+- [[troy-jackson]]
 
 ## Related Genres & Themes
 - [[political-science]]

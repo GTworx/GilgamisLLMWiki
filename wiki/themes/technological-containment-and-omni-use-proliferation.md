@@ -1,7 +1,7 @@
 # Theme: The Containment Problem, Omni-Use Proliferation, and AI Statecraft
 
 **Summary**: Why general-purpose technologies characterized by asymmetry, hyper-evolution, omni-use, and autonomy resist historical containment, amplifying nation-state fragility between the poles of catastrophe and surveillance dystopia.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

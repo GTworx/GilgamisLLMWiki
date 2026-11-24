@@ -1,7 +1,7 @@
 # Genre: Esoteric History
 
 **Summary**: The historical investigation of secret societies, hermetic schools, occult traditions, sacred geography, and their hidden influence on major political, religious, and philosophical revolutions throughout world history.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

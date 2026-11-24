@@ -1,7 +1,7 @@
 # Theme: Critique of Academic Orthodoxy
 
 **Summary**: The analysis and critique of dogmatism, paradigm lock-in, peer-review conservatism, and institutional resistance to anomalous evidence within mainstream academic disciplines.  
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

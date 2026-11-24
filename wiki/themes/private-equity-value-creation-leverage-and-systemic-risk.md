@@ -1,7 +1,7 @@
 # Theme: Private Equity Value Creation, Financial Leverage, and Systemic Credit Risk
 
 **Summary**: The central tension in modern private markets between active operational transformation, GP–LP alignment, and buy-and-build multiple expansion versus LBO debt-loading, dividend extraction, and macroeconomic fragility.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

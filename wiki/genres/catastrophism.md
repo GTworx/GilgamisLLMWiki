@@ -1,7 +1,7 @@
 # Genre: Catastrophism
 
 **Summary**: The scientific and philosophical paradigm asserting that Earth's geological features, biological extinctions, and human history have been shaped primarily by sudden, violent, short-lived catastrophic events rather than solely by slow uniformitarian processes.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

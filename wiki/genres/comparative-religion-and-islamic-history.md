@@ -2,7 +2,7 @@
 
 **Description**: Historical, archaeological, and scientific investigations tracing ancient Near Eastern religious origins, Iranian pluralism, the early Islamic caliphate, and Islamic Golden Age science.
 **Key Themes**: [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[islamic-golden-age-science-and-civilizational-transmission]], [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]]
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,37 +14,52 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 ---
 
 ## Books in Wiki
-- [[the-worlds-sixteen-crucified-saviors]] (1875) — [[kersey-graves]]
-- [[the-story-of-civilization-vol-1-our-oriental-heritage]] (1935) — [[will-durant]], [[ariel-durant]]
-- [[the-thirteenth-tribe]] (1976) — [[arthur-koestler]]
-- [[an-introduction-to-the-history-of-the-turkic-peoples]] (1992) — [[peter-b-golden]]
-- [[religions-of-the-silk-road]] (1999) — [[richard-c-foltz]]
-- [[destiny-disrupted]] (2009) — [[tamim-ansary]]
-- [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
-- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[anadoluda-ilk-tapinak-gobeklitepe]] (2017) — [[ali-osman-kurt]]
+- [[ahi-evren-ve-mevlana-mucadelesi]] (2012) — [[mikail-bayram]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]
-- [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007) — [[fuat-sezgin]], [[eckhard-neubauer]]
+- [[destiny-disrupted]] (2009) — [[tamim-ansary]]
+- [[sumerlilerde-tufan-tufanda-turkler]] (2008) — [[muazzez-ilmiye-cig]]
+- [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] (2007–2010) — [[fuat-sezgin]], [[eckhard-neubauer]]
 - [[me-and-rumi-shams-i-tabrizi]] (2004) — [[shams-i-tabrizi]], [[william-c-chittick]]
 - [[spirituality-in-the-land-of-the-noble-reviews]] (2004) — [[burzine-k-waghmar]], [[dale-bishop]], [[richard-c-foltz]]
+- [[history-of-civilizations-of-central-asia-vol-4-part-2]] (2000) — [[c-e-bosworth]], [[m-s-asimov]]
+- [[olum-ve-kiyamet-olume-hazirlik]] (1999) — [[imam-al-ghazali]]
+- [[religions-of-the-silk-road]] (1999) — [[richard-c-foltz]]
+- [[inannanin-aski-sumerde-inanc-ve-kutsal-evlenme]] (1998) — [[muazzez-ilmiye-cig]]
+- [[ibrahim-peygamber-sumer-yazilarina-gore]] (1997) — [[muazzez-ilmiye-cig]]
 - [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
+- [[an-introduction-to-the-history-of-the-turkic-peoples]] (1992) — [[peter-b-golden]]
+- [[the-thirteenth-tribe]] (1976) — [[arthur-koestler]]
 - [[the-life-and-work-of-jalal-ud-din-rumi]] (1956) — [[afzal-iqbal]], [[a-j-arberry]]
-
----
+- [[ibni-fadlan-seyahatnamesi]] (1954) — [[ibn-fadlan]], [[lutfi-dogan]]
+- [[the-story-of-civilization-vol-1-our-oriental-heritage]] (1935) — [[will-durant]], [[ariel-durant]]
+- [[the-worlds-sixteen-crucified-saviors]] (1875) — [[kersey-graves]]
 
 ## Key Authors & Theorists
-- [[lesley-hazleton]]
-- [[fuat-sezgin]]
-- [[eckhard-neubauer]]
-- [[shams-i-tabrizi]]
-- [[william-c-chittick]]
-- [[burzine-k-waghmar]]
-- [[dale-bishop]]
-- [[richard-c-foltz]]
-- [[muazzez-ilmiye-cig]]
-- [[afzal-iqbal]]
 - [[a-j-arberry]]
-
----
+- [[afzal-iqbal]]
+- [[ali-osman-kurt]]
+- [[ariel-durant]]
+- [[arthur-koestler]]
+- [[burzine-k-waghmar]]
+- [[c-e-bosworth]]
+- [[dale-bishop]]
+- [[eckhard-neubauer]]
+- [[fuat-sezgin]]
+- [[ibn-fadlan]]
+- [[imam-al-ghazali]]
+- [[kersey-graves]]
+- [[lesley-hazleton]]
+- [[lutfi-dogan]]
+- [[m-s-asimov]]
+- [[mikail-bayram]]
+- [[muazzez-ilmiye-cig]]
+- [[peter-b-golden]]
+- [[richard-c-foltz]]
+- [[shams-i-tabrizi]]
+- [[tamim-ansary]]
+- [[will-durant]]
+- [[william-c-chittick]]
 
 ## Related Genres & Themes
 - [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]

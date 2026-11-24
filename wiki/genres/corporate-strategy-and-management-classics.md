@@ -2,7 +2,7 @@
 
 **Description**: Empirical studies of enduring corporate greatness, Harvard Business Review centennial canons, empowered tech product discovery, open-source collaboration, and adaptive career strategy.
 **Key Themes**: [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[platform-power-data-governance-and-career-adaptability]], [[adaptive-intelligence-and-organizational-resilience]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,53 +14,67 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
-- [[leadership-lessons-six-titans]] (2017) — [[will-peters]]
-- [[leaders-eat-last]] (2014) — [[simon-sinek]]
-- [[high-output-management]] (1983) — [[andrew-s-grove]]
-- [[why-startups-fail]] (2021) — [[tom-eisenmann]]
-- [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
-- [[value-proposition-design]] (2014) — [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]]
-- [[the-startup-owners-manual]] (2012) — [[steve-blank]], [[bob-dorf]]
-- [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
-- [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]
-- [[blitzscaling]] (2018) — [[reid-hoffman]], [[chris-yeh]]
-- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
-- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
+- [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
+- [[blitzscaling]] (2018) — [[reid-hoffman]], [[chris-yeh]]
 - [[inspired-how-to-create-tech-products-customers-love]] (2018) — [[marty-cagan]]
 - [[market-research-process-data-methods-stata]] (2018) — [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
+- [[leadership-lessons-six-titans]] (2017) — [[will-peters]]
+- [[disrupt-you]] (2015) — [[jay-samit]], [[reid-hoffman]]
+- [[crossing-the-chasm]] (2014) — [[geoffrey-a-moore]]
+- [[leaders-eat-last]] (2014) — [[simon-sinek]]
+- [[value-proposition-design]] (2014) — [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]]
+- [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
 - [[financial-intelligence-for-managers]] (2013) — [[karen-berman]], [[joe-knight]], [[john-case]]
 - [[hbr-10-must-reads-on-teams]] (2013) — [[harvard-business-review-editorial]]
+- [[how-will-you-measure-your-life]] (2012) — [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]]
 - [[the-start-up-of-you]] (2012) — [[reid-hoffman]], [[ben-casnocha]]
+- [[the-startup-owners-manual]] (2012) — [[steve-blank]], [[bob-dorf]]
 - [[good-to-great]] (2001) — [[jim-collins]]
 - [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
+- [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
 - [[built-to-last]] (1994) — [[jim-collins]], [[jerry-i-porras]]
-
----
+- [[high-output-management]] (1983) — [[andrew-s-grove]]
 
 ## Key Authors & Theorists
-- [[harvard-business-review-editorial]]
 - [[adi-ignatius]]
+- [[alan-smith-strategyzer]]
+- [[alexander-osterwalder]]
 - [[amy-c-edmondson]]
-- [[marty-cagan]]
-- [[erik-mooi]]
-- [[marko-sarstedt]]
-- [[irma-mooi-reci]]
-- [[hambleton-lord]]
+- [[andrew-s-grove]]
+- [[ben-casnocha]]
+- [[blake-masters]]
+- [[bob-dorf]]
+- [[chris-yeh]]
 - [[christopher-mirabile]]
-- [[karen-berman]]
+- [[clayton-m-christensen]]
+- [[eric-steven-raymond]]
+- [[erik-mooi]]
+- [[geoffrey-a-moore]]
+- [[greg-bernarda]]
+- [[hambleton-lord]]
+- [[harvard-business-review-editorial]]
+- [[irma-mooi-reci]]
+- [[james-allworth]]
+- [[jay-samit]]
+- [[jerry-i-porras]]
+- [[jim-collins]]
 - [[joe-knight]]
 - [[john-case]]
+- [[karen-berman]]
+- [[karen-dillon]]
+- [[marko-sarstedt]]
+- [[marty-cagan]]
+- [[peter-thiel]]
 - [[reid-hoffman]]
-- [[ben-casnocha]]
-- [[jim-collins]]
-- [[eric-steven-raymond]]
-- [[jerry-i-porras]]
-
----
+- [[simon-sinek]]
+- [[steve-blank]]
+- [[tom-eisenmann]]
+- [[will-peters]]
+- [[yves-pigneur]]
 
 ## Related Genres & Themes
 - [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]]

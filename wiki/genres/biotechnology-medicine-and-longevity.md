@@ -2,7 +2,7 @@
 
 **Description**: Molecular biologics, CAR-T and CRISPR cell/gene therapies, neurological patient care, healthcare supply-chain disruption, and Blue Zone lifestyle longevity.
 **Key Themes**: [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[universal-love-and-human-dignity]]
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,33 +14,34 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
-- [[homo-deus]] (2016) — [[yuval-noah-harari]]
-- [[tools-of-titans]] (2017) — [[timothy-ferriss]]
-- [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
+- [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
 - [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] (2017) — [[hector-garcia]], [[francesc-miralles]]
+- [[tools-of-titans]] (2017) — [[timothy-ferriss]]
+- [[homo-deus]] (2016) — [[yuval-noah-harari]]
 - [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] (2013) — [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]]
 - [[pharmaceutical-biotechnology-fundamentals-and-applications]] (2013) — [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]]
 
----
-
 ## Key Authors & Theorists
+- [[bernd-meibohm]]
+- [[cb-insights-research]]
+- [[daan-j-a-crommelin]]
+- [[francesc-miralles]]
+- [[hector-garcia]]
+- [[hulya-apaydin]]
+- [[ismail-zileli]]
+- [[katerina-honzikova]]
+- [[maggie-kline]]
+- [[peter-a-levine]]
+- [[robert-d-sindelar]]
+- [[semra-oguz]]
+- [[sibel-ozekmekci]]
 - [[stat-news-editorial]]
 - [[the-giving-block]]
-- [[cb-insights-research]]
-- [[hector-garcia]]
-- [[francesc-miralles]]
-- [[hulya-apaydin]]
-- [[sibel-ozekmekci]]
-- [[semra-oguz]]
-- [[ismail-zileli]]
-- [[daan-j-a-crommelin]]
-- [[robert-d-sindelar]]
-- [[bernd-meibohm]]
-
----
+- [[timothy-ferriss]]
+- [[yuval-noah-harari]]
 
 ## Related Genres & Themes
 - [[biologics-cell-and-gene-therapies-and-healthcare-disruption]]

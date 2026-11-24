@@ -1,7 +1,7 @@
 # Genre: Anatolian Civilizations
 
 **Summary**: The multidisciplinary study of the prehistoric, Bronze Age, Iron Age, and classical cultures that inhabited Anatolia (Asia Minor), emphasizing its role as the bridge and wellspring of world civilization.  
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -31,9 +31,25 @@ Anatolia represents one of the dense epicenters of human civilization, from the 
 - [[younger-dryas-impact-hypothesis]]
 
 ## Books in Wiki
-- [[kayip-yazilar-ve-diller]] (2000) — [[johannes-friedrich]], [[recai-tekoglu]]
+- [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] (2024) — [[erdal-polat]]
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]
+- [[anadoluda-ilk-tapinak-gobeklitepe]] (2017) — [[ali-osman-kurt]]
 - [[1177-bc-the-year-civilization-collapsed]] (2014) — [[eric-h-cline]]
-- [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
-- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
+- [[uygarlik-anadoluda-dogdu]] (2012) — [[fahri-isik]]
+- [[the-secret-history-of-democracy-primitive-democracy]] (2011) — [[benjamin-isakhan]], [[stephen-stockwell]], [[thorkild-jacobsen]]
+- [[sumerlilerde-tufan-tufanda-turkler]] (2008) — [[muazzez-ilmiye-cig]]
 - [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] (2007) — [[doga-dernegi-researchers]]
+- [[tarihin-basladigi-on-turk-uygarligi]] (2003) — [[haluk-tarcan]]
+- [[hititler-ve-hattusa-istarin-kaleminden]] (2000) — [[muazzez-ilmiye-cig]]
+- [[kayip-yazilar-ve-diller]] (2000) — [[johannes-friedrich]], [[recai-tekoglu]]
+- [[sumer-ve-turkler-makaleler]] (2000) — [[muazzez-ilmiye-cig]]
+- [[anadoluda-on-bin-yil-turk-dilinin-bes-bin-yili]] (1999) — [[selahi-diker]]
+- [[inannanin-aski-sumerde-inanc-ve-kutsal-evlenme]] (1998) — [[muazzez-ilmiye-cig]]
+- [[on-turk-tarihi]] (1998) — [[haluk-tarcan]]
+- [[ibrahim-peygamber-sumer-yazilarina-gore]] (1997) — [[muazzez-ilmiye-cig]]
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] (1997) — [[burhan-oguz]]
+- [[gilgames-tarihte-ilk-kral-kahraman]] (1996) — [[muazzez-ilmiye-cig]]
+- [[sumerli-ludingirra]] (1996) — [[muazzez-ilmiye-cig]]
+- [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
+- [[zaman-tuneli-ile-gecmiste-sumere-yolculuk]] (1993) — [[muazzez-ilmiye-cig]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]

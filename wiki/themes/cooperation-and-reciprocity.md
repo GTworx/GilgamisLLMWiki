@@ -1,7 +1,7 @@
 # Theme: Cooperation and Reciprocity
 
 **Summary**: The theoretical and empirical principles governing how conditional cooperation, mutual restraint, and reciprocal punishment emerge and persist among self-interested actors without centralized enforcement.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

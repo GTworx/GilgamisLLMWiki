@@ -1,7 +1,7 @@
 # Theme: Banking Dynasties, Institutional Meltdowns, and Speculative Psychology
 
 **Summary**: Lessons across three centuries of finance: why disciplined family trust and trend patience endure, whereas unchecked leverage, hubris, and cultural breakdown destroy even 167-year-old banks.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Genre: Speculative Fiction
 
 **Summary**: An expansive literary genre encompassing works that explore "what if" scenarios, incorporating elements of supernatural, mythic, historical revisionism, and alternate realities into narrative form.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -23,7 +23,8 @@ Speculative fiction allows authors to dramatize theories, metaphysical worldview
 - [[epic-narrative]]
 
 ## Books in Wiki
-- [[the-diamond-age]] (1995) — [[neal-stephenson]]
-- [[machines-like-me]] (2019) — [[ian-mcewan]]
 - [[klara-and-the-sun]] (2021) — [[kazuo-ishiguro]]
+- [[machines-like-me]] (2019) — [[ian-mcewan]]
+- [[war-god-nights-of-the-witch]] (2013) — [[graham-hancock]]
+- [[the-diamond-age]] (1995) — [[neal-stephenson]]
 - [[the-last-man-volume-one]] (1826) — [[mary-shelley]]

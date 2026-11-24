@@ -2,7 +2,7 @@
 
 **Description**: Covert intelligence tradecraft, democratic oversight of shadow agencies, at-a-distance leadership profiling, NSC executive policymaking, and transnational hybrid warfare.
 **Key Themes**: [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[hybrid-threats-and-cyber-warfare]], [[deterrence-and-coercion]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -19,19 +19,15 @@ In this wiki, the genre bridges [[victor-ostrovsky]] & [[claire-hoy]]'s Mossad a
 - [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
 - [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 
----
-
 ## Key Authors & Theorists
-- [[john-bolton]]
+- [[claire-hoy]]
 - [[craig-unger]]
+- [[david-g-winter]]
 - [[jerrold-m-post]]
+- [[john-bolton]]
 - [[margaret-g-hermann]]
 - [[stephen-g-walker]]
-- [[david-g-winter]]
 - [[victor-ostrovsky]]
-- [[claire-hoy]]
-
----
 
 ## Related Genres & Themes
 - [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]

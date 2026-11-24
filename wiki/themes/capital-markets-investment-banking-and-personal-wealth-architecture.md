@@ -1,7 +1,7 @@
 # Theme: Capital Markets, Investment Banking, and Personal Wealth Architecture
 
 **Summary**: Connecting Wall Street institutional intermediation, securities regulation, and spreadsheet valuation directly to household budgeting, diversified equity compounding, real-estate leverage, and behavioral trading discipline.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

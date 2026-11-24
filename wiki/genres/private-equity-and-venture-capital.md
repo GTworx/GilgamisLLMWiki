@@ -2,7 +2,7 @@
 
 **Description**: Private-market capital formation across venture capital, growth equity, leveraged buyouts, GP–LP fund economics, operational value creation, regulatory governance, and systemic credit risk.
 **Key Themes**: [[private-equity-value-creation-leverage-and-systemic-risk]], [[rationality-and-decision-making]], [[social-critique-and-moral-conscience]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,33 +14,44 @@ Within the Gilgamis LLM Wiki, this genre stages a rigorous multi-perspective syn
 ---
 
 ## Books in Wiki
-- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
-- [[venture-capitalists-at-work]] (2011) — [[tarang-shah]], [[sheetal-shah]]
-- [[venture-capital-deal-terms]] (2016) — [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]]
-- [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
-- [[the-art-of-startup-fundraising]] (2016) — [[alejandro-cremades]]
-- [[mastering-the-vc-game]] (2010) — [[jeffrey-bussgang]]
-- [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
-- [[crack-the-funding-code]] (2019) — [[judy-robinett]]
-- [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
-- [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[the-ultimate-private-equity-playbook]] (2021) — [[jo-hands]], [[james-ciuffetelli]]
+- [[crack-the-funding-code]] (2019) — [[judy-robinett]]
+- [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
+- [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
 - [[mastering-private-equity]] (2017) — [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]]
+- [[the-art-of-startup-fundraising]] (2016) — [[alejandro-cremades]]
+- [[venture-capital-deal-terms]] (2016) — [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]]
+- [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
+- [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
+- [[venture-capitalists-at-work]] (2011) — [[tarang-shah]], [[sheetal-shah]]
+- [[venture-deals]] (2011) — [[brad-feld]], [[jason-mendelson]]
+- [[mastering-the-vc-game]] (2010) — [[jeffrey-bussgang]]
 - [[the-buyout-of-america]] (2009) — [[josh-kosman]]
 
----
-
 ## Key Authors & Theorists
-- [[tushar-balkrishna-raut]]
-- [[jo-hands]]
-- [[james-ciuffetelli]]
-- [[claudia-zeisberger]]
-- [[michael-prahl]]
+- [[alejandro-cremades]]
 - [[bowen-white]]
+- [[brad-feld]]
+- [[christopher-mirabile]]
+- [[claudia-zeisberger]]
+- [[david-p-stowell]]
+- [[hambleton-lord]]
+- [[harm-f-de-vries]]
+- [[james-ciuffetelli]]
+- [[jason-mendelson]]
+- [[jeffrey-bussgang]]
+- [[jo-hands]]
 - [[josh-kosman]]
-
----
+- [[judy-robinett]]
+- [[mahendra-ramsinghani]]
+- [[menno-j-van-loon]]
+- [[michael-prahl]]
+- [[paul-pignataro]]
+- [[sheetal-shah]]
+- [[sjoerd-mol]]
+- [[tarang-shah]]
+- [[tushar-balkrishna-raut]]
 
 ## Related Genres & Themes
 - [[private-equity-value-creation-leverage-and-systemic-risk]]

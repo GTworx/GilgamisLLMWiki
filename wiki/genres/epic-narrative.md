@@ -1,7 +1,7 @@
 # Genre: Epic Narrative
 
 **Summary**: A grand narrative format focusing on heroic trials, monumental civilizational collisions, and epochal transformations of whole peoples and empires.  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -24,3 +24,4 @@ Following in the tradition of ancient literary epics (such as the *Epic of Gilga
 
 ## Books in Wiki
 - [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
+- [[war-god-nights-of-the-witch]] (2013) — [[graham-hancock]]

@@ -1,7 +1,7 @@
 # Theme: Unconscious Desire, the Lacanian Subject, and Somatic Healing
 
 **Summary**: Charting the psyche from Freud's 1895 neural project and dream-work through Lacan's Symbolic/Real subject, Anzieu's Skin-Ego, Campbell's Monomyth, Joyce's dream-language, and somatic/action therapies.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

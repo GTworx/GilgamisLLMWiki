@@ -1,7 +1,7 @@
 # Theme: Orientalism, Postcolonial Discourse, Eurasian Syncretism, and Cultural Satire
 
 **Summary**: How imperial knowledge regimes construct 'East' and 'West,' and how indigenous Anatolian, Turkic, and Caucasian thinkers subvert essentialism through historical syncretism and biting vernacular satire.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

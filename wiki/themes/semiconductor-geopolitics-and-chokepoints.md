@@ -1,7 +1,7 @@
 # Theme: Semiconductor Geopolitics and Chokepoints
 
 **Summary**: The strategic competition over integrated circuit design, extreme ultraviolet (EUV) lithography, and advanced foundry fabrication—where ultra-concentrated technological chokepoints in Silicon Valley, the Netherlands (ASML), and Taiwan (TSMC) underpin 21st-century military deterrence, AI supremacy, and US–China grand strategy.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-24
 
 ---
 

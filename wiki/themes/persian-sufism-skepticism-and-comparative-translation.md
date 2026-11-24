@@ -1,7 +1,7 @@
 # Theme: Persian Sufism, Skepticism, and Comparative Translation
 
 **Summary**: How translation choices—literal philology, Victorian romantic paraphrase, or mystical allegory—transform classical Islamic and Persian wisdom texts across centuries and cultures.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

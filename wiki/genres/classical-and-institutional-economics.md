@@ -2,7 +2,7 @@
 
 **Description**: Foundational treatises and critical syntheses exploring the wealth of nations, resource limits, the sociology of money, inclusive vs. extractive institutions, urban capitalism, and macroeconomic stabilization.
 **Key Themes**: [[inclusive-institutions-economic-thought-and-ecological-limits]], [[energy-transition-and-storage-economics]], [[political-intuitionism-administrative-state-and-capitalist-democracy]]
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,40 +14,47 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 ---
 
 ## Books in Wiki
-- [[leaving-socialism-behind]] (2019) — [[russell-a-berman]]
-- [[benim-pencerem]] (2022) — [[burak-dalgin]]
-- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
-- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
-- [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
+- [[benim-pencerem]] (2022) — [[burak-dalgin]]
+- [[leaving-socialism-behind]] (2019) — [[russell-a-berman]]
 - [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
+- [[game-theory-a-multi-leveled-approach]] (2015) — [[hans-peters]]
 - [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
-- [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
+- [[the-black-swan]] (2007) — [[nassim-nicholas-taleb]]
 - [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] (2005) — [[hakki-yirtici]]
 - [[russia-rebounds]] (2003) — [[david-owen]], [[david-o-robinson]]
 - [[small-is-beautiful]] (1973) — [[e-f-schumacher]]
 - [[the-worldly-philosophers]] (1953) — [[robert-l-heilbroner]]
+- [[capitalism-socialism-and-democracy]] (1942) — [[joseph-a-schumpeter]], [[richard-swedberg]]
 - [[the-philosophy-of-money]] (1900) — [[georg-simmel]], [[david-frisby]]
 - [[the-coal-question]] (1865) — [[william-stanley-jevons]]
 - [[the-wealth-of-nations]] (1776) — [[adam-smith]]
 
----
-
 ## Key Authors & Theorists
-- [[daron-acemoglu]]
-- [[james-a-robinson]]
-- [[hakki-yirtici]]
-- [[david-owen]]
-- [[david-o-robinson]]
-- [[e-f-schumacher]]
-- [[robert-l-heilbroner]]
-- [[georg-simmel]]
-- [[david-frisby]]
-- [[william-stanley-jevons]]
 - [[adam-smith]]
-
----
+- [[burak-dalgin]]
+- [[christoph-schuringa]]
+- [[clayton-m-christensen]]
+- [[daniel-kahneman]]
+- [[daron-acemoglu]]
+- [[david-frisby]]
+- [[david-o-robinson]]
+- [[david-owen]]
+- [[e-f-schumacher]]
+- [[efosa-ojomo]]
+- [[georg-simmel]]
+- [[hakki-yirtici]]
+- [[hans-peters]]
+- [[james-a-robinson]]
+- [[joseph-a-schumpeter]]
+- [[karen-dillon]]
+- [[nassim-nicholas-taleb]]
+- [[richard-swedberg]]
+- [[robert-l-heilbroner]]
+- [[russell-a-berman]]
+- [[william-stanley-jevons]]
 
 ## Related Genres & Themes
 - [[inclusive-institutions-economic-thought-and-ecological-limits]]

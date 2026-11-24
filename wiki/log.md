@@ -969,3 +969,96 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Master index `wiki/index.md` rebuilt cleanly.
   - Interactive dashboard regenerated (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,218 entity pages (1,220 total markdown files).
+
+
+---
+
+## [2026-11-24T21:00:00+01:00] Ingestion of Option L2 (BOOKS/History_/Turkiye and Region: Complete Sweep)
+
+- **Folder Processed**: `BOOKS/History_/Turkiye and Region/` (and subdirectories `Muazzez Ilmiye Cig/` and `Ottoman_/`)
+- **Files Processed**: 74 source files (24,318 pages)
+- **Ingestion & Consolidation Summary**:
+  - **54 new canonical book pages** created in `wiki/books/`
+  - **1 existing book synchronized**: `kuran-incil-ve-tevratin-sumerdeki-kokeni.md` (source field updated to incorporate 3 identical duplicate copies in `Turkiye and Region/` and `Muazzez Ilmiye Cig/`)
+  - **Duplicate / Multi-Volume Consolidations**:
+    - Doğan Avcıoğlu *Millî Kurtuluş Tarihi* (Books 1–4, 1,729 pp. integrated into single 4-volume canonical work `milli-kurtulus-tarihi-1838den-1995e.md`)
+    - Muazzez İlmiye Çığ *Gilgameş* (90 pp. + 40 pp. duplicates consolidated into `gilgames-tarihte-ilk-kral-kahraman.md`)
+    - Muazzez İlmiye Çığ *Hititler ve Hattuşa* (225 pp. duplicates consolidated into `hititler-ve-hattusa-istarin-kaleminden.md`)
+    - Muazzez İlmiye Çığ *İnanna'nın Aşkı* (91 pp. + 91 pp. duplicates consolidated into `inannanin-aski-sumerde-inanc-ve-kutsal-evlenme.md`)
+    - Muazzez İlmiye Çığ *Zaman Tüneli ile Geçmişte Sümer'e Yolculuk* (38 pp. duplicates consolidated into `zaman-tuneli-ile-gecmiste-sumere-yolculuk.md`)
+    - Muazzez İlmiye Çığ *Sümer ve Türkler* (51 pp. monograph + 1,027 pp. compendium consolidated into `sumer-ve-turkler-makaleler.md`)
+    - İlber Ortaylı *Üç Kıtada Osmanlılar* (166 pp. + 78 pp. scans consolidated into `uc-kitada-osmanlilar.md`)
+    - Yusuf Akçura *Üç Tarz-ı Siyâset* (30 pp. + 91 pp. scans consolidated into `uc-tarz-i-siyaset.md`)
+    - Ali Bey Hüseyinzade *Türkler Kimdir ve Kimlerden İbarettir?* (24 pp. + 4 pp. + 10 pp. studies consolidated into `turkler-kimdir-ve-kimlerden-ibarettir.md`)
+    - Peter B. Golden *The Turkic World in Mahmûd al-Kâshgharî* (68 pp. duplicate copies consolidated into `the-turkic-world-in-mahmud-al-kashghari.md`)
+    - Ali Z. Çiftçi *Görmediğimiz Türkiye* (50 pp. duplicate copies consolidated into `gormedigimiz-turkiye-national-geographic-arsivi.md`)
+- **Canonical Works Ingested (54 works)**:
+  - **Byzantine & Ottoman Historiography & Chronicles (9 works)**:
+    - [[the-alexiad]] ([[anna-comnena]], 1148/1969, 915 pp.)
+    - [[bizansli-gozuyle-turkler]] ([[georges-pachymeres]], c. 1308/2009, 338 pp.)
+    - [[devranname-seyyah-i-fakir-evliya-celebi]] ([[evliya-celebi]], [[dilaver-cebeci]], 1989/2002, 181 pp.)
+    - [[gunumuz-turkcesiyle-evliya-celebi-seyahatnamesi-cilt-9-kitap-2]] ([[evliya-celebi]], [[seyit-ali-kahraman]], [[yucel-dagli]], [[robert-dankoff]], 2011, 472 pp.)
+    - [[osmanli-imparatorlugunun-yukselisi-ve-cokusu]] ([[lord-kinross]], 1977/2008, 819 pp.)
+    - [[the-ottoman-empire-kenneth-harl]] ([[kenneth-w-harl]], 2017, 303 pp.)
+    - [[a-transylvanian-ruler-in-the-talons-of-the-ottoman-empire]] ([[cosmin-ionita]], [[florentina-nitu]], 2014, 20 pp.)
+    - [[the-portraits-of-murad-iii]] ([[tulay-reyhanli]], 1983, 43 pp.)
+    - [[homer-troy-and-the-turks]] ([[wendy-m-k-shaw]], 2017, 222 pp.)
+  - **İlber Ortaylı Centennial & Imperial Corpus (3 works)**:
+    - [[uc-kitada-osmanlilar]] ([[ilber-ortayli]], 2007, 166 pp.)
+    - [[avrupa-ve-biz]] ([[ilber-ortayli]], 2007, 300 pp.)
+    - [[cumhuriyetin-ilk-yuzyili-1923-2023]] ([[ilber-ortayli]], [[ismail-kucukkaya]], 2012, 295 pp.)
+  - **Turkish National Struggle, Ideology & Modernization (10 works)**:
+    - [[milli-kurtulus-tarihi-1838den-1995e]] ([[dogan-avcioglu]], 1974–1975, 4 vols., 1,729 pp.)
+    - [[uc-tarz-i-siyaset]] ([[yusuf-akcura]], [[enver-ziya-karal]], 1904/1976, 91 pp.)
+    - [[turkler-kimdir-ve-kimlerden-ibarettir]] ([[ali-bey-huseyinzade]], [[ali-haydar-bayat]], 1905/1997, 38 pp.)
+    - [[turk-milli-kulturu]] ([[ibrahim-kafesoglu]], 1977/1997, 262 pp.)
+    - [[ahi-evren-ve-mevlana-mucadelesi]] ([[mikail-bayram]], 2012, 315 pp.)
+    - [[the-truth-will-out-armenian-allegations]] ([[pulat-y-tacar]], 2024, 170 pp.)
+    - [[transcaucasia-and-ararat]] ([[james-bryce]], 1876/1896, 565 pp.)
+    - [[turk-gencinin-el-kitabi-ataturkun-ogutleri]] ([[mustafa-kemal-ataturk]], 1938/1998, 96 pp.)
+    - [[gormedigimiz-turkiye-national-geographic-arsivi]] ([[ali-z-ciftci]], 2011, 50 pp.)
+    - [[iranda-turk-kimligi]] ([[hamid-sehanegi]], [[merve-dilek-dagdelen]], [[busra-yilmaz]], 2026, 37 pp.)
+  - **Muazzez İlmiye Çığ Complete Sumerology & Near East Collection (8 works)**:
+    - [[gilgames-tarihte-ilk-kral-kahraman]] ([[muazzez-ilmiye-cig]], 1996/2000, 90 pp.)
+    - [[hititler-ve-hattusa-istarin-kaleminden]] ([[muazzez-ilmiye-cig]], 2000, 225 pp.)
+    - [[inannanin-aski-sumerde-inanc-ve-kutsal-evlenme]] ([[muazzez-ilmiye-cig]], 1998/2007, 91 pp.)
+    - [[zaman-tuneli-ile-gecmiste-sumere-yolculuk]] ([[muazzez-ilmiye-cig]], 1993/2001, 38 pp.)
+    - [[sumer-ve-turkler-makaleler]] ([[muazzez-ilmiye-cig]], 2000, 1,027 pp.)
+    - [[sumerlilerde-tufan-tufanda-turkler]] ([[muazzez-ilmiye-cig]], 2008, 85 pp.)
+    - [[sumerli-ludingirra]] ([[muazzez-ilmiye-cig]], 1996/2005, 112 pp.)
+    - [[ibrahim-peygamber-sumer-yazilarina-gore]] ([[muazzez-ilmiye-cig]], 1997/2007, 128 pp.)
+  - **Anatolian Archaeology, Göbeklitepe & Alternative Epigraphy (15 works)**:
+    - [[uygarlik-anadoluda-dogdu]] ([[fahri-isik]], 2012/2015, 499 pp.)
+    - [[anadoluda-ilk-tapinak-gobeklitepe]] ([[ali-osman-kurt]], 2017, 32 pp.)
+    - [[anadoluda-on-bin-yil-turk-dilinin-bes-bin-yili]] ([[selahi-diker]], 1999/2000, 574 pp.)
+    - [[medler-ve-turkler]] ([[mehmet-bayrakdar]], 2013, 601 pp.)
+    - [[on-turk-tarihi]] ([[haluk-tarcan]], 1998, 366 pp.)
+    - [[tarihin-basladigi-on-turk-uygarligi]] ([[haluk-tarcan]], 2003, 364 pp.)
+    - [[ataturkun-ozledigi-bilgin-kazim-mirsani-okurken]] ([[necdet-sumer]], 2014, 753 pp.)
+    - [[irak-bitigi-iraktaki-bilgiler-kitabi]] ([[kazim-mirsan]], [[mustafa-turgay-tufekcioglu]], [[ozden-ilteris-bulca]], 2018, 164 pp.)
+    - [[tarih-turklerle-baslar-bilinmeyen-turk-tarihi]] ([[kazim-mirsan]], 2021, 886 pp.)
+    - [[akis-mekanigi-kazim-mirsan]] ([[kazim-mirsan]], 1985, 186 pp.)
+    - [[turk-bilgi-kazim-mirsan]] ([[kazim-mirsan]], 1994, 31 pp.)
+    - [[turklerin-kaybolan-atalari]] ([[kazim-mirsan]], 2002, 89 pp.)
+    - [[onturkceden-bugunku-kurtceye]] ([[kazim-mirsan]], 1997, 19 pp.)
+    - [[islam-oncesi-kurt-tarihi]] ([[kazim-mirsan]], 1998, 26 pp.)
+    - [[ey-dunya-insanlari-hepiniz-turksunuz]] ([[gene-d-matlock]], 2002/2005, 310 pp.)
+  - **Central Asian Nomads, Mongols, Khazars & Encyclopedic Historiography (9 works)**:
+    - [[central-asia-in-world-history]] ([[peter-b-golden]], 2010, 224 pp.)
+    - [[turks-and-khazars-origins-institutions-and-interactions]] ([[peter-b-golden]], 2016, 430 pp.)
+    - [[the-turkic-world-in-mahmud-al-kashghari]] ([[peter-b-golden]], 2010, 68 pp.)
+    - [[the-world-of-the-khazars-new-perspectives]] ([[peter-b-golden]], [[haggai-ben-shammai]], [[andras-rona-tas]], 2007, 469 pp.)
+    - [[the-mongols-and-the-west-1221-1410]] ([[peter-jackson]], 2005, 449 pp.)
+    - [[crossroads-of-civilization-a-history-of-central-asia]] ([[eren-tasar]], 2025, 190 pp.)
+    - [[history-of-civilizations-of-central-asia-vol-4-part-2]] ([[c-e-bosworth]], [[m-s-asimov]], 2000, 690 pp.)
+    - [[turkler-cilt-05-orta-cag]] ([[hasan-celal-guzel]], [[kemal-cicek]], [[salim-koca]], 2002, 1,808 pp.)
+    - [[turkler-cilt-21-genel-indeks]] ([[hasan-celal-guzel]], [[kemal-cicek]], [[salim-koca]], 2002, 835 pp.)
+- **Entity Pages Created / Updated**:
+  - **Books**: 54 new canonical pages created + 1 existing page synced (total: 471)
+  - **Authors**: 45 new author profiles created + 5 existing updated cleanly ([[muazzez-ilmiye-cig]], [[ilber-ortayli]], [[peter-b-golden]], [[lord-kinross]], [[kenneth-w-harl]]) (total: 658)
+  - **Genres**: 2 new genre indices created ([[byzantine-and-ottoman-historiography]], [[turkology-and-comparative-eurasian-philology]]) and 14 existing genres updated bidirectionally (total: 88)
+  - **Themes**: 3 new thematic syntheses created ([[byzantine-seljuk-ottoman-frontier-and-imperial-transition]], [[panturkism-modernization-and-national-awakening]], [[sumerology-cuneiform-epigraphy-and-mesopotamian-mythology]]) and 10 existing themes updated bidirectionally (total: 105)
+- **Verification**:
+  - Master index `wiki/index.md` rebuilt cleanly (1,322 total entity pages).
+  - Rebuilt interactive dashboard (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Audited via `ollama_agent.py audit`: **0 broken links, 0 orphan pages, 0 unindexed pages** across all 1,322 entity pages (1,324 total markdown files).

@@ -1,7 +1,7 @@
 # Genre: Alternative Archaeology
 
 **Summary**: A field of speculative and revisionist inquiry that challenges mainstream archaeological timelines, proposing that advanced civilizations existed prior to the conventionally accepted rise of agriculture and urbanism (~4000–3000 BC).  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Description**: Four millennia of mathematical puzzles, cryptarithms, geometric dissections, probability paradoxes, lateral-thinking games, verbal riddles, and rapid numeracy shortcuts.
 **Key Themes**: [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[probabilistic-inference-and-uncertainty-quantification]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -23,21 +23,17 @@ This genre brings together golden-age and historical anthologies—[[henry-ernes
 - [[536-puzzles-and-curious-problems]] (1967) — [[henry-ernest-dudeney]], [[martin-gardner]]
 - [[riddles-riddles-riddles]] (1953) — [[joseph-leeming]]
 
----
-
 ## Key Authors & Theorists
-- [[paul-carson]]
-- [[zbigniew-romanowicz]]
-- [[presh-talwalkar]]
+- [[david-wells]]
 - [[gary-r-gruber]]
+- [[henry-ernest-dudeney]]
 - [[ian-livingstone]]
 - [[jamie-thomson]]
-- [[david-wells]]
-- [[henry-ernest-dudeney]]
-- [[martin-gardner]]
 - [[joseph-leeming]]
-
----
+- [[martin-gardner]]
+- [[paul-carson]]
+- [[presh-talwalkar]]
+- [[zbigniew-romanowicz]]
 
 ## Related Genres & Themes
 - [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]]

@@ -1,7 +1,7 @@
 # Theme: Quantum Foundations, The Measurement Problem, and Many-Worlds vs. Participatory Mind
 
 **Summary**: The central mathematical and philosophical puzzle of quantum mechanics: how unitary Hilbert-space evolution reconciles with definite classical observation across Many-Worlds, von Neumann–Heisenberg participatory mind, and objective collapse.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

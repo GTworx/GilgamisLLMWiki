@@ -2,7 +2,7 @@
 
 **Description**: Theoretical and historical analysis of sound, noise, musical forms, and recording technologies as prophetic mirrors and instruments of social and economic order.
 **Key Themes**: [[music-as-prophecy-and-political-economy]], [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]]
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-24
 
 ---
 
@@ -16,14 +16,10 @@ In the Gilgamis LLM Wiki, this genre is anchored by [[jacques-attali]]'s [[noise
 ## Books in Wiki
 - [[noise-the-political-economy-of-music]] (1985) — [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]]
 
----
-
 ## Key Authors & Theorists
-- [[jacques-attali]]
 - [[fredric-jameson]]
+- [[jacques-attali]]
 - [[susan-mcclary]]
-
----
 
 ## Related Genres & Themes
 - [[music-as-prophecy-and-political-economy]]

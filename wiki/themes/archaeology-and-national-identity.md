@@ -1,7 +1,7 @@
 # Theme: Archaeology and National Identity
 
 **Summary**: The utilization of archaeological excavations, museum curation, and historical historiography by state institutions to define national identity, foster civic solidarity, and construct modern cultural legitimacy.  
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

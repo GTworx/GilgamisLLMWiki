@@ -2,7 +2,7 @@
 
 **Description**: Literary speculative fiction interrogating artificial consciousness, nanotechnology, bio-enhancement, algorithmic ethics, and adaptive pedagogy.
 **Key Themes**: [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]], [[agi-trajectories-and-superalignment]], [[student-centric-and-blended-learning]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -18,14 +18,10 @@ This genre is anchored by a remarkable contemporary triad: [[neal-stephenson]]'s
 - [[machines-like-me]] (2019) — [[ian-mcewan]]
 - [[the-diamond-age]] (1995) — [[neal-stephenson]]
 
----
-
 ## Key Authors & Theorists
-- [[kazuo-ishiguro]]
 - [[ian-mcewan]]
+- [[kazuo-ishiguro]]
 - [[neal-stephenson]]
-
----
 
 ## Related Genres & Themes
 - [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]]

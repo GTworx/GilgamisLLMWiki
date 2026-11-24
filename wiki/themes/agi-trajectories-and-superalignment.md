@@ -1,7 +1,7 @@
 # Theme: AGI Trajectories, Intelligence Explosions, and Superalignment
 
 **Summary**: Quantitative scaling forecasts (Orders of Magnitude of compute, algorithmic efficiency, and agentic unhobbling), recursive AI R&D automation, and the technical and geopolitical challenges of aligning superhuman intelligence.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

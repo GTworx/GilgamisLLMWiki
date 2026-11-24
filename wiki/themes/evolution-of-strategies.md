@@ -1,7 +1,7 @@
 # Theme: Evolution of Strategies
 
 **Summary**: The dynamic processes by which strategic heuristics, operational doctrines, and behavioral phenotypes emerge, invade, compete, and stabilize within biological and social populations over time.  
-**Last updated**: 2026-11-01  
+**Last updated**: 2026-11-24
 
 ---
 

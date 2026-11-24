@@ -1,7 +1,7 @@
 # Theme: Ottoman-Turkish Modernization, Poetics, and Temporal Satire
 
 **Summary**: How Ottoman and Turkish poets, chroniclers, philologists, and modernist novelists navigated the rupture between classical *Divan*/*âşık* heritage and Westernized Republican modernity.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

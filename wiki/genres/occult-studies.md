@@ -1,7 +1,7 @@
 # Genre: Occult Studies
 
 **Summary**: The scholarly and historical examination of hidden, esoteric, and magical traditions—including alchemy, astrology, Kabbalah, and sacred geometry—and their role in intellectual and cultural history.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

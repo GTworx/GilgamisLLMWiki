@@ -2,7 +2,7 @@
 
 **Description**: Networking protocols, sensor-actuator transducers, fog/edge computing architectures, hardware-rooted cryptographic security, and recurring-service business models connecting physical assets to the cloud.
 **Key Themes**: [[iot-cyber-physical-convergence-and-edge-security]], [[cloud-native-architecture-and-declarative-infrastructure]], [[decentralized-trust-and-cryptographic-governance]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -17,14 +17,10 @@ In this wiki, the genre pairs Cisco engineers [[ammar-rayes]] and [[samer-salam]
 - [[internet-of-things-from-hype-to-reality]] (2019) — [[ammar-rayes]], [[samer-salam]]
 - [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]
 
----
-
 ## Key Authors & Theorists
 - [[ammar-rayes]]
-- [[samer-salam]]
 - [[lawrence-c-miller]]
-
----
+- [[samer-salam]]
 
 ## Related Genres & Themes
 - [[iot-cyber-physical-convergence-and-edge-security]]

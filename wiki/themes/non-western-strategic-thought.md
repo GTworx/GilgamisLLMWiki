@@ -1,7 +1,7 @@
 # Theme: Non-Western Strategic Thought
 
 **Summary**: The doctrines, cultural concepts, and operational paradigms of deterrence, coercion, and strategy developed in non-Western strategic cultures, specifically Russia, China, Iran, and South Asia.  
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

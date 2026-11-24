@@ -2,7 +2,7 @@
 
 **Description**: Engineering, operational, and economic foundations of hyperscale cloud infrastructure, container orchestration, microservices, cloud data platforms, API ecosystems, and IT asset governance.
 **Key Themes**: [[cloud-native-architecture-and-declarative-infrastructure]], [[cloud-scale-fraud-analytics-and-security-data-lakes]], [[iot-cyber-physical-convergence-and-edge-security]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -15,8 +15,6 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 
 ## Books in Wiki
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
-- [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
-- [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
 - [[api-strategy-for-decision-makers]] (2022) — [[mike-amundsen]], [[derric-gilling]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
 - [[kubernetes-up-and-running]] (2022) — [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]]
@@ -27,36 +25,37 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 - [[microservices-up-and-running]] (2021) — [[ronnie-mitra]], [[irakli-nadareishvili]]
 - [[saas-for-dummies-oracle-special-edition]] (2021) — [[lawrence-c-miller]]
 - [[internet-of-things-from-hype-to-reality]] (2019) — [[ammar-rayes]], [[samer-salam]]
+- [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018) — [[cb-insights-research]]
 - [[iaas-for-dummies-oracle-special-edition]] (2018) — [[lawrence-c-miller]]
 - [[enterprise-cloud-for-dummies-nutanix-special-edition]] (2016) — [[scott-d-lowe]]
-
----
+- [[the-cathedral-and-the-bazaar]] (1997) — [[eric-steven-raymond]]
 
 ## Key Authors & Theorists
-- [[mike-amundsen]]
-- [[derric-gilling]]
-- [[david-baum]]
-- [[brendan-burns]]
-- [[joe-beda]]
-- [[kelsey-hightower]]
-- [[lachlan-evenson]]
-- [[gilit-saporta]]
-- [[shoshana-maraney]]
-- [[joyce-kay-avila]]
-- [[flexera-research]]
-- [[william-waddington]]
-- [[kevin-mcginley]]
-- [[pui-kei-johnston-chu]]
-- [[gjorgji-georgievski]]
-- [[dinesh-kulkarni]]
-- [[ronnie-mitra]]
-- [[irakli-nadareishvili]]
-- [[lawrence-c-miller]]
 - [[ammar-rayes]]
+- [[brendan-burns]]
+- [[cb-insights-research]]
+- [[david-baum]]
+- [[derric-gilling]]
+- [[dinesh-kulkarni]]
+- [[eric-steven-raymond]]
+- [[flexera-research]]
+- [[gilit-saporta]]
+- [[gjorgji-georgievski]]
+- [[irakli-nadareishvili]]
+- [[joe-beda]]
+- [[joyce-kay-avila]]
+- [[kelsey-hightower]]
+- [[kevin-mcginley]]
+- [[lachlan-evenson]]
+- [[lawrence-c-miller]]
+- [[michael-alexander]]
+- [[mike-amundsen]]
+- [[pui-kei-johnston-chu]]
+- [[ronnie-mitra]]
 - [[samer-salam]]
 - [[scott-d-lowe]]
-
----
+- [[shoshana-maraney]]
+- [[william-waddington]]
 
 ## Related Genres & Themes
 - [[cloud-native-architecture-and-declarative-infrastructure]]

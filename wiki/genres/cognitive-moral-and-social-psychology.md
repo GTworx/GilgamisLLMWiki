@@ -2,7 +2,7 @@
 
 **Description**: Empirical studies of human perception, heuristics and biases, moral foundations, violence decline, collective memory, social ritual, cybernetics, media ecology, and political violence.
 **Key Themes**: [[moral-foundations-cognitive-biases-and-interface-perception]], [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[rationality-and-decision-making]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,54 +14,55 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
-- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
-- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
-- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
-- [[deep-work]] (2016) — [[cal-newport]]
 - [[intentional-attention]] (2026) — [[justin-anderson]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
 - [[the-art-of-gathering]] (2018) — [[priya-parker]]
 - [[the-devil-made-me-do-it-malevolent-creativity]] (2017) — [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]]
+- [[deep-work]] (2016) — [[cal-newport]]
 - [[psychology-of-perception]] (2016) — [[simon-grondin]]
 - [[the-undoing-project]] (2016) — [[michael-lewis]]
+- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
 - [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[the-tools-stutz-michels]] (2012) — [[phil-stutz]], [[barry-michels]]
 - [[lying-sam-harris]] (2011) — [[sam-harris]]
 - [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
 - [[psychology-of-terrorism-ncjrs]] (2004) — [[randy-borum]]
+- [[the-power-of-now]] (2004) — [[eckhart-tolle]]
 - [[deri-ben-the-skin-ego]] (1995) — [[didier-anzieu]], [[nesrin-tura-demiryontan]]
 - [[how-societies-remember]] (1989) — [[paul-connerton]]
 - [[amusing-ourselves-to-death]] (1985) — [[neil-postman]]
 - [[the-human-use-of-human-beings]] (1950) — [[norbert-wiener]], [[steve-j-heims]]
 
----
-
 ## Key Authors & Theorists
-- [[donald-d-hoffman]]
-- [[quassim-cassam]]
 - [[anke-hilbrenner]]
-- [[priya-parker]]
-- [[r-m-j-mcbain]]
-- [[david-h-cropley]]
-- [[phillip-s-kavanagh]]
-- [[simon-grondin]]
-- [[michael-lewis]]
-- [[jonathan-haidt]]
-- [[phil-stutz]]
 - [[barry-michels]]
-- [[sam-harris]]
-- [[steven-pinker]]
-- [[randy-borum]]
+- [[cal-newport]]
+- [[charles-duhigg]]
+- [[daniel-kahneman]]
+- [[david-h-cropley]]
 - [[didier-anzieu]]
-- [[nesrin-tura-demiryontan]]
-- [[paul-connerton]]
+- [[donald-d-hoffman]]
+- [[eckhart-tolle]]
+- [[jonathan-haidt]]
+- [[justin-anderson]]
+- [[michael-lewis]]
 - [[neil-postman]]
+- [[nesrin-tura-demiryontan]]
 - [[norbert-wiener]]
+- [[paul-connerton]]
+- [[phil-stutz]]
+- [[phillip-s-kavanagh]]
+- [[priya-parker]]
+- [[quassim-cassam]]
+- [[r-m-j-mcbain]]
+- [[randy-borum]]
+- [[sam-harris]]
+- [[simon-grondin]]
 - [[steve-j-heims]]
-
----
+- [[steven-pinker]]
 
 ## Related Genres & Themes
 - [[moral-foundations-cognitive-biases-and-interface-perception]]

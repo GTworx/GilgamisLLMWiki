@@ -1,7 +1,7 @@
 # Theme: Rule of Law, Legal Certainty, and Experimental Justice
 
 **Summary**: The interplay between comparative legal philosophy (legal certainty, human rights, Hart vs. Dworkin) and quantitative/experimental criminology (hot-spots RCTs and trajectory modeling).
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

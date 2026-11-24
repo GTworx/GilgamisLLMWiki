@@ -2,7 +2,7 @@
 
 **Description**: Relativistic cosmology, black-hole thermodynamics, quantum measurement interpretations, Hilbert-space functional analysis, quantum consciousness debates, and analytical problem-solving.
 **Key Themes**: [[quantum-foundations-measurement-and-many-worlds]], [[cosmology-black-holes-and-the-arrow-of-time]], [[purposeful-longevity-flow-and-mathematical-literacy]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,33 +14,32 @@ In this wiki, the genre encompasses [[stephen-hawking]]'s cosmological quartet (
 ---
 
 ## Books in Wiki
-- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
-- [[tarihi-degistiren-bilginler]] (2008) — [[ali-cimen]]
 - [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]
 - [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] (2015) — [[stephan-fackler]]
 - [[the-grand-design]] (2010) — [[stephen-hawking]], [[leonard-mlodinow]]
 - [[mind-matter-and-quantum-mechanics]] (2009) — [[henry-p-stapp]]
+- [[tarihi-degistiren-bilginler]] (2008) — [[ali-cimen]]
 - [[mathematical-foundations-of-quantum-physics]] (2006) — [[adrian-stan]], [[monica-ramona-costache]]
 - [[the-theory-of-everything-origin-and-fate-of-the-universe]] (2005) — [[stephen-hawking]]
+- [[the-essential-david-bohm]] (2003) — [[david-bohm]], [[lee-nichol]]
 - [[a-brief-history-of-time]] (1988) — [[stephen-hawking]]
 - [[problems-in-general-physics]] (1981) — [[igor-yevgenyevich-irodov]]
 - [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] (1957) — [[hugh-everett-iii]]
 
----
-
 ## Key Authors & Theorists
-- [[stephen-hawking]]
-- [[jochen-pade]]
-- [[stephan-fackler]]
-- [[leonard-mlodinow]]
-- [[henry-p-stapp]]
 - [[adrian-stan]]
-- [[monica-ramona-costache]]
-- [[igor-yevgenyevich-irodov]]
+- [[ali-cimen]]
+- [[david-bohm]]
+- [[henry-p-stapp]]
 - [[hugh-everett-iii]]
-
----
+- [[igor-yevgenyevich-irodov]]
+- [[jochen-pade]]
+- [[lee-nichol]]
+- [[leonard-mlodinow]]
+- [[monica-ramona-costache]]
+- [[stephan-fackler]]
+- [[stephen-hawking]]
 
 ## Related Genres & Themes
 - [[quantum-foundations-measurement-and-many-worlds]]

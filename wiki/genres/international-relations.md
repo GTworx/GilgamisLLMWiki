@@ -2,7 +2,7 @@
 
 **Description**: The academic study of the political, diplomatic, military, and economic interactions between sovereign states, non-state actors, and international systems.  
 **Key Themes**: [[deterrence-and-coercion]], [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[nuclear-strategy-and-strategic-stability]], [[non-western-strategic-thought]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -15,24 +15,45 @@ In the wiki, IR provides the macro-political context for both Axelrod's institut
 ---
 
 ## Books in Wiki
+- [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
+- [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]]
+- [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
 - [[world-order]] (2014) — [[henry-kissinger]]
 - [[the-israel-lobby-and-us-foreign-policy]] (2007) — [[john-j-mearsheimer]], [[stephen-m-walt]]
 
-- [[global-ethics-for-leadership-values-and-virtues-for-life]] (2016) — [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]]
-- [[the-evolution-of-cooperation]] (1984) — Robert Axelrod
-- [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
-
----
-
 ## Key Authors & Theorists
 
-- [[robert-axelrod]]: Pioneer of neoliberal institutionalist models of cooperation under anarchy.
-- [[lawrence-freedman]]: Historian of international politics, strategic concepts, and grand strategy.
-- [[alexey-arbatov]]: Expert on international security regimes and bilateral arms control.
-- [[tim-sweijs]]: Specialist in international conflict trends and risk assessment.
-
----
+- [[alex-wilner]]
+- [[alexey-arbatov]]
+- [[chris-miller]]
+- [[christoph-stuckelberger]]
+- [[dean-cheng]]
+- [[dmitry-adamsky]]
+- [[eitan-shamir]]
+- [[francesco-giumelli]]
+- [[frans-osinga]]
+- [[henry-kissinger]]
+- [[isabelle-duyvesteyn]]
+- [[john-j-mearsheimer]]
+- [[jorg-noll]]
+- [[karl-mueller]]
+- [[lawrence-freedman]]
+- [[martijn-kitzen]]
+- [[max-smeets]]
+- [[michael-mazarr]]
+- [[obiora-ike]]
+- [[paul-ducheine]]
+- [[paul-van-hooft]]
+- [[roy-lindelauf]]
+- [[samuel-zilincik]]
+- [[stefan-soesanto]]
+- [[sten-rynning]]
+- [[stephen-m-walt]]
+- [[tim-sweijs]]
+- [[tom-bijlsma]]
+- [[turkic-world-policy-analysts]]
+- [[walter-fust]]
 
 ## Related Genres & Themes
 

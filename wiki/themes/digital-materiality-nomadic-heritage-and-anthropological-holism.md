@@ -1,7 +1,7 @@
 # Theme: Digital Materiality, Nomadic Heritage, and Anthropological Holism
 
 **Summary**: Studying humanity holistically across traditional pastoral/ecological worlds and digital para-worlds—exposing how material culture, geography, and social institutions co-evolve without romanticizing the pre-digital.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

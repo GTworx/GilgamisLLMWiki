@@ -2,7 +2,7 @@
 
 **Description**: Probabilistic epistemology, Black Swan outliers, antifragile systems design, skin-in-the-game ethics, rapid cognition, social contagion, and structural drivers of achievement.
 **Key Themes**: [[antifragility-black-swans-and-skin-in-the-game]], [[power-realism-social-contagion-and-intentional-life-design]], [[probabilistic-inference-and-uncertainty-quantification]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,17 +14,17 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
-- [[you-are-a-badass]] (2013) — [[jen-sincero]]
-- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
-- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
-- [[the-undoing-project]] (2016) — [[michael-lewis]]
-- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
-- [[hooked-how-to-build-habit-forming-products]] (2014) — [[nir-eyal]], [[ryan-hoover]]
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]
+- [[the-undoing-project]] (2016) — [[michael-lewis]]
+- [[hooked-how-to-build-habit-forming-products]] (2014) — [[nir-eyal]], [[ryan-hoover]]
 - [[david-and-goliath]] (2013) — [[malcolm-gladwell]]
+- [[you-are-a-badass]] (2013) — [[jen-sincero]]
 - [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
+- [[the-power-of-habit]] (2012) — [[charles-duhigg]]
+- [[the-better-angels-of-our-nature]] (2011) — [[steven-pinker]]
+- [[thinking-fast-and-slow]] (2011) — [[daniel-kahneman]]
 - [[the-bed-of-procrustes]] (2010) — [[nassim-nicholas-taleb]]
 - [[what-the-dog-saw]] (2009) — [[malcolm-gladwell]]
 - [[outliers-story-of-success]] (2008) — [[malcolm-gladwell]]
@@ -34,15 +34,19 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 - [[the-tipping-point]] (2000) — [[malcolm-gladwell]]
 - [[influence-the-psychology-of-persuasion]] (1984) — [[robert-b-cialdini]]
 
----
-
 ## Key Authors & Theorists
-- [[nassim-nicholas-taleb]]
-- [[robert-greene]]
+- [[charles-duhigg]]
+- [[daniel-kahneman]]
+- [[jen-sincero]]
 - [[malcolm-gladwell]]
+- [[michael-lewis]]
+- [[nassim-nicholas-taleb]]
+- [[nir-eyal]]
 - [[robert-b-cialdini]]
-
----
+- [[robert-greene]]
+- [[ryan-hoover]]
+- [[steven-pinker]]
+- [[tom-eisenmann]]
 
 ## Related Genres & Themes
 - [[antifragility-black-swans-and-skin-in-the-game]]

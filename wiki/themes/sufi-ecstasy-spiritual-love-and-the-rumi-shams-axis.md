@@ -1,7 +1,7 @@
 # Theme: Sufi Ecstasy, Spiritual Love, and the Rumi–Shams Axis
 
 **Summary**: How the transformative encounter between Jalal al-Din Rumi and Shams-i Tabrizi forged an enduring mystical philosophy of *ishq* (love), ego-dissolution, ring-compositional poetry, and interfaith mercy.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

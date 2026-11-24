@@ -1,7 +1,7 @@
 # Theme: Constrained vs. Unconstrained Visions, Doppelgänger Politics, and Postcolonial Identity
 
 **Summary**: The ideological clash between Constrained (trade-off/systemic) and Unconstrained (solution/articulated) visions alongside postcolonial diaspora hybridity and ethnic mirror projections.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

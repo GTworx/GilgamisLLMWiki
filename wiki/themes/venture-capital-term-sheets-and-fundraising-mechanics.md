@@ -1,7 +1,7 @@
 # Theme: Venture Capital, Term Sheets, and Fundraising Mechanics
 
 **Summary**: End-to-end mechanics of institutional venture funds, LP–GP economics, pitch craft, three-statement financial modeling, and clause-by-clause U.S. and European term-sheet negotiation.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

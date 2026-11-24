@@ -1,7 +1,7 @@
 # Theme: Human-Centered AI and Augmented Leadership
 
 **Summary**: The strategic, ethical, and psychological integration of artificial intelligence as a collaborative co-pilot that amplifies—rather than replaces—human judgment, empathy, creativity, and moral responsibility.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Energy Transition, Sovereign Supply Security, and Storage Economics
 
 **Summary**: Techno-economic and geopolitical strategies for decarbonizing power grids and transport via renewable energy, Levelized Cost of Storage (LCOS), EV batteries, and sovereign supply security.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

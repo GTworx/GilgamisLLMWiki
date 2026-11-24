@@ -1,7 +1,7 @@
 # Genre: Planetary Science Speculation
 
 **Summary**: Scientific and investigative speculation exploring planetary catastrophism, interplanetary impacts, celestial geomorphology, and the vulnerability of terrestrial civilizations to cosmic hazards.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

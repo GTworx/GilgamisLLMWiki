@@ -1,7 +1,7 @@
 # Theme: Deep Work, Habit Architecture & Cognitive Systems
 
 **Summary**: How dual-system cognition, basal-ganglia habit loops, distraction-free concentration, attentional training, and unified perception govern elite creative output and psychological clarity.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Human Performance Enhancement and Neuro-Warfare
 
 **Summary**: The operational, neuroscientific, psychological, and ethical dimensions of augmenting human soldiers and decision-makers across physical, cognitive, brain-network, and emotional domains in high-tempo conflict.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-24
 
 ---
 

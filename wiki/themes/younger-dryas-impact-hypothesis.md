@@ -1,7 +1,7 @@
 # Theme: Younger Dryas Impact Hypothesis
 
 **Summary**: The scientific hypothesis that fragments of a disintegrating giant comet struck Earth approximately 12,800 years ago, initiating the 1,200-year Younger Dryas cold snap, widespread wildfires, megafaunal extinction, and catastrophic flooding.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

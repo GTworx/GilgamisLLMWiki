@@ -196,19 +196,19 @@ GilgamisLLMWiki/
 │   ├── BOOKS/Entrepreneurship_/                   # Ingested: All 31 files across 28 new works + 1 SHA-256 sync (Naval, Blitzscaling, Crossing the Chasm, Hooked, Start With Why, Horowitz, Christensen, Ries, Blank, Thiel, Shoe Dog, Venture Deals, etc.)
 │   ├── BOOKS/Philosophy Psychology Sociology/     # Ingested: All 42 files across 39 new works + 2 Sowell syncs + 1 Wiener dup (Plato, Augustine, Attar, Al-Ghazali, Popper, Schumpeter, Freud x2, Lacan x2, Joyce, Campbell, Wiener, Postman, Pinker, Haidt, Hoffman, etc.)
 │   ├── BOOKS/Leadership_/                         # Ingested: All 53 files (5 pre-ingested + 46 new works + 2 edition pairs; Grove x2, Kinross x2, Kahneman, Grant, Newport x2, Duhigg, Sinek, Schmidt/Campbell, Mochary, Covey, Holiday x2, Bohm, Ferriss, Golding, Atatürk primary cluster, Karabekir, Mumcu, Süreya, Ortaylı, Karakoç, Ali Çimen x4)
-│   ├── BOOKS/History_/                            # Ingested: Tranche 1, files [001]–[059] (41 new canonical works + 1 synced + 6 duplicate pairs + 11 Durant HTML bookmarks; Cline 1177 BC, Golden Turkic Peoples, Foltz Silk Road, Beckwith Empires of Silk Road & Scythian Empire, Graeber & Wengrow Dawn of Everything, Durant Lessons of History & Story of Civilization I, Harari Trilogy [Sapiens, Homo Deus, 21 Lessons], Harl Steppes x2, Lewy Armenian Massacres, Pappé Palestine & Israel, Nogales, Campos, etc.)
+│   ├── BOOKS/History_/                            # Ingested: Complete 128 files across Tranche 1 ([001]–[059]) & Tranche 2 (Turkiye and Region, Muazzez Ilmiye Cig, Ottoman_) -> 95 canonical works total (Cline, Golden, Beckwith, Graeber, Durant, Harari, Harl, Comnena Alexiad, Pachymeres, Evliya Celebi, Lord Kinross, Ortayli Trilogy, Avcioglu 4-Vol Milli Kurtulus Tarihi, Akcura, Huseyinzade, Kafesoglu, Cig 8-vol Sumerology, Fahri Isik, Gobeklitepe, Kazim Mirsan 7 works, Tarcan 2 works, Jackson Mongols, Tasar Central Asia, UNESCO Vol 4, Turkler Ansiklopedisi Cilt 5 & 21, etc.)
 │   └── Remaining domain libraries & articles      # Remaining domain libraries (immutable, git-ignored)
 ├── .gitignore                                     # Excludes raw/, BOOKS/, and PDF binaries from GitHub sync
 ├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (1,220 markdown pages)
+├── wiki/                                          # Maintained knowledge base (1,324 markdown pages)
 │   ├── index.md                                   # Master index & full TOC
 │   ├── log.md                                     # Ingestion & audit changelog
 │   ├── index.html / dashboard.html                # Interactive single-page dashboard app
 │   ├── dashboard_data.json                        # Structured JSON export
-│   ├── books/                                     # Ingested book detail pages (417 pages)
-│   ├── authors/                                   # Author profile pages (613 pages)
-│   ├── genres/                                    # Genre index pages (86 pages)
-│   └── themes/                                    # Core thematic concept pages (102 pages)
+│   ├── books/                                     # Ingested book detail pages (471 pages)
+│   ├── authors/                                   # Author profile pages (658 pages)
+│   ├── genres/                                    # Genre index pages (88 pages)
+│   └── themes/                                    # Core thematic concept pages (105 pages)
 ├── .agents/skills/gilgamis-llm-wiki/              # Agent skill definition & tooling
 │   ├── SKILL.md                                   # Skill runbook & manifest
 │   ├── scripts/

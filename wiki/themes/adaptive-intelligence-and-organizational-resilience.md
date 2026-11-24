@@ -1,7 +1,7 @@
 # Theme: Adaptive Intelligence and Organizational Resilience
 
 **Summary**: The neurobiological, psychological, and strategic capacities that enable leaders and institutions to unlearn obsolete playbooks, regulate nervous-system stress, and thrive amid exponential uncertainty.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

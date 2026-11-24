@@ -2,7 +2,7 @@
 
 **Description**: The interdisciplinary field of study devoted to the relationship between political objectives, military power, coercion, deterrence, and international conflict resolution.  
 **Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -15,49 +15,98 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 ---
 
 ## Books in Wiki
-- [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
-- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
+- [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
+- [[the-evolution-of-cooperation]] (N/A) — [[robert-axelrod]], [[william-d-hamilton]]
+- [[influencing-leaders]] (2026) — [[james-e-lukaszewski]], [[helio-fred-garcia]]
+- [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]], [[chris-shipley]], [[rita-mcgrath]], [[amy-c-edmondson]], [[jonathan-haidt]]
+- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
+- [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
+- [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
+- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
+- [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
+- [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]]
+- [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
+- [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
+- [[developing-the-super-soldier-enhancing-military-performance]] (2017) — [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]]
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[world-order]] (2014) — [[henry-kissinger]]
 - [[david-and-goliath]] (2013) — [[malcolm-gladwell]]
 - [[antifragile]] (2012) — [[nassim-nicholas-taleb]]
-- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
 - [[insan-ve-devlet]] (2007) — [[osman-pamukoglu]]
+- [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
 - [[ey-vatan]] (2004) — [[osman-pamukoglu]]
 - [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
-- [[world-order]] (2014) — [[henry-kissinger]]
-- [[brief-answers-to-the-big-questions]] (2018) — [[stephen-hawking]]
-
-- [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
-- [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
-- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
-- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
-- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
-- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
-- [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
-- [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
-- [[deterrence-in-the-21st-century]] (2021) — [[frans-osinga]] & [[tim-sweijs]] (eds.)
-- [[the-evolution-of-cooperation]] (1984) — [[robert-axelrod]] (Strategic foundations of conflict resolution and tacit bargaining)
-- [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]] (Crisis advisory doctrine for counseling generals, admirals, and C-suite leaders)
-- [[leading-for-tomorrow]] (2026) — [[scott-barry-kaufman]] & [[chris-shipley]] (eds.), Foreword by [[rita-mcgrath]] (Strategic foresight, transient competitive advantage, and AI-era decision-making)
-
----
+- [[the-prince-machiavelli]] (1532) — [[niccolo-machiavelli]], [[harvey-c-mansfield]]
 
 ## Key Authors & Theorists
 
-- [[lawrence-freedman]]: Dean of modern British strategic studies and nuclear strategy historian.
-- [[frans-osinga]]: Expert on operational art, John Boyd's theory, and modern military strategy.
-- [[tim-sweijs]]: Specialist in cross-domain deterrence and conflict foresight.
-- [[michael-mazarr]]: Defense strategist at RAND specializing in deterrence theory and grey-zone conflict.
-- [[dmitry-adamsky]]: Preeminent scholar of Russian strategic culture and military doctrine.
-- [[dean-cheng]]: Senior analyst of Chinese PLA strategy and deterrence doctrines.
-- [[karl-mueller]]: Authority on conventional deterrence and air power strategy.
-- [[alexey-arbatov]]: Leading scholar on nuclear arms control and strategic stability.
-- [[james-e-lukaszewski]]: Crisis strategist advising senior military and corporate leadership.
-- [[helio-fred-garcia]]: Crisis strategist and instructor at the USMC Command and Staff College and U.S. Army War College.
-- [[rita-mcgrath]]: Strategist of transient advantage and strategic inflection points.
-- [[chris-shipley]]: Technology foresight strategist and innovation analyst.
-
----
+- [[alex-wilner]]
+- [[alexey-arbatov]]
+- [[amy-c-edmondson]]
+- [[berat-albayrak]]
+- [[chris-miller]]
+- [[chris-shipley]]
+- [[daniel-kokotajlo]]
+- [[david-gorman]]
+- [[dean-cheng]]
+- [[dmitry-adamsky]]
+- [[eitan-shamir]]
+- [[eli-lifland]]
+- [[francesco-giumelli]]
+- [[frans-osinga]]
+- [[harvey-c-mansfield]]
+- [[helio-fred-garcia]]
+- [[henry-kissinger]]
+- [[iain-staffell]]
+- [[isabelle-duyvesteyn]]
+- [[james-e-lukaszewski]]
+- [[jonathan-haidt]]
+- [[jorg-noll]]
+- [[karen-scarfone]]
+- [[karl-mueller]]
+- [[kim-richard-nossal]]
+- [[lawrence-freedman]]
+- [[leopold-aschenbrenner]]
+- [[malcolm-gladwell]]
+- [[marco-di-maggio]]
+- [[martijn-kitzen]]
+- [[matt-lucas]]
+- [[matthew-golby-kirk]]
+- [[max-smeets]]
+- [[michael-bhaskar]]
+- [[michael-bradley]]
+- [[michael-mazarr]]
+- [[mustafa-suleyman]]
+- [[nassim-nicholas-taleb]]
+- [[niccolo-machiavelli]]
+- [[nuriye-atabey]]
+- [[oliver-schmidt]]
+- [[osman-pamukoglu]]
+- [[paul-cichonski]]
+- [[paul-ducheine]]
+- [[paul-van-hooft]]
+- [[rita-mcgrath]]
+- [[robert-axelrod]]
+- [[robert-greene]]
+- [[romeo-dean]]
+- [[roy-lindelauf]]
+- [[samuel-zilincik]]
+- [[scott-alexander]]
+- [[scott-barry-kaufman]]
+- [[stefan-soesanto]]
+- [[stefanie-von-hlatky]]
+- [[sten-rynning]]
+- [[stephen-hawking]]
+- [[thomas-larsen]]
+- [[tim-grance]]
+- [[tim-sweijs]]
+- [[tom-bijlsma]]
+- [[tom-millar]]
+- [[william-d-hamilton]]
+- [[william-g-braun-iii]]
 
 ## Related Genres & Themes
 

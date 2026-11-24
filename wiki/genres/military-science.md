@@ -2,7 +2,7 @@
 
 **Description**: The systematic study of military processes, operational doctrine, weapon systems, command and control (C2), and the conduct of warfare.  
 **Key Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]  
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -15,36 +15,72 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
-- [[four-years-beneath-the-crescent]] (1926) — [[rafael-de-nogales]], [[muna-lee]]
-- [[diodorus-of-sicily-library-of-history]] (1967) — [[diodorus-siculus]], [[c-h-oldfather]], [[c-bradford-welles]]
-- [[ancient-china-and-its-enemies]] (2002) — [[nicola-di-cosmo]]
-- [[the-barbarian-empires-of-the-steppes]] (2014) — [[kenneth-w-harl]]
-- [[the-huns-hyun-jin-kim]] (2016) — [[hyun-jin-kim]]
-- [[the-greek-invasion-of-smyrna-1919]] (2019) — [[y-turan-cetiner]], [[pat-walsh]]
-- [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]
+- [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]
+- [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]
+- [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]]
+- [[the-greek-invasion-of-smyrna-1919]] (2019) — [[y-turan-cetiner]], [[pat-walsh]]
+- [[developing-the-super-soldier-enhancing-military-performance]] (2017) — [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]]
+- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
+- [[the-huns-hyun-jin-kim]] (2016) — [[hyun-jin-kim]]
+- [[the-barbarian-empires-of-the-steppes]] (2014) — [[kenneth-w-harl]]
+- [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
 - [[kazim-karabekir-hayatim]] (2008) — [[kazim-karabekir]]
-- [[ataturkun-not-defterleri]] (1996) — [[ali-mithat-inan]]
 - [[tarihi-degistiren-askerler]] (2007) — [[ali-cimen]]
 - [[the-33-strategies-of-war]] (2006) — [[robert-greene]]
-- [[strateji-yenecek-ve-kazanacaksin]] (2016) — [[osman-pamukoglu]]
-- [[cehennemdere-kanyonu]] (2013) — [[osman-pamukoglu]]
 - [[unutulanlar-disinda-yeni-bir-sey-yok]] (2003) — [[osman-pamukoglu]]
+- [[ancient-china-and-its-enemies]] (2002) — [[nicola-di-cosmo]]
 - [[napoleon-a-biography]] (1997) — [[frank-mclynn]]
-
-- [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
-- [[the-evolution-of-cooperation]] (1984) — Robert Axelrod (Military operational history of trench warfare in WWI)
-
----
+- [[ataturkun-not-defterleri]] (1996) — [[ali-mithat-inan]]
+- [[diodorus-of-sicily-library-of-history]] (1967) — [[diodorus-siculus]], [[c-h-oldfather]], [[c-bradford-welles]]
+- [[four-years-beneath-the-crescent]] (1926) — [[rafael-de-nogales]], [[muna-lee]]
 
 ## Key Authors & Theorists
 
-- [[frans-osinga]]: Air Commodore, professor of operational art and military science.
-- [[karl-mueller]]: Expert on conventional defense posture and air power doctrine.
-- [[dmitry-adamsky]]: Specialist in Russian military doctrine and operational art.
-- [[dean-cheng]]: Analyst of Chinese PLA military doctrine and command systems.
-
----
+- [[alex-wilner]]
+- [[alexey-arbatov]]
+- [[ali-cimen]]
+- [[ali-mithat-inan]]
+- [[bugra-atasayar]]
+- [[burcu-alver]]
+- [[c-bradford-welles]]
+- [[c-h-oldfather]]
+- [[chris-miller]]
+- [[dean-cheng]]
+- [[diodorus-siculus]]
+- [[dmitry-adamsky]]
+- [[eitan-shamir]]
+- [[francesco-giumelli]]
+- [[frank-mclynn]]
+- [[frans-osinga]]
+- [[hyun-jin-kim]]
+- [[isabelle-duyvesteyn]]
+- [[jorg-noll]]
+- [[karl-mueller]]
+- [[kazim-karabekir]]
+- [[kenneth-w-harl]]
+- [[kim-richard-nossal]]
+- [[lawrence-freedman]]
+- [[martijn-kitzen]]
+- [[max-smeets]]
+- [[michael-mazarr]]
+- [[muna-lee]]
+- [[nicola-di-cosmo]]
+- [[osman-pamukoglu]]
+- [[pat-walsh]]
+- [[paul-ducheine]]
+- [[paul-van-hooft]]
+- [[rafael-de-nogales]]
+- [[robert-greene]]
+- [[roy-lindelauf]]
+- [[samuel-zilincik]]
+- [[stefan-soesanto]]
+- [[stefanie-von-hlatky]]
+- [[sten-rynning]]
+- [[tim-sweijs]]
+- [[tom-bijlsma]]
+- [[william-g-braun-iii]]
+- [[y-turan-cetiner]]
 
 ## Related Genres & Themes
 

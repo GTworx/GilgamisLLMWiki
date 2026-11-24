@@ -1,7 +1,7 @@
 # Theme: Music as Prophecy and Political Economy of Sound
 
 **Summary**: How the organization of noise into music across ritual sacrifice, concert representation, mass-recorded repetition, and autonomous composition anticipates future political economies.
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-24
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme: Enduring Greatness, Empowered Product Teams, and Open-Source Ecosystems
 
 **Summary**: What separates compounding, mission-driven institutions and high-velocity engineering communities from bureaucratic feature factories.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

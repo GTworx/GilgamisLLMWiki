@@ -1,7 +1,7 @@
 # Theme: Westphalian World Order, The End of History, and Great-Power Realism
 
 **Summary**: The central grand-strategy debate of modern international relations: whether history converges toward universal liberal democracy or remains governed by competing civilizational visions, sovereignty, and power equilibrium.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

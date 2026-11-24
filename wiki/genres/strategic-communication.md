@@ -2,7 +2,7 @@
 
 **Description**: The discipline of purposeful, high-stakes persuasion, crisis counseling, executive advisory rhetoric, and service-first public visibility.
 **Key Themes**: [[trusted-strategic-advisors-and-influence]], [[service-first-branding-and-authentic-visibility]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]], [[evolution-of-strategies]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -16,26 +16,34 @@ Together, these works establish that effective strategic communication is never 
 ---
 
 ## Books in Wiki
-- [[tarihi-degistiren-konusmalar]] (2005) — [[ali-cimen]]
+- [[influencing-leaders]] (2026) — [[james-e-lukaszewski]], [[helio-fred-garcia]]
 - [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]
-- [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
-- [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
-- [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
-- [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
-- [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
-- [[spin-selling]] (1988) — [[neil-rackham]]
-- [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
-- [[influencing-leaders]] (2026) — [[james-e-lukaszewski]] & [[helio-fred-garcia]]
 - [[valuable-and-visible]] (2026) — [[vanessa-errecarte]]
-
----
+- [[the-challenger-sale-challenge-yourself-action-book]] (2021) — [[matthew-dixon]], [[brent-adamson]]
+- [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
+- [[never-split-the-difference]] (2016) — [[chris-voss]], [[tahl-raz]]
+- [[thank-you-for-arguing]] (2007) — [[jay-heinrichs]]
+- [[how-to-win-every-argument]] (2006) — [[madsen-pirie]]
+- [[tarihi-degistiren-konusmalar]] (2005) — [[ali-cimen]]
+- [[spin-selling]] (1988) — [[neil-rackham]]
+- [[how-to-win-friends-and-influence-people]] (1936) — [[dale-carnegie]]
 
 ## Key Authors & Theorists
-- [[james-e-lukaszewski]]
+- [[ali-cimen]]
+- [[brent-adamson]]
+- [[chris-voss]]
+- [[dale-carnegie]]
 - [[helio-fred-garcia]]
+- [[james-cheo]]
+- [[james-e-lukaszewski]]
+- [[jay-heinrichs]]
+- [[madsen-pirie]]
+- [[mark-b-houston]]
+- [[matthew-dixon]]
+- [[neil-rackham]]
+- [[tahl-raz]]
+- [[thorsten-hennig-thurau]]
 - [[vanessa-errecarte]]
-
----
 
 ## Related Genres & Themes
 - [[leadership-and-management]]

@@ -2,7 +2,7 @@
 
 **Description**: Customer-centered digital product discovery, value-proposition prototyping, UX validation, and ethical habit-forming behavioral design for technology products.
 **Key Themes**: [[lean-startup-customer-development-and-product-market-fit]], [[attention-economy-and-cultural-analytics]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -20,22 +20,18 @@ Across our knowledge base, this genre bridges [[alexander-osterwalder]] et al.'s
 - [[the-lean-entrepreneur]] (2013) — [[brant-cooper]], [[patrick-vlaskovits]]
 - [[the-lean-startup]] (2011) — [[eric-ries]]
 
----
-
 ## Key Authors & Theorists
-- [[wiktor-zolnowski]]
-- [[pragmatic-coders]]
-- [[nir-eyal]]
-- [[ryan-hoover]]
-- [[alexander-osterwalder]]
-- [[yves-pigneur]]
-- [[greg-bernarda]]
 - [[alan-smith-strategyzer]]
+- [[alexander-osterwalder]]
 - [[brant-cooper]]
-- [[patrick-vlaskovits]]
 - [[eric-ries]]
-
----
+- [[greg-bernarda]]
+- [[nir-eyal]]
+- [[patrick-vlaskovits]]
+- [[pragmatic-coders]]
+- [[ryan-hoover]]
+- [[wiktor-zolnowski]]
+- [[yves-pigneur]]
 
 ## Related Genres & Themes
 - [[lean-startup-customer-development-and-product-market-fit]]

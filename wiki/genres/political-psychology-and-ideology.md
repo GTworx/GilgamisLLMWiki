@@ -2,7 +2,7 @@
 
 **Description**: Cognitive and personality foundations of political behavior—spanning Intuitionism vs. Rationalism, at-a-distance leader assessment, populism, and ideological belief systems.
 **Key Themes**: [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[constrained-vs-unconstrained-visions-and-postcolonial-identity]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,23 +14,22 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 ---
 
 ## Books in Wiki
-- [[lord-of-the-flies]] (1954) — [[william-golding]]
-- [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
+- [[the-righteous-mind]] (2012) — [[jonathan-haidt]]
 - [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]
-
----
+- [[lord-of-the-flies]] (1954) — [[william-golding]]
 
 ## Key Authors & Theorists
-- [[j-eric-oliver]]
-- [[thomas-j-wood]]
-- [[jerrold-m-post]]
-- [[margaret-g-hermann]]
-- [[stephen-g-walker]]
 - [[david-g-winter]]
-
----
+- [[j-eric-oliver]]
+- [[jerrold-m-post]]
+- [[jonathan-haidt]]
+- [[margaret-g-hermann]]
+- [[quassim-cassam]]
+- [[stephen-g-walker]]
+- [[thomas-j-wood]]
+- [[william-golding]]
 
 ## Related Genres & Themes
 - [[political-intuitionism-administrative-state-and-capitalist-democracy]]

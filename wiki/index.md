@@ -1,1503 +1,1354 @@
 # Gilgamis LLM Wiki — Master Index
 
-Welcome to the **Gilgamis LLM Wiki**, a structured, interlinked knowledge base maintained by LLM agents (including local **Ollama `qwen3.8:latest`**) following Andrej Karpathy's LLM Wiki pattern. All claims and quotes across this wiki trace back to immutable source materials in the primary library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), both excluded from GitHub sync via `.gitignore`.
-
-* **Interactive Web Dashboard**: [Launch Dashboard (`index.html`)](../index.html) | [Secondary Link (`dashboard.html`)](../dashboard.html)
-* **Standalone Summary**: [SUMMARY.md](../SUMMARY.md)
-* **System Specification**: [GilgamisLLMWiki.md](../GilgamisLLMWiki.md)
-* **Operations Log**: [wiki/log.md](log.md)
-* **Local Ollama (`qwen3.8`) CLI**: [`.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py`](../.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)
-* **Current Metrics**: **417 Books** | **613 Authors** | **86 Genres** | **102 Themes** (1220 total markdown files)
-
----
-
-## Library of Books (Sorted Chronologically, Newest First)
-
-| Year | Title | Author(s) | Genres | Core Themes | Summary |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026** | [[advanced-network-forensics-a-cyber-behavioral-science-approach]] | [[marshall-s-rich]] | [[cybersecurity-and-digital-forensics]], [[organizational-psychology]], [[security-studies]] | [[hybrid-threats-and-cyber-warfare]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] | *Advanced Network Forensics: A Cyber-Behavioral Science Approach* (published by John Wiley & Sons, 2026, 297 pp.) by forensic cyberpsychologist Dr. |
-| **2026** | [[anti-zionism-a-jewish-history]] | [[benjamin-moser]] | [[biography-memoir-and-intellectual-history]], [[geopolitics-and-diplomatic-history]], [[political-science]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[social-critique-and-moral-conscience]] | Written by 2020 Pulitzer Prize–winning biographer **Benjamin Moser** (*Sontag*, *Why This World*; Doubleday, 2026, About the Book p. 2, Copyright p. |
-| **2026** | [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] | [[stat-news-editorial]] | [[biotechnology-medicine-and-longevity]], [[investigative-non-fiction]], [[innovation-and-economic-growth]] | [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[technological-containment-and-omni-use-proliferation]], [[rule-of-law-and-experimental-justice]] | *Beyond Cancer: The Expanding Reach of Cell and Gene Therapies* (published by STAT News, September 2026, 73 pp.) by [[stat-news-editorial]]—featuring investigative biomedical journalism by Isabella Cueto, Megan Molteni, Paul Knoepfler, Jason Mast, and Allison DeAngelis—chronicles the pivotal **2025–2026 inflection point** in which **CAR-T cell therapy** and **CRISPR gene editing** broke out of oncology to reshape aut... |
-| **2026** | [[deterrence-in-the-21st-century]] | [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]] | [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]] | [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[rationality-and-decision-making]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]] | *Deterrence in the 21st Century — Insights from Theory and Practice* (NL ARMS Netherlands Annual Review of Military Studies 2020, published 2021 by T.M.C. Asser Press / Springer), edited by Frans Osinga and Tim Sweijs, is an encyclopedic volume examining the renaissance and re-conceptualization of deterrence in contemporary geopolitics. |
-| **2026** | [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] | [[brian-solis]], [[dave-wright]] | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[human-centered-ai-and-augmented-leadership]], [[agi-trajectories-and-superalignment]], [[adaptive-intelligence-and-organizational-resilience]] | *Infinite: How Visionary Leaders Transform Today's Businesses into AI-Forward Companies* (published by John Wiley & Sons / ServiceNow, 2026, 323 pp., with a Foreword by ServiceNow Chairman and CEO Bill McDermott) by digital anthropologist [[brian-solis]] and ServiceNow Chief Innovation Officer [[dave-wright]] is a strategic blueprint for transitioning legacy organizations from **'finite companies'**—which merely bolt... |
-| **2026** | [[influencing-leaders]] | [[james-e-lukaszewski]], [[helio-fred-garcia]] | [[leadership-and-management]], [[strategic-communication]], [[strategic-studies]] | [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]], [[evolution-of-strategies]], [[cooperation-and-reciprocity]] | *Influencing Leaders: The Seven Disciplines of the Trusted Strategic Advisor* (2026) is an expanded and updated edition of James E. Lukaszewski's classic *Why Should the Boss Listen to You?*, co-authored with veteran crisis counselor and NYU professor Helio Fred Garcia. |
-| **2026** | [[intentional-attention]] | [[justin-anderson]] | [[executive-coaching-and-personal-mastery]], [[leadership-and-management]], [[cognitive-moral-and-social-psychology]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[adaptive-intelligence-and-organizational-resilience]], [[rationality-and-decision-making]] | Written by sport and performance psychologist **Justin Anderson** (Wiley, 2026, Title Page p. 5; 339 pp.), *Intentional Attention* dismantles the "myth of the naturally clutch performer" (Introduction, p. 13) by grounding focus under pressure in cognitive neuroscience and repeatable training architecture. |
-| **2026** | [[leading-for-tomorrow]] | [[scott-barry-kaufman]], [[chris-shipley]] (eds.), [[rita-mcgrath]], [[amy-c-edmondson]], [[jonathan-haidt]] | [[leadership-and-management]], [[organizational-psychology]], [[strategic-studies]] | [[human-centered-ai-and-augmented-leadership]], [[adaptive-intelligence-and-organizational-resilience]], [[universal-love-and-human-dignity]], [[organizational-culture-and-rewilding]], [[rationality-and-decision-making]] | *Leading for Tomorrow: Unlocking Human Potential in the Era of Continuous Change and Endless Possibility* (2026), edited by humanistic psychologist Scott Barry Kaufman and technology strategist Chris Shipley with a foreword by strategic inflection point authority Rita McGrath, is a landmark 22-chapter anthology produced through a collaboration between **Thinkers50** and the **Silicon Guild**. |
-| **2026** | [[microsoft-365-excel-office-scripts-for-dummies]] | [[michael-alexander]] | [[data-science-and-scientific-computing]], [[cloud-computing-and-distributed-systems]], [[personal-finance-investing-and-capital-markets]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[general-purpose-technologies-and-learning-by-doing]], [[capital-markets-investment-banking-and-personal-wealth-architecture]] | Published in **2026** by veteran Excel/BI author **Michael Alexander** (Wiley, pp. 5–6), *Microsoft 365 Excel Office Scripts For Dummies* is a comprehensive practical guide to automating modern cloud spreadsheets using **Office Scripts**—Microsoft's TypeScript-based, browser-native successor to legacy desktop VBA macros. Opening with a crisp architectural comparison of **VBA vs. |
-| **2026** | [[rapid-reculturing]] | [[alex-bailey]], [[kerri-oneill]] | [[organizational-psychology]], [[leadership-and-management]] | [[organizational-culture-and-rewilding]], [[human-centered-ai-and-augmented-leadership]], [[adaptive-intelligence-and-organizational-resilience]], [[cooperation-and-reciprocity]] | *Rapid Reculturing: Transforming Organizations at Pace and Scale* (2026), co-authored by positive organizational psychologist Alex Bailey (CEO of Bailey & French) and HR transformation strategist Kerri O'Neill (Chief People Officer at Ipsos UK & Ireland), diagnoses a profound cultural hollowing-out across modern workplaces. |
-| **2026** | [[the-adaptability-advantage]] | [[john-sanei]] | [[leadership-and-management]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]], [[evolution-of-human-consciousness]], [[rationality-and-decision-making]] | *The Adaptability Advantage: Unlearn the Past, Rewire Your Awareness, Elevate Your Future* (2026) by futures strategist and Singularity University faculty member John Sanei argues that the defining crisis of contemporary leadership is the **Speed Mismatch**—the widening gulf between exponential technological disruption (particularly artificial intelligence) and linear human and organizational adaptation. |
-| **2026** | [[the-evolution-of-cooperation]] | [[robert-axelrod]], [[william-d-hamilton]] | [[game-theory]], [[political-science]], [[evolutionary-biology]], [[strategic-studies]] | [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[rationality-and-decision-making]], [[tit-for-tat]] | Robert Axelrod's *The Evolution of Cooperation* (1984) addresses a foundational question across social science, evolutionary biology, and international relations: under what conditions will cooperation emerge in a world of egoists without central authority? (source: raw/Axelrod_Robert_The_Evolution_of_Cooperation.pdf, ch. 1, p. 3). |
-| **2026** | [[the-linkedin-playbook-for-employees]] | [[james-cheo]] | [[executive-coaching-and-personal-mastery]], [[strategic-communication]], [[leadership-and-management]] | [[service-first-branding-and-authentic-visibility]], [[platform-power-data-governance-and-career-adaptability]], [[trusted-strategic-advisors-and-influence]] | Authored by LinkedIn Top Voice **James Cheo** (Wiley, 2026, Title Page p. 5; 333 pp.; note that embedded PDF metadata lists an erroneous stub string, whereas the verified title and copyright pages pp. |
-| **2026** | [[the-mission-generation]] | [[arun-gupta]], [[thomas-j-fewer]] | [[executive-coaching-and-personal-mastery]], [[leadership-and-management]], [[entrepreneurship-and-startup-methodology]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[adaptive-intelligence-and-organizational-resilience]], [[power-realism-social-contagion-and-intentional-life-design]] | Co-authored by venture investor/educator **Arun Gupta** and researcher **Thomas J. Fewer** (Wiley, 2026, Title Page p. 7; 273 pp.), *The Mission Generation* maps how professionals and emerging leaders can navigate "perpetual disruption"—defined by five converging shocks: Pandemic Shock, Artificial Intelligence, Geopolitical Instability, Environmental Breakdown, and the Collapse of Trust (Ch. 2, pp. 34–37). |
-| **2026** | [[the-non-orientable-topology-of-condorcets-paradox]] | [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]] | [[social-choice-theory]], [[algebraic-topology]], [[game-theory]], [[political-science]] | [[topological-social-choice-and-preference-cycles]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] | *The Non-Orientable Topology of Condorcet's Paradox* (2026; 27 pages, `arXiv:2601.07283v6`) by [[ori-livson]], [[siddharth-pritam]], and [[mikhail-prokopenko]] (Centre for Complex Systems, University of Sydney, and Chennai Mathematical Institute) provides a rigorous algebraic-topological resolution to one of the oldest foundational puzzles in democratic theory and mathematical economics: why majority aggregation of i... |
-| **2026** | [[turkic-world-senate-analysis-2026]] | [[turkic-world-policy-analysts]] | [[geopolitics-and-diplomatic-history]], [[international-relations]], [[public-policy-and-urban-mobility]] | [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[social-critique-and-moral-conscience]] | *2026 U.S. Senate Candidates Ranked by Commitment to the Interests of Turkic Peoples* (Research Brief, May 2026, 8 pp.) by [[turkic-world-policy-analysts]] evaluates key incumbents and challengers in the November 2026 U.S. |
-| **2026** | [[valuable-and-visible]] | [[vanessa-errecarte]] | [[strategic-communication]], [[leadership-and-management]] | [[service-first-branding-and-authentic-visibility]], [[trusted-strategic-advisors-and-influence]], [[cooperation-and-reciprocity]] | *Valuable & Visible: Redefining Personal Branding by Leading with Impact Over Image* (Wiley, 2026; 273 pages) by strategic marketer and UC Davis Graduate School of Management lecturer [[vanessa-errecarte]] dismantles the false dichotomy between noisy, self-serving "influencer culture" and elitist, gatekept "thought leadership." Drawing on over twenty years of corporate marketing leadership and her flagship MBA curric... |
-| **2025** | [[50-plus-books-that-changed-my-life]] | [[unity-stoakes]] | [[biography-memoir-and-intellectual-history]], [[leadership-and-management]], [[ethics-and-value-philosophy]] | [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[service-first-branding-and-authentic-visibility]] | *50+ Books That Changed My Life* (2025, 47 pp., `dreamimpossible.org`) is a curated personal reading manifesto and intellectual autobiography in zine form by health-innovation entrepreneur [[unity-stoakes]]. |
-| **2025** | [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] | [[max-solomon-bennett]] | [[neuroscience-and-philosophy-of-mind]], [[artificial-intelligence-and-machine-learning]], [[evolutionary-biology]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[evolution-of-human-consciousness]], [[agi-trajectories-and-superalignment]] | *A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains* (2023/2025 synthesis edition, 103 pp.) by cognitive scientist and AI entrepreneur [[max-solomon-bennett]] resolves Moravec's Paradox—why artificial intelligence can defeat world champions at chess and Go yet struggle with sensorimotor and social common sense that a toddler masters effortlessly—by reconstructing the **evo... |
-| **2025** | [[ai-2027]] | [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]] | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[agi-trajectories-and-superalignment]], [[semiconductor-geopolitics-and-chokepoints]], [[deterrence-and-coercion]] | *AI 2027* (published April 3, 2025 by the AI Futures Project, design by Lightcone Infrastructure, 71 pp.) by [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], and [[romeo-dean]] is a rigorously quantified, month-by-month scenario forecast and 23-appendix technical monograph modeling the emergence of Artificial General Intelligence (AGI) and superintelligence between mid-2025 and 2028 (sou... |
-| **2025** | [[blockchain-crypto-and-defi-bridging-finance-and-technology]] | [[marco-di-maggio]] | [[blockchain-and-decentralized-finance]], [[game-theory]], [[strategic-studies]] | [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[human-centered-ai-and-augmented-leadership]] | *Blockchain, Crypto and DeFi: Bridging Finance and Technology* (published by John Wiley & Sons, 2025/2026, 749 pp.) is Harvard Business School Professor [[marco-di-maggio]]'s comprehensive 15-chapter treatise on the economic architecture, game-theoretic incentives, and institutional transformation of distributed ledger technology, cryptocurrencies, decentralized finance (DeFi), Web3, and AI-blockchain convergence (so... |
-| **2025** | [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] | [[karen-hao]] | [[artificial-intelligence-and-machine-learning]], [[investigative-non-fiction]], [[political-science]] | [[agi-trajectories-and-superalignment]], [[social-critique-and-moral-conscience]], [[energy-transition-and-storage-economics]] | *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI* (published by Penguin Press, 2025, 575 pp.) by investigative journalist [[karen-hao]] is the definitive inside chronicle and global political-economic investigation of OpenAI, Sam Altman, and the modern generative AI industry (source: BOOKS/AI/2025 empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai.pdf, pp. 3–11). |
-| **2025** | [[karl-marx-and-the-actualization-of-philosophy]] | [[christoph-schuringa]] | [[classical-and-analytic-philosophy]], [[political-science]], [[classical-and-institutional-economics]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[social-critique-and-moral-conscience]], [[revolutionary-ambition-power-and-historical-legacy]] | Written by Northeastern University London philosopher and *Hegel Bulletin* editor **Christoph Schuringa** (Cambridge University Press, 2025, pp. 2–5), *Karl Marx and the Actualization of Philosophy* overturns the standard narrative that Marx abandoned philosophy in favor of pure economics or political journalism after 1845. |
-| **2025** | [[probabilistic-artificial-intelligence]] | [[andreas-krause]], [[jonas-hubotter]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[game-theory]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[evolution-of-strategies]] | *Probabilistic Artificial Intelligence* (compiled February 11, 2025 at the Institute for Machine Learning, ETH Zürich, `arXiv:2502.05244v1 [cs.AI]`, 418 pp., paired with the analytical monograph `Book Summary probabilistic_ai_analysis.txt`) by [[andreas-krause]] and [[jonas-hubotter]] is a comprehensive graduate treatise that reframes artificial intelligence around a foundational axiom: **uncertainty is a first-class... |
-| **2024** | [[co-intelligence-living-and-working-with-ai]] | [[ethan-mollick]] | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[educational-technology-and-disruptive-pedagogy]] | [[human-centered-ai-and-augmented-leadership]], [[student-centric-and-blended-learning]], [[general-purpose-technologies-and-learning-by-doing]] | *Co-Intelligence: Living and Working with AI* (2024, 114 pp. analytical summary edition) by Wharton School Professor [[ethan-mollick]] is a practical and empirical treatise on how individuals, educators, and organizations can partner with Large Language Models as **'alien minds'** that augment human cognition (source: BOOKS/AI/2024 Co-Intelligence PDF Summary_.pdf, pp. 3–6). |
-| **2024** | [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] | [[erdal-polat]] | [[archaeological-historiography]], [[anatolian-civilizations]] | [[archaeology-and-national-identity]], [[critique-of-academic-orthodoxy]], [[rationality-and-decision-making]] | *Cumhuriyet Dönemi Arkeoloji Politikaları ve Bir Cumhuriyet Aydını Ekrem Akurgal* (2024) by Dr. Erdal Polat, published in the *Atatürk Araştırma Merkezi Dergisi* (Vol. 40, Issue 109, pp. 113–134), provides a critical historical investigation into the scientific, institutional, and cultural reconstruction of archaeology in early Republican Turkey under Mustafa Kemal Atatürk. |
-| **2024** | [[fusul-i-asikan]] | [[kastamonulu-ishak-zade-hasan-fevzi]] (Author); [[eyup-akman]] (Editor) | [[turkish-folk-literature]], [[poetry-and-poetics]], [[ottoman-philology-and-literary-historiography]], [[anatolian-humanism]] | [[asik-and-minstrel-tradition]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[universal-love-and-human-dignity]] | *Fusûl-ı Âşıkân* ("Chapters/Gatherings of the Minstrels") is a monumental 880-page critical transcription and scholarly study edited by Prof. Dr. Eyüp Akman and published by the Atatürk Culture Center (AKM) in 2024 (pp. 4–5). |
-| **2024** | [[how-the-world-made-the-west]] | [[josephine-quinn]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[archaeological-historiography]], [[geopolitics-and-diplomatic-history]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[islamic-golden-age-science-and-civilizational-transmission]], [[orientalism-postcolonial-discourse-and-cultural-satire]] | Opening with epigraphs from James Joyce (*"an immense woven fabric"*) and Salman Rushdie (*"Mélange, hotchpotch... is how newness enters the world"*, p. 8), Oxford ancient historian **Josephine Quinn** (Bloomsbury, 2024, Copyright p. 5, Contents pp. 10–11; 577 pp.) dismantles the nineteenth-century "civilizational thinking" myth that "Western Civilization" grew autonomously out of pure Greco-Roman roots. |
-| **2024** | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] | [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]] | [[cybersecurity-and-digital-forensics]], [[artificial-intelligence-and-machine-learning]], [[security-studies]] | [[hybrid-threats-and-cyber-warfare]], [[agi-trajectories-and-superalignment]], [[human-centered-ai-and-augmented-leadership]] | *Large Language Models in Cybersecurity: Threats, Exposure and Mitigation* (published by Springer Open Access in 2024, 249 pp., `DOI: 10.1007/978-3-031-54827-7`, supported by armasuisse Science and Technology, with Forewords by Swiss National Cyber Security Centre Director Florian Schütz and Council of Europe Director Jan Kleijssen) edited by [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-m... |
-| **2024** | [[meltdown-credit-suisse]] | [[duncan-mavin]] | [[financial-history-banking-and-market-psychology]], [[investigative-non-fiction]], [[personal-finance-investing-and-capital-markets]] | [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[private-equity-value-creation-leverage-and-systemic-risk]] | Written by Bloomberg News London editor and former *Wall Street Journal* reporter **Duncan Mavin** (2024, Macmillan Business, pp. 299–300), *Meltdown* is the definitive investigative post-mortem of the **March 2023 implosion of Credit Suisse**—a 167-year-old pillar of global finance and Swiss national identity forcibly absorbed into arch-rival UBS in an emergency weekend state-brokered rescue. |
-| **2024** | [[situational-awareness-the-decade-ahead]] | [[leopold-aschenbrenner]] | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[agi-trajectories-and-superalignment]], [[semiconductor-geopolitics-and-chokepoints]], [[energy-transition-and-storage-economics]] | *Situational Awareness: The Decade Ahead* (published June 6, 2024 in San Francisco, 165 pp., dedicated to Ilya Sutskever; preserved in two copies in `BOOKS/AI/`: `2024 Situational_Awareness_Leopold_Aschenbrenner.pdf` and `situationalawareness.pdf`) by former OpenAI Superalignment researcher [[leopold-aschenbrenner]] is one of the most influential strategic documents of the modern AI era (source: BOOKS/AI/2024 Situati... |
-| **2023** | [[cocuklarda-travmanin-yaralarini-sarmak]] | [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]] | [[psychoanalysis-and-depth-psychology]], [[biotechnology-medicine-and-longevity]], [[educational-technology-and-disruptive-pedagogy]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[universal-love-and-human-dignity]], [[adaptive-intelligence-and-organizational-resilience]] | Created by **Kateřina Honzíková** and edited by child-trauma therapist **Maggie Kline** under the *Syrian/Refugee Children Trauma Protection Project* (`Češi pro Sýrii, z.s.`, illustrated by Zhyldyz Shaiymbet, translated into Turkish by the **Somatik Deneyimleme Türkiye** team, April 2023, 44 pp., pp. 1–5), this open-access illustrated caregiver manual adapts **Peter A. |
-| **2023** | [[doppelganger-israel-palestine-and-the-doppelganger-effect]] | [[naomi-klein]] | [[postcolonial-and-diaspora-studies]], [[political-science]], [[investigative-non-fiction]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[clash-of-civilizations]] | *Israel, Palestine, and the Doppelganger Effect* (published late 2023, 55 pp. PDF plus companion analytical summary `.txt`) comprises the author's introduction and the complete text and endnotes of Chapters 13 (*'The Nazi in the Mirror'*) and 14 (*'The Unshakable Ethnic Double'*) from [[naomi-klein]]'s September 2023 book *Doppelganger: A Trip into the Mirror World* (source: BOOKS/Society_/2023 Book Israel-Palestine-... |
-| **2023** | [[empires-of-the-steppes-companion]] | [[kenneth-w-harl]] | [[central-eurasian-steppe-and-silk-road-history]], [[military-science]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]] | *(Bibliographic Verification Note: This 143-page Hanover Square Press companion PDF [ISBN 978-1-335-42927-8, Copyright ©2023, pp. 1–2] contains the complete scholarly apparatus—**Glossary** [pp. 3–18], **Select Bibliography** [pp. 19–45], and **Annotated Chapter Endnotes** [pp. 46–143]—for Tulane University historian **Kenneth W. |
-| **2023** | [[mandate-for-leadership-2025]] | [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]] | [[political-science]], [[public-policy-and-urban-mobility]], [[law-and-quantitative-criminology]] | [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[rule-of-law-and-experimental-justice]] | *Mandate for Leadership 2025: The Conservative Promise* (The Heritage Foundation, 2023, 920 pp.)—edited by [[paul-dans]] and [[steven-groves]] with a Foreword by Heritage Foundation President [[kevin-d-roberts]]—is the flagship Pillar I policy blueprint of the **2025 Presidential Transition Project ("Project 2025")**, backed by an advisory coalition of more than fifty American conservative organizations (source: BOOK... |
-| **2023** | [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] | [[oliver-schmidt]], [[iain-staffell]] | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[strategic-studies]] | [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[general-purpose-technologies-and-learning-by-doing]] | *Monetizing Energy Storage: A Toolkit to Assess Future Cost and Value* (published by Oxford University Press, 2023, 353 pp.) by Dr. [[oliver-schmidt]] and Professor [[iain-staffell]] (Imperial College London) is the definitive quantitative handbook on the techno-economic modeling, cost trajectories, and revenue monetization of electricity storage technologies across decarbonizing power grids (source: BOOKS/Energy/Mon... |
-| **2023** | [[the-coming-wave-ai-power-and-our-future]] | [[mustafa-suleyman]], [[michael-bhaskar]] | [[artificial-intelligence-and-machine-learning]], [[political-science]], [[strategic-studies]] | [[technological-containment-and-omni-use-proliferation]], [[general-purpose-technologies-and-learning-by-doing]], [[agi-trajectories-and-superalignment]] | *The Coming Wave: AI, Power, and Our Future* (published by Crown, 2023, 302 pp.; preserved in `BOOKS/AI/The Coming Wave_ AI, Power, and Our Future - Notebook.html` as a comprehensive 673-annotation study notebook spanning all four parts and fourteen chapters) by DeepMind co-founder and Microsoft AI CEO [[mustafa-suleyman]] and [[michael-bhaskar]] confronts the central paradox of 21st-century civilization: **the comin... |
-| **2023** | [[the-scythian-empire]] | [[christopher-i-beckwith]] | [[central-eurasian-steppe-and-silk-road-history]], [[classical-and-analytic-philosophy]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[open-society-creative-destruction-and-epistemic-virtue]] | Building on his acclaimed [[empires-of-the-silk-road]], **Christopher I. Beckwith** (Princeton University Press, 2023, Copyright p. 5, Contents pp. 6–7; 417 pp., consolidated with companion thematic notes `2023 scythian_empire_summary.txt`) advances a bold, revisionist thesis about the origins of the **Axial / Classical Age**. |
-| **2023** | [[venture-capital-and-private-equity-mms-curriculum]] | [[tushar-balkrishna-raut]] | [[private-equity-and-venture-capital]], [[law-and-quantitative-criminology]], [[ethics-and-value-philosophy]] | [[private-equity-value-creation-leverage-and-systemic-risk]], [[rule-of-law-and-experimental-justice]], [[metaphysics-of-quality-and-global-ethics]] | *Venture Capital and Private Equity (Master in Management Studies, Semester IV CBCS Curriculum, Subject Code `00000NMMSS4S2`)* (published by the Institute of Distance and Open Learning [IDOL], University of Mumbai Press, September 2023, 131 pp., coordinated by Nilesh Nandkumar Manore and Dr. |
-| **2022** | [[api-strategy-for-decision-makers]] | [[mike-amundsen]], [[derric-gilling]] | [[cloud-computing-and-distributed-systems]], [[saas-and-subscription-business-models]], [[innovation-and-economic-growth]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[recurring-revenue-customer-success-and-retention-mechanics]], [[general-purpose-technologies-and-learning-by-doing]] | *API Strategy for Decision Makers: Growing Your Product Through Customer Observability* (published by O'Reilly Media in collaboration with Moesif, July 2022, 51 pp., ISBN `978-1-492-09676-4`) by renowned API architect [[mike-amundsen]] and Moesif cofounder/CEO [[derric-gilling]] reframes Application Programming Interfaces from back-office technical plumbing into **first-class digital products** requiring disciplined ... |
-| **2022** | [[benim-pencerem]] | [[burak-dalgin]] | [[turkish-republican-history-and-biographical-memoirs]], [[leadership-and-management]], [[classical-and-institutional-economics]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[inclusive-institutions-economic-thought-and-ecological-limits]], [[adaptive-intelligence-and-organizational-resilience]] | Compiled and released explicitly as a free copyleft ("açık kaynak / miri malı") public resource encouraging readers to donate to the Darüşşafaka Society (p. |
-| **2022** | [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] | [[berat-albayrak]] | [[energy-policy-and-clean-tech-economics]], [[political-science]], [[strategic-studies]] | [[energy-transition-and-storage-economics]], [[semiconductor-geopolitics-and-chokepoints]], [[archaeology-and-national-identity]] | *Burası Çok Önemli! Enerjiden Ekonomiye Tam Bağımsız Türkiye* (published by Turkuvaz Kitap, March 2022, 273 pp.) is the political-economic memoir and policy manifesto of Dr. |
-| **2022** | [[canakkale-zafer-yolunda]] | [[bugra-atasayar]], [[burcu-alver]] | [[turkish-republican-history-and-biographical-memoirs]], [[military-science]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]] | Compiled by **Buğra Atasayar** and edited by **Burcu Alver** (p. 60; 2022 commemorative edition marking the 107th anniversary of 18 March 1915; 60 pp.), *Zafer Yolunda: 107. Yılında, 107 Fotoğrafla Çanakkale Destanı* presents a curated visual chronicle of the **1915–1916 Gallipoli (Çanakkale) Campaign** through 107 archival photographs with concise historical captions. |
-| **2022** | [[chip-war-the-fight-for-the-worlds-most-critical-technology]] | [[chris-miller]] | [[strategic-studies]], [[security-studies]], [[international-relations]], [[military-science]] | [[semiconductor-geopolitics-and-chokepoints]], [[deterrence-and-coercion]], [[cross-domain-conflict]], [[human-centered-ai-and-augmented-leadership]], [[evolution-of-strategies]] | Winner of the *Financial Times* Business Book of the Year Award, *Chip War: The Fight for the World's Most Critical Technology* (2022, Scribner, 473 pp., 54 chapters across 8 parts) by Tufts University Fletcher School historian [[chris-miller]] chronicles how the **integrated circuit (microchip)** replaced oil and steel as the master strategic resource of modern economic, military, and artificial-intelligence power. |
-| **2022** | [[crypto-and-nft-philanthropy-afsp-case-study]] | [[the-giving-block]] | [[blockchain-and-decentralized-finance]], [[cultural-and-digital-anthropology]], [[biotechnology-medicine-and-longevity]] | [[decentralized-trust-and-cryptographic-governance]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[universal-love-and-human-dignity]] | *How Crypto & NFT Philanthropy Helped the American Foundation for Suicide Prevention Diversify Its Revenue Streams* (published by [[the-giving-block]], October 2022, 1 p.) is a concise nonprofit-innovation case study documenting how the **American Foundation for Suicide Prevention (AFSP)**—founded in 1987 with 74 local chapters across all 50 U.S. |
-| **2022** | [[deploying-a-modern-security-data-lake]] | [[david-baum]] | [[cybersecurity-and-digital-forensics]], [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]] | [[cloud-scale-fraud-analytics-and-security-data-lakes]], [[cloud-native-architecture-and-declarative-infrastructure]], [[hybrid-threats-and-cyber-warfare]] | *Deploying a Modern Security Data Lake: Solve Legacy SIEM Problems, Integrate Data Science, and Enable Collaboration* (published by O'Reilly Media in collaboration with Snowflake, July 2022, 46 pp., ISBN `978-1-098-13495-2`) by technology author [[david-baum]] diagnoses why legacy on-premises and "cloud-washed" Security Information and Event Management (SIEM) systems buckle under the telemetry explosion of cloud comp... |
-| **2022** | [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] | [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]] | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[public-policy-and-urban-mobility]] | [[energy-transition-and-storage-economics]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] | This four-volume synthesis encompasses the complete `BOOKS/Energy/Light Battery Vehicle including eBike/` sub-library (totaling 749 pages across four landmark engineering and National Academies policy studies published between 2013 and 2022): (1) *Electric Vehicle Battery Technologies* (2013, 44 pp., Springer, `DOI: 10.1007/978-1-4614-0134-6_2`) by [[kwo-young]], Caisheng Wang, Le Yi Wang, and Kai Strunz; (2) *Assess... |
-| **2022** | [[hbr-at-100]] | [[harvard-business-review-editorial]]; [[adi-ignatius]] (Introduction) | [[corporate-strategy-and-management-classics]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]] | Curated to mark the centenary of *Harvard Business Review* (founded in 1922) and introduced by Editor-in-Chief **Adi Ignatius** (pp. 4, 8), *HBR at 100* (2022) brings together thirty landmark essays that defined modern management science across strategy, leadership, innovation, organizational psychology, data science, and the future of work. |
-| **2022** | [[hbr-women-at-work-collection]] | [[harvard-business-review-editorial]], [[amy-c-edmondson]] (with Emily Caulfield, Amy Gallo, Dorie Clark, Laura Morgan Roberts, & Amy Jen Su) | [[leadership-and-management]], [[organizational-psychology]], [[corporate-strategy-and-management-classics]] | [[platform-power-data-governance-and-career-adaptability]], [[organizational-culture-and-rewilding]], [[universal-love-and-human-dignity]] | Curated from Harvard Business Review's acclaimed *Women at Work* podcast (introduced by cohosts Emily Caulfield and Amy Gallo, pp. 5–9) alongside research essays by scholars including **Amy C. |
-| **2022** | [[how-to-start-a-startup-pragmatic-coders]] | [[wiktor-zolnowski]], [[pragmatic-coders]] | [[entrepreneurship-and-startup-methodology]], [[product-design-and-behavioral-engineering]] | [[lean-startup-customer-development-and-product-market-fit]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Authored by the engineering and product team at Kraków-based venture studio **Pragmatic Coders** with a Foreword by co-founder **Wiktor Żołnowski** (p. 3), this practitioner manual distills lessons from building over 80 early-stage digital products. |
-| **2022** | [[kubernetes-up-and-running]] | [[brendan-burns]], [[joe-beda]], [[kelsey-hightower]], [[lachlan-evenson]] | [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]], [[innovation-and-economic-growth]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]] | *Kubernetes: Up and Running: Dive into the Future of Infrastructure (Third Edition)* (published by O'Reilly Media in collaboration with VMware Tanzu, August 2022, 330 pp., ISBN `978-1-098-11020-8`) by Kubernetes cofounders [[brendan-burns]] and [[joe-beda]] alongside cloud-native pioneers [[kelsey-hightower]] and [[lachlan-evenson]] is the canonical architectural and operational manual for the open-source container o... |
-| **2022** | [[practical-fraud-prevention]] | [[gilit-saporta]], [[shoshana-maraney]] | [[cybersecurity-and-digital-forensics]], [[data-science-and-scientific-computing]], [[cloud-computing-and-distributed-systems]] | [[cloud-scale-fraud-analytics-and-security-data-lakes]], [[hybrid-threats-and-cyber-warfare]], [[rationality-and-decision-making]] | *Practical Fraud Prevention: Fraud and AML Analytics for Fintech and eCommerce, Using SQL and Python* (published by O'Reilly Media in collaboration with Ping Identity, March 2022, 398 pp., ISBN `978-1-098-13830-1`) by veteran fraud-intelligence practitioners [[gilit-saporta]] (Director of Fraud Analytics at DoubleVerify; formerly PayPal and Forter) and [[shoshana-maraney]] (formerly Forter and Identiq) is a comprehen... |
-| **2022** | [[snowflake-the-definitive-guide]] | [[joyce-kay-avila]] | [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]], [[saas-and-subscription-business-models]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[cloud-scale-fraud-analytics-and-security-data-lakes]], [[general-purpose-technologies-and-learning-by-doing]] | *Snowflake: The Definitive Guide: Architecting, Designing, and Deploying on the Snowflake Data Cloud* (published by O'Reilly Media in collaboration with Snowflake, August 2022, 468 pp., ISBN `978-1-098-12217-1`) by Snowflake Data Superhero and CPA/computer scientist [[joyce-kay-avila]] is an authoritative hands-on engineering and architecture manual for the **Snowflake Data Cloud** (source: BOOKS/Cloud/Snowflake-The-... |
-| **2022** | [[state-of-it-asset-management-2022]] | [[flexera-research]] | [[cloud-computing-and-distributed-systems]], [[saas-and-subscription-business-models]], [[leadership-and-management]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[adaptive-intelligence-and-organizational-resilience]], [[rationality-and-decision-making]] | The *Flexera 2022 State of ITAM Report* (published by Flexera, © 2021 / 2022 edition, 64 pp., Creative Commons Attribution 4.0) is an empirical global benchmark surveying **465 IT asset management (ITAM), software asset management (SAM), and hardware asset management (HAM) professionals** at enterprise organizations of 1,000+ employees (over half with 5,000+ employees and over one-third with 10,000+ employees) (sourc... |
-| **2021** | [[an-ugly-truth-inside-facebook]] | [[sheera-frenkel]], [[cecilia-kang]] | [[investigative-non-fiction]], [[media-economics-and-entertainment-science]], [[cybersecurity-and-digital-forensics]] | [[platform-power-data-governance-and-career-adaptability]], [[attention-economy-and-cultural-analytics]], [[monitory-democracy-and-power-scrutiny]] | Reported by Pulitzer-finalist *New York Times* technology journalists **Sheera Frenkel** and **Cecilia Kang** from over 1,000 hours of interviews with more than 400 current and former executives, engineers, policy staff, and advisors (p. |
-| **2021** | [[architecting-data-intensive-saas-applications]] | [[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], [[dinesh-kulkarni]] | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[iot-cyber-physical-convergence-and-edge-security]], [[cloud-scale-fraud-analytics-and-security-data-lakes]] | *Architecting Data-Intensive SaaS Applications: Building Scalable Software with Snowflake* (published by O'Reilly Media in collaboration with Snowflake, May 2021, 69 pp., ISBN `978-1-098-10273-9`) by Snowflake engineering and architecture leaders [[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], and [[dinesh-kulkarni]] is a concise technical architecture blueprint for SaaS... |
-| **2021** | [[klara-and-the-sun]] | [[kazuo-ishiguro]] | [[cyberpunk-ai-fiction-and-techno-humanism]], [[speculative-fiction]], [[philosophical-fiction]] | [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]], [[agi-trajectories-and-superalignment]], [[universal-love-and-human-dignity]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]] | Kazuo Ishiguro's first novel following his 2017 Nobel Prize in Literature, *Klara and the Sun* (2021, pp. 4, 253) is a luminous, quietly devastating first-person philosophical novel narrated by **Klara**, a solar-powered **Artificial Friend (AF)** with unusually acute powers of visual and emotional observation. |
-| **2021** | [[microservices-up-and-running]] | [[ronnie-mitra]], [[irakli-nadareishvili]] | [[cloud-computing-and-distributed-systems]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[organizational-culture-and-rewilding]], [[adaptive-intelligence-and-organizational-resilience]] | *Microservices: Up and Running: A Step-by-Step Guide to Building a Microservices Architecture* (published by O'Reilly Media in collaboration with NGINX / F5, First Edition December 2020 / © 2021, 318 pp., ISBN `978-1-098-14278-0`) by API and distributed-systems architects [[ronnie-mitra]] and [[irakli-nadareishvili]] delivers an end-to-end socio-technical blueprint for designing, organizing, building, and operating a... |
-| **2021** | [[saas-for-dummies-oracle-special-edition]] | [[lawrence-c-miller]] | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]], [[leadership-and-management]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[recurring-revenue-customer-success-and-retention-mechanics]], [[human-centered-ai-and-augmented-leadership]] | *SaaS For Dummies, Oracle 3rd Special Edition* (published by John Wiley & Sons, 2021, 64 pp., ISBN `978-1-119-79817-0`) by enterprise technology author [[lawrence-c-miller]] is a concise executive guide explaining how midsize and large enterprises replace fragmented on-premises ERP, CRM, HCM, and supply-chain suites with integrated **Software-as-a-Service (SaaS)** cloud applications (source: BOOKS/SaaS/saas-for-dummi... |
-| **2021** | [[the-challenger-sale-challenge-yourself-action-book]] | [[matthew-dixon]], [[brent-adamson]] | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[leadership-and-management]] | [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]] | *Challenge Yourself: The Challenger Sales Conversation — Developing and Managing Constructive Tension* (published by Challenger Performance Optimization / Corporate Executive Board & Gartner, 2021, 56 pp.) operationalizes the landmark CEB/Gartner research pioneered by [[matthew-dixon]] and [[brent-adamson]] (*The Challenger Sale* and *The Challenger Customer*) into an interactive field workbook for complex B2B commer... |
-| **2021** | [[the-dawn-of-everything]] | [[david-graeber]], [[david-wengrow]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[cultural-and-digital-anthropology]], [[comparative-democratic-history]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[pre-athenian-and-indigenous-democracies]], [[critique-of-academic-orthodoxy]] | Co-authored over a decade by late LSE anthropologist **David Graeber** (1961–2020) and UCL comparative archaeologist **David Wengrow** (2021, Contents pp. |
-| **2021** | [[the-great-ceo-within]] | [[matt-mochary]] | [[entrepreneurship-and-startup-methodology]], [[executive-coaching-and-personal-mastery]], [[leadership-and-management]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Written by Silicon Valley CEO coach **Matt Mochary**—mentor to the founders of OpenAI, Coinbase, Reddit, Plaid, Brex, Rippling, Robinhood, Grammarly, and AngelList (Introduction, p. 4; ©2021, p. 2; 135 pp.)—*The Great CEO Within* is a brutally concise, copy-and-paste operational manual designed specifically for time-starved technical founders scaling hypergrowth companies. |
-| **2021** | [[the-ultimate-private-equity-playbook]] | [[jo-hands]], [[james-ciuffetelli]] | [[private-equity-and-venture-capital]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[private-equity-value-creation-leverage-and-systemic-risk]], [[adaptive-intelligence-and-organizational-resilience]], [[rationality-and-decision-making]] | *The Ultimate Private Equity Playbook* (published by Whiteark, Melbourne, 2021, 44 pp.) by Whiteark cofounders and directors [[jo-hands]] and [[james-ciuffetelli]] is a visual, practitioner-oriented operational transformation manual for private equity sponsors and portfolio-company executives seeking to maximize exit valuations across the holding period (source: BOOKS/Private Equity/Private+Equity+Playbook+-+by+White... |
-| **2021** | [[why-startups-fail]] | [[tom-eisenmann]] | [[entrepreneurship-and-startup-methodology]], [[corporate-strategy-and-management-classics]], [[behavioral-science-risk-and-antifragility]] | [[lean-startup-customer-development-and-product-market-fit]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[antifragility-black-swans-and-skin-in-the-game]] | Harvard Business School professor **Tom Eisenmann**—who has led HBS's required MBA course *The Entrepreneurial Manager* for over two decades and advised thousands of founders—wrote *Why Startups Fail* (Currency, 2021, copyright p. 3; Introduction pp. 6–7) after watching two promising student ventures (*Triangulate* and *Quincy*) collapse despite diligent execution of the Lean Startup playbook. |
-| **2020** | [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] | [[michael-wooldridge]] | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[game-theory]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[rationality-and-decision-making]], [[agi-trajectories-and-superalignment]] | *A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going* (published by Flatiron Books / Macmillan, 2020, ISBN 978-1-250-77073-8) by Oxford Computer Science Head [[michael-wooldridge]] is an authoritative nine-chapter intellectual history and philosophical assessment of artificial intelligence written by one of the field's foremost multi-agent theorists (source: BOOKS/AI/a-brief-h... |
-| **2020** | [[asik-borani-soz-insanin-aynasi]] | [[asik-borani]], [[ibrahim-gosterir]] (ed.) | [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]] | [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]], [[service-first-branding-and-authentic-visibility]] | *Âşık Borani: Söz İnsanın Aynasıdır* (2020) is a monumental two-volume, 1,150-page compendium encompassing the complete poetic, philosophical, and cultural oeuvre of Âşık Borani (Halil Çimen, 1943–2020), one of Anatolia’s foremost 20th and 21st-century minstrel-philosophers (*halk ozanı*). |
-| **2020** | [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] | [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]] | [[anatolian-civilizations]], [[republican-intellectual-history]], [[archaeological-historiography]] | [[archaeology-and-national-identity]], [[universal-love-and-human-dignity]] | *Görmediğimiz Türkiye: 123 Yıllık National Geographic Arşivi* is a curated 50-page visual and ethnographic chronicle drawn from over a century of the *National Geographic* photographic archives, documenting everyday social life, urban transformation, maritime commerce, and rural landscapes across early Republican Türkiye between the 1920s and 1950s (source: BOOKS/Türkiye_/Görmediğimiz Türkiye.pdf, pp. 1–50). |
-| **2020** | [[hbr-insights-future-of-business-boxed-set]] | [[harvard-business-review-editorial]] | [[corporate-strategy-and-management-classics]], [[artificial-intelligence-and-machine-learning]], [[cybersecurity-and-digital-forensics]], [[blockchain-and-decentralized-finance]] | [[platform-power-data-governance-and-career-adaptability]], [[human-centered-ai-and-augmented-leadership]], [[decentralized-trust-and-cryptographic-governance]] | Spanning 978 pages, the *HBR Insights: Future of Business Boxed Set* (2020, Harvard Business Review Press, pp. 3, 7) unites **eight complete topical volumes** from HBR's *Insights You Need* series into a single executive compendium on technological, regulatory, and environmental disruption: 1. |
-| **2020** | [[the-almanack-of-naval-ravikant]] | [[eric-jorgenson]], [[naval-ravikant]] | [[entrepreneurship-and-startup-methodology]], [[personal-finance-investing-and-capital-markets]], [[stoic-philosophy-and-practical-ethics]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]] | Curated by entrepreneur and writer **Eric Jorgenson** from a decade of essays, podcasts, and tweetstorms by AngelList co-founder and early-stage investor **Naval Ravikant** (Foreword by Tim Ferriss, pp. 13–15), *The Almanack of Naval Ravikant* synthesizes a unified operating philosophy across two halves: **Part I: Wealth** (pp. 29–125) and **Part II: Happiness** (pp. 127–205). |
-| **2020** | [[the-room-where-it-happened]] | [[john-bolton]] | [[intelligence-studies-and-national-security]], [[geopolitics-and-diplomatic-history]], [[political-science]] | [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[deterrence-and-coercion]] | *The Room Where It Happened: A White House Memoir* (Simon & Schuster, 2020, 290 pp. electronic edition) is former U.S. National Security Advisor and UN Ambassador [[john-bolton]]'s candid insider chronicle of his 17-month tenure (April 2018–September 2019) inside the Trump White House (source: BOOKS/Politics_/John Bolton - The Room Where It Happened_ A White House Memoir (2020, Simon & Schuster).pdf, Ch. 1, pp. |
-| **2019** | [[501-math-word-problems-and-middle-school-math-challenges]] | [[learningexpress-editors]], [[alex-oconnor]] | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[purposeful-longevity-flow-and-mathematical-literacy]], [[student-centric-and-blended-learning]], [[rationality-and-decision-making]] | This two-volume applied mathematics problem-solving compendium unites two complementary practice workbooks in `BOOKS/Math/` totaling **238 pages**: (1) *501 Math Word Problems* (First Edition, published by LearningExpress, LLC, New York, 2003, 224 pp., ISBN `1-57685-439-6`), authored by the [[learningexpress-editors]] Skill Builder in Focus writing team of middle-school, high-school, and college math educators; and (... |
-| **2019** | [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] | [[atif-kureishy]], [[chad-meley]], [[ben-mackenzie]], [[david-beyer]] | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[human-centered-ai-and-augmented-leadership]], [[general-purpose-technologies-and-learning-by-doing]], [[rationality-and-decision-making]] | This two-volume O'Reilly Media synthesis unites [[atif-kureishy]], [[chad-meley]], and [[ben-mackenzie]]'s *Achieving Real Business Outcomes from Artificial Intelligence: Enterprise Considerations for AI Initiatives* (O'Reilly, 2019, 73 pp., praised by Thomas H. |
-| **2019** | [[america-before-the-key-to-earths-lost-civilization]] | [[graham-hancock]] | [[alternative-archaeology]], [[pre-columbian-history]], [[archaeoastronomy]] | [[pre-clovis-and-american-antiquity]], [[lost-civilization-hypothesis]], [[younger-dryas-impact-hypothesis]], [[critique-of-academic-orthodoxy]] | *America Before: The Key to Earth's Lost Civilization* (2019) is Graham Hancock’s 668-page culmination of his decades-long investigation into human antiquity, focusing on the Americas as the unacknowledged epicenter of prehistoric global civilization. |
-| **2019** | [[bir-omur-nasil-yasanir]] | [[ilber-ortayli]], [[yenal-bilgici]] | [[turkish-republican-history-and-biographical-memoirs]], [[executive-coaching-and-personal-mastery]], [[biography-memoir-and-intellectual-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[purposeful-longevity-flow-and-mathematical-literacy]] | Structured as an extended, candid Socratic dialogue between preeminent Turkish Ottoman historian **Prof. Dr. İlber Ortaylı** and journalist **Yenal Bilgici** (Kronik Kitap, 1st ed. Feb. |
-| **2019** | [[crack-the-funding-code]] | [[judy-robinett]] | [[private-equity-and-venture-capital]], [[entrepreneurship-and-startup-methodology]], [[persuasion-negotiation-and-rhetoric]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[trusted-strategic-advisors-and-influence]] | Written by strategic connector, angel investor, and former biotech CEO **Judy Robinett**—with a Foreword by original *Shark Tank* investor **Kevin Harrington** (pp. 13–17)—*Crack the Funding Code* (2019, copyright p. 7) demystifies early-stage fundraising from the investor's vantage point. |
-| **2019** | [[educational-technology-a-primer-for-the-21st-century]] | [[ronghuai-huang]], [[j-michael-spector]], [[junfeng-yang]] | [[educational-technology-and-disruptive-pedagogy]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[student-centric-and-blended-learning]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] | *Educational Technology: A Primer for the 21st Century* (published by Springer Nature Singapore in the *Lecture Notes in Educational Technology* series, 2019, 253 pp., `DOI: 10.1007/978-981-13-6643-7`) by Professors [[ronghuai-huang]] (Beijing Normal University), [[j-michael-spector]] (University of North Texas), and [[junfeng-yang]] (Hangzhou Normal University) is a foundational international textbook synthesizing t... |
-| **2019** | [[entertainment-science-data-analytics-and-practical-theory]] | [[thorsten-hennig-thurau]], [[mark-b-houston]] | [[media-economics-and-entertainment-science]], [[strategic-communication]], [[leadership-and-management]] | [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]], [[service-first-branding-and-authentic-visibility]] | *Entertainment Science: Data Analytics and Practical Theory for Movies, Games, Books, and Music* (published by Springer Nature, 2019, 879 pp., `DOI: 10.1007/978-3-319-89292-4`) by Professors [[thorsten-hennig-thurau]] (University of Münster) and [[mark-b-houston]] (Texas Christian University) is an encyclopedic synthesis of over 35 years of empirical econometrics, consumer psychology, and data science across the glob... |
-| **2019** | [[getting-started-with-enterprise-blockchain]] | [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]] | [[blockchain-and-decentralized-finance]], [[strategic-studies]], [[leadership-and-management]] | [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[semiconductor-geopolitics-and-chokepoints]] | *Getting Started with Enterprise Blockchain: A Guide to Design and Development* (published by O'Reilly Media and IBM Corporation, 2019, 86 pp.) by [[michael-bradley]], [[david-gorman]], [[matt-lucas]], and [[matthew-golby-kirk]] (with a Foreword by Clause Inc. |
-| **2019** | [[internet-of-things-from-hype-to-reality]] | [[ammar-rayes]], [[samer-salam]] | [[internet-of-things-and-edge-computing]], [[cloud-computing-and-distributed-systems]], [[cybersecurity-and-digital-forensics]] | [[iot-cyber-physical-convergence-and-edge-security]], [[cloud-native-architecture-and-declarative-infrastructure]], [[decentralized-trust-and-cryptographic-governance]] | *Internet of Things From Hype to Reality: The Road to Digitization (Second Edition)* (published by Springer Nature Switzerland, 2019, 393 pp., `DOI: 10.1007/978-3-319-99516-8`, with Forewords by IBM's Jim Spohrer and networking systems leaders) by Cisco Distinguished Engineer [[ammar-rayes]] and Cisco Principal Engineer [[samer-salam]] is a comprehensive engineering textbook and strategic architecture blueprint bridg... |
-| **2019** | [[leaving-socialism-behind]] | [[russell-a-berman]] | [[political-science]], [[classical-and-institutional-economics]], [[geopolitics-and-diplomatic-history]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[inclusive-institutions-economic-thought-and-ecological-limits]], [[late-ottoman-conflict-palestine-zionism-and-contested-memory]] | Published as a concise **Hoover Institution Essay** by Stanford University Senior Fellow **Russell A. Berman** (22 pp., Contents p. 2), *Leaving Socialism Behind* uses the thirty-year retrospective of the **November 9, 1989 fall of the Berlin Wall** to examine the structural economic failure and political authoritarianism of the German Democratic Republic (East Germany) in direct comparison with West Germany's social... |
-| **2019** | [[machines-like-me]] | [[ian-mcewan]] | [[cyberpunk-ai-fiction-and-techno-humanism]], [[speculative-fiction]], [[philosophical-fiction]], [[ethics-and-value-philosophy]] | [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]], [[agi-trajectories-and-superalignment]], [[social-critique-and-moral-conscience]], [[rule-of-law-and-experimental-justice]] | Set in an alternate 1982 London where **Alan Turing** survived persecution, cracked P vs. NP, and accelerated artificial intelligence by half a century—while Britain loses the Falklands War, Margaret Thatcher falls, and Tony Benn rises—Ian McEwan's *Machines Like Me* (2019, pp. 5, 11) is a sharp, darkly comic philosophical thriller about human moral compromise versus algorithmic ethical absolutism. |
-| **2019** | [[media-and-digital-management]] | [[eli-m-noam]] | [[media-economics-and-entertainment-science]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]], [[general-purpose-technologies-and-learning-by-doing]] | *Media and Digital Management* (published by Palgrave Macmillan / Springer Nature, 2019, 486 pp., `DOI: 10.1007/978-3-319-72000-5`) by Columbia Business School Professor [[eli-m-noam]] is a comprehensive treatise on the managerial economics, industrial organization, technology engineering, finance, law, and distribution strategy of the global media, communications, and digital information sector (source: BOOKS/Entert... |
-| **2019** | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] | [[john-hunt]], [[kent-d-lee]], [[alain-f-zuur]], [[elena-n-ieno]], [[erik-h-w-g-meesters]] | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[educational-technology-and-disruptive-pedagogy]] | [[general-purpose-technologies-and-learning-by-doing]], [[student-centric-and-blended-learning]], [[probabilistic-inference-and-uncertainty-quantification]] | This four-volume synthesis encompasses the complete **Scientific Computing & Programming Foundations** sub-library in `BOOKS/AI/`—totaling **1,404 pages** across four landmark Springer textbooks on **Python 3** and **R**, the two lingua francas of modern artificial intelligence, machine learning, and statistical science: (1) [[john-hunt]]'s *A Beginners Guide to Python 3 Programming* (Springer UTiCS, 2019, 441 pp., `... |
-| **2019** | [[the-case-against-reality]] | [[donald-d-hoffman]] | [[cognitive-moral-and-social-psychology]], [[neuroscience-and-philosophy-of-mind]], [[evolutionary-biology]] | [[moral-foundations-cognitive-biases-and-interface-perception]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[evolution-of-human-consciousness]] | Opening with Galileo's distinction between primary and secondary qualities and Democritus/Plato's cave (pp. 3–6), UC Irvine cognitive scientist **Donald D. Hoffman** mounts a provocative mathematical assault on naive perceptual realism in *The Case Against Reality* (W. W. Norton, 2019, 246 pp., copyright p. 246). |
-| **2019** | [[the-greek-invasion-of-smyrna-1919]] | [[y-turan-cetiner]], [[pat-walsh]] | [[turkish-republican-history-and-biographical-memoirs]], [[geopolitics-and-diplomatic-history]], [[military-science]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[westphalian-world-order-end-of-history-and-great-power-realism]] | Published in the centenary issue of *Irish Foreign Affairs* (Vol. 12, No. 2, June 2019, Dublin; 9 pp., visually verified), this paired historical dossier combines an introductory essay by **Pat Walsh** (*"How and why did the British set the Greeks against the Turks?"*, p. 2 [19]) with **Dr. Y. |
-| **2019** | [[the-prosperity-paradox]] | [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]] | [[innovation-and-economic-growth]], [[classical-and-institutional-economics]], [[entrepreneurship-and-startup-methodology]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[inclusive-institutions-economic-thought-and-ecological-limits]], [[general-purpose-technologies-and-learning-by-doing]] | Written by **Clayton M. Christensen**, Christensen Institute Global Prosperity Practice lead **Efosa Ojomo**, and former *HBR* editor **Karen Dillon** (copyright p. 281; About the Authors p. |
-| **2019** | [[trillion-dollar-coach]] | [[eric-schmidt]], [[jonathan-rosenberg]], [[alan-eagle]] | [[executive-coaching-and-personal-mastery]], [[leadership-and-management]], [[entrepreneurship-and-startup-methodology]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[disruptive-innovation-blitzscaling-and-founder-resilience]] | Written by former Google CEO **Eric Schmidt**, former SVP of Products **Jonathan Rosenberg**, and Google executive communications director **Alan Eagle**, with a Foreword by [[adam-grant]] (2019, Contents p. 2, Foreword p. |
-| **2019** | [[vices-of-the-mind]] | [[quassim-cassam]] | [[classical-and-analytic-philosophy]], [[political-psychology-and-ideology]], [[cognitive-moral-and-social-psychology]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[rationality-and-decision-making]], [[monitory-democracy-and-power-scrutiny]] | Written by University of Warwick philosopher **Quassim Cassam** (Oxford University Press, 2019, copyright p. 5) in the wake of the political upheavals of 2016 and explicitly inspired by Susan Stebbing's 1939 classic *Thinking to Some Purpose* (Preface p. |
-| **2018** | [[21-lessons-for-the-21st-century]] | [[yuval-noah-harari]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[geopolitics-and-diplomatic-history]], [[artificial-intelligence-and-machine-learning]] | [[agi-trajectories-and-superalignment]], [[platform-power-data-governance-and-career-adaptability]], [[bronze-age-collapse-big-history-and-civilizational-cycles]] | Completing the global trilogy begun with [[sapiens-a-brief-history-of-humankind]] (the past) and [[homo-deus]] (the distant future), Hebrew University historian **Yuval Noah Harari** (2018, About the Book p. 5, Introduction p. 10; 306 pp.) turns his lens directly onto the urgent dilemmas of the present—declaring that *"in a world deluged by irrelevant information, clarity is power"* (p. 10). |
-| **2018** | [[a-history-of-russia-central-asia-and-mongolia-vol-2]] | [[david-christian]] | [[central-eurasian-steppe-and-silk-road-history]], [[geopolitics-and-diplomatic-history]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[inclusive-institutions-economic-thought-and-ecological-limits]] | *(Bibliographic Verification Note: This 7-page scanned PDF preserves the cover, copyright page, complete Table of Contents [pp. v–vi], and complete List of Figures [pp. |
-| **2018** | [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] | [[cb-insights-research]] | [[biotechnology-medicine-and-longevity]], [[innovation-and-economic-growth]], [[cloud-computing-and-distributed-systems]] | [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[general-purpose-technologies-and-learning-by-doing]], [[cloud-native-architecture-and-declarative-infrastructure]] | *Amazon In Healthcare: The E-Commerce Giant's Strategy For A $3 Trillion Market* (published by CB Insights, September 2018, 40 pp.) by [[cb-insights-research]] is an analytical market-intelligence teardown examining how Amazon leverages its core logistics network, AWS cloud computing, Prime subscription loyalty, and Alexa voice interface to disintermediate the opaque, middleman-heavy **$3 trillion U.S. |
-| **2018** | [[anthropology-why-it-matters]] | [[tim-ingold]] | [[cultural-and-digital-anthropology]], [[anthropology-of-consciousness]], [[ethics-and-value-philosophy]] | [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[universal-love-and-human-dignity]], [[cooperation-and-reciprocity]] | *Anthropology: Why It Matters* (published by Polity Press in its *Why It Matters* series, Cambridge, 2018, 223 pp., ISBN `978-1-5095-1983-5`) by eminent British social anthropologist [[tim-ingold]] (Professor Emeritus at the University of Aberdeen) is a passionate philosophical defense of anthropology as **"philosophy with the people in"**—not a dry museum catalog of exotic customs, but an urgent collective inquiry i... |
-| **2018** | [[blitzscaling]] | [[reid-hoffman]], [[chris-yeh]] | [[entrepreneurship-and-startup-methodology]], [[corporate-strategy-and-management-classics]], [[innovation-and-economic-growth]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[platform-power-data-governance-and-career-adaptability]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Co-authored by LinkedIn co-founder and Greylock partner **Reid Hoffman** and **Chris Yeh**—with a Foreword by **Bill Gates** (pp. 8–9) and rooted in Hoffman's Stanford CS183C course—*Blitzscaling* codifies the playbook used by Amazon, Airbnb, Facebook, Google, PayPal, and Uber to dominate winner-take-all markets. |
-| **2018** | [[blueprints-for-a-saas-sales-organization]] | [[jacco-van-der-kooij]], [[fernando-pizarro]] | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]], [[leadership-and-management]] | [[recurring-revenue-customer-success-and-retention-mechanics]], [[consultative-questioning-and-constructive-tension]], [[rationality-and-decision-making]] | *Blueprints for a SaaS Sales Organization: How to Design, Build and Scale a Customer-Centric Sales Organization* (published by Winning by Design, San Francisco, 2nd/3rd Edition 2017 / © 2018, 196 pp., ISBN `978-1-387-02732-3`) by Winning by Design founder [[jacco-van-der-kooij]] and co-author [[fernando-pizarro]] is an engineering-grade operational blueprint for scaling recurring-revenue B2B sales organizations beyon... |
-| **2018** | [[brief-answers-to-the-big-questions]] | [[stephen-hawking]] | [[theoretical-physics-and-cosmology]], [[artificial-intelligence-and-machine-learning]], [[strategic-studies]] | [[cosmology-black-holes-and-the-arrow-of-time]], [[agi-trajectories-and-superalignment]], [[catastrophism-and-earth-history]] | *Brief Answers to the Big Questions* (published posthumously by Bantam Books / John Murray, 2018, 136 pp., ISBN `978-1-9848-1920-8`, with a Foreword by Eddie Redmayne, an Introduction by Nobel laureate Kip Thorne, and an Afterword by Lucy Hawking) is [[stephen-hawking]]'s final intellectual testament, assembled from his personal archive of speeches, essays, and interviews completed with his family and academic collea... |
-| **2018** | [[enchanted-america]] | [[j-eric-oliver]], [[thomas-j-wood]] | [[political-psychology-and-ideology]], [[political-science]], [[organizational-psychology]] | [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[rationality-and-decision-making]] | *Enchanted America: How Intuition and Reason Divide Our Politics* (University of Chicago Press, 2018, 278 pp.) by political scientists [[j-eric-oliver]] (University of Chicago) and [[thomas-j-wood]] (Ohio State University) argues that the deepest fault line in contemporary American politics is no longer merely ideological ("liberal" vs. |
-| **2018** | [[house-of-trump-house-of-putin]] | [[craig-unger]] | [[investigative-non-fiction]], [[intelligence-studies-and-national-security]], [[political-science]] | [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[hybrid-threats-and-cyber-warfare]], [[cloud-scale-fraud-analytics-and-security-data-lakes]] | *House of Trump, House of Putin: How Vladimir Putin and the Russian Mafia Helped Put Donald Trump in the White House* (Dutton / Penguin Random House, 2018, 491 pp.) by investigative journalist [[craig-unger]] traces a forty-year convergence of New York luxury real estate, post-Soviet organized crime, oligarchic capital flight, and Russian state intelligence (KGB/FSB) culminating in the 2016 U.S. |
-| **2018** | [[iaas-for-dummies-oracle-special-edition]] | [[lawrence-c-miller]] | [[cloud-computing-and-distributed-systems]], [[innovation-and-economic-growth]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]] | *IaaS For Dummies, 2nd Oracle Special Edition* (published by John Wiley & Sons, 2018, 69 pp., ISBN `978-1-119-54515-6`) by enterprise IT and cybersecurity author [[lawrence-c-miller]] (CISSP) provides CIOs, CTOs, and enterprise architects with a structured architectural primer on **Infrastructure as a Service (IaaS)** and the transition from first-generation multi-tenant virtualization to **second-generation cloud in... |
-| **2018** | [[inspired-how-to-create-tech-products-customers-love]] | [[marty-cagan]] | [[corporate-strategy-and-management-classics]], [[saas-and-subscription-business-models]], [[innovation-and-economic-growth]] | [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[recurring-revenue-customer-success-and-retention-mechanics]], [[adaptive-intelligence-and-organizational-resilience]] | Written by Silicon Valley Product Group founder and former eBay/Netscape product executive **Marty Cagan** (2nd revised edition, 2018, Wiley, pp. 11–12), *Inspired* is widely regarded as the bible of modern technology product management. |
-| **2018** | [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] | [[sandro-skansi]] | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[data-science-and-scientific-computing]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] | *Introduction to Deep Learning: From Logical Calculus to Artificial Intelligence* (published by Springer International Publishing in the *Undergraduate Topics in Computer Science* series, 2018, 196 pp., `DOI: 10.1007/978-3-319-73004-2`) by University of Zagreb logician and data scientist [[sandro-skansi]] is a foundational textbook that frames artificial intelligence as **'philosophical engineering'**—the discipline ... |
-| **2018** | [[introduction-to-formal-philosophy]] | [[sven-ove-hansson]], [[vincent-f-hendricks]] | [[classical-and-analytic-philosophy]], [[pure-and-applied-mathematics]], [[game-theory]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[rationality-and-decision-making]], [[probabilistic-inference-and-uncertainty-quantification]] | Edited by **Sven Ove Hansson** (KTH Royal Institute of Technology, Stockholm) and **Vincent F. Hendricks** (University of Copenhagen, pp. 4–7), *Introduction to Formal Philosophy* (Springer, 2018, 727 pp.) is an encyclopedic multi-author textbook demonstrating how formal methods from symbolic logic, probability theory, decision theory, game theory, and computer science sharpen classical philosophical puzzles into rig... |
-| **2018** | [[investment-banks-hedge-funds-and-private-equity]] | [[david-p-stowell]] | [[personal-finance-investing-and-capital-markets]], [[private-equity-and-venture-capital]], [[law-and-quantitative-criminology]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[private-equity-value-creation-leverage-and-systemic-risk]], [[rule-of-law-and-experimental-justice]] | *Investment Banks, Hedge Funds, and Private Equity (Third Edition)* (Academic Press / Elsevier, 2018, 709 pp.) by Kellogg School of Management Professor and former Goldman Sachs/JPMorgan/UBS managing director [[david-p-stowell]] is the authoritative graduate textbook mapping the interconnected institutional ecosystem of modern Wall Street after the 2008 global financial crisis (source: BOOKS/Investment_/Investment Ba... |
-| **2018** | [[iot-for-dummies-applications-solutions-and-security-compendium]] | [[lawrence-c-miller]] | [[internet-of-things-and-edge-computing]], [[cybersecurity-and-digital-forensics]], [[innovation-and-economic-growth]] | [[iot-cyber-physical-convergence-and-edge-security]], [[hybrid-threats-and-cyber-warfare]], [[general-purpose-technologies-and-learning-by-doing]] | This three-volume synthesis encompasses the complete Wiley *For Dummies* IoT practitioner trilogy authored by cybersecurity veteran [[lawrence-c-miller]] (CISSP), totaling **117 pages** across three specialized industry editions: (1) *IoT Security For Dummies, INSIDE Secure Edition* (2016, 53 pp., ISBN `978-1-119-21118-1`); (2) *Internet of Things For Dummies, Qorvo Special Edition* (2017, 27 pp., ISBN `978-1-119-349... |
-| **2018** | [[machine-learning-for-dummies-ibm-limited-edition]] | [[judith-hurwitz]], [[daniel-kirsch]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[leadership-and-management]] | [[human-centered-ai-and-augmented-leadership]], [[general-purpose-technologies-and-learning-by-doing]], [[rationality-and-decision-making]] | *Machine Learning For Dummies, IBM Limited Edition* (published by John Wiley & Sons, 2018, 75 pp.; preserved in two identical SHA-256 copies in `BOOKS/AI/`: `2017 Book ML for Dummies by IBM_.pdf` and `analytics-analytics-platform-im-dummies-book-imm14209usen-20171019.pdf`) by [[judith-hurwitz]] and [[daniel-kirsch]] is a concise six-chapter executive and engineering primer on how machine learning inverts traditional ... |
-| **2018** | [[market-research-process-data-methods-stata]] | [[erik-mooi]], [[marko-sarstedt]], [[irma-mooi-reci]] | [[data-science-and-scientific-computing]], [[corporate-strategy-and-management-classics]], [[media-economics-and-entertainment-science]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[platform-power-data-governance-and-career-adaptability]] | Written by University of Melbourne and Otto-von-Guericke University scholars **Erik Mooi**, **Marko Sarstedt**, and **Irma Mooi-Reci** (2018, Springer, pp. |
-| **2018** | [[of-heroes-and-villains-pre-revolutionary-russia]] | [[anke-hilbrenner]] | [[political-science]], [[security-studies]], [[cognitive-moral-and-social-psychology]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[violent-non-state-actors]], [[revolutionary-ambition-power-and-historical-legacy]] | Written by German historian of Eastern Europe **Anke Hilbrenner** (De Gruyter Open Access, 2018, 20 pp., p. 1), this incisive historical-sociological book chapter investigates how pre-1917 Russian revolutionary terrorists discursively inverted moral roles—casting their assassins as noble **martyr-heroes** and their murdered targets as **historical perpetrators** who deserved death. |
-| **2018** | [[quantum-mechanics-for-pedestrians]] | [[jochen-pade]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[quantum-foundations-measurement-and-many-worlds]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[rationality-and-decision-making]] | *Quantum Mechanics for Pedestrians, Volumes 1 & 2 (Second Edition)* (published by Springer Nature Switzerland in *Undergraduate Lecture Notes in Physics*, 2018; **Volume 1: Fundamentals**, 525 pp., `DOI: 10.1007/978-3-030-00464-4`; **Volume 2: Applications and Extensions**, 587 pp. |
-| **2018** | [[retention-point-membership-and-subscription-growth]] | [[robert-skrob]] | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]], [[leadership-and-management]] | [[recurring-revenue-customer-success-and-retention-mechanics]], [[service-first-branding-and-authentic-visibility]], [[rationality-and-decision-making]] | *Retention Point: The Single Biggest Secret to Membership and Subscription Growth for Associations, SAAS, Publishers, Digital Access, Subscription Boxes and all Membership and Subscription Businesses* (published by Membership Services, Inc., 2018, 147 pp., ISBN `978-0-692-09455-6`) by subscription-growth strategist [[robert-skrob]] distills over two decades of work scaling more than 1,000 membership and SaaS programs... |
-| **2018** | [[skin-in-the-game]] | [[nassim-nicholas-taleb]] | [[behavioral-science-risk-and-antifragility]], [[ethics-and-value-philosophy]], [[political-science]] | [[antifragility-black-swans-and-skin-in-the-game]], [[rule-of-law-and-experimental-justice]], [[social-critique-and-moral-conscience]] | Concluding volume of the *Incerto*, **Nassim Nicholas Taleb's** *Skin in the Game* (2018, pp. 3–4) elevates symmetry of risk into a foundational law of ethics, epistemology, corporate governance, and evolutionary learning. |
-| **2018** | [[the-art-of-gathering]] | [[priya-parker]] | [[cognitive-moral-and-social-psychology]], [[leadership-and-management]], [[persuasion-negotiation-and-rhetoric]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[organizational-culture-and-rewilding]] | Trained as a conflict-resolution facilitator across Arab-Israeli peace dialogues, corporate summits, and civic forums, **Priya Parker** argues in *The Art of Gathering* (Riverhead Books, 2018, 242 pp., copyright p. |
-| **2018** | [[the-laws-of-human-nature]] | [[robert-greene]] | [[persuasion-negotiation-and-rhetoric]], [[organizational-psychology]], [[behavioral-science-risk-and-antifragility]] | [[power-realism-social-contagion-and-intentional-life-design]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[rationality-and-decision-making]] | **Robert Greene's** sweeping 690-page synthesis *The Laws of Human Nature* (2018, Viking, pp. 5–7) shifts his historical-biographical lens toward deep interpersonal psychology—decoding eighteen recurring human drives (irrationality, narcissism, role-playing, compulsive character patterns, covetousness, shortsightedness, defensiveness, self-sabotage, repression, envy, grandiosity, gender rigidity, aimlessness, conform... |
-| **2018** | [[the-saas-sales-method-for-customer-success-and-account-managers]] | [[dominique-levin]], [[jacco-van-der-kooij]] | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]], [[leadership-and-management]] | [[recurring-revenue-customer-success-and-retention-mechanics]], [[consultative-questioning-and-constructive-tension]], [[cooperation-and-reciprocity]] | *The SaaS Sales Method for Customer Success & Account Managers: How to Grow Customers (Sales Blueprints Book 6)* (published by Winning by Design LLC, San Francisco, 2018, Revision 5.0, 83 pp., edited by [[fernando-pizarro]] and Dan Smith) by [[dominique-levin]] and [[jacco-van-der-kooij]] codifies the post-sale recurring-revenue growth engine that separates top-quartile SaaS leaders from stagnating subscription vendo... |
-| **2018** | [[venture-capital-a-practical-guide]] | [[hambleton-lord]], [[christopher-mirabile]] | [[private-equity-and-venture-capital]], [[personal-finance-investing-and-capital-markets]], [[corporate-strategy-and-management-classics]] | [[private-equity-value-creation-leverage-and-systemic-risk]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | Authored by Seraf co-founders and veteran angel/venture investors **Hambleton Lord** and **Christopher Mirabile** (2018, Seraf LLC, pp. 2–5), *Venture Capital: A Practical Guide* is a hands-on operational manual for emerging venture-capital general partners (GPs), fund managers, and institutional limited partners (LPs). |
-| **2017** | [[30-french-short-stories-for-complete-beginners]] | [[frederic-bibard]] | [[world-classics-and-comparative-literature]], [[educational-technology-and-disruptive-pedagogy]] | [[student-centric-and-blended-learning]], [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]] | *30 French Short Stories for Complete Beginners* is a structured, graded-reader language-acquisition anthology created by Frédéric Bibard, founder of *TalkInFrench.com* (pp. 1, 115). |
-| **2017** | [[an-introduction-to-machine-learning]] | [[miroslav-kubat]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[educational-technology-and-disruptive-pedagogy]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[evolution-of-strategies]] | *An Introduction to Machine Learning (Second Edition)* (published by Springer International Publishing, 2017, 348 pp., `DOI: 10.1007/978-3-319-63913-0`) by University of Miami Professor [[miroslav-kubat]] is a comprehensive 17-chapter textbook that traces inductive machine learning from its 1983 disciplinary birth (*Machine Learning: An Artificial Intelligence Approach*) to modern ensemble and deep neural architectur... |
-| **2017** | [[developing-the-super-soldier-enhancing-military-performance]] | [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]] | [[military-science]], [[strategic-studies]], [[security-studies]], [[organizational-psychology]] | [[human-performance-enhancement-and-neuro-warfare]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]], [[deterrence-and-coercion]], [[cooperation-and-reciprocity]] | *Developing the Super Soldier: Enhancing Military Performance* (2017, *The Kingston Conference on International Security Series*, Centre for International and Defence Policy at Queen's University, the Strategic Studies Institute of the U.S. |
-| **2017** | [[ethics-in-higher-education-values-driven-leaders-for-the-future]] | [[divya-singh]], [[christoph-stuckelberger]], [[obiora-ike]] | [[ethics-and-value-philosophy]], [[educational-technology-and-disruptive-pedagogy]], [[leadership-and-management]] | [[metaphysics-of-quality-and-global-ethics]], [[institutional-neutrality-and-academic-freedom]], [[student-centric-and-blended-learning]] | *Ethics in Higher Education: Values-driven Leaders for the Future* (published by Globethics.net in Geneva as *Globethics.net Education Ethics No. 1*, 2017, 370 pp.) edited by Professor [[divya-singh]] (Vice Principal, University of South Africa) and Professor [[christoph-stuckelberger]] (with contributions by [[obiora-ike]], N. |
-| **2017** | [[how-to-build-a-career-in-tech]] | [[product-hunt]], [[melissa-joy-kong]], [[niv-dror]] | [[entrepreneurship-and-startup-methodology]], [[executive-coaching-and-personal-mastery]], [[leadership-and-management]] | [[platform-power-data-governance-and-career-adaptability]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[servant-coaching-high-output-management-and-stoic-ego]] | Curated from hundreds of live Q&A sessions hosted on **Product Hunt** (founded by [[ryan-hoover]]) and edited by **Melissa Joy Kong** and **Niv Dror** with community makers (Title Page p. 1, Acknowledgements p. |
-| **2017** | [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] | [[hector-garcia]], [[francesc-miralles]] | [[biotechnology-medicine-and-longevity]], [[organizational-psychology]], [[ethics-and-value-philosophy]] | [[purposeful-longevity-flow-and-mathematical-literacy]], [[adaptive-intelligence-and-organizational-resilience]], [[universal-love-and-human-dignity]] | *Ikigai: The Japanese Secret to a Long and Happy Life* (originally published in Spanish in 2016; English translation by Heather Cleary published by Penguin Books, New York, 2017, 123 pp., ISBN `978-0-14-313072-7`; preserved in `BOOKS/Health Pharma/` in two identical English PDFs and the 176-page Turkish translation *İkigai: Japonların Uzun ve Mutlu Yaşama Sırrı*) by Tokyo-based author [[hector-garcia]] and Barcelona ... |
-| **2017** | [[introduction-to-artificial-intelligence]] | [[wolfgang-ertel]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[neuroscience-and-philosophy-of-mind]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[human-centered-ai-and-augmented-leadership]] | *Introduction to Artificial Intelligence (Second Edition)* (published by Springer International Publishing in the *Undergraduate Topics in Computer Science* series, 2017, 365 pp., `DOI: 10.1007/978-3-319-58487-4`, translated by Nathanael Black) by Ravensburg-Weingarten Professor [[wolfgang-ertel]] is a classic, mathematically self-contained university textbook designed as a concise, rigorous alternative to Russell an... |
-| **2017** | [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] | [[laura-igual]], [[santi-segui]] | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[media-economics-and-entertainment-science]] | [[probabilistic-inference-and-uncertainty-quantification]], [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]] | *Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications* (published by Springer International Publishing in the *Undergraduate Topics in Computer Science* series, 2017, 227 pp., `DOI: 10.1007/978-3-319-50017-1`) by Universitat de Barcelona professors [[laura-igual]] and [[santi-segui]] (with contributions from Jordi Vitrià, Eloi Puertas, Petia Radeva, Oriol Pujol, Sergio Escalera, Fr... |
-| **2017** | [[introduction-to-law]] | [[jaap-hage]], [[antonia-waltermann]], [[bram-akkermans]] | [[law-and-quantitative-criminology]], [[political-science]], [[republican-intellectual-history]] | [[rule-of-law-and-experimental-justice]], [[tyranny-of-the-majority-and-civil-associations]], [[rationality-and-decision-making]] | *Introduction to Law (Second Edition)* (published by Springer International Publishing, 2017, 396 pp., `DOI: 10.1007/978-3-319-57252-9`) edited by Maastricht University legal scholars [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]] is a comparative, jurisdiction-transcending treatise on the foundations, concepts, branches, and philosophy of law designed at the Maastricht European Law School (source: BOO... |
-| **2017** | [[investing-for-dummies]] | [[eric-tyson]] | [[personal-finance-investing-and-capital-markets]], [[innovation-and-economic-growth]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *Investing For Dummies (8th Edition)* (John Wiley & Sons, 2017, 459 pp.) by financial counselor and MBA [[eric-tyson]] is a comprehensive, conflict-free primer on long-term wealth building across stocks, bonds, mutual funds, ETFs, real estate, and small-business ownership (source: BOOKS/Investment_/Investing For Dummies ( PDFDrive ).pdf, Title Page, Copyright & Contents, pp. 9–26). |
-| **2017** | [[la-saga-des-rothschild]] | [[tristan-gaston-breton]] | [[financial-history-banking-and-market-psychology]], [[biography-memoir-and-intellectual-history]], [[geopolitics-and-diplomatic-history]] | [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[revolutionary-ambition-power-and-historical-legacy]] | Written by French business historian **Tristan Gaston-Breton** and published by Éditions Tallandier in 2017 (p. 3), *La Saga des Rothschild* ("The Saga of the Rothschilds") is an accessible, pan-European narrative history spanning more than 250 years—from founder **Mayer Amschel Rothschild's** 1765 rise inside Frankfurt's confined *Judengasse* ghetto to the 21st-century global advisory and wealth-management dynasty (... |
-| **2017** | [[leadership-lessons-six-titans]] | [[will-peters]] | [[biography-memoir-and-intellectual-history]], [[leadership-and-management]], [[corporate-strategy-and-management-classics]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[revolutionary-ambition-power-and-historical-legacy]] | Published by New Word City (Copyright ©2017, p. 198; 198 pp.), **Will Peters**'s *Leadership Lessons* opens by confronting leadership's central paradox: effective leaders vary so radically—from General Patton's blunt command to Lao-tse's invisible facilitation—that their playbooks are often mutually contradictory (Introduction, pp. 5–6). |
-| **2017** | [[leadership-today]] | [[joan-marques]], [[satinder-dhiman]] | [[leadership-and-management]], [[organizational-psychology]], [[executive-coaching-and-personal-mastery]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[organizational-culture-and-rewilding]], [[evolution-of-human-consciousness]] | Edited by Woodbury University scholars **Joan Marques** and **Satinder Dhiman** (Springer, 2017, DOI `10.1007/978-3-319-31036-7`, Contents p. 6; 412 pp.), *Leadership Today* is a comprehensive scholarly anthology bridging soft-skill leadership competencies with ethical, contemplative, and systems-level organizational practice. |
-| **2017** | [[mastering-private-equity]] | [[claudia-zeisberger]], [[michael-prahl]], [[bowen-white]] | [[private-equity-and-venture-capital]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[private-equity-value-creation-leverage-and-systemic-risk]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] | *Mastering Private Equity: Transformation via Venture Capital, Minority Investments & Buyouts* (published by John Wiley & Sons in partnership with INSEAD's Global Private Equity Initiative [GPEI], 2017, 370 pp., ISBN `978-1-119-32794-3`; preserved in two identical 370-page copies in `BOOKS/Private Equity/`, with a Foreword by KKR Co-Chairman and Co-CEO Henry R. |
-| **2017** | [[precalculus-openstax]] | [[jay-abramson]] | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[purposeful-longevity-flow-and-mathematical-literacy]], [[student-centric-and-blended-learning]], [[rationality-and-decision-making]] | *Precalculus* (published by OpenStax / Rice University, 2014 / 2017 edition, 1,156 pp.) led by Senior Contributing Author [[jay-abramson]] (Principal Lecturer in the School of Mathematics and Statistics at Arizona State University, with 33 years of precalculus pedagogy and a nationwide peer-review panel) is a flagship open-educational-resource (OER) textbook designed to democratize college-level STEM preparation at z... |
-| **2017** | [[the-devil-made-me-do-it-malevolent-creativity]] | [[r-m-j-mcbain]], [[david-h-cropley]], [[phillip-s-kavanagh]] | [[cognitive-moral-and-social-psychology]], [[law-and-quantitative-criminology]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[violent-non-state-actors]], [[rationality-and-decision-making]] | Authored by University of South Australia researchers **R. M. J. McBain**, **David H. Cropley**, and **Phillip S. Kavanagh** (51-page `.docx` research manuscript, pp. 1–3, regression tables pp. |
-| **2017** | [[the-relationship-between-capitalism-and-democracy]] | [[aleksandra-evelyn-petkovic]] | [[political-science]], [[social-choice-theory]], [[ethics-and-value-philosophy]] | [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[tyranny-of-the-majority-and-civil-associations]], [[rationality-and-decision-making]] | *The Relationship Between Capitalism and Democracy* (Bachelor's Honors Thesis in Philosophy, Politics, Economics, and Law, University of Arizona, May 2017, 34 pp., supervised by philosopher Thomas Christiano) by [[aleksandra-evelyn-petkovic]] delivers a crisp, rigorously argued philosophical synthesis of the central structural paradox of modern liberal societies: while **capitalism provides a necessary minimal condit... |
-| **2017** | [[tools-of-titans]] | [[timothy-ferriss]] | [[executive-coaching-and-personal-mastery]], [[entrepreneurship-and-startup-methodology]], [[biotechnology-medicine-and-longevity]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[disruptive-innovation-blitzscaling-and-founder-resilience]] | Distilled from over two hundred long-form interviews on *The Tim Ferriss Show*, entrepreneur and human-performance experimenter **Timothy Ferriss** (Houghton Mifflin Harcourt, 2017, Copyright p. 3, ISBN 978-1-328-68378-6; 509 pp.) constructs an encyclopedic, non-linear playbook ("Read This First—How to Use This Book", p. 16) organized into three massive pillars: **Part 1: Healthy** (pp. |
-| **2016** | [[born-a-crime]] | [[trevor-noah]] | [[biography-memoir-and-intellectual-history]], [[postcolonial-and-diaspora-studies]], [[cultural-and-digital-anthropology]] | [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]] | *Born a Crime: Stories from a South African Childhood* (Spiegel & Grau / Penguin Random House, 2016, 920 pp. large-print/ebook format) is comedian and former *Daily Show* host [[trevor-noah]]'s acclaimed coming-of-age memoir set during the final years of South African apartheid and the turbulent transition to multiracial democracy (source: BOOKS/Biography_/born-a-crime Trevor Noah.pdf, Metadata, Copyright & Contents,... |
-| **2016** | [[deep-work]] | [[cal-newport]] | [[executive-coaching-and-personal-mastery]], [[cognitive-moral-and-social-psychology]], [[leadership-and-management]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[attention-economy-and-cultural-analytics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | Georgetown University computer science professor **Cal Newport** (2016, 190 pp.) opens at Carl Jung's stone Bollingen Tower (Introduction, pp. 4–5) to define the central economic and cognitive divide of the knowledge economy: **Deep Work**—*"professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit"* (p. |
-| **2016** | [[ego-is-the-enemy]] | [[ryan-holiday]] | [[stoic-philosophy-and-practical-ethics]], [[leadership-and-management]], [[executive-coaching-and-personal-mastery]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[revolutionary-ambition-power-and-historical-legacy]] | Drawing on Stoic philosophy and rich historical case studies, **Ryan Holiday** (Portfolio/Penguin, 2016; 168 pp.) identifies the most pervasive internal saboteur across leadership, artistry, athletics, and entrepreneurship: **Ego**—defined not as healthy confidence, but as *"an unhealthy belief in our own importance"* that distorts reality, blocks learning, and turns setbacks into self-destruction. |
-| **2016** | [[enterprise-cloud-for-dummies-nutanix-special-edition]] | [[scott-d-lowe]] | [[cloud-computing-and-distributed-systems]], [[innovation-and-economic-growth]] | [[cloud-native-architecture-and-declarative-infrastructure]], [[adaptive-intelligence-and-organizational-resilience]], [[general-purpose-technologies-and-learning-by-doing]] | *Enterprise Cloud For Dummies, Nutanix Special Edition* (published by John Wiley & Sons, 2016, 53 pp.) by enterprise IT architect and ActualTech Media cofounder [[scott-d-lowe]] examines the architectural collision between legacy three-tier datacenters and hyperscale public clouds—making the case for the **Enterprise Cloud** built on **Hyperconverged Infrastructure (HCI)** (source: BOOKS/Cloud/Book Enterprise Cloud f... |
-| **2016** | [[ermenilerin-kaleminden-kurtlesen-ermeniler]] | [[thomas-k-mugerditchian]], [[esther-mugerditchian]], [[kaya-ataberk]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[investigative-non-fiction]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[social-critique-and-moral-conscience]] | Translated and edited with an interpretive introduction by Turkish researcher **Kaya Ataberk** (T&K Yayınları, 1st ed. Nov. 2015 / 3rd ed. April 2016, pp. 3–7; 128 pp.), *Ermenilerin Kaleminden Kürtleşen Ermeniler* brings into Turkish two rare wartime Armenian eyewitness memoirs originally published in Cairo/London immediately after World War I: **Thomas K. |
-| **2016** | [[global-ethics-for-leadership-values-and-virtues-for-life]] | [[christoph-stuckelberger]], [[walter-fust]], [[obiora-ike]] | [[ethics-and-value-philosophy]], [[leadership-and-management]], [[international-relations]] | [[metaphysics-of-quality-and-global-ethics]], [[universal-love-and-human-dignity]], [[cooperation-and-reciprocity]] | *Global Ethics for Leadership: Values and Virtues for Life* (published by Globethics.net in Geneva as *Globethics.net Global No. 13*, 2016, 443 pp., ISBN 978-2-88931-123-1) edited by Globethics.net Founder [[christoph-stuckelberger]], Ambassador [[walter-fust]], and Executive Director [[obiora-ike]] is a 32-chapter cross-cultural anthology authored by scholars and practitioners from four continents addressing a centr... |
-| **2016** | [[homo-deus]] | [[yuval-noah-harari]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[artificial-intelligence-and-machine-learning]], [[biotechnology-medicine-and-longevity]] | [[agi-trajectories-and-superalignment]], [[evolution-of-human-consciousness]], [[bronze-age-collapse-big-history-and-civilizational-cycles]] | Dedicated to his Vipassana teacher S. N. Goenka (p. 3), **Yuval Noah Harari**'s *Homo Deus* (2016/2017; 358 pp.) begins with an extraordinary empirical observation: for the first time in human history, famine, plague, and war have shifted from uncontrollable divine curses into manageable technical problems—more people today die from overeating than starvation, and from old age than infectious disease (Ch. 1, pp. |
-| **2016** | [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] | [[david-cancel]] | [[saas-and-subscription-business-models]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[recurring-revenue-customer-success-and-retention-mechanics]], [[organizational-culture-and-rewilding]], [[adaptive-intelligence-and-organizational-resilience]] | *HYPERGROWTH: How the Customer-Driven Model Is Revolutionizing the Way Businesses Build Products, Teams, and Brands* (published by Drift.com, Inc., 2016, 76 pp., edited by Dave Gerhardt, with a Foreword by KISSmetrics cofounder Hiten Shah and an Afterword by Mike Volpe) by serial SaaS entrepreneur and Drift cofounder/CEO [[david-cancel]] (former Chief Product Officer at HubSpot and founder of Compete, Ghostery, and P... |
-| **2016** | [[never-split-the-difference]] | [[chris-voss]] (with [[tahl-raz]]) | [[persuasion-negotiation-and-rhetoric]], [[strategic-communication]], [[leadership-and-management]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]] | Written by former FBI lead international kidnapping negotiator **Chris Voss** with journalist **Tahl Raz** (2016, HarperBusiness, pp. 5–9, 373), *Never Split the Difference* dismantles academic "rational-actor" win-win negotiation models (such as traditional Harvard Negotiation Project compromises, p. 9)—because in hostage crises, splitting the difference ("release two hostages instead of four") is never an option. |
-| **2016** | [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]] | [[anindya-sarkar]], [[vasant-shinde]] | [[paleoclimatology]], [[archaeological-historiography]], [[alternative-archaeology]] | [[catastrophism-and-earth-history]], [[adaptive-intelligence-and-organizational-resilience]], [[critique-of-academic-orthodoxy]], [[pre-athenian-and-indigenous-democracies]] | Published in *Nature Scientific Reports* (6:26555, May 25, 2016, DOI: `10.1038/srep26555`), *"Oxygen isotope in archaeological bioapatites from India: Implications to climate change and decline of Bronze Age Harappan civilization"* by **Anindya Sarkar** (IIT Kharagpur), **Arati Deshpande Mukherjee** and **Vasant S. Shinde** (Deccan College), **M. K. Bera**, **B. Das**, **Navin Juyal**, **P. Morthekai**, **R. D. |
-| **2016** | [[psychology-of-perception]] | [[simon-grondin]] | [[cognitive-moral-and-social-psychology]], [[neuroscience-and-philosophy-of-mind]] | [[moral-foundations-cognitive-biases-and-interface-perception]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]] | Written by Université Laval experimental psychologist **Simon Grondin**—former editor of the *Canadian Journal of Experimental Psychology* (Springer, 2016, 162 pp., pp. 4–12)—*Psychology of Perception* is a crisp, scientifically rigorous textbook surveying how physical energy (light waves and sound pressure) is transduced, organized, and interpreted into conscious sensory experience. |
-| **2016** | [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] | [[eric-r-kandel]] | [[neuroscience-and-philosophy-of-mind]], [[anthropology-of-consciousness]], [[poetry-and-poetics]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[altered-states-and-origin-of-art]], [[evolution-of-human-consciousness]] | *Reductionism in Art and Brain Science: Bridging the Two Cultures* (published by Columbia University Press, 2016, ISBN 978-0-231-17962-1) by Nobel Prize–winning neuroscientist [[eric-r-kandel]] demonstrates how **methodological reductionism**—isolating a complex phenomenon's fundamental components to reveal its underlying mechanisms—serves as the common methodological bridge uniting modern brain science and 20th-cent... |
-| **2016** | [[shoe-dog]] | [[phil-knight]] | [[biography-memoir-and-intellectual-history]], [[entrepreneurship-and-startup-methodology]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[power-realism-social-contagion-and-intentional-life-design]] | Written by Nike co-founder and longtime CEO/chairman **Phil Knight** (Scribner, 2016, copyright p. 369), *Shoe Dog* is one of modern business literature's most candid, literary entrepreneurial memoirs. Opening with Shunryu Suzuki's Zen epigraph on *Beginner's Mind* (p. 5) and a foggy 1962 morning run in Oregon (pp. 6–8), Knight chronicles the chaotic 18-year chronicle (1962–1980, TOC p. |
-| **2016** | [[stock-investing-for-dummies]] | [[paul-mladjenovic]] | [[personal-finance-investing-and-capital-markets]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | *Stock Investing For Dummies* (John Wiley & Sons; consolidated across both the **2nd Edition [2006, 363 pp.]** and the **5th Edition [2016, 410 pp.]** in the mounted library) by Certified Financial Planner and market educator [[paul-mladjenovic]] is a practical handbook on fundamental individual-equity analysis, sector allocation, brokerage execution, dividend compounding, and risk control (source: BOOKS/Investment_/... |
-| **2016** | [[stock-trading-strategy-3-book-bundle]] | [[tyler-yamazaki]] | [[personal-finance-investing-and-capital-markets]], [[organizational-psychology]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | *Stock Trading Strategy: 3-Book Bundle* (125 pp.) by [[tyler-yamazaki]] combines three concise retail-trading primers—*Stock Market Investing for Beginners*, *Day Trading for Beginners*, and *Penny Stocks*—with a bonus closing section on the *Trading Psychology of Millionaire Investors* (source: BOOKS/Investment_/Stock Trading Strategy_ 3-Book Bundle...pdf, Title Pages & Outline, pp. 2–3, 7–125). |
-| **2016** | [[strateji-yenecek-ve-kazanacaksin]] | [[osman-pamukoglu]] | [[strategic-studies]], [[military-science]], [[geopolitics-and-diplomatic-history]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[non-western-strategic-thought]], [[revolutionary-ambition-power-and-historical-legacy]], [[deterrence-and-coercion]] | Written at the encouragement of Turkish historian Sinan Meydan (p. 8) and published by İnkılap Kitabevi in 2016 (p. 2), *Strateji: Yenecek ve Kazanacaksın* ("Strategy: You Will Defeat and Win") is Osman Pamukoğlu's sweeping 450-page treatise on classical and modern strategic theory. |
-| **2016** | [[the-art-of-startup-fundraising]] | [[alejandro-cremades]] | [[private-equity-and-venture-capital]], [[entrepreneurship-and-startup-methodology]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]] | Authored by Onevest/CoFoundersLab co-founder and serial startup advisor **Alejandro Cremades**—with a brisk Foreword by real-estate mogul and *Shark Tank* investor **Barbara Corcoran** (pp. 15–18)—*The Art of Startup Fundraising* (Wiley, 2016, copyright p. 6) is a clear, step-by-step tactical manual covering the full arc of startup capital formation. |
-| **2016** | [[the-daily-stoic]] | [[ryan-holiday]], [[stephen-hanselman]] | [[stoic-philosophy-and-practical-ethics]], [[classical-and-analytic-philosophy]], [[executive-coaching-and-personal-mastery]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[servant-coaching-high-output-management-and-stoic-ego]], [[rationality-and-decision-making]] | Co-authored by modern Stoicism popularizer **Ryan Holiday** and Harvard Divinity–trained translator and literary agent **Stephen Hanselman** (Portfolio/Penguin, 2016; 406 pp.), *The Daily Stoic* distills the surviving ethical wisdom of **Epictetus**, **Seneca**, **Marcus Aurelius**, Musonius Rufus, Zeno, and Cleanthes into **366 freshly translated daily meditations** accompanied by concise contemporary commentary. |
-| **2016** | [[the-huns-hyun-jin-kim]] | [[hyun-jin-kim]] | [[central-eurasian-steppe-and-silk-road-history]], [[military-science]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[revolutionary-ambition-power-and-historical-legacy]], [[bronze-age-collapse-big-history-and-civilizational-cycles]] | Written by University of Melbourne classicist and Eurasian historian **Hyun Jin Kim** (Routledge, *Peoples of the Ancient World*, 2016, Copyright p. 5, Contents pp. 6–7; 177 pp., visually verified), *The Huns* dismantles the Eurocentric footnote casting the Huns as uncultured destroyers of Rome. |
-| **2016** | [[the-undoing-project]] | [[michael-lewis]] | [[biography-memoir-and-intellectual-history]], [[behavioral-science-risk-and-antifragility]], [[cognitive-moral-and-social-psychology]] | [[moral-foundations-cognitive-biases-and-interface-perception]], [[rationality-and-decision-making]], [[probabilistic-inference-and-uncertainty-quantification]] | Master narrative journalist **Michael Lewis** wrote *The Undoing Project* (W. W. Norton, 2016, 276 pp.) after discovering that the cognitive blind spots behind his 2003 baseball classic *Moneyball* had been uncovered decades earlier by two Israeli psychologists whose intense intellectual romance birthed **behavioral economics** (Introduction pp. 8–11). |
-| **2016** | [[think-like-an-entrepreneur-act-like-a-ceo]] | [[beverly-e-jones]] | [[leadership-and-management]], [[entrepreneurship-and-startup-methodology]], [[organizational-psychology]] | [[platform-power-data-governance-and-career-adaptability]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[power-realism-social-contagion-and-intentional-life-design]] | Executive coach, attorney, and former senior corporate executive **Beverly E. Jones** (Career Press, 2016, copyright p. 5; Foreword by Kerry Hannon) translates entrepreneurial agency into a 50-tip career-resilience handbook for professionals operating inside or alongside modern organizations. |
-| **2016** | [[venture-capital-deal-terms]] | [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]] | [[private-equity-and-venture-capital]], [[entrepreneurship-and-startup-methodology]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]] | Co-authored by Dutch high-tech VC general partner **Harm F. de Vries** (Innovation Industries), former investment banker/legal consultant **Menno J. van Loon**, and Benvalor M&A/VC partner **Sjoerd Mol** (copyright p. 3; About the Authors p. 4), *Venture Capital Deal Terms* (2016) provides a razor-sharp, clause-by-clause European and international legal-economic handbook for structuring startup investments. |
-| **2015** | [[blended-using-disruptive-innovation-to-improve-schools]] | [[michael-b-horn]], [[heather-staker]], [[clayton-m-christensen]] | [[educational-technology-and-disruptive-pedagogy]], [[leadership-and-management]], [[organizational-psychology]] | [[student-centric-and-blended-learning]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]] | *Blended: Using Disruptive Innovation to Improve Schools* (published by Jossey-Bass / Wiley, 2015, 333 pp., with a Foreword by [[clayton-m-christensen]]) by Clayton Christensen Institute co-founder [[michael-b-horn]] and [[heather-staker]] is the practical design manual translating the disruptive innovation theory of [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] into concrete K–1... |
-| **2015** | [[disrupt-you]] | [[jay-samit]] (Author); [[reid-hoffman]] (Foreword) | [[corporate-strategy-and-management-classics]], [[innovation-and-economic-growth]], [[leadership-and-management]] | [[power-realism-social-contagion-and-intentional-life-design]], [[platform-power-data-governance-and-career-adaptability]], [[adaptive-intelligence-and-organizational-resilience]] | Written by serial digital-media entrepreneur and former Sony/EMI/Deloitte innovation executive **Jay Samit** with a Foreword by LinkedIn co-founder **Reid Hoffman** (2015, Flatiron Books, pp. |
-| **2015** | [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]] | [[ashlee-vance]] | [[biography-memoir-and-intellectual-history]], [[entrepreneurship-and-startup-methodology]], [[energy-policy-and-clean-tech-economics]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[energy-transition-and-storage-economics]], [[revolutionary-ambition-power-and-historical-legacy]] | *Bloomberg Businessweek* technology journalist **Ashlee Vance** spent years interviewing nearly 300 insiders—and ultimately secured extensive dinner conversations and factory access with Musk himself (Ch. 1, pp. 5–6)—to produce the definitive early biography of **Elon Musk** (Ecco/HarperCollins, 2015, copyright p. 279). Tracing Musk from a turbulent childhood in South Africa (Ch. |
-| **2015** | [[game-theory-a-multi-leveled-approach]] | [[hans-peters]] | [[game-theory]], [[pure-and-applied-mathematics]], [[classical-and-institutional-economics]] | [[moral-foundations-cognitive-biases-and-interface-perception]], [[cooperation-and-reciprocity]], [[rationality-and-decision-making]] | Written by Maastricht University quantitative-economics professor **Hans Peters** (2nd revised edition, Springer, 2015, 493 pp., pp. 1–5), *Game Theory: A Multi-Leveled Approach* is a crystal-clear, mathematically rigorous textbook designed to serve both introductory economics students (**Part I: Thinking Strategically**) and graduate researchers (**Part II** advanced formal proofs and extensions). |
-| **2015** | [[heterite-11-les-paradoxes-du-desir]] | [[if-epfcl-editorial]], [[patrick-barillot]] | [[psychoanalysis-and-depth-psychology]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]] | Published in French by the **Internationale des Forums – École de Psychanalyse des Forums du Champ Lacanien (IF-EPFCL)** under editorial commission CRIF 2014–2016 (general production Beatriz Elena Maya Restrepo; final revision Géraldine Philippe & **Patrick Barillot**, pp. |
-| **2015** | [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] | [[james-bessen]] | [[innovation-and-economic-growth]], [[political-science]], [[leadership-and-management]] | [[general-purpose-technologies-and-learning-by-doing]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] | *Learning by Doing: The Real Connection Between Innovation, Wages, and Wealth* (published by Yale University Press, 2015, 310 pp.) by Boston University economist and former desktop-publishing software pioneer [[james-bessen]] resolves a central paradox of modern capitalism: why major technological revolutions (both during the first 50 years of the 19th-century Industrial Revolution—*'Engels' Pause'*—and during the po... |
-| **2015** | [[machine-learning-in-medicine-a-complete-overview]] | [[ton-j-cleophas]], [[aeilko-h-zwinderman]] | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[evolutionary-biology]] | [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]], [[human-centered-ai-and-augmented-leadership]] | *Machine Learning in Medicine — A Complete Overview* (published by Springer International Publishing, 2015, 498 pp., `DOI: 10.1007/978-3-319-15195-3`, with assistance from Henny I. |
-| **2015** | [[magicians-of-the-gods]] | [[graham-hancock]] | [[alternative-archaeology]], [[catastrophism]], [[archaeoastronomy]] | [[younger-dryas-impact-hypothesis]], [[lost-civilization-hypothesis]], [[catastrophism-and-earth-history]], [[orion-correlation-and-sacred-astronomy]] | *Magicians of the Gods* (2015) is Graham Hancock’s definitive, scientifically updated sequel to *Fingerprints of the Gods*. Two decades after his 1995 bestseller, Hancock synthesizes revolutionary geological, geochemical, and archaeological breakthroughs that substantiate his lost civilization hypothesis. |
-| **2015** | [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] | [[stephan-fackler]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]] | [[quantum-foundations-measurement-and-many-worlds]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[rationality-and-decision-making]] | *Mathematical Foundations of Quantum Mechanics* (Ulm University lecture notes, Summer Term 2015, Version July 17, 2015, 135 pp., co-taught with physicist Kedar Ranade) by German mathematician [[stephan-fackler]] provides a rigorous, self-contained functional-analytic foundation for quantum mechanics accessible to graduate students of both mathematics and physics without prior exposure to measure theory or operator al... |
-| **2015** | [[the-math-hacker-book]] | [[paul-carson]] | [[pure-and-applied-mathematics]], [[recreational-mathematics-and-logic-puzzles]], [[educational-technology-and-disruptive-pedagogy]] | [[purposeful-longevity-flow-and-mathematical-literacy]], [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[student-centric-and-blended-learning]] | *The Math-Hacker Book: Shortcut Your Way to Maths Success* (2015, 742 pp., *Maths in a Minute* series) by British mathematics educator [[paul-carson]] demystifies core numeracy and secondary-school algebra by stripping away rote textbook jargon in favor of intuitive mental shortcuts, visual meaning, and real-world financial and scientific applications (source: BOOKS/Fun & Puzzles_/The Math-Hacker Book...pdf, Contents... |
-| **2014** | [[100-math-brainteasers]] | [[zbigniew-romanowicz]] | [[recreational-mathematics-and-logic-puzzles]], [[pure-and-applied-mathematics]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *100 Math Brainteasers: Arithmetic, Algebra, and Geometry Brain Teasers, Puzzles, Games, and Problems* (131 pp.) by Polish mathematician and olympiad problem-composer [[zbigniew-romanowicz]] presents one hundred graduated mathematical challenges spanning natural numbers, parity, divisibility and prime factorization, Diophantine equations, combinatorics, and elementary geometry (source: BOOKS/Fun & Puzzles_/100 Math B... |
-| **2014** | [[1177-bc-the-year-civilization-collapsed]] | [[eric-h-cline]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[archaeological-historiography]], [[anatolian-civilizations]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[catastrophism-and-earth-history]], [[inclusive-institutions-economic-thought-and-ecological-limits]] | Written by George Washington University ancient historian and archaeologist **Eric H. Cline** (Princeton University Press, 2014; consolidated here from the complete 265-pp. monograph and the 13-pp. Prologue extract), *1177 B.C.* reconstructs the sudden, catastrophic collapse of the interconnected Late Bronze Age Mediterranean and Near Eastern world system. |
-| **2014** | [[atheism-all-that-matters]] | [[dylan-evans]] | [[philosophy-of-religion-secularism-and-apologetics]], [[ethics-and-value-philosophy]] | [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[rationality-and-decision-making]], [[social-critique-and-moral-conscience]] | Written by LSE-trained philosopher of science and cognitive writer **Dylan Evans** (2014, Hodder & Stoughton, pp. 2, 7), *Atheism: All That Matters* is a crisp, lucid 158-page primer distilling the history, logic, cognitive psychology, ethics, and existential outlook of atheism—capped by an original *"100 Ideas"* rapid-reference synthesis (p. 8). |
-| **2014** | [[crossing-the-chasm]] | [[geoffrey-a-moore]] | [[entrepreneurship-and-startup-methodology]], [[corporate-strategy-and-management-classics]], [[innovation-and-economic-growth]] | [[lean-startup-customer-development-and-product-market-fit]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[consultative-questioning-and-constructive-tension]] | High-tech marketing strategist **Geoffrey A. Moore** reshaped how Silicon Valley commercializes discontinuous innovations with *Crossing the Chasm* (first published 1991; refreshed in 1999 and 2014 to update case studies and incorporate mobile/cloud consumer IT—both the 3rd edition [288 pp.] and the 1999/2001 revised edition [174 pp.] are preserved in our library). |
-| **2014** | [[entelektuelin-kutsal-kitabi-modern-kultur]] | [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]] | [[biography-memoir-and-intellectual-history]], [[media-economics-and-entertainment-science]], [[literary-criticism-and-modernism]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[attention-economy-and-cultural-analytics]], [[cybernetics-media-ecology-collective-memory-and-political-violence]] | Translating **David S. Kidder** and **Noah D. Oppenheim**'s 2008 cultural compendium into Turkish via **Egemen Yılgür** (Maya Kitap, 1st ed. March 2014, ISBN 978-605-5675-85-1, p. |
-| **2014** | [[hooked-how-to-build-habit-forming-products]] | [[nir-eyal]], [[ryan-hoover]] | [[product-design-and-behavioral-engineering]], [[entrepreneurship-and-startup-methodology]], [[behavioral-science-risk-and-antifragility]] | [[lean-startup-customer-development-and-product-market-fit]], [[attention-economy-and-cultural-analytics]], [[recurring-revenue-customer-success-and-retention-mechanics]] | Written by behavioral-design consultant and Stanford GSB lecturer **Nir Eyal** with Product Hunt founder **Ryan Hoover** (copyright p. 4), *Hooked* dissects why certain digital products become automatic daily reflexes while others bleed cash on paid re-acquisition. Opening with empirical data on compulsive smartphone checking (pp. |
-| **2014** | [[law-of-attraction-secret-power]] | [[jenny-loveless]] | [[executive-coaching-and-personal-mastery]], [[philosophy-of-religion-secularism-and-apologetics]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[evolution-of-human-consciousness]], [[power-realism-social-contagion-and-intentional-life-design]] | Self-help author **Jenny Loveless** (Copyright ©2014, p. 89; 89 pp.) offers a concise, populist primer on the **Law of Attraction (LOA)**—framing "God," "The World," and "The Universe" interchangeably (p. 4) as a responsive energetic field shaped by sustained thought, emotion, and belief. Across twenty-one short chapters (TOC, p. 3), Loveless contrasts **"Living by Default"** (p. |
-| **2014** | [[leaders-eat-last]] | [[simon-sinek]] | [[leadership-and-management]], [[organizational-psychology]], [[corporate-strategy-and-management-classics]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[cooperation-and-reciprocity]], [[organizational-culture-and-rewilding]] | Inspired by the United States Marine Corps custom in which junior Marines eat first and senior officers eat last, **Simon Sinek** (Portfolio/Penguin, 2014, Copyright p. 4; 260 pp.) investigates the evolutionary biology and neurochemistry behind high-trust organizational cultures. |
-| **2014** | [[richard-dawkins-god-delusion-bloch]] | [[pawel-bloch]] | [[philosophy-of-religion-secularism-and-apologetics]], [[ethics-and-value-philosophy]] | [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[rationality-and-decision-making]], [[social-critique-and-moral-conscience]] | *Richard Dawkins' God Delusion* (Polish original 2011; English translation 2014, Flavius Publishing House, Warsaw, pp. 3–4) by Polish philosopher-apologist **Paweł Bloch** is a systematic, point-by-point philosophical, ethical, and historical rebuttal to Richard Dawkins's *The God Delusion*. Entering the timeless dialogue between theism and atheism (p. |
-| **2014** | [[sapiens-a-brief-history-of-humankind]] | [[yuval-noah-harari]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[evolutionary-biology]], [[cultural-and-digital-anthropology]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[evolution-of-human-consciousness]], [[inclusive-institutions-economic-thought-and-ecological-limits]] | Originally published in Hebrew in 2011 and in English in 2014 (Copyright p. 3, Contents pp. 5–6; 439 pp.), **Yuval Noah Harari**'s global phenomenon *Sapiens* synthesizes evolutionary biology, archaeology, economics, and history into a sweeping four-part chronicle tracing how an insignificant African ape (*Homo sapiens*) came to dominate planet Earth and now stands on the threshold of re-engineering life itself. |
-| **2014** | [[the-barbarian-empires-of-the-steppes]] | [[kenneth-w-harl]] | [[central-eurasian-steppe-and-silk-road-history]], [[military-science]], [[geopolitics-and-diplomatic-history]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[revolutionary-ambition-power-and-historical-legacy]] | Authored by Tulane University Professor of Classical and Byzantine History **Kenneth W. Harl** (The Great Courses / The Teaching Company, 2014, Copyright p. 2, Bio p. |
-| **2014** | [[the-business-of-venture-capital]] | [[mahendra-ramsinghani]] | [[private-equity-and-venture-capital]], [[personal-finance-investing-and-capital-markets]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[private-equity-value-creation-leverage-and-systemic-risk]], [[capital-markets-investment-banking-and-personal-wealth-architecture]] | Written by Silicon Valley seed investor and Secure Octane founder **Mahendra Ramsinghani**—with a candid Foreword by Foundry Group co-founder **Brad Feld** (pp. 17–20)—the revised 2nd edition of *The Business of Venture Capital* (Wiley Finance, 2014, copyright p. 6) is the premier institutional manual on how **venture capital funds themselves** are built, raised, governed, and operated. |
-| **2014** | [[the-hard-thing-about-hard-things]] | [[ben-horowitz]] | [[entrepreneurship-and-startup-methodology]], [[leadership-and-management]], [[biography-memoir-and-intellectual-history]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[adaptive-intelligence-and-organizational-resilience]], [[power-realism-social-contagion-and-intentional-life-design]] | Andreessen Horowitz co-founder and former Opsware/Loudcloud CEO **Ben Horowitz** rejects sanitized management formulas in favor of unflinching operational realism (Introduction, p. 6). Framing the book through his white-knuckle narrative of guiding Loudcloud through the 2000 dot-com collapse, a near-bankrupt pivot into Opsware, and an eventual $1.6 billion sale to HP (Ch. 1–3, pp. |
-| **2014** | [[the-idea-of-israel]] | [[ilan-pappe]] | [[geopolitics-and-diplomatic-history]], [[political-science]], [[literary-criticism-and-modernism]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[orientalism-postcolonial-discourse-and-cultural-satire]], [[institutional-neutrality-and-academic-freedom]] | Published by Verso (2014, Copyright p. 4, Contents p. 5; 295 pp.), **Ilan Pappé**'s *The Idea of Israel* shifts from 1948 military archives to a Foucauldian intellectual history of **Zionist, Post-Zionist, and Neo-Zionist knowledge production** inside Israeli universities, cinema, literature, school curricula, and public memory. In **Part I: The Scholarly and Fictional Idea of Israel** (Ch. |
-| **2014** | [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]] | [[leonard-lewisohn]] (Editor & Contributor) | [[sufism-mysticism-and-rumi-studies]], [[literary-criticism-and-modernism]], [[ethics-and-value-philosophy]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | Edited by University of Exeter Persian-Sufism specialist **Leonard Lewisohn** (2014, World Wisdom, pp. 4–5), *The Philosophy of Ecstasy: Rumi and the Sufi Tradition* gathers twelve authoritative essays by leading international Rumi scholars—including **Husayn Ilahi-Ghomshei**, **Franklin Lewis**, **Carl W. Ernst**, **Alan Williams**, **James W. |
-| **2014** | [[value-proposition-design]] | [[alexander-osterwalder]], [[yves-pigneur]], [[greg-bernarda]], [[alan-smith-strategyzer]] | [[product-design-and-behavioral-engineering]], [[entrepreneurship-and-startup-methodology]], [[corporate-strategy-and-management-classics]] | [[lean-startup-customer-development-and-product-market-fit]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Created by Strategyzer co-founders **Alexander Osterwalder** and **Alan Smith**, University of Lausanne professor **Yves Pigneur**, and **Greg Bernarda** (with visual architecture by Trish Papadakos, copyright pp. 4–5, Core Team p. 306), *Value Proposition Design* is the hands-on sequel to *Business Model Generation*. |
-| **2014** | [[world-order]] | [[henry-kissinger]] | [[geopolitics-and-diplomatic-history]], [[international-relations]], [[strategic-studies]] | [[westphalian-world-order-end-of-history-and-great-power-realism]], [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]] | *World Order: Reflections on the Character of Nations and the Course of History* (Penguin Press, 2014, 241 pp.) is former U.S. Secretary of State and National Security Advisor [[henry-kissinger]]'s sweeping synthesis of four centuries of international diplomacy. |
-| **2014** | [[zero-to-one]] | [[peter-thiel]], [[blake-masters]] | [[entrepreneurship-and-startup-methodology]], [[innovation-and-economic-growth]], [[corporate-strategy-and-management-classics]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[general-purpose-technologies-and-learning-by-doing]], [[power-realism-social-contagion-and-intentional-life-design]] | Distilled by **Blake Masters** from PayPal co-founder and Palantir/Founders Fund co-founder **Peter Thiel**'s acclaimed Stanford CS183 lectures (Crown Business, 2014, copyright p. 3), *Zero to One* offers a sharp contrarian manifesto against conventional Lean incrementalism and Wall Street short-termism. |
-| **2013** | [[buyuk-ataturk-albumu-1]] | [[hanri-benazus]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[revolutionary-ambition-power-and-historical-legacy]] | Curated by Turkish businessman, writer, and lifelong archivist **Hanri Benazus** (1930–2024)—owner of the world's largest private collection of Atatürk photographs (thousands of original prints and negatives)—and published by Bizim Kitaplar (İstanbul, 2013, ISBN 978-605-5476-62-5, pp. |
-| **2013** | [[cehennemdere-kanyonu]] | [[osman-pamukoglu]] | [[historical-fiction]], [[military-science]], [[epic-narrative]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[violent-non-state-actors]], [[moral-courage-nonviolent-resistance-and-transformative-biography]] | *Cehennemdere Kanyonu* ("Hell-Creek Canyon: 20 Soldiers and 1 Captain Between Life and Death," 2013, pp. 3, 5) is Osman Pamukoğlu's visceral war novel fictionalizing real high-altitude commando operations he witnessed during the 1990s counterinsurgency in southeastern Turkey (PDF metadata). |
-| **2013** | [[david-and-goliath]] | [[malcolm-gladwell]] | [[behavioral-science-risk-and-antifragility]], [[strategic-studies]], [[leadership-and-management]] | [[power-realism-social-contagion-and-intentional-life-design]], [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[adaptive-intelligence-and-organizational-resilience]] | In *David and Goliath* (2013, Little, Brown, pp. 239–241), **Malcolm Gladwell** flips conventional assumptions about power and weakness—beginning with the biblical duel itself, where David was never an unarmed weakling but an asymmetric projectile slinger facing a slow, heavily armored, possibly acromegalic (vision-impaired) giant expecting close-quarters infantry combat. |
-| **2013** | [[entelektuelin-kutsal-kitabi-biyografiler]] | [[david-s-kidder]], [[noah-d-oppenheim]], [[egemen-yilgur]] | [[biography-memoir-and-intellectual-history]], [[classical-and-analytic-philosophy]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[open-society-creative-destruction-and-epistemic-virtue]], [[revolutionary-ambition-power-and-historical-legacy]] | Co-authored by entrepreneur **David S. Kidder** and writer-producer **Noah D. Oppenheim** and translated into Turkish by **Egemen Yılgür** (Maya Kitap, 1st ed. March 2013, p. |
-| **2013** | [[financial-intelligence-for-managers]] | [[karen-berman]], [[joe-knight]] (with [[john-case]]) | [[corporate-strategy-and-management-classics]], [[personal-finance-investing-and-capital-markets]], [[leadership-and-management]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]], [[adaptive-intelligence-and-organizational-resilience]] | Written by Business Literacy Institute co-founders **Karen Berman** and **Joe Knight** with veteran business writer **John Case** (2nd revised edition, February 2013, Harvard Business Review Press, pp. 3–4), *Financial Intelligence* demystifies corporate accounting for non-financial managers—anchored in one liberating core premise: **finance is as much an art as a science** (Part One, p. 6). |
-| **2013** | [[financial-modeling-and-valuation]] | [[paul-pignataro]] | [[personal-finance-investing-and-capital-markets]], [[private-equity-and-venture-capital]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[private-equity-value-creation-leverage-and-systemic-risk]], [[venture-capital-term-sheets-and-fundraising-mechanics]] | Written by New York School of Finance founder and former Morgan Stanley/UBS investment banker **Paul Pignataro** (Wiley Finance, 2013, copyright pp. |
-| **2013** | [[give-and-take]] | [[adam-grant]] | [[organizational-psychology]], [[leadership-and-management]], [[executive-coaching-and-personal-mastery]] | [[cooperation-and-reciprocity]], [[servant-coaching-high-output-management-and-stoic-ego]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]] | Wharton organizational psychologist **Adam Grant** (2013, 260 pp.) overturns the cynical assumption that "nice guys finish last" by examining how reciprocity styles shape long-term success across engineering, medicine, sales, law, and Silicon Valley networks. |
-| **2013** | [[hbr-10-must-reads-on-teams]] | [[harvard-business-review-editorial]] | [[corporate-strategy-and-management-classics]], [[organizational-psychology]], [[leadership-and-management]] | [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]] | Part of Harvard Business Review Press's flagship curated anthology series, *HBR's 10 Must Reads on Teams* (2013, pp. 2–6) compiles ten landmark research articles dissecting why most working groups underperform—and what differentiates truly high-performing, innovative, and collaborative teams across corporate, technical, and global settings. |
-| **2013** | [[i-am-malala]] | [[malala-yousafzai]], [[christina-lamb]] | [[biography-memoir-and-intellectual-history]], [[educational-technology-and-disruptive-pedagogy]], [[ethics-and-value-philosophy]] | [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[student-centric-and-blended-learning]], [[universal-love-and-human-dignity]] | *I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban* (Weidenfeld & Nicolson, London, 2013, 195 pp.) by Nobel Peace Prize laureate [[malala-yousafzai]] with veteran foreign correspondent [[christina-lamb]] is the gripping autobiographical testimony of a Pashtun schoolgirl from Pakistan's Swat Valley who defied the Tehrik-i-Taliban's ban on girls' schooling, survived an October 9, 2012 assassi... |
-| **2013** | [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] | [[hulya-apaydin]], [[sibel-ozekmekci]], [[semra-oguz]], [[ismail-zileli]] | [[biotechnology-medicine-and-longevity]], [[neuroscience-and-philosophy-of-mind]] | [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[universal-love-and-human-dignity]] | *Parkinson Hastalığı: Hasta ve Yakınları için El Kitabı (Gözden Geçirilmiş 5. Baskı)* (*Parkinson's Disease: Handbook for Patients and Caregivers*, Revised 5th Edition, published by Bayçınar Tıbbi Yayıncılık, İstanbul, August 2013, 98 pp., ISBN `978-605-88789-3-8`) authored by Istanbul University Cerrahpaşa Faculty of Medicine movement-disorders neurologists Prof. Dr. [[hulya-apaydin]] and Prof. Dr. |
-| **2013** | [[pharmaceutical-biotechnology-fundamentals-and-applications]] | [[daan-j-a-crommelin]], [[robert-d-sindelar]], [[bernd-meibohm]] | [[biotechnology-medicine-and-longevity]], [[evolutionary-biology]], [[innovation-and-economic-growth]] | [[biologics-cell-and-gene-therapies-and-healthcare-disruption]], [[general-purpose-technologies-and-learning-by-doing]], [[rationality-and-decision-making]] | *Pharmaceutical Biotechnology: Fundamentals and Applications (Fourth Edition)* (published by Springer Science+Business Media, New York, 2013, 551 pp., ISBN `978-1-4614-6485-3`, `DOI: 10.1007/978-1-4614-6486-0`) edited by pharmaceutical scientists [[daan-j-a-crommelin]] (Utrecht University), [[robert-d-sindelar]] (University of British Columbia), and [[bernd-meibohm]] (University of Tennessee Health Science Center) is... |
-| **2013** | [[the-lean-entrepreneur]] | [[brant-cooper]], [[patrick-vlaskovits]] | [[entrepreneurship-and-startup-methodology]], [[product-design-and-behavioral-engineering]] | [[lean-startup-customer-development-and-product-market-fit]], [[recurring-revenue-customer-success-and-retention-mechanics]] | Written by Lean Startup practitioners **Brant Cooper** and **Patrick Vlaskovits** (Wiley, 2013, copyright pp. 5–6), *The Lean Entrepreneur* bridges visionary entrepreneurship with empirical customer discovery. |
-| **2013** | [[us-declaration-of-independence-and-constitution-appendix]] | [[nick-ragone]] | [[comparative-democratic-history]], [[law-and-quantitative-criminology]], [[political-science]] | [[tyranny-of-the-majority-and-civil-associations]], [[rule-of-law-and-experimental-justice]], [[political-intuitionism-administrative-state-and-capitalist-democracy]] | *Appendix A: Declaration of Independence and the Constitution of the United States* (excerpted from [[nick-ragone]]'s *The Everything American Government Book*, Adams Media, 2013, 27 pp., original pp. 269–295) serves as the primary constitutional reference text inside the Gilgamis LLM Wiki's political-science corpus (source: BOOKS/Politics_/Everything About Government Appendix.pdf, pp. 1–27). |
-| **2013** | [[war-god-nights-of-the-witch]] | [[graham-hancock]] | [[historical-fiction]], [[speculative-fiction]], [[epic-narrative]] | [[altered-states-and-origin-of-art]], [[clash-of-civilizations]], [[fanaticism-and-human-sacrifice]] | *War God: Nights of the Witch* (2013) is Graham Hancock’s epic historical novel depicting the catastrophic 1519 Spanish invasion and conquest of the Aztec Empire by Hernán Cortés. |
-| **2013** | [[you-are-a-badass]] | [[jen-sincero]] | [[executive-coaching-and-personal-mastery]], [[behavioral-science-risk-and-antifragility]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[power-realism-social-contagion-and-intentional-life-design]], [[servant-coaching-high-output-management-and-stoic-ego]] | Success coach and humorist **Jen Sincero** (Running Press, 2013, Copyright p. 7, ISBN 978-0-7624-4831-9; 689 mobile-reflowed PDF pages) delivers a blunt, irreverent, self-deprecating personal-transformation handbook designed for readers allergic to solemn New Age rhetoric. Organized into five punchy parts across twenty-seven short chapters—**How You Got This Way** (Ch. 1–5), **How to Embrace Your Inner Badass** (Ch. |
-| **2012** | [[antifragile]] | [[nassim-nicholas-taleb]] | [[behavioral-science-risk-and-antifragility]], [[classical-and-institutional-economics]], [[strategic-studies]] | [[antifragility-black-swans-and-skin-in-the-game]], [[adaptive-intelligence-and-organizational-resilience]], [[probabilistic-inference-and-uncertainty-quantification]] | The centerpiece philosophical and mathematical work of the *Incerto*, **Nassim Nicholas Taleb's** *Antifragile: Things That Gain from Disorder* (2012, Random House, pp. |
-| **2012** | [[computer-security-incident-handling-guide-nist-sp-800-61r2]] | [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]] | [[cybersecurity-and-digital-forensics]], [[security-studies]], [[strategic-studies]] | [[hybrid-threats-and-cyber-warfare]], [[adaptive-intelligence-and-organizational-resilience]], [[rationality-and-decision-making]] | *Computer Security Incident Handling Guide (NIST Special Publication 800-61 Revision 2)* (published by the National Institute of Standards and Technology, August 2012, 79 pp., `DOI: 10.6028/NIST.SP.800-61r2`) by [[paul-cichonski]], [[tom-millar]] (US-CERT / DHS), [[tim-grance]], and [[karen-scarfone]] is the foundational U.S. |
-| **2012** | [[digital-anthropology]] | [[heather-a-horst]], [[daniel-miller]] | [[cultural-and-digital-anthropology]], [[media-economics-and-entertainment-science]], [[innovation-and-economic-growth]] | [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[attention-economy-and-cultural-analytics]], [[general-purpose-technologies-and-learning-by-doing]] | *Digital Anthropology* (published by Berg / Bloomsbury Publishing, London & New York, 2012, 327 pp., ISBN `978-0-85785-290-8`; paired in `BOOKS/Anthropology_/` with the 27-page standalone offprint of Chapter 1, *The Digital and the Human: A Prospectus for Digital Anthropology*, `DOI: 10.4324/9781003085201-2`) edited by anthropologists [[heather-a-horst]] and [[daniel-miller]] is the foundational manifesto establishin... |
-| **2012** | [[how-will-you-measure-your-life]] | [[clayton-m-christensen]], [[james-allworth]], [[karen-dillon]] | [[leadership-and-management]], [[corporate-strategy-and-management-classics]], [[ethics-and-value-philosophy]] | [[power-realism-social-contagion-and-intentional-life-design]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[social-critique-and-moral-conscience]] | Expanded from Harvard Business School professor **Clayton M. Christensen's** legendary final-day classroom talk—written alongside **James Allworth** and former *Harvard Business Review* editor **Karen Dillon** after Christensen's recovery from cancer and stroke (2012, HarperBusiness, pp. |
-| **2012** | [[mastery-robert-greene]] | [[robert-greene]] | [[leadership-and-management]], [[organizational-psychology]], [[biography-memoir-and-intellectual-history]] | [[power-realism-social-contagion-and-intentional-life-design]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[adaptive-intelligence-and-organizational-resilience]] | Moving from external power dynamics to internal creative excellence, **Robert Greene's** *Mastery* (2012, Viking, pp. 3–7) examines the biographies of iconic historical masters (Leonardo da Vinci, Charles Darwin, Michael Faraday, Wolfgang Amadeus Mozart, Benjamin Franklin, Marcel Proust) alongside interviews with nine contemporary leaders (including Temple Grandin, Yoky Matsuoka, Santiago Calatrava, and Paul Graham) ... |
-| **2012** | [[math-puzzles-classic-riddles]] | [[presh-talwalkar]] | [[recreational-mathematics-and-logic-puzzles]], [[game-theory]], [[pure-and-applied-mathematics]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] | *Math Puzzles: Classic Riddles in Counting, Geometry, Probability, and Game Theory* (2012, 488 pp.) by Stanford-trained mathematician, economist, and creator of the *Mind Your Decisions* platform [[presh-talwalkar]] curates and solves classic quantitative brainteasers drawn from mathematical competitions, probability paradoxes, technical interviews, and strategic game theory (source: BOOKS/Fun & Puzzles_/Math puzzles... |
-| **2012** | [[osmanli-turkcesi-metinleri-1]] | [[recep-ahishali]] (Editor & Units 1, 5), [[muzaffer-dogan]] (Units 2, 6), [[mehmet-topal]] (Units 3, 7), [[mesut-aydiner]] (Unit 4), [[omer-isbilir]] (Unit 8) | [[ottoman-philology-and-literary-historiography]], [[educational-technology-and-disruptive-pedagogy]] | [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[student-centric-and-blended-learning]] | *Osmanlı Türkçesi Metinleri I* ("Ottoman Turkish Texts I") is a structured university paleography and historical text-reading textbook published by Anadolu University's Open Education Faculty (pp. 3–4). |
-| **2012** | [[so-good-they-cant-ignore-you]] | [[cal-newport]] | [[executive-coaching-and-personal-mastery]], [[entrepreneurship-and-startup-methodology]], [[leadership-and-management]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[power-realism-social-contagion-and-intentional-life-design]], [[lean-startup-customer-development-and-product-market-fit]] | Opening with a lay Zen monk's disillusionment in the Catskills (Introduction, pp. 6–8) and a historical deconstruction of Steve Jobs's famously misinterpreted 2005 Stanford speech (Ch. 1, pp. 42–64), **Cal Newport** (2012, 771 pp.) mounts an evidence-based assault on the **Passion Hypothesis**—the cultural dogma that career fulfillment comes from discovering a preexisting passion and matching a job to it. |
-| **2012** | [[tarihi-degistiren-liderler]] | [[ali-cimen]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[leadership-and-management]] | [[revolutionary-ambition-power-and-historical-legacy]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[moral-courage-nonviolent-resistance-and-transformative-biography]] | Published by Timaş Yayınları (1st ed. Sept. 2012; 9th printing Dec. 2014, p. 4; 371 pp.), **Ali Çimen**'s *Tarihi Değiştiren Liderler* rounds out his *Tarihi Değiştiren...* quartet by shifting focus from battlefield commanders and scientists to political statecraft, ideological architects, and nation-builders across global history. |
-| **2012** | [[the-power-of-habit]] | [[charles-duhigg]] | [[behavioral-science-risk-and-antifragility]], [[cognitive-moral-and-social-psychology]], [[executive-coaching-and-personal-mastery]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[organizational-culture-and-rewilding]], [[power-realism-social-contagion-and-intentional-life-design]] | Pulitzer Prize–winning investigative journalist **Charles Duhigg** (Random House, 2012, Copyright p. 2; 295 pp.) synthesizes MIT basal-ganglia neuroscience, consumer marketing history, organizational turnarounds, and social-movement sociology into a unified framework of automatic behavior. Across three escalating scales—**Part One: The Habits of Individuals** (Ch. |
-| **2012** | [[the-righteous-mind]] | [[jonathan-haidt]] | [[cognitive-moral-and-social-psychology]], [[political-psychology-and-ideology]], [[ethics-and-value-philosophy]] | [[moral-foundations-cognitive-biases-and-interface-perception]], [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[evolution-of-human-consciousness]] | Opening with Spinoza's plea *"not to hate human actions, but to understand them"* (p. 6) and Rodney King's question *"Can we all get along?"* (p. 8), NYU Stern moral psychologist **Jonathan Haidt**'s landmark *The Righteous Mind* (Pantheon, 2012, 322 pp., copyright p. |
-| **2012** | [[the-start-up-of-you]] | [[reid-hoffman]], [[ben-casnocha]] | [[corporate-strategy-and-management-classics]], [[leadership-and-management]], [[organizational-psychology]] | [[platform-power-data-governance-and-career-adaptability]], [[adaptive-intelligence-and-organizational-resilience]], [[trusted-strategic-advisors-and-influence]] | Co-authored by LinkedIn co-founder and Greylock partner **Reid Hoffman** and entrepreneur **Ben Casnocha** (2012, Crown Business, p. 4), *The Start-Up of You* exports Silicon Valley's startup operating playbook to individual career strategy in an era where the postwar corporate "escalator" of lifetime employment and employer-funded training has vanished (pp. 10–12). |
-| **2012** | [[the-startup-owners-manual]] | [[steve-blank]], [[bob-dorf]] | [[entrepreneurship-and-startup-methodology]], [[corporate-strategy-and-management-classics]] | [[lean-startup-customer-development-and-product-market-fit]], [[disruptive-innovation-blitzscaling-and-founder-resilience]] | Authored by Silicon Valley serial entrepreneur and Stanford/Berkeley educator **Steve Blank** and veteran founder/investor **Bob Dorf** (K&S Ranch Press, 2012, p. 4), *The Startup Owner's Manual* is the exhaustive 987-page reference encyclopedia of the **Customer Development** movement. |
-| **2012** | [[the-startup-playbook]] | [[david-s-kidder]], [[reid-hoffman]] | [[entrepreneurship-and-startup-methodology]], [[biography-memoir-and-intellectual-history]], [[leadership-and-management]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[lean-startup-customer-development-and-product-market-fit]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Compiled by serial entrepreneur and Clickable/Bionic co-founder **David S. Kidder** (with Hanny Hindi and a Foreword by LinkedIn co-founder **Reid Hoffman**, pp. 3–4, 10–11), *The Startup Playbook* (Chronicle Books, 2012) is an extraordinary comparative compendium of first-hand operating playbooks from over 40 iconic founders behind some of the fastest-growing companies of the early 21st century. |
-| **2012** | [[the-tools-stutz-michels]] | [[phil-stutz]], [[barry-michels]] | [[psychoanalysis-and-depth-psychology]], [[cognitive-moral-and-social-psychology]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[adaptive-intelligence-and-organizational-resilience]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]] | Written by acclaimed Los Angeles psychiatrist **Phil Stutz** and psychotherapist **Barry Michels** (Spiegel & Grau, 2012, 183 pp., copyright p. 3), *The Tools* breaks decisively with passive, insight-only talk therapy. Opening with a patient who bluntly tells Stutz, *"Don't waste my time and money on why I'm insecure—I already know. Tell me how to stop obsessing"* (Ch. 1, p. |
-| **2012** | [[why-nations-fail]] | [[daron-acemoglu]], [[james-a-robinson]] | [[classical-and-institutional-economics]], [[political-science]], [[comparative-democratic-history]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[rule-of-law-and-experimental-justice]] | Written by Nobel-laureate MIT economist **Daron Acemoglu** and political scientist **James A. Robinson** (2012, Crown, p. 7), *Why Nations Fail* delivers a landmark institutional theory explaining global inequality across centuries. Opening with the stark natural experiment of **Nogales, Arizona vs. |
-| **2011** | [[business-startup-for-dummies-bundle]] | [[colin-barrow]], [[john-a-tracy]] | [[entrepreneurship-and-startup-methodology]], [[personal-finance-investing-and-capital-markets]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[capital-markets-investment-banking-and-personal-wealth-architecture]] | Published by John Wiley & Sons UK, this comprehensive 549-page three-volume bundle combines **Colin Barrow**'s *Starting a Business For Dummies* (3rd ed., 2011, pp. 6–91), *Business Plans For Dummies* (3rd ed., pp. 92–212), and **John A. Tracy** & **Colin Barrow**'s *Understanding Business Accounting For Dummies* (3rd ed., 2012, pp. 213–549). |
-| **2011** | [[che-guevara-a-biography]] | [[richard-l-harris]] | [[biography-memoir-and-intellectual-history]], [[geopolitics-and-diplomatic-history]], [[political-science]] | [[revolutionary-ambition-power-and-historical-legacy]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[social-critique-and-moral-conscience]] | *Che Guevara: A Biography* (Greenwood Biographies / ABC-CLIO, 2011, 267 pp.) by Latin American studies scholar [[richard-l-harris]] delivers an accessible, balanced scholarly biography of Argentine physician, Marxist guerrilla theorist, and Cuban revolutionary leader **Ernesto "Che" Guevara** (1928–1967) (source: BOOKS/Biography_/Che Guevara_ A Biography (Greenwood Biographies) ( PDFDrive ).pdf, Title Page, Copyright... |
-| **2011** | [[divan-sultan-huseyn-bayqara]] | [[sultan-huseyn-bayqara]], [[ramiz-asker]] | [[poetry-and-poetics]], [[turkish-folk-literature]], [[world-classics-and-comparative-literature]] | [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[persian-sufism-skepticism-and-comparative-translation]], [[revolutionary-ambition-power-and-historical-legacy]] | Published under the auspices of **TürkSOY** and the Azerbaijan National Academy of Sciences (AMEA) Institute of Folklore—transposed into Azerbaijani Turkic with an extensive historical introduction by **Ramiz Asker** and edited by Prof. Dr. Rafael Hüseynov (Baku, MBM, 2011, 248 pp., p. |
-| **2011** | [[inspiration-to-live-your-magic]] | [[larry-anderson]] | [[biography-memoir-and-intellectual-history]], [[leadership-and-management]], [[ethics-and-value-philosophy]] | [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[universal-love-and-human-dignity]] | *Inspiration to Live Your Magic: 75 Inspiring Biographies* (LIAP Media Corp. / Smashwords Edition, 2011, 167 pp.) by Canadian educator and motivational author [[larry-anderson]] distills the life stories of seventy-five scientists, humanitarians, artists, explorers, jurists, athletes, and social reformers into concise two-page portraits highlighting perseverance, service, and personal calling (source: BOOKS/Biography... |
-| **2011** | [[lying-sam-harris]] | [[sam-harris]] | [[ethics-and-value-philosophy]], [[classical-and-analytic-philosophy]], [[cognitive-moral-and-social-psychology]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[rationality-and-decision-making]] | Neuroscientist and philosopher **Sam Harris**'s brisk, razor-sharp long-form essay *Lying* (2011, 44 digital spreads, copyright p. 2) mounts a fierce consequentialist and relational indictment of everyday deception—especially the socially normalized **"white lies"** people tell to spare feelings, avoid awkwardness, or grease professional friction. |
-| **2011** | [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]] | [[slavs-and-tatars]], [[jalil-mammadguluzadeh]] | [[cultural-and-digital-anthropology]], [[media-economics-and-entertainment-science]], [[postcolonial-and-diaspora-studies]] | [[orientalism-postcolonial-discourse-and-cultural-satire]], [[social-critique-and-moral-conscience]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]] | *Molla Nasreddin: The Magazine That Would've, Could've, Should've* (Christoph Keller Editions / JRP\|Ringier, 2011, 107 pp. monograph selection) is curated and introduced by the Eurasian art and research collective [[slavs-and-tatars]], bringing into English translation the pioneering early-twentieth-century Azeri satirical weekly *Molla Nasreddin* (published 1906–1930 across Tbilisi, Tabriz, and Baku) founded and edi... |
-| **2011** | [[ottoman-brothers]] | [[michelle-u-campos]] | [[turkish-republican-history-and-biographical-memoirs]], [[geopolitics-and-diplomatic-history]], [[comparative-democratic-history]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[tyranny-of-the-majority-and-civil-associations]] | Written by historian **Michelle U. Campos** (Stanford University Press, 2011, Title Page p. 3, Copyright p. 4; 357 pp.), *Ottoman Brothers* recovers a pivotal, largely forgotten chapter of Middle Eastern history: the burst of **civic Ottomanism** (*Osmanlılık*) sparked by the **1908 Young Turk Constitutional Revolution** across late-Ottoman Palestine (Jerusalem, Jaffa, Haifa). |
-| **2011** | [[the-better-angels-of-our-nature]] | [[steven-pinker]] | [[cognitive-moral-and-social-psychology]], [[behavioral-science-risk-and-antifragility]], [[comparative-democratic-history]] | [[moral-foundations-cognitive-biases-and-interface-perception]], [[inclusive-institutions-economic-thought-and-ecological-limits]], [[cooperation-and-reciprocity]] | Harvard cognitive psychologist **Steven Pinker**'s monumental 1,061-page empirical study *The Better Angels of Our Nature* (Viking Penguin, 2011, copyright p. 8; TOC p. |
-| **2011** | [[the-digital-as-para-world]] | [[lane-denicola]] | [[cultural-and-digital-anthropology]], [[innovation-and-economic-growth]], [[media-economics-and-entertainment-science]] | [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[human-centered-ai-and-augmented-leadership]], [[general-purpose-technologies-and-learning-by-doing]] | *The Digital as Para-world: Design, Anthropology, and Information Technologies* (Chapter 14, pp. 202–211, 10 pp., in Alison J. Clarke, ed., *Design Anthropology: Object Culture in the 21st Century*, SpringerWienNewYork, 2011) by anthropologist and STS scholar [[lane-denicola]] examines the historical lacuna between classical cultural anthropology and technology—and charts how a new generation of **digital and design ... |
-| **2011** | [[the-lean-startup]] | [[eric-ries]] | [[entrepreneurship-and-startup-methodology]], [[innovation-and-economic-growth]], [[product-design-and-behavioral-engineering]] | [[lean-startup-customer-development-and-product-market-fit]], [[adaptive-intelligence-and-organizational-resilience]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Entrepreneur and IMVU co-founder **Eric Ries** (b. 1978, copyright p. 9) crystallized a global movement with *The Lean Startup* (2011), adapting Toyota Production System principles and Steve Blank's Customer Development model into a rigorous management discipline for **extreme uncertainty**. |
-| **2011** | [[the-master-game]] | [[graham-hancock]], [[robert-bauval]] | [[esoteric-history]], [[occult-studies]], [[hermeticism]] | [[hermetic-tradition-and-secret-societies]], [[orion-correlation-and-sacred-astronomy]], [[critique-of-academic-orthodoxy]] | *The Master Game: Unmasking the Secret Rulers of the World* (2011), an expanded and deepened successor to their earlier work *Talisman*, is a massive 654-page historical investigation by Graham Hancock and Robert Bauval into the secret warfare of ideas that shaped Western civilization. |
-| **2011** | [[the-secret-history-of-democracy-primitive-democracy]] | [[benjamin-isakhan]], [[stephen-stockwell]], [[thorkild-jacobsen]] | [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]], [[anatolian-civilizations]] | [[pre-athenian-and-indigenous-democracies]], [[critique-of-academic-orthodoxy]], [[cooperation-and-reciprocity]], [[non-western-strategic-thought]] | *The Secret History of Democracy* (2011, edited by [[benjamin-isakhan]] and [[stephen-stockwell]], Palgrave Macmillan)—examined here alongside Assyriologist [[thorkild-jacobsen]]'s landmark 1943 study *"Primitive Democracy in Ancient Mesopotamia"* (*Journal of Near Eastern Studies* 3/2)—mounts a foundational historiographical challenge to the Eurocentric orthodoxy that democracy was uniquely and exclusively invented ... |
-| **2011** | [[thinking-fast-and-slow]] | [[daniel-kahneman]] | [[behavioral-science-risk-and-antifragility]], [[cognitive-moral-and-social-psychology]], [[classical-and-institutional-economics]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[rationality-and-decision-making]], [[moral-foundations-cognitive-biases-and-interface-perception]] | Dedicated *"In memory of Amos Tversky"* (p. 3), Nobel laureate **Daniel Kahneman**'s *Thinking, Fast and Slow* (2011, 533 pp.) is the capstone synthesis of four decades of behavioral economics and cognitive psychology. Writing to enrich the vocabulary of "informed office watercooler gossip" with precise diagnostic labels for systematic errors of judgment (Introduction, p. |
-| **2011** | [[timelines-of-history]] | [[dorling-kindersley]], [[smithsonian-institution]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[archaeological-historiography]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[islamic-golden-age-science-and-civilizational-transmission]], [[general-purpose-technologies-and-learning-by-doing]] | Produced by **Dorling Kindersley (DK)** in partnership with the **Smithsonian Institution** and authored by specialist academic consultants including **Jane McIntosh** (Cambridge, 8 MYA–700 BCE), **Neville Morley** (Bristol, 700 BCE–599 CE), **Roger Collins** (Edinburgh, 600–1449), and **R. G. Grant** (modern era, pp. |
-| **2011** | [[tolstoy-treatise-on-muhammad]] | [[leo-tolstoy]] (Primary Subject & Source Compiler); [[telman-khurshidoglu-aliyev]] (Editor/Compiler) | [[world-classics-and-comparative-literature]], [[biography-memoir-and-intellectual-history]], [[ethics-and-value-philosophy]] | [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]] | Compiled and introduced by Prof. Dr. Telman Khurshidoglu Aliyev (PDF metadata, p. 1), this 50-page anthology brings together Leo Tolstoy's late-life Russian compilation of prophetic *hadith*—originally drawn from Indian scholar **Abdullah al-Ma'mun al-Suhrawardy's** *The Sayings of Muhammad* and published by Tolstoy's popular press *Posrednik* in 1909—alongside Tolstoy's well-known 1909 correspondence with **Elena Ve... |
-| **2011** | [[venture-capitalists-at-work]] | [[tarang-shah]], [[sheetal-shah]] | [[private-equity-and-venture-capital]], [[entrepreneurship-and-startup-methodology]], [[biography-memoir-and-intellectual-history]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[disruptive-innovation-blitzscaling-and-founder-resilience]] | Compiled by former SoftBank Capital venture professional **Tarang Shah** (creator of the Start-up Analysis Model) and **Sheetal Shah** (Apress, 2011, copyright p. 469; About the Authors p. |
-| **2011** | [[venture-deals]] | [[brad-feld]], [[jason-mendelson]] | [[private-equity-and-venture-capital]], [[entrepreneurship-and-startup-methodology]], [[persuasion-negotiation-and-rhetoric]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[cooperation-and-reciprocity]] | Written by Foundry Group co-founders **Brad Feld** (serial entrepreneur/Techstars co-founder) and **Jason Mendelson** (former Cooley VC attorney turned managing director)—with an enthusiastic Foreword by then-Twitter CEO **Dick Costolo** (pp. 12–13)—*Venture Deals* (Wiley, 2011, copyright p. 9) is universally recognized as the gold-standard field manual on U.S. startup financing and term-sheet negotiation. |
-| **2010** | [[99-yuz]] | [[cemal-sureya]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[literary-criticism-and-modernism]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[social-critique-and-moral-conscience]] | Written by towering Turkish *İkinci Yeni* poet and essayist **Cemal Süreya** (1931–1990) and published here in the canonical Yapı Kredi Yayınları edition (first YKY ed. 2004, 3rd YKY ed. March 2010; orig. Kaynak Yayınları 1991, p. |
-| **2010** | [[handbook-of-quantitative-criminology]] | [[alex-r-piquero]], [[david-weisburd]] | [[law-and-quantitative-criminology]], [[social-choice-theory]], [[political-science]] | [[rule-of-law-and-experimental-justice]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]] | *Handbook of Quantitative Criminology* (published by Springer, 2010, 787 pp., `DOI: 10.1007/978-0-387-77650-7`) edited by Professors [[alex-r-piquero]] (Florida State University) and [[david-weisburd]] (Hebrew University of Jerusalem / George Mason University), with a Foreword by Alfred Blumstein, is the landmark 35-chapter reference work codifying the statistical, spatial, longitudinal, and experimental methodologie... |
-| **2010** | [[heaven-is-for-real]] | [[todd-burpo]] (with [[lynn-vincent]]) | [[biography-memoir-and-intellectual-history]], [[philosophy-of-religion-secularism-and-apologetics]] | [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[universal-love-and-human-dignity]], [[moral-courage-nonviolent-resistance-and-transformative-biography]] | *Heaven Is for Real* (2010, Thomas Nelson, pp. 7–8) by Nebraska Wesleyan pastor **Todd Burpo** and co-writer **Lynn Vincent** is a bestselling Christian family memoir recounting the near-death crisis and subsequent afterlife testimony of Burpo's nearly four-year-old son, **Colton Burpo**, following emergency surgery for a ruptured appendix in 2003 (pp. 4, 7). |
-| **2010** | [[korkunun-cocuklari]] | [[osman-pamukoglu]]; [[nuriye-atabey]] (Editor) | [[political-science]], [[biography-memoir-and-intellectual-history]], [[strategic-studies]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[violent-non-state-actors]], [[rule-of-law-and-experimental-justice]] | Edited by journalist Nuriye Atabey and published in Ankara in November 2010 (pp. 2–3), *Korkunun Çocukları: Yasasız Demokrasiye Geçiş* ("Children of Fear: Transition to a Lawless Democracy") combines an intimate biographical portrait of Osman Pamukoğlu's childhood in Gerze (Sinop) with an extended, hard-hitting political and strategic interrogation of Turkish counterterrorism policy, the rule of law, and Middle Easte... |
-| **2010** | [[lost-knowledge-of-the-ancients]] |  | [[alternative-archaeology]], [[esoteric-history]], [[archaeoastronomy]] | [[critique-of-academic-orthodoxy]], [[lost-civilization-hypothesis]], [[orion-correlation-and-sacred-astronomy]], [[submerged-ruins-and-sea-level-rise]] | *Lost Knowledge of the Ancients: A Graham Hancock Reader* (2010), edited and curated by archaeoastronomer Glenn Kreisberg and published by Bear & Company, is an authoritative 178-page anthology bringing together leading alternative historians, geologists, and esoteric researchers. |
-| **2010** | [[mastering-the-vc-game]] | [[jeffrey-bussgang]] | [[private-equity-and-venture-capital]], [[entrepreneurship-and-startup-methodology]] | [[venture-capital-term-sheets-and-fundraising-mechanics]], [[disruptive-innovation-blitzscaling-and-founder-resilience]] | Written by **Jeffrey Bussgang**—General Partner at Flybridge Capital Partners, Harvard Business School lecturer, and former co-founder/executive of Upromise and Open Market—*Mastering the VC Game* (Portfolio/Penguin, 2010, copyright p. 5) demystifies venture capital from the vantage point of someone who has played both sides of the table. |
-| **2010** | [[philosophy-100-great-thinkers]] | [[jeremy-harwood]] | [[classical-and-analytic-philosophy]], [[biography-memoir-and-intellectual-history]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[rationality-and-decision-making]] | Written by historian and popular-reference author **Jeremy Harwood** (Quercus, 2010, copyright p. 3), *Philosophy: A Beginner's Guide to the Ideas of 100 Great Thinkers* is a richly structured chronological handbook mapping 2,600 years of global philosophical thought across five major eras: **The Ancient World** (pp. 10–60), **The Middle Ages** (pp. 61–85), **The Early Modern Era** (pp. |
-| **2010** | [[russian-politics-from-lenin-to-putin]] | [[stephen-fortescue]], [[archie-brown]], [[sheila-fitzpatrick]] | [[political-science]], [[geopolitics-and-diplomatic-history]], [[comparative-democratic-history]] | [[westphalian-world-order-end-of-history-and-great-power-realism]], [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[tyranny-of-the-majority-and-civil-associations]] | *Russian Politics from Lenin to Putin* (Palgrave Macmillan / St Antony's Series, Oxford, 2010, 240 pp.)—edited by [[stephen-fortescue]] (University of New South Wales) in honor of pioneering Sovietologist **T. H. |
-| **2010** | [[the-bed-of-procrustes]] | [[nassim-nicholas-taleb]] | [[behavioral-science-risk-and-antifragility]], [[stoic-philosophy-and-practical-ethics]], [[ethics-and-value-philosophy]] | [[antifragility-black-swans-and-skin-in-the-game]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[critique-of-academic-orthodoxy]] | Named after the Greek myth of Procrustes—who stretched short guests or amputated tall ones to force every traveler to fit his iron bed—**Nassim Nicholas Taleb's** *The Bed of Procrustes* (2010, Random House, p. 5) distills the entire *Incerto* philosophy into razor-sharp, standalone philosophical and practical aphorisms. |
-| **2010** | [[the-grand-design]] | [[stephen-hawking]], [[leonard-mlodinow]] | [[theoretical-physics-and-cosmology]], [[neuroscience-and-philosophy-of-mind]], [[pure-and-applied-mathematics]] | [[cosmology-black-holes-and-the-arrow-of-time]], [[quantum-foundations-measurement-and-many-worlds]], [[rationality-and-decision-making]] | *The Grand Design* (published by Bantam Books / Random House, New York, 2010, 180 pp., eISBN `978-0-553-90707-0`) by [[stephen-hawking]] and Caltech theoretical physicist [[leonard-mlodinow]] is a provocative eight-chapter synthesis of 21st-century quantum cosmology, **M-Theory**, and philosophy of science (source: BOOKS/Physics/The Grand Design ( PDFDrive ).pdf, pp. 6–10). |
-| **2010** | [[the-worlds-200-hardest-brain-teasers]] | [[gary-r-gruber]] | [[recreational-mathematics-and-logic-puzzles]], [[pure-and-applied-mathematics]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[rationality-and-decision-making]] | *The World's 200 Hardest Brain Teasers: Mind-Boggling Puzzles, Problems, and Curious Questions to Sharpen Your Brain* (Sourcebooks, 2010, 201 pp.) by physicist and standardized-test critical-thinking specialist Dr. |
-| **2009** | [[a-guide-to-the-good-life-stoic-joy]] | [[william-b-irvine]] | [[stoic-philosophy-and-practical-ethics]], [[classical-and-analytic-philosophy]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[purposeful-longevity-flow-and-mathematical-literacy]] | Written by Wright State University philosophy professor **William B. Irvine** (Oxford University Press, 2009, p. 2), *A Guide to the Good Life* sparked the twenty-first-century revival of practical Stoicism among modern readers, executives, and psychologists. Lamenting that contemporary academic philosophy abandoned its ancient Greek vocation of teaching *"a philosophy of life"* (Introduction & Part One, pp. |
-| **2009** | [[after-the-prophet-shia-sunni-split]] | [[lesley-hazleton]] | [[comparative-religion-and-islamic-history]], [[biography-memoir-and-intellectual-history]], [[geopolitics-and-diplomatic-history]] | [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[revolutionary-ambition-power-and-historical-legacy]], [[social-critique-and-moral-conscience]] | *After the Prophet: The Epic Story of the Shia-Sunni Split in Islam* (2009, Doubleday, p. 329) is journalist and religious historian **Lesley Hazleton's** gripping narrative history of the turbulent fifty-year succession crisis following the death of the Prophet Muhammad in 632 CE—a political and moral fracture that permanently divided the Islamic world into its **Sunni** and **Shia** branches. |
-| **2009** | [[ataturk-hakkinda-hatiralar-ve-belgeler]] | [[afet-inan]], [[ari-inan]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[republican-intellectual-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[institutional-neutrality-and-academic-freedom]] | Written by historian, sociologist, and Atatürk's adopted daughter **Prof. Dr. Afet İnan** (1908–1985), originally published in Ankara in 1959 with a foreword by former Education Minister **Hasan-Âli Yücel** and revised in this expanded Türkiye İş Bankası Kültür Yayınları edition by her daughter **Arı İnan** (2007/May 2009, ISBN 978-9944-88-140-1, pp. |
-| **2009** | [[behind-the-cloud]] | [[marc-benioff]], [[carlye-adler]] | [[saas-and-subscription-business-models]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[recurring-revenue-customer-success-and-retention-mechanics]], [[service-first-branding-and-authentic-visibility]], [[organizational-culture-and-rewilding]] | *Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company—and Revolutionized an Industry* (published by Jossey-Bass / Wiley, 2009, 326 pp., with a Foreword by Michael Dell) by Salesforce cofounder and CEO [[marc-benioff]] and business journalist [[carlye-adler]] is the foundational origin chronicle and operational playbook of the modern **Software-as-a-Service (SaaS)** and **C... |
-| **2009** | [[brain-teasers-211-logic-puzzles]] | [[ian-livingstone]], [[jamie-thomson]] | [[recreational-mathematics-and-logic-puzzles]], [[neuroscience-and-philosophy-of-mind]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *Brain Teasers: 211 Logic Puzzles, Lateral Thinking Games, Mondrians, Memorization Games, and Cryptomath Problems to Exercise Your Mind and Keep You Sharp 'til You're 100* (2009, 485 pp.) by British game-design pioneers [[ian-livingstone]] (co-founder of Games Workshop and *Fighting Fantasy*) and [[jamie-thomson]] is a gamified cognitive-training compendium designed to exercise working memory, deductive logic, spatia... |
-| **2009** | [[destiny-disrupted]] | [[tamim-ansary]] | [[comparative-religion-and-islamic-history]], [[world-history-macro-anthropology-and-ancient-civilizations]], [[geopolitics-and-diplomatic-history]] | [[islamic-golden-age-science-and-civilizational-transmission]], [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[orientalism-postcolonial-discourse-and-cultural-satire]] | Written by Afghan-American historian and storyteller **Tamim Ansary** (PublicAffairs, 2009, Copyright p. 7; 418 pp.), *Destiny Disrupted* retells global history from the inside out—reconstructing how fifteen centuries of world events look when **the Islamic "Middle World"** (linking the Mediterranean, Mesopotamia, Iran, Central Asia, and India) stands at the center of the narrative rather than as a sidebar to Europea... |
-| **2009** | [[empires-of-the-silk-road]] | [[christopher-i-beckwith]] | [[central-eurasian-steppe-and-silk-road-history]], [[geopolitics-and-diplomatic-history]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[non-western-strategic-thought]] | Written by Indiana University Central Eurasianist **Christopher I. Beckwith** (Princeton University Press, 2009, Copyright p. 5, Contents p. 6; 501 pp.), *Empires of the Silk Road* places **Central Eurasia** at the generative center rather than the violent margins of world history. |
-| **2009** | [[financing-real-estate-investments-for-dummies]] | [[ralph-r-roberts]], [[chip-cummings]] | [[personal-finance-investing-and-capital-markets]], [[law-and-quantitative-criminology]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[private-equity-value-creation-leverage-and-systemic-risk]], [[rationality-and-decision-making]] | *Financing Real Estate Investments For Dummies* (Wiley Publishing, 2009, 291 pp.) by real-estate veteran [[ralph-r-roberts]] and mortgage specialist [[chip-cummings]] (with Joe Kraynak) is a practical field manual on structuring, underwriting, and risk-managing leveraged property acquisitions in the wake of the 2008 subprime crisis (source: BOOKS/Investment_/Financing Real Estate Investments For Dummies...pdf, Title ... |
-| **2009** | [[managing-your-money-all-in-one-for-dummies]] | [[ted-benna]], [[stephen-r-bucci]] | [[personal-finance-investing-and-capital-markets]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | *Managing Your Money All-in-One For Dummies* (Wiley Publishing, 2009, 700 pp.)—compiled by a veteran team of financial planners led by 401(k) pioneer [[ted-benna]] and credit-counseling authority [[stephen-r-bucci]] (with James P. Caher, John M. Caher, Peter Economy, Jack Hungelmann, Margaret A. Munro, Kathleen Sindell, et al.)—is a lifecycle U.S. |
-| **2009** | [[mind-matter-and-quantum-mechanics]] | [[henry-p-stapp]] | [[theoretical-physics-and-cosmology]], [[neuroscience-and-philosophy-of-mind]], [[anthropology-of-consciousness]] | [[quantum-foundations-measurement-and-many-worlds]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[evolution-of-human-consciousness]] | *Mind, Matter and Quantum Mechanics (Third Edition)* (published by Springer-Verlag Berlin Heidelberg in *The Frontiers Collection*, 2009, 303 pp., ISBN `978-3-540-89653-1`, `DOI: 10.1007/978-3-540-89654-8`) by Lawrence Berkeley National Laboratory theoretical physicist [[henry-p-stapp]] is a landmark interdisciplinary treatise arguing that **orthodox von Neumann–Heisenberg quantum theory—unlike deterministic 19th-cen... |
-| **2009** | [[start-with-why]] | [[simon-sinek]] | [[leadership-and-management]], [[entrepreneurship-and-startup-methodology]], [[persuasion-negotiation-and-rhetoric]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]] | Leadership thinker and former advertising strategist **Simon Sinek** opens *Start With Why* with a stark behavioral distinction: *there are leaders (who hold rank) and those who lead (whom people choose to follow because they are inspired, not coerced)* (p. 5). Across six parts (TOC pp. |
-| **2009** | [[starting-and-running-a-coaching-business]] | [[aryanne-oade]] | [[executive-coaching-and-personal-mastery]], [[entrepreneurship-and-startup-methodology]], [[leadership-and-management]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]] | Authored by British Chartered Psychologist and executive coach **Aryanne Oade** (How To Books Ltd., Oxford, 1st ed. 2009, ISBN 978-1-84803-315-3, pp. 5, 14; 145 pp.), *Starting and Running a Coaching Business* bridges the practical gap between being trained *to coach* and actually building a profitable, ethical, self-sustaining independent coaching practice. Across ten structured, hands-on chapters (Contents, pp. |
-| **2009** | [[the-buyout-of-america]] | [[josh-kosman]] | [[private-equity-and-venture-capital]], [[investigative-non-fiction]], [[political-science]] | [[private-equity-value-creation-leverage-and-systemic-risk]], [[social-critique-and-moral-conscience]], [[rule-of-law-and-experimental-justice]] | *The Buyout of America: How Private Equity Will Cause the Next Great Credit Crisis* (published by Portfolio / Penguin Group, 2009, 304 pp., eISBN `978-1-101-15238-6`) by longtime *Buyouts Newsletter*, *The Deal*, and *Mergermarket* investigative financial journalist [[josh-kosman]] delivers a blistering insider indictment of the 2001–2007 leveraged-buyout boom and its structural risks to American workers, customers, ... |
-| **2009** | [[the-life-and-death-of-democracy-and-monitory-democracy]] | [[john-keane]] | [[comparative-democratic-history]], [[political-science]], [[social-choice-theory]] | [[monitory-democracy-and-power-scrutiny]], [[pre-athenian-and-indigenous-democracies]], [[tyranny-of-the-majority-and-civil-associations]], [[cooperation-and-reciprocity]] | In *The Life and Death of Democracy* (2009) and its companion theoretical framework on **Monitory Democracy**—captured in the library's two analytical synthesis documents (`Summary_The_Life_and_Death_of_Democracy_John_Keane.pdf` and `Summary_The_Life_and_Death_of_Democracy_John_Keane_Monitory_Supplement.pdf`, as well as Chapter 14 of [[the-secret-history-of-democracy-primitive-democracy]])—political theorist [[john-k... |
-| **2009** | [[what-the-dog-saw]] | [[malcolm-gladwell]] | [[behavioral-science-risk-and-antifragility]], [[investigative-non-fiction]], [[media-economics-and-entertainment-science]] | [[power-realism-social-contagion-and-intentional-life-design]], [[rationality-and-decision-making]], [[attention-economy-and-cultural-analytics]] | *What the Dog Saw* (2009, Little, Brown, pp. 5–6) collects nineteen of **Malcolm Gladwell's** finest *New Yorker* essays, unified by a single investigative impulse: stepping inside the perceptual worldview of unusual specialists—whether dog whisperer Cesar Millan, infomercial inventor Ron Popeil, food psychophysicist Howard Moskowitz, or Wall Street short-sellers—to uncover hidden systems of expertise and failure. |
-| **2008** | [[becoming-king-martin-luther-king-jr]] | [[troy-jackson]] | [[biography-memoir-and-intellectual-history]], [[comparative-democratic-history]], [[ethics-and-value-philosophy]] | [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[tyranny-of-the-majority-and-civil-associations]], [[social-critique-and-moral-conscience]] | *Becoming King: Martin Luther King Jr. and the Making of a National Leader* (University Press of Kentucky, 2008, 270 pp., with an Introduction by Clayborne Carson) by historian and pastor [[troy-jackson]] re-examines the crucible that transformed a twenty-six-year-old newcomer minister into the global emblem of the American Civil Rights Movement: the **1955–1956 Montgomery Bus Boycott** (source: BOOKS/Biography_/Beco... |
-| **2008** | [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] | [[clayton-m-christensen]], [[michael-b-horn]], [[curtis-w-johnson]] | [[educational-technology-and-disruptive-pedagogy]], [[innovation-and-economic-growth]], [[organizational-psychology]] | [[student-centric-and-blended-learning]], [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]] | *Disrupting Class: How Disruptive Innovation Will Change the Way the World Learns* (published by McGraw-Hill, 2008, 258 pp.) by Harvard Business School Professor [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnson]] applies Christensen's renowned theory of **Disruptive Innovation** to diagnose why public K–12 schools have struggled for decades to improve despite massive funding increases and why stu... |
-| **2008** | [[encyclopedia-of-world-history-facts-on-file]] | [[marsha-e-ackermann]], [[michael-j-schroeder]], [[janice-j-terry]], [[jiu-hwa-lo-upshur]], [[mark-f-whitters]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[geopolitics-and-diplomatic-history]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[revolutionary-ambition-power-and-historical-legacy]], [[inclusive-institutions-economic-thought-and-ecological-limits]] | Edited by a five-historian editorial team led by **Marsha E. Ackermann**, **Michael J. Schroeder**, **Janice J. Terry**, **Jiu-Hwa Lo Upshur**, and **Mark F. Whitters** (Facts On File / Infobase Publishing, 2008, Copyright p. 5, Contents p. 6; 3,756 pp. |
-| **2008** | [[kazim-karabekir-hayatim]] | [[kazim-karabekir]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[military-science]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[revolutionary-ambition-power-and-historical-legacy]] | Composed by **General Kâzım Karabekir** (1882–1948)—Commander of the Eastern Front during the Turkish War of Independence, founder of the Progressive Republican Party (*Terakkiperver Cumhuriyet Fırkası*), and later Speaker of the Grand National Assembly (p. |
-| **2008** | [[korkunun-otesi-beyond-fear]] | [[don-miguel-ruiz]]; [[mary-carroll-nelson]] (Compiler/Collaborator) | [[shamanism]], [[pre-columbian-history]], [[anthropology-of-consciousness]], [[ethics-and-value-philosophy]] | [[altered-states-and-origin-of-art]], [[universal-love-and-human-dignity]], [[evolution-of-human-consciousness]] | *Korkunun Ötesi* (*Beyond Fear: A Toltec Guide to Freedom and Joy*, compiled by Mary Carroll Nelson from the oral teachings of Mexican surgeon-turned-Toltec *nagual* **Don Miguel Ruiz**, author of *The Four Agreements*; Turkish edition 2008, pp. |
-| **2008** | [[outliers-story-of-success]] | [[malcolm-gladwell]] | [[behavioral-science-risk-and-antifragility]], [[organizational-psychology]], [[leadership-and-management]] | [[power-realism-social-contagion-and-intentional-life-design]], [[adaptive-intelligence-and-organizational-resilience]], [[social-critique-and-moral-conscience]] | In *Outliers: The Story of Success* (2008, Little, Brown, pp. 3–6), **Malcolm Gladwell** challenges the solitary "self-made genius" myth by demonstrating that extraordinary achievement always arises from the convergence of personal effort with **hidden structural advantages**: birth-date cutoff timing, generational luck, cultural legacies, and sustained access to deliberate practice. |
-| **2008** | [[tarihi-degistiren-bilginler]] | [[ali-cimen]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[theoretical-physics-and-cosmology]] | [[islamic-golden-age-science-and-civilizational-transmission]], [[open-society-creative-destruction-and-epistemic-virtue]], [[evolution-of-human-consciousness]] | Part of **Ali Çimen**'s bestselling Timaş popular-history series (1st ed. Jan. 2008, ISBN 978-975-263-486-9, p. 3; 272 pp.), *Tarihi Değiştiren Bilginler* presents thirty-seven biographical portraits of foundational scientists, mathematicians, physicians, and inventors whose breakthroughs transformed human civilization. |
-| **2008** | [[tasnak-partisinin-yapacagi-bir-sey-yok]] | [[hovhannes-kajaznuni]], [[arif-acaloglu]] | [[turkish-republican-history-and-biographical-memoirs]], [[geopolitics-and-diplomatic-history]], [[political-science]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[westphalian-world-order-end-of-history-and-great-power-realism]] | Written by **Hovhannes Kajaznuni** (*Ovanes Kaçaznuni*, 1868–1938)—architect, veteran leader of the Armenian Revolutionary Federation (Dashnaktsutyun / Taşnak), and the **first Prime Minister of the First Republic of Armenia (1918–1919)**—and presented here in **Arif Acaloğlu**'s Turkish translation published by Kaynak Yayınları / Istanbul Chamber of Commerce (Jan. 2008, ISBN 975-343-438-3, pp. |
-| **2007** | [[a-conflict-of-visions-ideological-origins-of-political-struggles]] | [[thomas-sowell]] | [[political-science]], [[social-choice-theory]], [[republican-intellectual-history]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[rationality-and-decision-making]], [[tyranny-of-the-majority-and-civil-associations]] | *A Conflict of Visions: Ideological Origins of Political Struggles* (originally published in 1987; Revised Edition published by Basic Books, 2006/2007, 323 pp.) by Hoover Institution economist and social theorist [[thomas-sowell]] investigates a profound historical puzzle: why the same individuals consistently line up on the same sides of completely unrelated political, legal, economic, and military controversies acr... |
-| **2007** | [[calculus-one-and-several-variables]] | [[saturnino-l-salas]], [[einar-hille]], [[garret-j-etgen]] | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]], [[data-science-and-scientific-computing]] | [[purposeful-longevity-flow-and-mathematical-literacy]], [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] | *Calculus: One and Several Variables (Tenth Edition)* (published by John Wiley & Sons, Inc., 2007, 1,171 pp., dedicated in fond remembrance of Einar Hille) by mathematicians [[saturnino-l-salas]], [[einar-hille]], and [[garret-j-etgen]] is a classic, mathematically rigorous university calculus treatise celebrated for its exceptional expositional precision, proof-backed theorems, and over **1,200 geometric illustratio... |
-| **2007** | [[excel-for-accountants]] | [[conrad-carlberg]] | [[personal-finance-investing-and-capital-markets]], [[data-science-and-scientific-computing]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | *Excel for Accountants* (CPA911 Publishing, Philadelphia, 2007, 289 pp.) by quantitative analyst and Excel author [[conrad-carlberg]] is a practitioner-focused manual tailored specifically to certified public accountants, financial controllers, and auditors who use Microsoft Excel alongside general-ledger platforms such as QuickBooks (source: BOOKS/Investment_/Excel for Accountant_.pdf, Title Page, Copyright & Table ... |
-| **2007** | [[insan-ve-devlet]] | [[osman-pamukoglu]] | [[political-science]], [[strategic-studies]], [[republican-intellectual-history]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[violent-non-state-actors]], [[political-intuitionism-administrative-state-and-capitalist-democracy]] | Written in Ankara in September 2007—shortly before Osman Pamukoğlu founded the Rights and Equality Party (HEPAR) in 2008—*İnsan ve Devlet: Arada Sıkışıp Kalanlar* ("The Human Being and the State: Those Caught in Between") articulates Pamukoğlu's comprehensive political philosophy, state theory, and national-security diagnosis for early-21st-century Turkey (pp. 3, 7, 9). |
-| **2007** | [[islamda-bilim-ve-teknik-science-and-technology-in-islam]] | [[fuat-sezgin]] (with [[eckhard-neubauer]]) | [[comparative-religion-and-islamic-history]], [[archaeological-historiography]], [[innovation-and-economic-growth]] | [[islamic-golden-age-science-and-civilizational-transmission]], [[critique-of-academic-orthodoxy]], [[general-purpose-technologies-and-learning-by-doing]] | Fuat Sezgin's five-volume *İslam'da Bilim ve Teknik* (*Science and Technology in Islam*, created in collaboration with Eckhard Neubauer at the Institute for the History of Arabic-Islamic Science in Frankfurt am Main) is one of the most ambitious material-history reconstructions of medieval science ever produced. |
-| **2007** | [[mongrel-nation-colonization-in-reverse]] | [[ashley-dawson]], [[louise-bennett]] | [[postcolonial-and-diaspora-studies]], [[political-science]], [[poetry-and-poetics]] | [[constrained-vs-unconstrained-visions-and-postcolonial-identity]], [[social-critique-and-moral-conscience]], [[tyranny-of-the-majority-and-civil-associations]] | *Colonization in Reverse: An Introduction* (the foundational 27-page opening chapter of *Mongrel Nation: Diasporic Culture and the Making of Postcolonial Britain*, published by University of Michigan Press, 2007, Stable URL `http://www.jstor.com/stable/j.ctv3znzng.4`) by cultural historian [[ashley-dawson]] chronicles how post-1945 migration from the Caribbean, South Asia, and Africa dismantled insular imperial myths... |
-| **2007** | [[personal-finance-and-investing-all-in-one-for-dummies]] | [[melanie-bien]], [[julian-knight]], [[tony-levene]] | [[personal-finance-investing-and-capital-markets]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | *Personal Finance & Investing All-in-One For Dummies* (John Wiley & Sons, Ltd., Chichester, UK, 2007, 611 pp.) by British financial journalists [[melanie-bien]], [[julian-knight]], and [[tony-levene]] (edited by Faith Glasgow) is the comprehensive UK household-finance and retail-investing compendium (source: BOOKS/Investment_/Personal Finance and Investing All-in-one for Dummies...pdf, Title Page, Copyright & Content... |
-| **2007** | [[tarihi-degistiren-askerler]] | [[ali-cimen]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[military-science]] | [[revolutionary-ambition-power-and-historical-legacy]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[ataturk-republican-founding-and-ottoman-turkish-memory]] | Opening with Napoleon's famous dictum that Caesar, Hannibal, Alexander, and Frederick—not their armies alone—decided the fate of empires (p. 7), Turkish journalist and popular historian **Ali Çimen** (Timaş Yayınları, 1st ed. Sept. 2007, ISBN 978-975-263-629-3; 341 pp.) profiles twenty-nine transformative military commanders across twenty-five centuries of world history. |
-| **2007** | [[thank-you-for-arguing]] | [[jay-heinrichs]] | [[persuasion-negotiation-and-rhetoric]], [[strategic-communication]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[rationality-and-decision-making]], [[trusted-strategic-advisors-and-influence]] | Written by journalist, publishing executive, and classical-rhetoric revivalist **Jay Heinrichs** (2007, Three Rivers Press, pp. 3, 8), *Thank You for Arguing* resurrects the three-thousand-year-old art of **Aristotelian and Ciceronian rhetoric** with irreverent humor—illustrating classical persuasion tactics through everything from Abraham Lincoln and Cicero to Homer Simpson and everyday family disputes. |
-| **2007** | [[the-black-swan]] | [[nassim-nicholas-taleb]] | [[behavioral-science-risk-and-antifragility]], [[classical-and-institutional-economics]], [[ethics-and-value-philosophy]] | [[antifragility-black-swans-and-skin-in-the-game]], [[probabilistic-inference-and-uncertainty-quantification]], [[critique-of-academic-orthodoxy]] | Second and most globally famous volume of the *Incerto*, **Nassim Nicholas Taleb's** *The Black Swan* (2007; 2nd ed. 2010, pp. 3–5) defines a **Black Swan** event through three strict criteria: extreme rarity outside regular expectations, massive transformative impact, and retrospective predictability manufactured by human storytelling after the fact. |
-| **2007** | [[the-horse-the-wheel-and-language]] | [[david-w-anthony]] | [[central-eurasian-steppe-and-silk-road-history]], [[archaeological-historiography]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]] | Winner of the Society for American Archaeology Book Award, Hartwick College archaeologist **David W. Anthony**'s *The Horse, the Wheel, and Language* (Princeton University Press, 2007, Copyright p. 4; 565 pp.; consolidated from two full 565-pp. |
-| **2007** | [[the-israel-lobby-and-us-foreign-policy]] | [[john-j-mearsheimer]], [[stephen-m-walt]] | [[international-relations]], [[geopolitics-and-diplomatic-history]], [[political-science]] | [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[institutional-neutrality-and-academic-freedom]] | *The Israel Lobby and U.S. Foreign Policy* (Farrar, Straus and Giroux, New York, 2007, 496 pp.) by realist international-relations scholars [[john-j-mearsheimer]] (University of Chicago) and [[stephen-m-walt]] (Harvard Kennedy School) expands their widely debated March 2006 *London Review of Books* essay and Harvard working paper into a comprehensive study of domestic interest-group influence on American Middle East ... |
-| **2007** | [[the-untethered-soul]] | [[michael-a-singer]] | [[psychoanalysis-and-depth-psychology]], [[stoic-philosophy-and-practical-ethics]], [[sufism-mysticism-and-rumi-studies]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[evolution-of-human-consciousness]] | Written by software entrepreneur, founder of the Temple of the Universe, and contemplative teacher **Michael A. Singer** (New Harbinger / Noetic Books, 2007, 147 pp., copyright p. 5), *The Untethered Soul* offers a lucid, non-sectarian manual on liberating human consciousness from compulsive mental chatter and defensive ego-contraction. |
-| **2007** | [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] | [[doga-dernegi-researchers]] | [[anatolian-civilizations]], [[evolutionary-biology]], [[public-policy-and-urban-mobility]] | [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[archaeology-and-national-identity]], [[energy-transition-and-storage-economics]] | *Türkiye'nin Önemli Doğa Alanları: Ege Bölgesi* (Chapter 3, pp. 169–248, 80 pp., published by **Doğa Derneği** [BirdLife Turkey], 2006/2007; cataloged in `BOOKS/Math/03_EGE.pdf` and verified via CP1254 glyph decoding) authored by [[doga-dernegi-researchers]] (with site assessments by Eray Çağlayan, Cem O. |
-| **2006** | [[breaking-the-spell]] | [[daniel-c-dennett]] | [[philosophy-of-religion-secularism-and-apologetics]], [[evolutionary-biology]], [[neuroscience-and-philosophy-of-mind]], [[anthropology-of-consciousness]] | [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[gene-centric-evolution-and-memetics]], [[evolution-of-human-consciousness]] | Published in 2006 alongside Richard Dawkins's *The God Delusion*, Tufts University philosopher of mind **Daniel C. Dennett's** *Breaking the Spell: Religion as a Natural Phenomenon* (Viking, pp. 4–5) takes a distinctly more methodological and evolutionary-cognitive approach. |
-| **2006** | [[coaching-for-leadership]] | [[marshall-goldsmith]], [[laurence-s-lyons]] | [[executive-coaching-and-personal-mastery]], [[leadership-and-management]], [[organizational-psychology]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]] | Edited by world-renowned executive coach **Marshall Goldsmith** and leadership scholar **Laurence S. Lyons** (Pfeiffer/Wiley, 2nd ed., 2006, Title Page p. 2, Contents p. |
-| **2006** | [[how-to-win-every-argument]] | [[madsen-pirie]] | [[persuasion-negotiation-and-rhetoric]], [[ethics-and-value-philosophy]], [[strategic-communication]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[rationality-and-decision-making]], [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]] | Authored by British philosopher and Adam Smith Institute co-founder **Madsen Pirie** (2006, Continuum), *How to Win Every Argument* is a razor-sharp, alphabetically organized field guide to nearly eighty classical and modern **logical fallacies**—combining rigorous informal logic with wickedly dry wit. |
-| **2006** | [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]] | [[uzeyir-garih]] | [[turkish-republican-history-and-biographical-memoirs]], [[leadership-and-management]], [[entrepreneurship-and-startup-methodology]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[servant-coaching-high-output-management-and-stoic-ego]], [[cooperation-and-reciprocity]] | Written by **Dr. Üzeyir Garih** (1929–2001)—ITU-trained mechanical engineer and co-founder (with İshak Alaton in 1954) of **Alarko Holding** (p. 1)—*İş Hayatımdan Kesitler ve Gençlere Tavsiyeler* (Hayat Yayınları, 2006, ISBN 975-8243-92-6; 77 pp.) gathers topical vignettes distilled from Garih's multi-volume *Deneyimlerim* memoirs and weekly management columns. |
-| **2006** | [[mathematical-foundations-of-quantum-physics]] | [[adrian-stan]], [[monica-ramona-costache]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]] | [[quantum-foundations-measurement-and-many-worlds]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *Mathematical Foundations of Quantum Physics* (prepared for the Han-sur-Lesse Winterschool, December 4–8, 2006; 58 pp.) by [[adrian-stan]] (Zernike Institute for Advanced Materials, University of Groningen) and [[monica-ramona-costache]] (Department of Mathematics, S.N.S. |
-| **2006** | [[pivot-alan-zimmerman]] | [[alan-r-zimmerman]] | [[leadership-and-management]], [[organizational-psychology]], [[ethics-and-value-philosophy]] | [[platform-power-data-governance-and-career-adaptability]], [[adaptive-intelligence-and-organizational-resilience]], [[purposeful-longevity-flow-and-mathematical-literacy]] | Written by executive speaker, leadership coach, and communication specialist **Alan R. Zimmerman** (2006, pp. 5–6), *Pivot* argues that dramatic personal and professional turnarounds rarely require waiting for external circumstances to improve—they begin with a single deliberate internal **attitude pivot**. |
-| **2006** | [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]] | [[ayse-cevirici-cagin]] | [[literary-criticism-and-modernism]], [[poetry-and-poetics]], [[ottoman-philology-and-literary-historiography]] | [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[social-critique-and-moral-conscience]] | Ayşe Çevirici Çağın's 2006 Istanbul University master's thesis, *Tevfik Fikret'in Şiirlerindeki Edebî Sanatlar* ("Literary Arts in Tevfik Fikret's Poems"), provides a systematic stylistic and rhetorical taxonomy of Tevfik Fikret's entire poetic corpus, keyed to İsmail Parlatır's critical edition *Tevfik Fikret: Bütün Şiirleri* after initial collation against the original *Rübab-ı Şikeste* (pp. 4–5). |
-| **2006** | [[the-33-strategies-of-war]] | [[robert-greene]] | [[strategic-studies]], [[military-science]], [[persuasion-negotiation-and-rhetoric]] | [[power-realism-social-contagion-and-intentional-life-design]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[deterrence-and-coercion]] | Third major strategic treatise by **Robert Greene** (2006, Viking, pp. 3–6), *The 33 Strategies of War* distills three millennia of military history—drawing on Sun Tzu, Alexander the Great, Hannibal, Napoleon, Clausewitz, Admiral Nelson, Mao Zedong, T. E. |
-| **2006** | [[the-ethnic-cleansing-of-palestine]] | [[ilan-pappe]] | [[geopolitics-and-diplomatic-history]], [[political-science]], [[investigative-non-fiction]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[orientalism-postcolonial-discourse-and-cultural-satire]], [[social-critique-and-moral-conscience]] | Written by Israeli "New Historian" and University of Exeter professor **Ilan Pappé** (Oneworld Publications, 2006, Outline p. 134; 384 pp.), *The Ethnic Cleansing of Palestine* presents a rigorously documented, fiercely argued revisionist reconstruction of the **1947–1949 Palestinian Nakba**—challenging the traditional Israeli narrative that over 750,000 Palestinians fled voluntarily or solely as unintended collatera... |
-| **2006** | [[the-god-delusion]] | [[richard-dawkins]] | [[philosophy-of-religion-secularism-and-apologetics]], [[evolutionary-biology]], [[ethics-and-value-philosophy]] | [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[gene-centric-evolution-and-memetics]], [[rationality-and-decision-making]] | Published in 2006 by Oxford evolutionary biologist **Richard Dawkins** (p. 4), *The God Delusion* became the flagship manifesto of early-21st-century **"New Atheism,"** selling millions of copies worldwide and igniting fierce philosophical, scientific, and theological debates. Dedicated to Douglas Adams (p. |
-| **2006** | [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] | [[frans-johansson]] | [[innovation-and-economic-growth]], [[leadership-and-management]], [[organizational-psychology]] | [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]], [[cooperation-and-reciprocity]] | *The Medici Effect: What Elephants and Epidemics Can Teach Us About Innovation* (Harvard Business School Press, 2004/2006; 10-page Introduction monograph *'What is the Medici Effect, and How Can It Help Me Innovate?'*, ISBN 978-1-4221-4609-5) by [[frans-johansson]] introduces one of modern innovation theory's most influential frameworks: **The Intersection** (source: BOOKS/Innovation_/HBR+What+is+the+Medici+Effect.pd... |
-| **2006** | [[the-selfish-gene]] | [[richard-dawkins]] | [[evolutionary-biology]], [[game-theory]], [[anthropology-of-consciousness]] | [[gene-centric-evolution-and-memetics]], [[cooperation-and-reciprocity]], [[evolution-of-strategies]], [[tit-for-tat]], [[shadow-of-the-future]], [[rationality-and-decision-making]] | Originally published in 1976, expanded with two pivotal new chapters in 1989, and reissued in this **2006 30th Anniversary Edition** (Oxford University Press, 385 pp.), [[richard-dawkins]]'s *The Selfish Gene* revolutionized evolutionary biology and the social sciences by synthesizing the neo-Darwinian insights of **W. D. Hamilton** ([[william-d-hamilton]]), **George C. |
-| **2005** | [[blink-power-of-thinking-without-thinking]] | [[malcolm-gladwell]] | [[behavioral-science-risk-and-antifragility]], [[neuroscience-and-philosophy-of-mind]], [[organizational-psychology]] | [[power-realism-social-contagion-and-intentional-life-design]], [[rationality-and-decision-making]], [[evolution-of-human-consciousness]] | In *Blink: The Power of Thinking Without Thinking* (2005, Little, Brown), **Malcolm Gladwell** investigates the cognitive power—and treacherous blind spots—of the **adaptive unconscious**: our brain's ability to make remarkably accurate split-second judgments through **"thin-slicing"** (extracting deep patterns from tiny slivers of experience). |
-| **2005** | [[cagdas-kapitalizmin-mekansal-orgutlenmesi]] | [[hakki-yirtici]] | [[classical-and-institutional-economics]], [[public-policy-and-urban-mobility]], [[cultural-and-digital-anthropology]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[social-critique-and-moral-conscience]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]] | Derived from architect and urban theorist **Hakkı Yırtıcı's** 2003 Istanbul Technical University (İTÜ) doctoral dissertation and published by Istanbul Bilgi University Press (2005; 2nd ed. 2009, pp. |
-| **2005** | [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] | [[richard-g-lipsey]], [[kenneth-i-carlaw]], [[clifford-t-bekar]] | [[innovation-and-economic-growth]], [[political-science]], [[archaeological-historiography]] | [[general-purpose-technologies-and-learning-by-doing]], [[rationality-and-decision-making]], [[evolution-of-strategies]] | *Economic Transformations: General Purpose Technologies and Long-Term Economic Growth* (published by Oxford University Press, 2005, 618 pp.) by economists [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]—growing out of the Canadian Institute for Advanced Research (CIAR) program advised by Nobel laureate Kenneth Arrow—is the definitive theoretical, historical, and formal treatise on **General Purpo... |
-| **2005** | [[review-math-and-the-mona-lisa]] | [[kim-williams]] | [[pure-and-applied-mathematics]], [[literary-criticism-and-modernism]], [[biography-memoir-and-intellectual-history]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *(Bibliographic Verification Note: Despite its filename, this 4-page PDF is **Kim Williams**'s scholarly book review published in *Nexus Network Journal*, Vol. 7, No. 1, 2005, pp. 113–115, DOI `10.1007/s00004-005-0027-x`, uploaded via ResearchGate, p. |
-| **2005** | [[supernatural-meetings-with-the-ancient-teachers-of-mankind]] | [[graham-hancock]] | [[anthropology-of-consciousness]], [[alternative-archaeology]], [[shamanism]] | [[altered-states-and-origin-of-art]], [[lost-civilization-hypothesis]], [[critique-of-academic-orthodoxy]] | *Supernatural: Meetings with the Ancient Teachers of Mankind* (2005) is Graham Hancock’s groundbreaking 488-page investigation into the mysterious birth of the modern human mind. |
-| **2005** | [[tarihi-degistiren-konusmalar]] | [[ali-cimen]] | [[turkish-republican-history-and-biographical-memoirs]], [[strategic-communication]], [[biography-memoir-and-intellectual-history]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[revolutionary-ambition-power-and-historical-legacy]], [[moral-courage-nonviolent-resistance-and-transformative-biography]] | First published in March 2005 (Timaş Yayınları, ISBN 978-975-263-096-0, p. 3; 277 pp.), **Ali Çimen**'s *Tarihi Değiştiren Konuşmalar* curates and contextualizes forty-one watershed speeches from antiquity to the twenty-first century, demonstrating how disciplined oratory crystallizes collective resolve, legitimizes revolutions, or warns empires away from folly. |
-| **2005** | [[the-armenian-massacres-in-ottoman-turkey]] | [[guenter-lewy]] | [[turkish-republican-history-and-biographical-memoirs]], [[geopolitics-and-diplomatic-history]], [[investigative-non-fiction]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[critique-of-academic-orthodoxy]] | Written by German-born political scientist and Professor Emeritus at the University of Massachusetts Amherst **Guenter Lewy** (1923–2024; University of Utah Press, 2005, Copyright p. 2, Contents pp. |
-| **2005** | [[the-theory-of-everything-origin-and-fate-of-the-universe]] | [[stephen-hawking]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]] | [[cosmology-black-holes-and-the-arrow-of-time]], [[quantum-foundations-measurement-and-many-worlds]], [[rationality-and-decision-making]] | *The Theory of Everything: The Origin and Fate of the Universe (Special Anniversary Edition)* (published by Phoenix Books, Beverly Hills, 2005; originally delivered and published as *The Cambridge Lectures: Life Works* in 1996, 148 pp., ISBN `1-59777-508-8`) by [[stephen-hawking]] distills the grand sweep of relativistic cosmology and quantum gravity into **seven lucid public lectures** delivered at Cambridge Univers... |
-| **2004** | [[ey-vatan]] | [[osman-pamukoglu]] | [[political-science]], [[republican-intellectual-history]], [[strategic-studies]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[non-western-strategic-thought]], [[social-critique-and-moral-conscience]] | Published in September 2004 immediately after the blockbuster success of *Unutulanlar Dışında Yeni Bir Şey Yok* (pp. 4, 8), *Ey Vatan: Arkadaşlar Uykulardan Uyansın* ("O Homeland: Let Comrades Awaken from Sleep") is a polemical collection of historical-political reflections on national sovereignty, historical memory, war, and leadership. |
-| **2004** | [[funny-in-farsi]] | [[firoozeh-dumas]] | [[biography-memoir-and-intellectual-history]], [[cultural-and-digital-anthropology]], [[postcolonial-and-diaspora-studies]] | [[orientalism-postcolonial-discourse-and-cultural-satire]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[universal-love-and-human-dignity]] | *Funny in Farsi: A Memoir of Growing Up Iranian in America* (Random House Trade Paperbacks, 2004, 104 pp.) by Iranian-American humorist [[firoozeh-dumas]] is a warm, witty collection of autobiographical essays chronicling her family's relocation from Abadan, Iran, to Whittier, California, in 1972 and their navigation of cultural translation, linguistic comedy, immigrant reinvention, and post-1979 geopolitical prejudi... |
-| **2004** | [[me-and-rumi-shams-i-tabrizi]] | [[shams-i-tabrizi]] (Author); [[william-c-chittick]] (Translator, Annotator & Organizer) | [[sufism-mysticism-and-rumi-studies]], [[biography-memoir-and-intellectual-history]], [[comparative-religion-and-islamic-history]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]] | *Me & Rumi: The Autobiography of Shams-i Tabrizi* (2004, Fons Vitae, p. 4) is renowned Islamicist **William C. Chittick's** groundbreaking English translation and thematic reconstruction of the ***Maqalat*** ("Discourses") of **Shams al-Din Tabrizi**—the enigmatic, uncompromising wandering mystic whose explosive 1244 encounter with Jalal al-Din Rumi in Konya transformed a conventional jurist into one of humanity's su... |
-| **2004** | [[psychology-of-terrorism-ncjrs]] | [[randy-borum]] | [[security-studies]], [[cognitive-moral-and-social-psychology]], [[law-and-quantitative-criminology]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[violent-non-state-actors]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]] | Directed by University of South Florida behavioral scientist **Dr. Randy Borum**—with senior project advisors Robert Fein & Bryan Vossekuil and international terrorism scholars Martha Crenshaw, John Horgan, and Andrew Silke (pp. 2–3)—*Psychology of Terrorism* (2004, NCJ 208551, 221 pp.) is a rigorous U.S. |
-| **2004** | [[spirituality-in-the-land-of-the-noble-reviews]] | [[burzine-k-waghmar]] (Reviewer, SOAS); [[dale-bishop]] (Reviewer, Hartford Seminary); reviewing [[richard-c-foltz]] | [[comparative-religion-and-islamic-history]], [[literary-criticism-and-modernism]] | [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[persian-sufism-skepticism-and-comparative-translation]], [[critique-of-academic-orthodoxy]] | These two source PDFs in the library form a complementary **academic review dossier** critically evaluating **Richard C. Foltz's** 2004 survey *Spirituality in the Land of the Noble: How Iran Shaped the World's Religions* (Oxford: Oneworld, xiv + 204 pp.). |
-| **2004** | [[the-masnavi-books-one-and-two-mojaddedi]] | [[jalal-al-din-rumi]] (Author); [[jawid-mojaddedi]] (Translator & Introducer) | [[sufism-mysticism-and-rumi-studies]], [[poetry-and-poetics]], [[world-classics-and-comparative-literature]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | Jalal al-Din Rumi's *Masnavi-ye Ma'navi* ("Spiritual Couplets," composed in Konya between c. 1258 and 1273 across six books totaling ~25,000 Persian couplets) is revered across the Islamic world as the "Qur'an in Persian." This consolidated Oxford World's Classics pair presents **Books One and Two** in **Jawid Mojaddedi's** acclaimed modern verse translation—notable as the first full-scale English rendering to preser... |
-| **2004** | [[the-power-of-now]] | [[eckhart-tolle]] | [[executive-coaching-and-personal-mastery]], [[sufism-mysticism-and-rumi-studies]], [[cognitive-moral-and-social-psychology]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[evolution-of-human-consciousness]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]] | Written by German-born spiritual teacher **Eckhart Tolle** (orig. 1997; Hodder Australia paperback ed., 2004; 124 scanned two-page spreads, visually verified), *The Power of Now* is one of the defining contemporary texts on non-dual awareness, ego dissolution, and present-moment consciousness. |
-| **2003** | [[etruscan-an-archaic-form-of-hungarian]] | [[mario-alinei]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[archaeological-historiography]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[critique-of-academic-orthodoxy]] | Written by Italian linguist and Professor Emeritus at Utrecht University **Mario Alinei** (1926–2018; 28-pp. English executive summary of his 2003 Italian / 2005 Hungarian monograph *Etrusco: una forma arcaica di ungherese*), this controversial heterodox treatise applies Alinei's **Paleolithic Continuity Theory (PCT)** (pp. 2–5) to propose a radical reassessment of European, Uralic, and Altaic linguistic prehistory. |
-| **2003** | [[rumi-the-book-of-love]] | [[jalal-al-din-rumi]] (Author); [[coleman-barks]] (Translator & Commentator, with [[john-moyne]], [[a-j-arberry]], and [[reynold-a-nicholson]]) | [[sufism-mysticism-and-rumi-studies]], [[poetry-and-poetics]], [[world-classics-and-comparative-literature]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[universal-love-and-human-dignity]], [[persian-sufism-skepticism-and-comparative-translation]] | Published in 2003 by HarperCollins (p. 233), *Rumi: The Book of Love* is Coleman Barks's focused thematic anthology gathering Rumi's ecstatic love lyrics (*ishq*)—drawn from *Divan-i Shams-i Tabrizi*, the *Masnavi*, and quatrains translated in collaboration with John Moyne, Nevit Ergin, A. J. Arberry, Reynold Nicholson, and M. G. Gupta (p. |
-| **2003** | [[russia-rebounds]] | [[david-owen]] (Editor), [[david-o-robinson]] (Editor) | [[classical-and-institutional-economics]], [[geopolitics-and-diplomatic-history]], [[personal-finance-investing-and-capital-markets]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[westphalian-world-order-end-of-history-and-great-power-realism]] | Edited by IMF economists **David Owen** and **David O. Robinson** (2003, pp. 2–4), *Russia Rebounds* provides an empirical, post-mortem macroeconomic and structural assessment of the Russian Federation's dramatic economic recovery following the **August 1998 sovereign default and ruble collapse**. |
-| **2003** | [[seneca-the-life-of-a-stoic]] | [[paul-veyne]] | [[stoic-philosophy-and-practical-ethics]], [[biography-memoir-and-intellectual-history]], [[political-science]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[revolutionary-ambition-power-and-historical-legacy]], [[social-critique-and-moral-conscience]] | Written by eminent Collège de France Roman historian **Paul Veyne** (English edition 2003, Routledge, tr. David Sullivan, pp. 2–6), *Seneca: The Life of a Stoic* is a brilliant, unsentimental intellectual biography wrestling with history's most famous philosophical paradox: how **Seneca**—one of Rome's wealthiest statesmen, tutor and chief minister to the tyrannical Emperor **Nero**—simultaneously authored some of an... |
-| **2003** | [[the-essential-david-bohm]] | [[david-bohm]], [[lee-nichol]] | [[theoretical-physics-and-cosmology]], [[neuroscience-and-philosophy-of-mind]], [[classical-and-analytic-philosophy]] | [[quantum-foundations-measurement-and-many-worlds]], [[evolution-of-human-consciousness]], [[deep-work-habit-architecture-and-cognitive-systems]] | Edited with lucid introductions by **Lee Nichol** and prefaced by a personal reminiscence from **H.H. The Dalai Lama** (Routledge, 2003, ISBN 0-415-26174-0, pp. 4–5; 360 pp.), *The Essential David Bohm* is the definitive single-volume reader of maverick theoretical physicist and philosopher **David Bohm** (1917–1992). |
-| **2003** | [[the-psychological-assessment-of-political-leaders]] | [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]] | [[political-psychology-and-ideology]], [[intelligence-studies-and-national-security]], [[leadership-and-management]] | [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[rationality-and-decision-making]] | *The Psychological Assessment of Political Leaders: With Profiles of Saddam Hussein and Bill Clinton* (University of Michigan Press, 2003, 475 pp.)—edited by psychiatrist and founder of the CIA's Center for the Analysis of Personality and Political Behavior [[jerrold-m-post]], with core methodological chapters by [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]], Stanley A. |
-| **2003** | [[unutulanlar-disinda-yeni-bir-sey-yok]] | [[osman-pamukoglu]] | [[biography-memoir-and-intellectual-history]], [[military-science]], [[strategic-studies]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[violent-non-state-actors]], [[non-western-strategic-thought]] | *Unutulanlar Dışında Yeni Bir Şey Yok* ("Nothing New Except the Forgotten: Soldiers in the Mountains of Hakkâri and Northern Iraq") is retired Turkish Major General **Osman Pamukoğlu's** bestselling firsthand military memoir—a book that spent sixteen consecutive weeks at #1 on Turkish bestseller lists (noted in *Cehennemdere Kanyonu* metadata). |
-| **2002** | [[ancient-china-and-its-enemies]] | [[nicola-di-cosmo]] | [[central-eurasian-steppe-and-silk-road-history]], [[geopolitics-and-diplomatic-history]], [[military-science]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[deterrence-and-coercion]], [[non-western-strategic-thought]] | Written by Institute for Advanced Study historian **Nicola Di Cosmo** (Cambridge University Press, 2002, Title Page p. 3, Contents p. 5; 379 pp.), *Ancient China and Its Enemies* overturns the millennia-old Sinocentric caricature contrasting "civilized" Shang/Zhou/Han China against static "barbarian" raiders on its northern frontier (p. 1). |
-| **2002** | [[epictetus-stoic-and-socratic-guide]] | [[a-a-long]] | [[stoic-philosophy-and-practical-ethics]], [[ethics-and-value-philosophy]], [[biography-memoir-and-intellectual-history]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[rationality-and-decision-making]], [[universal-love-and-human-dignity]] | Written by UC Berkeley classical philosopher **A. A. Long** (2002, Oxford Clarendon Press, pp. 4–8), *Epictetus: A Stoic and Socratic Guide to Life* is the premier modern scholarly study and translated anthology of **Epictetus** (c. 50–135 CE)—the former Phrygian slave who became one of antiquity's greatest practical ethicists and the primary philosophical mentor behind Marcus Aurelius's *Meditations*. |
-| **2002** | [[financial-analysis-using-excel]] | [[vj-books-editorial]] | [[personal-finance-investing-and-capital-markets]], [[data-science-and-scientific-computing]] | [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | *Financial Analysis using Excel* (Volume 6 of the *Excel for Professionals* series, VJ Books Inc., 2002, 254 pp.) by [[vj-books-editorial]] is a technical reference and modeling handbook dedicated to Excel's quantitative financial function library—spanning discounted cash flow (DCF), loan amortization, capital budgeting, fixed-income bond pricing, yield-to-maturity, duration, and accrued-interest conventions (source:... |
-| **2002** | [[meditations-marcus-aurelius]] | [[marcus-aurelius]] (Author); [[gregory-hays]] (Translator & Introducer) | [[stoic-philosophy-and-practical-ethics]], [[world-classics-and-comparative-literature]], [[leadership-and-management]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[universal-love-and-human-dignity]] | Translated into crisp, unvarnished modern English by University of Virginia classicist **Gregory Hays** (2002, Modern Library, pp. 2–3), Roman Emperor **Marcus Aurelius's** *Meditations* (*Ta eis heauton* — "Things to Himself") is one of the most astonishing personal documents in world history: a private philosophical notebook composed by candlelight in military camps along the Danube frontier (among the Quadi and at... |
-| **2002** | [[underworld-mysterious-origins-of-civilization]] | [[graham-hancock]] | [[alternative-archaeology]], [[paleoclimatology]], [[investigative-non-fiction]] | [[submerged-ruins-and-sea-level-rise]], [[catastrophism-and-earth-history]], [[lost-civilization-hypothesis]] | *Underworld: The Mysterious Origins of Civilization* (2002) is Graham Hancock’s epic, 796-page underwater investigation into the vast prehistoric landscapes submerged at the end of the Last Ice Age. Undertaking hundreds of hours of scuba diving across the globe alongside his wife, photographer Santha Faiia, Hancock combines marine archaeology, computerized inundation mapping by paleoclimatologist Dr. |
-| **2001** | [[fooled-by-randomness]] | [[nassim-nicholas-taleb]] | [[behavioral-science-risk-and-antifragility]], [[financial-history-banking-and-market-psychology]], [[personal-finance-investing-and-capital-markets]] | [[antifragility-black-swans-and-skin-in-the-game]], [[probabilistic-inference-and-uncertainty-quantification]], [[rationality-and-decision-making]] | Opening volume of Nassim Nicholas Taleb's five-book *Incerto* series, *Fooled by Randomness* (2001; 2nd ed. 2005) dismantles humanity's deep-seated habit of mistaking **luck for skill**—especially in financial markets, career trajectories, and historical narration. |
-| **2001** | [[good-to-great]] | [[jim-collins]] | [[corporate-strategy-and-management-classics]], [[leadership-and-management]], [[organizational-psychology]] | [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[adaptive-intelligence-and-organizational-resilience]], [[organizational-culture-and-rewilding]] | Serving as the empirical prequel to *Built to Last*, **Jim Collins's** *Good to Great* (2001, pp. 2–5) investigates how eleven historically mediocre Fortune 500 companies (including Abbott, Circuit City, Fannie Mae, Gillette, Kimberly-Clark, Kroger, Nucor, Philip Morris, Pitney Bowes, Walgreens, and Wells Fargo) broke through to sustained fifteen-year stock-market outperformance of at least 3x the general market—cont... |
-| **2001** | [[the-encyclopedia-of-world-history-stearns]] | [[peter-n-stearns]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[geopolitics-and-diplomatic-history]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[revolutionary-ambition-power-and-historical-legacy]], [[westphalian-world-order-end-of-history-and-great-power-realism]] | Edited by pioneering world historian **Peter N. Stearns** with thirty specialist historians over a ten-year revision (Houghton Mifflin, 6th Edition, 2001, p. 1; 3,540 pp.), *The Encyclopedia of World History: Ancient, Medieval, and Modern* continues and radically globalizes William L. Langer's classic chronological reference tradition. |
-| **2001** | [[the-end-of-modernism-elias-canettis-auto-da-fe]] | [[william-collins-donahue]], [[elias-canetti]] | [[literary-criticism-and-modernism]], [[philosophical-fiction]], [[republican-intellectual-history]] | [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]], [[fanaticism-and-human-sacrifice]] | *The End of Modernism: Elias Canetti's Auto-da-Fé* (published by University of North Carolina Press in 2001; reissued with a new Foreword in 2010, UNC Studies in the Germanic Languages and Literatures No. |
-| **2000** | [[kayip-yazilar-ve-diller]] | [[johannes-friedrich]], [[recai-tekoglu]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[archaeological-historiography]], [[anatolian-civilizations]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[open-society-creative-destruction-and-epistemic-virtue]], [[ataturk-republican-founding-and-ottoman-turkish-memory]] | Written by eminent German Hittitologist and ancient-Near-Eastern linguist **Johannes Friedrich** (1893–1972) and translated into Turkish with a scholarly preface by epigrapher **Recai Tekoğlu** (Arkeoloji ve Sanat Yayınları, İstanbul, 2000, pp. |
-| **2000** | [[the-tipping-point]] | [[malcolm-gladwell]] | [[behavioral-science-risk-and-antifragility]], [[media-economics-and-entertainment-science]], [[organizational-psychology]] | [[power-realism-social-contagion-and-intentional-life-design]], [[attention-economy-and-cultural-analytics]], [[rationality-and-decision-making]] | **Malcolm Gladwell's** debut bestseller *The Tipping Point* (2000, Little, Brown, pp. 3–5) applies epidemiological modeling to cultural trends, consumer fads, crime waves, and social change—explaining how ideas, products, and behaviors suddenly cross a critical nonlinear threshold ("tip") and spread like contagious epidemics. |
-| **1999** | [[female-sexuality-early-psychoanalytic-controversies]] | [[russell-grigg]], [[dominique-hecq]], [[craig-smith]] | [[psychoanalysis-and-depth-psychology]], [[biography-memoir-and-intellectual-history]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[critique-of-academic-orthodoxy]] | Edited with historical introduction and biographical notes by Australian scholars **Russell Grigg**, **Dominique Hecq**, and **Craig Smith** (Rebus Press 1999 / Karnac Books 2015, 315 pp., pp. |
-| **1999** | [[olum-ve-kiyamet-olume-hazirlik]] | [[imam-al-ghazali]] | [[comparative-religion-and-islamic-history]], [[sufism-mysticism-and-rumi-studies]], [[ethics-and-value-philosophy]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[universal-love-and-human-dignity]] | Authored by *Hujjat al-Islam* ("Proof of Islam") **Abu Hamid Muhammad al-Ghazali** (1058–1111 CE) and published in this 394-page Turkish edition (*Ölüm ve Kıyamet: Ölüme Hazırlık*, Sağlam Yayınevi, Istanbul, 1999, pp. |
-| **1999** | [[religions-of-the-silk-road]] | [[richard-c-foltz]] | [[central-eurasian-steppe-and-silk-road-history]], [[comparative-religion-and-islamic-history]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[islamic-golden-age-science-and-civilizational-transmission]] | Written by Iranian and Central Asian religious historian **Richard C. Foltz** (1999, Title Page p. 3, Preface p. 7; 208 pp.; consolidated with the byte-identical duplicate in `Turkiye and Region/`), *Religions of the Silk Road* traces two thousand years of religious diffusion, syncretism, and intellectual cross-pollination along the caravan networks linking the Mediterranean, Iran, India, Central Asia, and China. |
-| **1998** | [[mantikut-tayr-conference-of-the-birds]] | [[farid-ud-din-attar]], [[yasar-kececi]] | [[sufism-mysticism-and-rumi-studies]], [[world-classics-and-comparative-literature]], [[poetry-and-poetics]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | Composed in late twelfth-century Nishapur by Persian Sufi master **Farid ud-Din Attar** (c. 1145–1221)—Rumi's acknowledged spiritual forerunner—and rendered into modern Turkish prose-verse by **Yaşar Keçeci** (Kırkambar Yayınları, Sept. 1998, 383 pp., pp. 2–3), *Mantıku't-Tayr* (*The Conference of the Birds*) is one of world literature's supreme allegorical epics. |
-| **1998** | [[the-mars-mystery]] | [[graham-hancock]], [[robert-bauval]], [[john-grigsby]] | [[planetary-science-speculation]], [[alternative-archaeology]], [[catastrophism]] | [[planetary-cataclysm-and-cosmic-impacts]], [[catastrophism-and-earth-history]], [[lost-civilization-hypothesis]] | *The Mars Mystery* (1998), co-authored by Graham Hancock, Robert Bauval, and John Grigsby, expands the investigation of lost civilizations from Earth to planetary science and cosmic catastrophism. |
-| **1997** | [[napoleon-a-biography]] | [[frank-mclynn]] | [[biography-memoir-and-intellectual-history]], [[military-science]], [[geopolitics-and-diplomatic-history]] | [[revolutionary-ambition-power-and-historical-legacy]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[deterrence-and-coercion]] | *Napoleon: A Biography* (originally published 1997; Pimlico / Random House, 1998, 767 pp.) by British historian [[frank-mclynn]] is a sweeping, psychologically acute 28-chapter study of **Napoleon Bonaparte** (1769–1821) that steers deliberately between Bonapartist hero-worship and partisan debunking (source: BOOKS/Biography_/Napoleon_ A Biography ( PDFDrive ).pdf, Cover Blurbing, Copyright & Contents, pp. |
-| **1997** | [[plato-complete-works]] | [[plato]], [[john-m-cooper]], [[d-s-hutchinson]] | [[classical-and-analytic-philosophy]], [[ethics-and-value-philosophy]], [[political-science]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[rationality-and-decision-making]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]] | Edited with a comprehensive introduction and notes by Princeton philosopher **John M. Cooper** (with Associate Editor **D. S. Hutchinson**, title p. 2; Contents p. 4), the 1997 Hackett *Plato: Complete Works* is the standard one-volume scholarly edition of the entire surviving Platonic corpus in English. Gathering fresh, authoritative translations by leading classicists—including G. M. A. |
-| **1997** | [[the-cathedral-and-the-bazaar]] | [[eric-steven-raymond]] | [[corporate-strategy-and-management-classics]], [[cloud-computing-and-distributed-systems]], [[innovation-and-economic-growth]] | [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[cloud-native-architecture-and-declarative-infrastructure]], [[cooperation-and-reciprocity]] | **Eric Steven Raymond's** landmark 40-page manifesto *The Cathedral and the Bazaar* (first delivered in 1997; expanded 1999) catalyzed the modern **open-source software movement**—directly influencing Netscape's historic 1998 decision to open-source its browser code (giving birth to Mozilla). |
-| **1997** | [[the-first-democracies-early-popular-government-outside-athens]] | [[eric-w-robinson]], [[richard-j-evans]] | [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]] | [[pre-athenian-and-indigenous-democracies]], [[critique-of-academic-orthodoxy]], [[rationality-and-decision-making]] | *The First Democracies: Early Popular Government Outside Athens* (1997, *Historia Einzelschriften* 101, Franz Steiner Verlag, 144 pp.) by classical historian [[eric-w-robinson]], analyzed in the Gilgamis LLM Wiki through [[richard-j-evans]]'s critical scholarly review in *Scholia* (ns Vol. 7, 1998, pp. |
-| **1997** | [[the-innovators-dilemma]] | [[clayton-m-christensen]] | [[innovation-and-economic-growth]], [[corporate-strategy-and-management-classics]], [[entrepreneurship-and-startup-methodology]] | [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[general-purpose-technologies-and-learning-by-doing]], [[adaptive-intelligence-and-organizational-resilience]] | Harvard Business School professor **Clayton M. Christensen**'s landmark 1997 classic—part of the *Management of Innovation and Change* series (pp. 2–3)—solved one of strategy's deepest puzzles: why extraordinarily well-managed market leaders repeatedly collapse in the face of technological shifts even while listening closely to their best customers and investing aggressively in R&D. |
-| **1997** | [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]] | [[burhan-oguz]] | [[anatolian-civilizations]], [[political-science]], [[anatolian-humanism]] | [[orientalism-postcolonial-discourse-and-cultural-satire]], [[social-critique-and-moral-conscience]], [[asik-and-minstrel-tradition]] | *Türk Halk Düşüncesi ve Hareketlerinin İdeolojik Kökenleri* (*The Ideological Origins of Turkish Popular Thought and Movements*, 3 Volumes, Simurg, Istanbul, 1997, 1,242 pp. total) is the monumental historical-sociological trilogy of Turkish engineer, labor unionist, and polymath cultural historian [[burhan-oguz]] (1919–2009). |
-| **1996** | [[ataturkun-not-defterleri]] | [[ali-mithat-inan]] | [[turkish-republican-history-and-biographical-memoirs]], [[military-science]], [[biography-memoir-and-intellectual-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[revolutionary-ambition-power-and-historical-legacy]] | Prepared by retired military historian and Ankara University lecturer **Col. Ali Mithat İnan** (b. 1940; originally his 1987 Ankara University Turkish Revolution History Institute master's thesis, first published 1996 by Gündoğan Yayınları, pp. |
-| **1996** | [[keeper-of-genesis]] | [[graham-hancock]], [[robert-bauval]] | [[archaeoastronomy]], [[alternative-archaeology]], [[esoteric-history]] | [[orion-correlation-and-sacred-astronomy]], [[lost-civilization-hypothesis]], [[critique-of-academic-orthodoxy]], [[catastrophism-and-earth-history]] | *Keeper of Genesis* (published in the United States as *The Message of the Sphinx*) represents the collaborative masterpiece of investigative journalist Graham Hancock and archaeoastronomer Robert Bauval. Focusing exclusively on the Giza plateau in Egypt, the authors mount a comprehensive scientific and historical challenge against orthodox Egyptological dating. |
-| **1995** | [[deri-ben-the-skin-ego]] | [[didier-anzieu]], [[nesrin-tura-demiryontan]] | [[psychoanalysis-and-depth-psychology]], [[cognitive-moral-and-social-psychology]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]] | Written by eminent French psychoanalyst and philosopher **Didier Anzieu** (1923–1999)—who trained in both philosophy (ENS) and dermatology and underwent analysis with Lacan before co-founding the Association Psychanalytique de France (p. 2)—and published in Turkish by Metis Yayınları (translated by **Nesrin Tura Demiryontan**, 2008, 330 pp., pp. |
-| **1995** | [[emotional-intelligence]] | [[daniel-goleman]] | [[organizational-psychology]], [[neuroscience-and-philosophy-of-mind]], [[leadership-and-management]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[adaptive-intelligence-and-organizational-resilience]], [[evolution-of-human-consciousness]] | Launching a global paradigm shift across psychology, education, and corporate leadership, science journalist and Harvard-trained psychologist **Daniel Goleman's** *Emotional Intelligence* (1995, pp. 5–8) synthesizes affective neuroscience (Joseph LeDoux's amygdala pathways) and developmental psychology (building on Peter Salovey and John Mayer) to answer **"Aristotle's Challenge"** (p. |
-| **1995** | [[fingerprints-of-the-gods]] | [[graham-hancock]] | [[alternative-archaeology]], [[archaeoastronomy]], [[investigative-non-fiction]] | [[lost-civilization-hypothesis]], [[catastrophism-and-earth-history]], [[orion-correlation-and-sacred-astronomy]], [[critique-of-academic-orthodoxy]] | *Fingerprints of the Gods* (1995) is Graham Hancock’s seminal worldwide bestseller that redefined popular interest in prehistory, alternative archaeology, and lost civilizations. Synthesizing investigative journalism, field exploration across Latin America and Egypt, archaeoastronomy, and geological anomalies, Hancock challenges the conventional linear model of human cultural evolution. |
-| **1995** | [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] | [[muazzez-ilmiye-cig]] | [[comparative-religion-and-islamic-history]], [[archaeological-historiography]], [[anatolian-civilizations]] | [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[archaeology-and-national-identity]], [[critique-of-academic-orthodoxy]] | *Kur'an, İncil ve Tevrat'ın Sumer'deki Kökeni* ("The Sumerian Origins of the Qur'an, Gospel, and Torah," first published November 1995; 9th printing April 2005, pp. |
-| **1995** | [[the-diamond-age]] | [[neal-stephenson]] | [[cyberpunk-ai-fiction-and-techno-humanism]], [[speculative-fiction]], [[educational-technology-and-disruptive-pedagogy]] | [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]], [[student-centric-and-blended-learning]], [[general-purpose-technologies-and-learning-by-doing]], [[non-western-strategic-thought]] | Winner of the 1996 Hugo Award (PDF metadata), Neal Stephenson's *The Diamond Age* (1995) is the defining masterpiece of **post-cyberpunk** science fiction—blending Dickensian social realism, K. Eric Drexler-inspired molecular nanotechnology (explicitly acknowledged on p. |
-| **1995** | [[the-essential-rumi]] | [[jalal-al-din-rumi]] (Author); [[coleman-barks]] (Translator/Interpreter, with [[john-moyne]], [[a-j-arberry]], and [[reynold-a-nicholson]]) | [[sufism-mysticism-and-rumi-studies]], [[poetry-and-poetics]], [[world-classics-and-comparative-literature]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | First published in 1995 (reissued by Castle Books in 1997, pp. 3–4), *The Essential Rumi* is the single most commercially influential English anthology of Jalal al-Din Rumi's poetry—the book that propelled a 13th-century Anatolian Sufi jurist and mystic to become the best-selling poet in modern America. |
-| **1994** | [[ataturk-bir-milletin-yeniden-dogusu]] | [[lord-kinross]], [[necdet-sander]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]], [[geopolitics-and-diplomatic-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[revolutionary-ambition-power-and-historical-legacy]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]] | Written by Scottish historian and diplomat **Patrick Balfour, 3rd Baron Kinross** (orig. 1964) and rendered into classic Turkish by **Necdet Sander** (Altın Kitaplar, 1994; consolidated here from both 699-pp. and 836-pp. library PDF editions), *Atatürk: Bir Milletin Yeniden Doğuşu* remains the landmark international biography of **Mustafa Kemal Atatürk** (1881–1938). |
-| **1994** | [[built-to-last]] | [[jim-collins]], [[jerry-i-porras]] | [[corporate-strategy-and-management-classics]], [[leadership-and-management]], [[organizational-psychology]] | [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[organizational-culture-and-rewilding]], [[adaptive-intelligence-and-organizational-resilience]] | Drawing on a six-year Stanford Graduate School of Business research project comparing eighteen enduring **"visionary companies"** (3M, Hewlett-Packard, Johnson & Johnson, Boeing, Disney, Sony, Merck, Walmart, IBM, GE, Procter & Gamble, Marriott, Motorola, Nordstrom, Citicorp, American Express, Philip Morris, Ford) against direct industry comparison peers, **Jim Collins** and **Jerry I. |
-| **1992** | [[an-introduction-to-the-history-of-the-turkic-peoples]] | [[peter-b-golden]] | [[central-eurasian-steppe-and-silk-road-history]], [[turkish-republican-history-and-biographical-memoirs]], [[comparative-religion-and-islamic-history]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]] | Written by Rutgers University historian **Peter B. Golden** and dedicated to Tibor Halasi-Kun (Otto Harrassowitz, Wiesbaden, 1992, pp. 1–3; 494 pp.; consolidated with the byte-identical duplicate in `Turkiye and Region/`), *An Introduction to the History of the Turkic Peoples* is universally recognized as the standard English-language academic reference on Turkic ethnogenesis, linguistic classification, and nomadic s... |
-| **1992** | [[boundaries-cloud-townsend]] | [[henry-cloud]], [[john-townsend]] | [[organizational-psychology]], [[ethics-and-value-philosophy]], [[persuasion-negotiation-and-rhetoric]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]] | Written by clinical psychologists **Dr. Henry Cloud** and **Dr. John Townsend** (1992, Zondervan, pp. 2–6), *Boundaries* is a landmark relational-psychology guide defining personal **boundaries** as emotional property lines that clarify where *my* responsibility ends and *yours* begins. |
-| **1992** | [[discovering-the-brain]] | [[sandra-ackerman]] | [[neuroscience-and-philosophy-of-mind]], [[evolutionary-biology]], [[organizational-psychology]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[human-performance-enhancement-and-neuro-warfare]], [[adaptive-intelligence-and-organizational-resilience]] | *Discovering the Brain* (published by National Academy Press, Washington, D.C., 1992, 195 pp.) by science writer [[sandra-ackerman]] for the **Institute of Medicine (IOM) and National Academy of Sciences** is the official foundational synthesis launched to inaugurate the U.S. Congressionally mandated **'Decade of the Brain' (1990–1999)** proclaimed by President George H. W. Bush and championed by Rep. |
-| **1992** | [[the-end-of-history-and-the-last-man]] | [[francis-fukuyama]] | [[political-science]], [[comparative-democratic-history]], [[geopolitics-and-diplomatic-history]] | [[westphalian-world-order-end-of-history-and-great-power-realism]], [[tyranny-of-the-majority-and-civil-associations]], [[rationality-and-decision-making]] | *The End of History and the Last Man* (The Free Press, 1992, 446 pp.) by political scientist [[francis-fukuyama]] expands his landmark 1989 *National Interest* essay into a sweeping philosophy of history rooted in Hegel, Kojève, Plato, and Nietzsche. |
-| **1992** | [[the-penguin-book-of-curious-and-interesting-puzzles]] | [[david-wells]] | [[recreational-mathematics-and-logic-puzzles]], [[pure-and-applied-mathematics]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *The Penguin Book of Curious and Interesting Puzzles* (Penguin Books, London, 1992, 391 pp.) by British mathematician, former British under-21 chess champion, game inventor, and *Games & Puzzles* editor [[david-wells]] is a richly historical, chronologically curated anthology tracing four thousand years of mathematical puzzles from ancient Egyptian Rhind Papyrus problems and Greek epigrams through Alcuin of York, Fib... |
-| **1991** | [[cambridge-ancient-history-scythia-and-thrace]] | [[tadeusz-sulimirski]], [[timothy-taylor]], [[georgi-mihailov]] | [[central-eurasian-steppe-and-silk-road-history]], [[archaeological-historiography]], [[world-history-macro-anthropology-and-ancient-civilizations]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[archaeology-and-national-identity]] | Extracted from *The Cambridge Ancient History* (2nd ed., Vol. III, Part 2, 1991; 88 pp. including maps, artifact plates, and full multilingual bibliography pp. 838–849), this pairing of canonical reference chapters synthesizes the archaeology, ethnography, and early political history of the northern Pontic steppes and the pre-Persian Balkans during the first half of the first millennium BCE. |
-| **1991** | [[sophies-world]] | [[jostein-gaarder]] | [[classical-and-analytic-philosophy]], [[philosophical-fiction]], [[world-classics-and-comparative-literature]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[evolution-of-human-consciousness]], [[student-centric-and-blended-learning]] | Written by former Norwegian high-school philosophy teacher **Jostein Gaarder** (*Sofies verden*, 1991; translated by Paulette Møller, Berkley Books, 1996, copyright p. 8), *Sophie's World* is an international literary phenomenon that fuses a complete 3,000-year survey of Western philosophy with a playful metafictional thriller. |
-| **1991** | [[yorukler]] | [[mehmet-eroz]] | [[cultural-and-digital-anthropology]], [[anatolian-civilizations]], [[republican-intellectual-history]] | [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[archaeology-and-national-identity]], [[asik-and-minstrel-tradition]] | *Yörükler* (published posthumously by Türk Dünyası Araştırmaları Vakfı, İstanbul, 1991, 325 pp., ISBN `975-498-044-6`) by Istanbul University Faculty of Economics sociologist and ethnographer Prof. Dr. |
-| **1990** | [[by-way-of-deception]] | [[victor-ostrovsky]], [[claire-hoy]] | [[intelligence-studies-and-national-security]], [[investigative-non-fiction]], [[security-studies]] | [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]], [[hybrid-threats-and-cyber-warfare]], [[deterrence-and-coercion]] | *By Way of Deception: The Making and Unmaking of a Mossad Officer* (originally published by St. Martin's Press, 1990; 1994 electronic/print edition, 378 pp.) by former Israeli intelligence trainee [[victor-ostrovsky]] and Canadian political journalist [[claire-hoy]] is a controversial insider exposé of the recruitment, tradecraft, institutional culture, and covert operations of Israel's foreign intelligence agency, t... |
-| **1990** | [[kazim-karabekir-anlatiyor]] | [[ugur-mumcu]] | [[turkish-republican-history-and-biographical-memoirs]], [[investigative-non-fiction]], [[political-science]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[monitory-democracy-and-power-scrutiny]], [[revolutionary-ambition-power-and-historical-legacy]] | Written by celebrated Turkish investigative journalist **Uğur Mumcu** (1942–1993) and originally published as a twenty-part documentary series in *Cumhuriyet* from 10 to 29 June 1990 (p. |
-| **1989** | [[how-societies-remember]] | [[paul-connerton]] | [[cognitive-moral-and-social-psychology]], [[cultural-and-digital-anthropology]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[archaeology-and-national-identity]] | Written by Cambridge social theorist **Paul Connerton** (1940–2019) in the *Themes in the Social Sciences* series (Cambridge University Press, 1989, copyright & Contents p. 2)—our library scan preserves the complete front matter, Introduction, and foundational **Chapter 1: Social Memory** across 21 two-page spreads—*How Societies Remember* is a foundational classic of collective-memory studies. |
-| **1989** | [[the-7-habits-of-highly-effective-people]] | [[stephen-r-covey]] | [[executive-coaching-and-personal-mastery]], [[leadership-and-management]], [[ethics-and-value-philosophy]] | [[deep-work-habit-architecture-and-cognitive-systems]], [[servant-coaching-high-output-management-and-stoic-ego]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]] | Synthesizing 200 years of American success literature, **Stephen R. Covey** (1932–2012; orig. 1989, 172 pp.) identifies a decisive historical shift: the first 150 years emphasized the **Character Ethic** (integrity, humility, fidelity, temperance, courage, justice), whereas post-WWI literature devolved into a superficial **Personality Ethic** of quick-fix image tricks and manipulation. |
-| **1989** | [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] | [[roger-penrose]] | [[neuroscience-and-philosophy-of-mind]], [[algebraic-topology]], [[anthropology-of-consciousness]] | [[neurobiology-of-consciousness-and-non-algorithmic-mind]], [[human-centered-ai-and-augmented-leadership]], [[rationality-and-decision-making]] | *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics* (originally published by Oxford University Press in 1989; Revised Edition 1999) by Nobel Prize–winning mathematical physicist Sir [[roger-penrose]] is a monumental 10-chapter inquiry into whether human consciousness and mathematical insight can ever be replicated by an algorithmic digital computer—the claim of **'Strong AI'** (source: BOOK... |
-| **1988** | [[a-brief-history-of-time]] | [[stephen-hawking]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[innovation-and-economic-growth]] | [[cosmology-black-holes-and-the-arrow-of-time]], [[quantum-foundations-measurement-and-many-worlds]], [[rationality-and-decision-making]] | *A Brief History of Time* (first published 1988; 10th Anniversary updated edition by Bantam Books, 1998, 185 pp., eISBN `978-0-55389692-3`) by Lucasian Professor of Mathematics [[stephen-hawking]] is the most celebrated popular exposition of modern theoretical cosmology ever written—spending 237 weeks on the *London Sunday Times* bestseller list and translating the frontier of general relativity, quantum mechanics, a... |
-| **1988** | [[spin-selling]] | [[neil-rackham]] | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[organizational-psychology]] | [[consultative-questioning-and-constructive-tension]], [[trusted-strategic-advisors-and-influence]], [[rationality-and-decision-making]] | *SPIN Selling* (published by McGraw-Hill, 1988, 210 pp.) by Huthwaite founder and behavioral psychologist [[neil-rackham]] is the foundational empirical study of high-value, complex B2B sales behavior (source: BOOKS/Sales/The Spin Selling.pdf, pp. 1–7, 9–21). |
-| **1987** | [[mehmet-akif]] | [[sezai-karakoc]] | [[turkish-republican-history-and-biographical-memoirs]], [[literary-criticism-and-modernism]], [[poetry-and-poetics]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[moral-courage-nonviolent-resistance-and-transformative-biography]] | Written by acclaimed Turkish poet and *Diriliş* ("Resurrection") thinker **Sezai Karakoç** (1933–2021; Diriliş Yayınları, 1st ed. 1968, 5th ed. 1987, p. 3; 39 pp.), *Mehmet Akif* is a concentrated biographical and critical monograph on **Mehmet Akif Ersoy** (1873–1936)—poet of *Safahat* and author of the Turkish National Anthem (*İstiklâl Marşı*). |
-| **1987** | [[trump-the-art-of-the-deal]] | [[donald-j-trump]] | [[biography-memoir-and-intellectual-history]], [[personal-finance-investing-and-capital-markets]], [[leadership-and-management]] | [[revolutionary-ambition-power-and-historical-legacy]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[service-first-branding-and-authentic-visibility]] | *Trump: The Art of the Deal* (Random House / Ballantine Books, 1987, 418 pp., ghostwritten with Tony Schwartz) is real-estate developer and later U.S. President [[donald-j-trump]]'s bestselling memoir and dealmaking manifesto. |
-| **1985** | [[amusing-ourselves-to-death]] | [[neil-postman]] | [[media-economics-and-entertainment-science]], [[cognitive-moral-and-social-psychology]], [[political-science]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[attention-economy-and-cultural-analytics]], [[monitory-democracy-and-power-scrutiny]] | Written by NYU media-ecology pioneer **Neil Postman** (1931–2003) and preserved in the 20th Anniversary Penguin edition with an Introduction by his son Andrew Postman (copyright p. 3; Contents p. 4), *Amusing Ourselves to Death* (1985) opens with one of modern cultural criticism's most devastating comparisons: **George Orwell's *1984*** vs. **Aldous Huxley's *Brave New World***. |
-| **1985** | [[noise-the-political-economy-of-music]] | [[jacques-attali]], [[fredric-jameson]], [[susan-mcclary]] | [[philosophy-and-poetics-of-music]], [[political-science]], [[social-choice-theory]] | [[music-as-prophecy-and-political-economy]], [[critique-of-academic-orthodoxy]], [[social-critique-and-moral-conscience]] | *Noise: The Political Economy of Music* (originally published in French as *Bruits* in 1977; English translation by Brian Massumi in 1985 with a Foreword by [[fredric-jameson]] and Afterword by [[susan-mcclary]]) is [[jacques-attali]]'s landmark theoretical treatise arguing that music is not a passive superstructure reflecting economic base relations, but a **prophetic herald** that anticipates future social orders a... |
-| **1984** | [[influence-the-psychology-of-persuasion]] | [[robert-b-cialdini]] | [[persuasion-negotiation-and-rhetoric]], [[behavioral-science-risk-and-antifragility]], [[consultative-sales-and-commercial-teaching]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[rationality-and-decision-making]], [[consultative-questioning-and-constructive-tension]] | Combining rigorous experimental social psychology with three years of undercover participant-observation inside car dealerships, direct-sales training programs, telemarketing rooms, and fundraising agencies (pp. 7–8), Arizona State University professor **Robert B. |
-| **1984** | [[the-wisdom-of-the-stoics]] | [[frances-hazlitt]] (Editor), [[henry-hazlitt]] (Editor), [[seneca]], [[marcus-aurelius]] | [[stoic-philosophy-and-practical-ethics]], [[ethics-and-value-philosophy]], [[world-classics-and-comparative-literature]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[universal-love-and-human-dignity]], [[rationality-and-decision-making]] | Curated and introduced by **Frances Hazlitt** and noted libertarian economist-philosopher **Henry Hazlitt** (1984, University Press of America, pp. |
-| **1983** | [[high-output-management]] | [[andrew-s-grove]] | [[corporate-strategy-and-management-classics]], [[leadership-and-management]], [[entrepreneurship-and-startup-methodology]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]], [[disruptive-innovation-blitzscaling-and-founder-resilience]] | Written by Intel co-founder, President, and legendary CEO **Andrew S. Grove** (orig. 1983; updated Vintage edition with a 1995 retrospective Introduction, p. 7; consolidated here from both library PDF editions of 203 pp. and 739 pp.), *High Output Management* is widely revered across Silicon Valley as the definitive practitioner's treatise on middle and executive management. |
-| **1981** | [[problems-in-general-physics]] | [[igor-yevgenyevich-irodov]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[purposeful-longevity-flow-and-mathematical-literacy]], [[quantum-foundations-measurement-and-many-worlds]], [[rationality-and-decision-making]] | *Problems in General Physics* (published in English by Mir Publishers, Moscow, 1981, translated from the 1979 Russian *Nauka* edition by Yuri Atanov; 402 pp., ISBN `5-03-000800-4`) by Soviet physicist and Moscow Engineering Physics Institute (MEPhI) professor [[igor-yevgenyevich-irodov]] is one of the most revered and demanding problem compendiums in the global history of physics education (source: BOOKS/Physics/1981... |
-| **1978** | [[orientalism]] | [[edward-w-said]] | [[postcolonial-and-diaspora-studies]], [[political-science]], [[literary-criticism-and-modernism]] | [[orientalism-postcolonial-discourse-and-cultural-satire]], [[critique-of-academic-orthodoxy]], [[clash-of-civilizations]] | *Orientalism* (originally published by Pantheon Books in 1978; Vintage Books Edition, 1979, 378 pp.) by Columbia University literary critic [[edward-w-said]] is the foundational text of postcolonial studies. |
-| **1978** | [[seminar-2-the-ego-in-freuds-theory]] | [[jacques-lacan]], [[jacques-alain-miller]], [[savas-kilic]] | [[psychoanalysis-and-depth-psychology]], [[classical-and-analytic-philosophy]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[cybernetics-media-ecology-collective-memory-and-political-violence]] | Delivered at Sainte-Anne Hospital in Paris during 1954–1955, edited by **Jacques-Alain Miller** (Seuil, 1978), and translated into Turkish by **Savaş Kılıç** (Metis Yayınları, *Ötekini Dinlemek* #25, Feb. 2022, 404 pp., pp. 2–4), **Jacques Lacan**'s *Seminar Book II* executes a radical "return to Freud" against postwar American ego psychology. |
-| **1978** | [[the-art-of-manipulation]] | [[r-b-sparkman]] | [[persuasion-negotiation-and-rhetoric]], [[consultative-sales-and-commercial-teaching]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[power-realism-social-contagion-and-intentional-life-design]], [[rationality-and-decision-making]] | Written by veteran sales trainer and negotiation practitioner **R. B. Sparkman** (1978, The Dial Press, pp. 2–4), *The Art of Manipulation* is a candid, street-level 1970s primer asserting that **"five percent of the people manipulate the other ninety-five percent"** (Chapter I, p. |
-| **1976** | [[the-thirteenth-tribe]] | [[arthur-koestler]] | [[central-eurasian-steppe-and-silk-road-history]], [[comparative-religion-and-islamic-history]], [[investigative-non-fiction]] | [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[critique-of-academic-orthodoxy]], [[ataturk-republican-founding-and-ottoman-turkish-memory]] | Written by Hungarian-British novelist and essayist **Arthur Koestler** (1905–1983; Copyright ©1976, Popular Library/Random House, p. 6; consolidated here across all three library PDF editions: 324 pp., 99 pp., and 85 pp.), *The Thirteenth Tribe* popularized the medieval history of the **Khazar Qağanate**—the powerful Turkic steppe empire spanning the Volga, Don, and North Caucasus (7th–10th centuries CE) whose ruling... |
-| **1974** | [[zen-and-the-art-of-motorcycle-maintenance]] | [[robert-m-pirsig]] | [[ethics-and-value-philosophy]], [[philosophical-fiction]], [[anthropology-of-consciousness]] | [[metaphysics-of-quality-and-global-ethics]], [[rationality-and-decision-making]], [[critique-of-academic-orthodoxy]] | *Zen and the Art of Motorcycle Maintenance: An Inquiry into Values* (originally published by William Morrow in 1974; 25th Anniversary Edition, HarperPerennial Modern Classics, 429 pp.) by [[robert-m-pirsig]] is one of the most influential philosophical novels of the twentieth century (source: BOOKS/Ethics/Zen and the Art of Motorcycle Maintenance_ An Inquiry into Values ( PDFDrive ).pdf, pp. 2–8, 13–21). |
-| **1973** | [[karl-marx-a-biography]] | [[david-mclellan]] | [[biography-memoir-and-intellectual-history]], [[political-science]], [[ethics-and-value-philosophy]] | [[revolutionary-ambition-power-and-historical-legacy]], [[political-intuitionism-administrative-state-and-capitalist-democracy]], [[social-critique-and-moral-conscience]] | *Karl Marx: A Biography* (originally published by Macmillan in 1973; revised Papermac edition, 1995, 495 pp.) by University of Kent political theorist [[david-mclellan]] is widely regarded as the benchmark single-volume intellectual and personal biography of **Karl Marx** (1818–1883) (source: BOOKS/Biography_/Karl Marx_ A Biography ( PDFDrive ).pdf, Cover, Title Page & Copyright, pp. 1–6). |
-| **1973** | [[small-is-beautiful]] | [[e-f-schumacher]] | [[classical-and-institutional-economics]], [[ethics-and-value-philosophy]], [[energy-policy-and-clean-tech-economics]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[energy-transition-and-storage-economics]], [[social-critique-and-moral-conscience]] | Published in 1973 by German-born British economist and longtime Chief Economic Adviser to the UK National Coal Board **E. F. Schumacher** (with an incisive Introduction by Theodore Roszak, pp. 2–5), *Small Is Beautiful: Economics as if People Mattered* is the seminal manifesto of **human-scale ecological economics**. |
-| **1973** | [[sultan-cemin-portreleri-hakkinda]] | [[semavi-eyice]] | [[turkish-republican-history-and-biographical-memoirs]], [[ottoman-philology-and-literary-historiography]], [[biography-memoir-and-intellectual-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[orientalism-postcolonial-discourse-and-cultural-satire]], [[revolutionary-ambition-power-and-historical-legacy]] | Authored by pioneering Turkish art and Byzantine-Ottoman architectural historian **Prof. Dr. Semavi Eyice** (1922–2018) and published in the Turkish Historical Society's flagship journal *Belleten* (Vol. XXXVII, No. 145, January 1973; 80 pp. |
-| **1971** | [[ataturkun-usaginin-gizli-defteri]] | [[turhan-gurkan]], [[cemal-granda]] | [[turkish-republican-history-and-biographical-memoirs]], [[biography-memoir-and-intellectual-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[social-critique-and-moral-conscience]], [[revolutionary-ambition-power-and-historical-legacy]] | Recorded and authored by journalist **Turhan Gürkan** from the twelve-year eyewitness memoirs (1927–1938) of Atatürk's personal valet and steward **Cemal (Çelebi) Granda** (Fer Yayınları, İstanbul, 1971, Title Page p. 3; originally serialized in *Şehir Gazetesi* from 4 March to 31 May 1959, p. |
-| **1969** | [[letters-from-a-stoic]] | [[seneca]] (Author); [[robin-campbell]] (Translator & Introducer) | [[stoic-philosophy-and-practical-ethics]], [[world-classics-and-comparative-literature]], [[ethics-and-value-philosophy]] | [[stoic-equanimity-dichotomy-of-control-and-self-mastery]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]] | Selected, translated, and introduced by **Robin Campbell** for Penguin Classics (pp. 2–5), *Letters from a Stoic* presents a curated English edition of **Lucius Annaeus Seneca's** *Epistulae Morales ad Lucilium*—124 intimate philosophical letters written during Seneca's tense retirement from Emperor Nero's court between 63 and 65 CE. |
-| **1968** | [[the-lessons-of-history]] | [[will-durant]], [[ariel-durant]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[classical-and-analytic-philosophy]], [[political-science]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[inclusive-institutions-economic-thought-and-ecological-limits]], [[rationality-and-decision-making]] | Distilled after forty years of writing the monumental ten-volume *The Story of Civilization* (Preface, p. 6; Simon & Schuster, 1968; 114 pp.), **Will Durant** (1885–1981) and **Ariel Durant** (1898–1981) compress five millennia of human triumphs and follies into thirteen luminous, aphoristic essays: *Hesitations*, *History and the Earth*, *Biology*, *Race*, *Character*, *Morals*, *Religion*, *Economics*, *Socialism*,... |
-| **1967** | [[536-puzzles-and-curious-problems]] | [[henry-ernest-dudeney]], [[martin-gardner]] | [[recreational-mathematics-and-logic-puzzles]], [[pure-and-applied-mathematics]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *536 Puzzles & Curious Problems* (Charles Scribner's Sons, New York, 1967, 442 pp.) unites the two undisputed titans of modern recreational mathematics: England's greatest puzzle inventor [[henry-ernest-dudeney]] (1857–1930) and *Scientific American*'s legendary *Mathematical Games* columnist [[martin-gardner]] (1914–2010), who edited, modernized, and annotated Dudeney's classic collections (*Modern Puzzles* and *Puz... |
-| **1967** | [[diodorus-of-sicily-library-of-history]] | [[diodorus-siculus]], [[c-h-oldfather]], [[c-bradford-welles]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[classical-and-analytic-philosophy]], [[military-science]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[revolutionary-ambition-power-and-historical-legacy]], [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]] | Composed in Greek between 60 and 30 BCE by Sicilian historian **Diodorus Siculus** and preserved here in two landmark bilingual Greek–English **Loeb Classical Library** volumes—**Volume II** (Books II.35–IV.58, translated by **C. H. Oldfather**, 1935/1967, 562 pp.) and **Volume VIII** (Books XVI.66–95 & XVII, translated by Yale historian **C. |
-| **1967** | [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] | [[harry-kalven-jr]] | [[political-science]], [[republican-intellectual-history]] | [[institutional-neutrality-and-academic-freedom]], [[critique-of-academic-orthodoxy]] | The Kalven Committee Report, published in 1967, provides a foundational philosophical and practical framework for the role of the university in political and social action. Chaired by Harry Kalven, Jr., and appointed by President George W. |
-| **1965** | [[tarih-devrim-sosyalizm]] | [[hikmet-kivilcimli]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[political-science]], [[classical-and-analytic-philosophy]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]], [[ottoman-turkish-modernization-poetics-and-temporal-satire]] | Written by physician, political theorist, and one of twentieth-century Turkey's most original Marxist thinkers **Dr. Hikmet Kıvılcımlı** (1902–1971; orig. 1965, Title Page p. 1, Contents pp. |
-| **1962** | [[the-open-society-and-its-enemies-vol-1]] | [[karl-popper]] | [[classical-and-analytic-philosophy]], [[political-science]], [[comparative-democratic-history]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[tyranny-of-the-majority-and-civil-associations]], [[critique-of-academic-orthodoxy]] | Written in New Zealand exile during World War II as **Karl Raimund Popper**'s intellectual war effort against fascism and Stalinism (1st ed. 1945; 4th revised ed. 1962, Routledge & Kegan Paul, title/copyright pp. 4–5), *The Open Society and Its Enemies, Volume I: The Spell of Plato* delivers one of the twentieth century's fiercest defenses of liberal democracy, critical rationalism, and individual freedom. |
-| **1961** | [[saatleri-ayarlama-enstitusu]] | [[ahmet-hamdi-tanpinar]] | [[philosophical-fiction]], [[literary-criticism-and-modernism]], [[world-classics-and-comparative-literature]] | [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[orientalism-postcolonial-discourse-and-cultural-satire]], [[social-critique-and-moral-conscience]] | *Saatleri Ayarlama Enstitüsü* (*The Time Regulation Institute*) is Ahmet Hamdi Tanpınar's masterpiece of modernist satire and one of the towering achievements of 20th-century world literature. |
-| **1961** | [[seminar-8-transference]] | [[jacques-lacan]], [[cormac-gallagher]] | [[psychoanalysis-and-depth-psychology]], [[classical-and-analytic-philosophy]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[open-society-creative-destruction-and-epistemic-virtue]] | Presented in **Cormac Gallagher**'s complete scholarly English translation from the unedited French typescripts (339 pp., p. 1), **Jacques Lacan**'s *Seminar Book VIII: Transference* (1960–1961) confronts the most enigmatic engine of clinical psychoanalysis: *"In the beginning of analytic experience was love"* (Seminar 1, p. 3). |
-| **1957** | [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] | [[hugh-everett-iii]] | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[neuroscience-and-philosophy-of-mind]] | [[quantum-foundations-measurement-and-many-worlds]], [[cosmology-black-holes-and-the-arrow-of-time]], [[rationality-and-decision-making]] | *On the Foundations of Quantum Mechanics* (PhD dissertation submitted to the Palmer Physical Laboratory, Princeton University, March 1, 1957, 36 pp., supervised by Professor John A. |
-| **1956** | [[the-life-and-work-of-jalal-ud-din-rumi]] | [[afzal-iqbal]] (Author); [[a-j-arberry]] (Foreword) | [[biography-memoir-and-intellectual-history]], [[sufism-mysticism-and-rumi-studies]], [[comparative-religion-and-islamic-history]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | First published in 1956 with a warm Foreword by Cambridge Persianist **Prof. A. J. Arberry** and here presented in its 6th edition (1991, pp. 4–5), Pakistani diplomat-scholar **Afzal Iqbal's** *The Life and Work of Jalal-ud-din Rumi* is a classic comprehensive intellectual biography situating Rumi squarely inside the cataclysmic geopolitical, theological, and cultural crucible of the 13th-century Islamic world (1207–... |
-| **1954** | [[ibni-fadlan-seyahatnamesi]] | [[ibn-fadlan]], [[lutfi-dogan]] | [[turkish-republican-history-and-biographical-memoirs]], [[cultural-and-digital-anthropology]], [[comparative-religion-and-islamic-history]] | [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[digital-materiality-nomadic-heritage-and-anthropological-holism]], [[islamic-golden-age-science-and-civilizational-transmission]] | Composed by tenth-century Abbasid diplomat and jurist **Ahmad ibn Fadlan** following his 921–922 CE embassy from Caliph al-Muqtadir in Baghdad to the King of the Volga Bulgars (Almısh / Ilteber), and presented here in **Lütfi Doğan**'s classic Turkish translation based on **A. Zeki Velidi Togan**'s landmark 1939 Leipzig critical edition of the Mashhad manuscript (*İbn Fadlān's Reisebericht*, 22 pp. |
-| **1954** | [[lord-of-the-flies]] | [[william-golding]] | [[world-classics-and-comparative-literature]], [[philosophical-fiction]], [[political-psychology-and-ideology]] | [[servant-coaching-high-output-management-and-stoic-ego]], [[fanaticism-and-human-sacrifice]], [[tyranny-of-the-majority-and-civil-associations]] | Nobel laureate **William Golding**'s classic 1954 allegorical novel *Lord of the Flies* (12 chapters, Contents p. 4; 251 pp.) strands a group of British schoolboys on an uninhabited Pacific island after a wartime plane crash ("No grownups!", Ch. 1, p. 7) to conduct a harrowing literary thought experiment on leadership, institutional fragility, and the thin veneer of civilization. |
-| **1953** | [[riddles-riddles-riddles]] | [[joseph-leeming]] | [[recreational-mathematics-and-logic-puzzles]], [[poetry-and-poetics]] | [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]], [[purposeful-longevity-flow-and-mathematical-literacy]] | *Riddles, Riddles, Riddles: Enigmas and Anagrams, Puns and Puzzles, Quizzes and Conundrums!* (Franklin Watts, 1953, 226 pp., illustrated by Shane Miller) by prolific American hobby and wordplay author [[joseph-leeming]] is a joyous folkloric treasury of linguistic puzzles, puns, rhymed charades, anagrams, and traditional enigmas (source: BOOKS/Fun & Puzzles_/Riddles, Riddles, Riddles...pdf, Contents & Foreword, pp. |
-| **1953** | [[the-worldly-philosophers]] | [[robert-l-heilbroner]] | [[classical-and-institutional-economics]], [[biography-memoir-and-intellectual-history]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[revolutionary-ambition-power-and-historical-legacy]], [[political-intuitionism-administrative-state-and-capitalist-democracy]] | First written while Robert L. Heilbroner was a graduate student in 1953 and revised across forty-six years through this definitive **Seventh Edition (1999)** (pp. 4, 6–8), *The Worldly Philosophers* is the most widely read intellectual history of economic thought ever published. |
-| **1950** | [[the-human-use-of-human-beings]] | [[norbert-wiener]], [[steve-j-heims]] | [[cognitive-moral-and-social-psychology]], [[artificial-intelligence-and-machine-learning]], [[classical-and-analytic-philosophy]] | [[cybernetics-media-ecology-collective-memory-and-political-violence]], [[technological-containment-and-omni-use-proliferation]], [[human-centered-ai-and-augmented-leadership]] | Written by MIT mathematician and founder of cybernetics **Norbert Wiener** (1894–1964)—preserved in our library across two copies of the 1989 Free Association Books reprint featuring **Steve J. Heims**'s critical introduction and Wiener's famous 1947 *Atlantic Monthly* anti-militarist open letter *"A Scientist Rebels"* (pp. 1–7, TOC p. |
-| **1949** | [[the-hero-with-a-thousand-faces]] | [[joseph-campbell]] | [[psychoanalysis-and-depth-psychology]], [[cultural-and-digital-anthropology]], [[world-classics-and-comparative-literature]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[evolution-of-human-consciousness]], [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]] | Comparative mythologist **Joseph Campbell**'s 1949 landmark (Bollingen Series XVII / Fontana Press, copyright p. 330) synthesizes thousands of myths, folktales, religious scriptures, and initiation rites from Sumer, Greece, India, Mesoamerica, Polynesia, and medieval Europe into a single recurring archetypal architecture: the **Monomyth**—a term Campbell borrowed directly from James Joyce's *Finnegans Wake*. |
-| **1942** | [[capitalism-socialism-and-democracy]] | [[joseph-a-schumpeter]], [[richard-swedberg]] | [[classical-and-institutional-economics]], [[political-science]], [[innovation-and-economic-growth]] | [[open-society-creative-destruction-and-epistemic-virtue]], [[disruptive-innovation-blitzscaling-and-founder-resilience]], [[inclusive-institutions-economic-thought-and-ecological-limits]] | Austrian-born Harvard economist **Joseph A. Schumpeter**'s 1942 masterpiece—presented here in the Routledge / Taylor & Francis edition with an authoritative Introduction by **Richard Swedberg** (pp. 4–5, TOC pp. 6–7)—reshaped economics, innovation theory, and democratic political science simultaneously. |
-| **1939** | [[finnegans-wake]] | [[james-joyce]] | [[world-classics-and-comparative-literature]], [[literary-criticism-and-modernism]], [[philosophical-fiction]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[evolution-of-human-consciousness]], [[persian-sufism-skepticism-and-comparative-translation]] | Written over seventeen years in Paris (1922–1939) by Irish modernist master **James Joyce** (1882–1941) and preserved here in the canonical 1975 Faber & Faber pagination (634 pp., pp. 1–7), *Finnegans Wake* is the most radical linguistic experiment in the history of the novel. |
-| **1936** | [[how-to-win-friends-and-influence-people]] | [[dale-carnegie]] | [[persuasion-negotiation-and-rhetoric]], [[leadership-and-management]], [[strategic-communication]] | [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]], [[trusted-strategic-advisors-and-influence]], [[universal-love-and-human-dignity]] | First published in 1936 and selling over 30 million copies worldwide, **Dale Carnegie's** *How to Win Friends and Influence People* (pp. 2–5) remains the timeless foundational primer on interpersonal goodwill, empathetic listening, and non-coercive leadership. |
-| **1936** | [[turk-sairleri-cilt-2]] | [[sadettin-nuzhet-ergun]] | [[ottoman-philology-and-literary-historiography]], [[poetry-and-poetics]], [[biography-memoir-and-intellectual-history]], [[turkish-folk-literature]] | [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[asik-and-minstrel-tradition]] | *Türk Şairleri, Cilt 2* ("Turkish Poets, Volume 2") is the second volume of literary historian Sadettin Nüzhet Ergun's ambitious, multi-volume biographical encyclopedia of Turkish poets across all regions, centuries, and poetic traditions—uniting classical Divan poets, Sufi *tekke* mystics (Mevlevî, Bektaşî, Hurufî), folk minstrels (*sazşairi*), and modern intellectuals within a single alphabetical archive. |
-| **1935** | [[the-story-of-civilization-vol-1-our-oriental-heritage]] | [[will-durant]], [[ariel-durant]] | [[world-history-macro-anthropology-and-ancient-civilizations]], [[comparative-religion-and-islamic-history]], [[classical-and-analytic-philosophy]] | [[bronze-age-collapse-big-history-and-civilizational-cycles]], [[evolution-of-human-consciousness]], [[islamic-golden-age-science-and-civilizational-transmission]] | Launching the Pulitzer Prize–winning eleven-volume *The Story of Civilization* (1935–1975)—represented in this library by the full 1,150-page PDF of **Volume I: *Our Oriental Heritage*** (1942 Simon & Schuster printing, p. |
-| **1927** | [[gandhi-my-experiments-with-truth]] | [[mahatma-gandhi]] | [[biography-memoir-and-intellectual-history]], [[ethics-and-value-philosophy]], [[comparative-democratic-history]] | [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]] | *An Autobiography, or The Story of My Experiments with Truth* (originally serialized in Gujarati in *Navajivan*, 1925–1929; translated into English by Mahadev Desai, Navajivan Publishing House / Gandhi Book Centre, 269 pp.) is [[mahatma-gandhi]]'s unflinchingly candid spiritual and political self-examination from his 1869 birth in Porbandar through the launch of India's non-cooperation movement in 1921 (source: BOOKS... |
-| **1926** | [[four-years-beneath-the-crescent]] | [[rafael-de-nogales]], [[muna-lee]] | [[turkish-republican-history-and-biographical-memoirs]], [[military-science]], [[biography-memoir-and-intellectual-history]] | [[late-ottoman-conflict-palestine-zionism-and-contested-memory]], [[ataturk-republican-founding-and-ottoman-turkish-memory]], [[counterinsurgency-mountain-warfare-and-classical-military-strategy]] | Written by Venezuelan soldier of fortune, polyglot, and decorated Ottoman cavalry officer **Rafael de Nogales Méndez** (1879–1936)—who served throughout World War I as Inspector-General of Turkish Forces in Armenia and Military Governor of Egyptian Sinai—and translated from Spanish by poet **Muna Lee** with an Introduction by British military observer **Lt.-Col. |
-| **1923** | [[reminiscences-of-a-stock-operator]] | [[edwin-lefevre]] | [[financial-history-banking-and-market-psychology]], [[biography-memoir-and-intellectual-history]], [[personal-finance-investing-and-capital-markets]] | [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]], [[capital-markets-investment-banking-and-personal-wealth-architecture]], [[rationality-and-decision-making]] | First published in 1923 by financial journalist **Edwin Lefèvre** (p. 7) as a thinly fictionalized first-person biography of legendary Wall Street speculator **Jesse Lauriston Livermore** ("Larry Livingston"), *Reminiscences of a Stock Operator* remains the undisputed classic of market psychology, tape-reading, and speculative risk management a century later. |
-| **1912** | [[hadji-murad]] | [[leo-tolstoy]] (Author); [[aylmer-maude]] (Translator) | [[historical-fiction]], [[world-classics-and-comparative-literature]], [[philosophical-fiction]] | [[counterinsurgency-mountain-warfare-and-classical-military-strategy]], [[moral-courage-nonviolent-resistance-and-transformative-biography]], [[social-critique-and-moral-conscience]] | Written in Tolstoy's mid-seventies and published posthumously in 1912 (here in Aylmer Maude's authoritative first English translation with historical preface and notes, pp. 9–22), *Hadji Murad* is widely acclaimed as one of the purest masterworks of short fiction ever composed. |
-| **1910** | [[rubab-i-sikeste]] | [[tevfik-fikret]] | [[poetry-and-poetics]], [[ottoman-philology-and-literary-historiography]], [[literary-criticism-and-modernism]] | [[ottoman-turkish-modernization-poetics-and-temporal-satire]], [[social-critique-and-moral-conscience]], [[universal-love-and-human-dignity]] | *Rübab-ı Şikeste* ("The Broken Lute") is the foundational poetry collection of the late-Ottoman *Servet-i Fünun* (Edebiyat-ı Cedîde) movement and one of the decisive turning points in Turkish literary modernity. This 1910 expanded post-Constitutional edition (*Yeni Tab'ı*, Tanin Matbaası, p. |
-| **1903** | [[the-sufistic-quatrains-of-omar-khayyam]] | [[omar-khayyam]] (Author); [[robert-arnot]] (Editor); [[edward-fitzgerald]], [[edward-henry-whinfield]], [[jean-baptiste-nicolas]] (Translators); [[edward-heron-allen]] (Analyst) | [[poetry-and-poetics]], [[world-classics-and-comparative-literature]], [[philosophical-fiction]] | [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | Edited by Robert Arnot for M. Walter Dunne's *Universal Classics Library* (1903, pp. 2–5), *The Sufistic Quatrains of Omar Khayyam* is a comprehensive comparative compendium assembling the three most influential 19th-century European interpretive lenses on the Nishapur astronomer-poet within a single volume: **Edward FitzGerald's** iconic poetic transcreation (1st edition plus variant tables across editions 2–5 and E... |
-| **1900** | [[ruyalari-yorumu-interpretation-of-dreams]] | [[sigmund-freud]], [[dilman-muradoglu]] | [[psychoanalysis-and-depth-psychology]], [[neuroscience-and-philosophy-of-mind]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[evolution-of-human-consciousness]] | Presented in **Dilman Muradoğlu**'s unabridged Turkish translation from the German original *Die Traumdeutung* (Say Yayınları, 649 pp., with James Strachey's introductory overview of Freud's life and thought, pp. 2–5), **Sigmund Freud**'s epochal 1900 masterwork inaugurated modern psychoanalysis and permanently altered twentieth-century psychology, literature, and cultural criticism. |
-| **1900** | [[the-philosophy-of-money]] | [[georg-simmel]] (Author); [[david-frisby]] (Editor & Co-Translator) | [[classical-and-institutional-economics]], [[ethics-and-value-philosophy]], [[financial-history-banking-and-market-psychology]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[social-critique-and-moral-conscience]], [[rationality-and-decision-making]] | First published in German in 1900 (*Philosophie des Geldes*) and presented here in David Frisby's authoritative 2004 Routledge third enlarged edition (pp. 3–4), **Georg Simmel's** *The Philosophy of Money* is a sociological and philosophical masterwork examining how the spread of the mature money economy reshapes human subjectivity, personal freedom, social trust, urban rhythm, and cultural meaning. |
-| **1900** | [[the-rubaiyat-of-omar-khayyam-batson-ross]] | [[omar-khayyam]] (Author); [[edward-fitzgerald]] (Translator); [[henrietta-m-batson]] (Commentator); [[edward-denison-ross]] (Biographical Introducer) | [[poetry-and-poetics]], [[world-classics-and-comparative-literature]], [[literary-criticism-and-modernism]] | [[persian-sufism-skepticism-and-comparative-translation]], [[social-critique-and-moral-conscience]] | Published by Methuen & Co. in London in 1900 (pp. 2–3), this annotated critical edition pairs **Edward FitzGerald's standard fifth-edition text** (101 quatrains) with two complementary scholarly essays: a rigorous Persian-historical **Biographical Introduction** by renowned Orientalist **Prof. E. Denison Ross** ("The Life and Times of Omar Khayyam," pp. |
-| **1898** | [[the-masnavi-whinfield]] | [[jalal-al-din-rumi]] (Author); [[edward-henry-whinfield]] (Translator & Annotator) | [[sufism-mysticism-and-rumi-studies]], [[poetry-and-poetics]], [[world-classics-and-comparative-literature]] | [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]], [[persian-sufism-skepticism-and-comparative-translation]], [[universal-love-and-human-dignity]] | Edward Henry Whinfield's 1898 edition of *The Masnavi: The Spiritual Couplets of Maulana Jalalu-'d-Din Muhammad Rumi* (p. 1) is the landmark Victorian scholarly abridgment that first made all six books of Rumi's epic poem accessible in a single annotated English volume. |
-| **1898** | [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]] | [[omar-khayyam]] (Author); [[edward-heron-allen]] (Translator & Editor) | [[poetry-and-poetics]], [[world-classics-and-comparative-literature]], [[ottoman-philology-and-literary-historiography]] | [[persian-sufism-skepticism-and-comparative-translation]], [[social-critique-and-moral-conscience]] | Edward Heron-Allen's 1898 edition of *The Ruba'iyat of Omar Khayyam* is a landmark of Victorian Orientalist textual scholarship and comparative philology. Published in a collector's limited print run by H. S. Nichols Ltd. in London (pp. 6, 11–12), it presents the complete photographic facsimile of **Ouseley MS. 140** in the Bodleian Library at Oxford—dated A.H. |
-| **1895** | [[bilimsel-bir-psikoloji-projesi-1895]] | [[sigmund-freud]], [[ibrahim-sahin-ates]] | [[psychoanalysis-and-depth-psychology]], [[neuroscience-and-philosophy-of-mind]] | [[unconscious-desire-lacanian-subject-and-somatic-healing]], [[neurobiology-of-consciousness-and-non-algorithmic-mind]] | Drafted feverishly in autumn 1895 for his confidant Wilhelm Fliess and unpublished during Freud's lifetime (first appearing in German as *Entwurf einer Psychologie* in 1950 and in James Strachey's *Standard Edition Vol. I*; translated into Turkish with German terminological footnotes and Appendix B by **İbrahim Şahin Ateş**, June 2022, 80 pp., pp. |
-| **1895** | [[the-decameron-volume-three]] | [[giovanni-boccaccio]] (Author); [[john-payne]] (Translator) | [[world-classics-and-comparative-literature]], [[historical-fiction]], [[philosophical-fiction]] | [[social-critique-and-moral-conscience]], [[universal-love-and-human-dignity]], [[orientalism-postcolonial-discourse-and-cultural-satire]] | This volume is **Volume Three** of John Payne's celebrated **1895 Florentine Edition** of Giovanni Boccaccio's *Decameron* (limited to 304 subscriber copies, illustrated after designs by Louis Chalon, Jacques Wagrez, C. D. J. Eisen, and Léopold Flameng, pp. 6–8). |
-| **1875** | [[the-worlds-sixteen-crucified-saviors]] | [[kersey-graves]] | [[comparative-religion-and-islamic-history]], [[philosophy-of-religion-secularism-and-apologetics]] | [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]], [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]], [[critique-of-academic-orthodoxy]] | First published in 1875 by nineteenth-century American Quaker freethinker and polemicist **Kersey Graves** (1813–1883; Global Grey 2018 edition, pp. 2–5; 352 pp.; consolidated with the 352-pp. duplicate in `Turkiye and Region/`), *The World's Sixteen Crucified Saviors* is a classic—and famously uncritical—artifact of nineteenth-century **Christ-mythicism** and radical comparative religion. |
-| **1865** | [[the-coal-question]] | [[william-stanley-jevons]] | [[classical-and-institutional-economics]], [[energy-policy-and-clean-tech-economics]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[energy-transition-and-storage-economics]], [[general-purpose-technologies-and-learning-by-doing]] | Published in 1865 by British economist and logician **William Stanley Jevons** (here in the revised 1866 2nd edition, pp. 1–4), *The Coal Question* is one of the earliest and most prophetic works of resource and energy economics. Opening with an epigraph from Adam Smith on the vitality of the "progressive state" (p. |
-| **1840** | [[democracy-in-america]] | [[alexis-de-tocqueville]] | [[political-science]], [[social-choice-theory]], [[republican-intellectual-history]], [[comparative-democratic-history]] | [[tyranny-of-the-majority-and-civil-associations]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]], [[institutional-neutrality-and-academic-freedom]], [[topological-social-choice-and-preference-cycles]] | *Democracy in America* (*De la démocratie en Amérique*, Volume I published in 1835; Volume II in 1840), written by French political philosopher and statesman [[alexis-de-tocqueville]] following his nine-month expedition across the United States in 1831–1832 with Gustave de Beaumont (and translated into English by Henry Reeve), stands as the foundational masterpiece of modern comparative political science and democrat... |
-| **1838** | [[confessions-of-saint-augustine]] | [[saint-augustine]], [[edward-b-pusey]] | [[classical-and-analytic-philosophy]], [[biography-memoir-and-intellectual-history]], [[philosophy-of-religion-secularism-and-apologetics]] | [[universal-love-and-human-dignity]], [[evolution-of-human-consciousness]], [[stoic-equanimity-dichotomy-of-control-and-self-mastery]] | Written between 397 and 400 CE by **Saint Augustine of Hippo** (354–430 CE) and presented here in **Edward B. Pusey**'s classic English translation (Christian Classics Ethereal Library, 392 pp., p. 2), *The Confessions* is both the foundational work of Western psychological autobiography and a towering treatise on memory, time, will, and divine grace. |
-| **1826** | [[the-last-man-volume-one]] | [[mary-shelley]] | [[speculative-fiction]], [[world-classics-and-comparative-literature]], [[philosophical-fiction]] | [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]], [[revolutionary-ambition-power-and-historical-legacy]], [[social-critique-and-moral-conscience]] | Published in 1826 by the author of *Frankenstein*, Mary Wollstonecraft Shelley's *The Last Man* is a pioneering work of futuristic political and apocalyptic science fiction, set in the late 21st century (2073–2100). This digitized volume contains the complete **Volume I** of the original three-volume first edition (Introduction, pp. i–xii, and Chapters I–X, pp. 1–358 / PDF pp. |
-| **1776** | [[the-wealth-of-nations]] | [[adam-smith]] | [[classical-and-institutional-economics]], [[political-science]], [[ethics-and-value-philosophy]] | [[inclusive-institutions-economic-thought-and-ecological-limits]], [[general-purpose-technologies-and-learning-by-doing]], [[political-intuitionism-administrative-state-and-capitalist-democracy]] | Published in March 1776, Scottish moral philosopher **Adam Smith's** *An Inquiry into the Nature and Causes of the Wealth of Nations* is the foundational text of modern political economy. |
-| **1532** | [[the-prince-machiavelli]] | [[niccolo-machiavelli]] (Author); [[harvey-c-mansfield]] (Translator & Introducer) | [[political-science]], [[strategic-studies]], [[world-classics-and-comparative-literature]] | [[power-realism-social-contagion-and-intentional-life-design]], [[westphalian-world-order-end-of-history-and-great-power-realism]], [[revolutionary-ambition-power-and-historical-legacy]] | Presented in Harvard political theorist **Harvey C. Mansfield's** gold-standard literal translation and critical introduction (2nd ed., 1998, University of Chicago Press, pp. 2–4), Florentine diplomat **Niccolò Machiavelli's** *The Prince* (*Il Principe*, composed 1513, published 1532) is the foundational text of modern political realism. |
+**Knowledge Base Architecture**: Andrej Karpathy LLM Wiki Pattern  
+**Local Ollama (`qwen3.8`) Engine**: [.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py](../.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)  
+**Interactive Dashboard**: [index.html](../index.html)  
+**Operations Log**: [wiki/log.md](log.md)  
+**Total Ingested Works**: 471 Books  
+**Total Authors**: 658 Authors  
+**Total Genres**: 88 Genres  
+**Total Thematic Syntheses**: 105 Themes  
+**Total Wiki Entity Pages**: 1322 Pages  
+**Last updated**: 2026-11-24
 
 ---
 
-## Authors & Contributors (613)
+## 1. Books & Monograph Syntheses (471)
 
-| Author | Eras / Movements | Primary Genres | Works in Wiki |
-| :--- | :--- | :--- | :--- |
-| [[a-a-long]] |  |  |  |
-| [[a-j-arberry]] |  |  |  |
-| [[adam-grant]] |  |  |  |
-| [[adam-smith]] |  |  |  |
-| [[adi-ignatius]] |  |  |  |
-| [[adrian-stan]] | 21st-Century Mathematical Physics, Condensed-Matter Theory & Hilbert Space Methods | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]] | [[mathematical-foundations-of-quantum-physics]] |
-| [[aeilko-h-zwinderman]] | Late 20th & 21st-Century Medical Epidemiology, Bioinformatics & Clinical Trial Statistics | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[evolutionary-biology]] | [[machine-learning-in-medicine-a-complete-overview]] |
-| [[afet-inan]] |  |  |  |
-| [[afzal-iqbal]] |  |  |  |
-| [[ahmet-hamdi-tanpinar]] |  |  |  |
-| [[alain-f-zuur]] | 21st-Century Ecological Biostatistics, R Statistical Computing & Mixed Effects Modeling | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[educational-technology-and-disruptive-pedagogy]] | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] |
-| [[alain-mermoud]] | 21st-Century Technology Intelligence, Cyber Strategy & Threat Forecasting | [[cybersecurity-and-digital-forensics]], [[artificial-intelligence-and-machine-learning]], [[security-studies]] | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] |
-| [[alan-eagle]] |  |  |  |
-| [[alan-r-zimmerman]] |  |  |  |
-| [[alan-smith-strategyzer]] |  |  |  |
-| [[alejandro-cremades]] |  |  |  |
-| [[aleksandra-evelyn-petkovic]] |  |  |  |
-| [[alex-bailey]] | Contemporary Organizational Psychology, Positive Psychology at Work, and Cultural Rewilding | [[organizational-psychology]], [[leadership-and-management]] | [[rapid-reculturing]], [[kerri-oneill]] |
-| [[alex-oconnor]] | 21st-Century K–12 Mathematics Enrichment & Problem-Based Classroom Instruction | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[501-math-word-problems-and-middle-school-math-challenges]] |
-| [[alex-r-piquero]] | Developmental & Life-Course Criminology, Quantitative Criminal Justice & Public Policy | [[law-and-quantitative-criminology]], [[social-choice-theory]], [[political-science]] | [[handbook-of-quantitative-criminology]] |
-| [[alex-wilner]] | Contemporary Deterrence, Emerging Tech, Artificial Intelligence in Warfare | [[strategic-studies]], [[security-studies]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[alexander-kolpakov]] | Urban Transportation Policy, Fleet Electrification & Micromobility Governance | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[public-policy-and-urban-mobility]] | [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] |
-| [[alexander-osterwalder]] |  |  |  |
-| [[alexey-arbatov]] | Soviet/Russian Arms Control, Nuclear Non-Proliferation, International Security | [[strategic-studies]], [[international-relations]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[alexis-de-tocqueville]] | 19th-Century French Classical Liberalism, Comparative Political Sociology, and Democratic Theory | [[political-science]], [[comparative-democratic-history]], [[republican-intellectual-history]], [[social-choice-theory]] | [[democracy-in-america]] |
-| [[ali-cimen]] |  |  |  |
-| [[ali-mithat-inan]] |  |  |  |
-| [[ammar-rayes]] | 21st-Century Internet of Things, Network Analytics & Cyber-Physical Systems | [[internet-of-things-and-edge-computing]], [[cloud-computing-and-distributed-systems]], [[cybersecurity-and-digital-forensics]] | [[internet-of-things-from-hype-to-reality]] |
-| [[amy-c-edmondson]] | Contemporary Organizational Behavior, Psychological Safety, and Teaming | [[organizational-psychology]], [[leadership-and-management]] | [[leading-for-tomorrow]], [[hbr-women-at-work-collection]], [[hbr-at-100]] |
-| [[andreas-krause]] | 21st-Century Probabilistic Machine Learning, Submodular Optimization & Safe RL | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[game-theory]] | [[probabilistic-artificial-intelligence]] |
-| [[andrei-kucharavy]] | 21st-Century LLM Security, Neural Network Interpretability & Swiss Cyber Defense | [[cybersecurity-and-digital-forensics]], [[artificial-intelligence-and-machine-learning]], [[security-studies]] | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] |
-| [[andrew-s-grove]] |  |  |  |
-| [[anindya-sarkar]] | 21st-Century Isotope Geochemistry, Paleoclimatology & Geoarchaeology | [[paleoclimatology]], [[archaeological-historiography]], [[alternative-archaeology]] | [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]] |
-| [[anke-hilbrenner]] |  |  |  |
-| [[antonia-waltermann]] | Legal Theory, Constitutional Jurisprudence & Public Law | [[law-and-quantitative-criminology]], [[political-science]], [[republican-intellectual-history]] | [[introduction-to-law]] |
-| [[archie-brown]] |  |  |  |
-| [[ari-inan]] |  |  |  |
-| [[ariel-durant]] |  |  |  |
-| [[arif-acaloglu]] |  |  |  |
-| [[arthur-koestler]] |  |  |  |
-| [[arun-gupta]] |  |  |  |
-| [[aryanne-oade]] |  |  |  |
-| [[ashlee-vance]] |  |  |  |
-| [[ashley-dawson]] | Postcolonial Cultural Studies, Black British Literature & Environmental Humanities | [[postcolonial-and-diaspora-studies]], [[political-science]], [[poetry-and-poetics]] | [[mongrel-nation-colonization-in-reverse]] |
-| [[asik-borani]] | [[turkish-folk-literature]], Contemporary Minstrel Tradition (*Âşıklık Geleneği*), [[anatolian-humanism]], Social Realism (*Toplumcu Gerçekçilik*) | [[turkish-folk-literature]], [[anatolian-humanism]], [[poetry-and-poetics]] | [[asik-borani-soz-insanin-aynasi]] |
-| [[atif-kureishy]] | 21st-Century Enterprise Deep Learning, Teradata Think Big Analytics & Applied AI | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] |
-| [[aylmer-maude]] |  |  |  |
-| [[ayse-cevirici-cagin]] |  |  |  |
-| [[barry-michels]] |  |  |  |
-| [[ben-casnocha]] |  |  |  |
-| [[ben-horowitz]] |  |  |  |
-| [[ben-mackenzie]] | 21st-Century Computer Vision, Deep Learning Engineering & Cloud AI | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] |
-| [[benjamin-isakhan]] | 21st-Century Post-Eurocentric Democratic Historiography & Middle Eastern Politics | [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]] | [[the-secret-history-of-democracy-primitive-democracy]] |
-| [[benjamin-moser]] |  |  |  |
-| [[berat-albayrak]] | 21st-Century Turkish Energy Geopolitics, Infrastructure Localization & Macroeconomic Policy | [[energy-policy-and-clean-tech-economics]], [[political-science]], [[strategic-studies]] | [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] |
-| [[bernard-f-rogers-jr]] | Interwar International Photojournalism / National Geographic Society | [[anatolian-civilizations]], [[republican-intellectual-history]], [[archaeological-historiography]] | [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] |
-| [[bernd-meibohm]] | 21st-Century Pharmacokinetics, Pharmacodynamics & Biopharmaceutical Sciences | [[biotechnology-medicine-and-longevity]], [[evolutionary-biology]] | [[pharmaceutical-biotechnology-fundamentals-and-applications]] |
-| [[beverly-e-jones]] |  |  |  |
-| [[blake-masters]] |  |  |  |
-| [[bob-dorf]] |  |  |  |
-| [[bowen-white]] | 21st-Century Private Equity, Institutional LP Investing & Alternative Assets | [[private-equity-and-venture-capital]] | [[mastering-private-equity]] |
-| [[brad-feld]] |  |  |  |
-| [[bram-akkermans]] | Comparative European Property & Private Law | [[law-and-quantitative-criminology]], [[political-science]], [[republican-intellectual-history]] | [[introduction-to-law]] |
-| [[brant-cooper]] |  |  |  |
-| [[brendan-burns]] | 21st-Century Cloud-Native Distributed Systems & Container Orchestration | [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]] | [[kubernetes-up-and-running]] |
-| [[brent-adamson]] | B2B Commercial Strategy, Consensus Buying & Commercial Teaching | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[leadership-and-management]] | [[the-challenger-sale-challenge-yourself-action-book]] |
-| [[brian-solis]] | 21st-Century Digital Anthropology, AI Business Reinvention & Enterprise Strategy | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] |
-| [[bugra-atasayar]] |  |  |  |
-| [[burak-dalgin]] |  |  |  |
-| [[burcu-alver]] |  |  |  |
-| [[burhan-oguz]] |  |  |  |
-| [[burzine-k-waghmar]] |  |  |  |
-| [[c-bradford-welles]] |  |  |  |
-| [[c-h-oldfather]] |  |  |  |
-| [[cal-newport]] |  |  |  |
-| [[carlye-adler]] | 21st-Century Business Journalism, Tech Entrepreneurship & Corporate Philanthropy | [[saas-and-subscription-business-models]], [[leadership-and-management]] | [[behind-the-cloud]] |
-| [[cb-insights-research]] | 21st-Century Technology Market Intelligence, Healthcare Disruption & Platform Strategy | [[biotechnology-medicine-and-longevity]], [[innovation-and-economic-growth]], [[cloud-computing-and-distributed-systems]] | [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] |
-| [[cecilia-kang]] |  |  |  |
-| [[cemal-granda]] |  |  |  |
-| [[cemal-sureya]] |  |  |  |
-| [[chad-meley]] | 21st-Century Enterprise AI Strategy & Analytics Marketing | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] |
-| [[charles-duhigg]] |  |  |  |
-| [[chip-cummings]] |  |  |  |
-| [[chris-miller]] | 21st-Century Technological Geopolitics, Economic Statecraft & Cold War History | [[strategic-studies]], [[security-studies]], [[international-relations]], [[military-science]] | [[chip-war-the-fight-for-the-worlds-most-critical-technology]] |
-| [[chris-shipley]] | Silicon Valley Technology Foresight, Innovation Ecosystems, and Future-Ready Leadership | [[leadership-and-management]], [[organizational-psychology]], [[strategic-studies]] | [[leading-for-tomorrow]], [[scott-barry-kaufman]] |
-| [[chris-voss]] |  |  |  |
-| [[chris-yeh]] |  |  |  |
-| [[christina-lamb]] |  |  |  |
-| [[christoph-schuringa]] |  |  |  |
-| [[christoph-stuckelberger]] | 21st-Century Global Ethics, Applied Virtue Ethics & Higher Education Integrity | [[ethics-and-value-philosophy]], [[leadership-and-management]], [[international-relations]], [[educational-technology-and-disruptive-pedagogy]] | [[global-ethics-for-leadership-values-and-virtues-for-life]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]] |
-| [[christopher-i-beckwith]] |  |  |  |
-| [[christopher-mirabile]] |  |  |  |
-| [[claire-hoy]] |  |  |  |
-| [[claudia-zeisberger]] | 21st-Century Institutional Private Equity, Venture Capital & Corporate Governance | [[private-equity-and-venture-capital]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[mastering-private-equity]] |
-| [[clayton-m-christensen]] | Disruptive Innovation Theory, Jobs-to-Be-Done & Public Sector Transformation | [[educational-technology-and-disruptive-pedagogy]], [[innovation-and-economic-growth]], [[organizational-psychology]], [[leadership-and-management]] | [[the-innovators-dilemma]], [[the-prosperity-paradox]], [[how-will-you-measure-your-life]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[blended-using-disruptive-innovation-to-improve-schools]] |
-| [[clifford-t-bekar]] | Economic History, Institutional Evolution & General Purpose Technologies | [[innovation-and-economic-growth]], [[political-science]], [[archaeological-historiography]] | [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] |
-| [[coleman-barks]] |  |  |  |
-| [[colin-barrow]] |  |  |  |
-| [[colin-murphy]] | Shared-Use Urban Mobility, Public Transit Integration & Transportation Equity | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[public-policy-and-urban-mobility]] | [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] |
-| [[conrad-carlberg]] |  |  |  |
-| [[cormac-gallagher]] |  |  |  |
-| [[craig-smith]] |  |  |  |
-| [[craig-unger]] |  |  |  |
-| [[curtis-w-johnson]] | Public Education Reform, Charter Governance & Civic Innovation | [[educational-technology-and-disruptive-pedagogy]], [[innovation-and-economic-growth]], [[organizational-psychology]] | [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]] |
-| [[d-s-hutchinson]] |  |  |  |
-| [[daan-j-a-crommelin]] | 20th/21st-Century Pharmaceutical Biotechnology, Biologics Formulation & Drug Delivery | [[biotechnology-medicine-and-longevity]], [[evolutionary-biology]] | [[pharmaceutical-biotechnology-fundamentals-and-applications]] |
-| [[dale-bishop]] |  |  |  |
-| [[dale-carnegie]] |  |  |  |
-| [[daniel-c-dennett]] |  |  |  |
-| [[daniel-goleman]] |  |  |  |
-| [[daniel-kahneman]] |  |  |  |
-| [[daniel-kirsch]] | 21st-Century Enterprise Data Science, Hybrid Cloud & Algorithmic Governance | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[leadership-and-management]] | [[machine-learning-for-dummies-ibm-limited-edition]] |
-| [[daniel-kokotajlo]] | 21st-Century AI Forecasting, AGI Governance & Superalignment Research | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[ai-2027]] |
-| [[daniel-miller]] | 21st-Century Digital Anthropology, Material Culture & Global Social Media Ethnography | [[cultural-and-digital-anthropology]], [[media-economics-and-entertainment-science]] | [[digital-anthropology]] |
-| [[daron-acemoglu]] |  |  |  |
-| [[dave-wright]] | 21st-Century Enterprise Cloud Architecture, Agentic Workflows & ServiceNow Innovation | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] |
-| [[david-baum]] | 21st-Century Cloud Security Architecture, SIEM Modernization & Data Engineering | [[cybersecurity-and-digital-forensics]], [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]] | [[deploying-a-modern-security-data-lake]] |
-| [[david-beyer]] | 21st-Century Venture Capital, Machine Intelligence & Applied Deep Learning | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]] |
-| [[david-bohm]] |  |  |  |
-| [[david-cancel]] | 21st-Century Customer-Driven Product Leadership, Conversational Marketing & SaaS | [[saas-and-subscription-business-models]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]] |
-| [[david-christian]] |  |  |  |
-| [[david-frisby]] |  |  |  |
-| [[david-g-winter]] |  |  |  |
-| [[david-gorman]] | Enterprise Distributed Systems & Permissioned Blockchain Engineering | [[blockchain-and-decentralized-finance]], [[strategic-studies]], [[leadership-and-management]] | [[getting-started-with-enterprise-blockchain]] |
-| [[david-graeber]] |  |  |  |
-| [[david-h-cropley]] |  |  |  |
-| [[david-mclellan]] |  |  |  |
-| [[david-o-robinson]] |  |  |  |
-| [[david-owen]] |  |  |  |
-| [[david-p-stowell]] |  |  |  |
-| [[david-s-kidder]] |  |  |  |
-| [[david-w-anthony]] |  |  |  |
-| [[david-weisburd]] | Experimental Criminology, Crime and Place ('Law of Crime Concentration') & Hot-Spots Policing | [[law-and-quantitative-criminology]], [[social-choice-theory]], [[political-science]] | [[handbook-of-quantitative-criminology]] |
-| [[david-wells]] |  |  |  |
-| [[david-wengrow]] |  |  |  |
-| [[dean-cheng]] | Chinese Military Studies, PLA Doctrine, Indo-Pacific Security | [[strategic-studies]], [[military-science]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[derric-gilling]] | 21st-Century API Analytics, Usage-Based Monetization & Developer Observability | [[cloud-computing-and-distributed-systems]], [[saas-and-subscription-business-models]] | [[api-strategy-for-decision-makers]] |
-| [[didier-anzieu]] |  |  |  |
-| [[dilman-muradoglu]] |  |  |  |
-| [[dinesh-kulkarni]] | 21st-Century Cloud Data Sharing, Data Marketplaces & Distributed SaaS | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]] | [[architecting-data-intensive-saas-applications]] |
-| [[diodorus-siculus]] |  |  |  |
-| [[divya-singh]] | Higher Education Governance, Legal Ethics & Distance Learning in Southern Africa | [[ethics-and-value-philosophy]], [[educational-technology-and-disruptive-pedagogy]], [[leadership-and-management]] | [[ethics-in-higher-education-values-driven-leaders-for-the-future]] |
-| [[dmitry-adamsky]] | Russian Military Studies, Strategic Culture, Nuclear Strategy | [[strategic-studies]], [[military-science]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[doga-dernegi-researchers]] | 21st-Century Anatolian Conservation Biology, Key Biodiversity Areas & Environmental Policy | [[anatolian-civilizations]], [[evolutionary-biology]], [[public-policy-and-urban-mobility]] | [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]] |
-| [[dominique-hecq]] |  |  |  |
-| [[dominique-levin]] | 21st-Century SaaS Customer Success, Net Revenue Retention & Post-Sale Growth | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]], [[leadership-and-management]] | [[the-saas-sales-method-for-customer-success-and-account-managers]] |
-| [[don-miguel-ruiz]] |  |  |  |
-| [[donald-d-hoffman]] |  |  |  |
-| [[donald-j-trump]] |  |  |  |
-| [[dorling-kindersley]] |  |  |  |
-| [[duncan-mavin]] |  |  |  |
-| [[dylan-evans]] |  |  |  |
-| [[e-f-schumacher]] |  |  |  |
-| [[eckhard-neubauer]] |  |  |  |
-| [[eckhart-tolle]] |  |  |  |
-| [[edward-b-pusey]] |  |  |  |
-| [[edward-denison-ross]] |  |  |  |
-| [[edward-fitzgerald]] |  |  |  |
-| [[edward-henry-whinfield]] |  |  |  |
-| [[edward-heron-allen]] |  |  |  |
-| [[edward-w-said]] |  |  |  |
-| [[edwin-lefevre]] |  |  |  |
-| [[efosa-ojomo]] |  |  |  |
-| [[egemen-yilgur]] |  |  |  |
-| [[einar-hille]] | 20th-Century Functional Analysis, Operator Semigroups & Classical Analysis | [[pure-and-applied-mathematics]] | [[calculus-one-and-several-variables]] |
-| [[eitan-shamir]] | Middle Eastern Security, Irregular Warfare, Command Culture | [[strategic-studies]], [[military-science]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[ekrem-akurgal]] | Classical and Anatolian Archaeology, Republican Enlightenment, Greco-Anatolian Synthesis | [[anatolian-civilizations]], [[archaeological-historiography]] | [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]], [[erdal-polat]] |
-| [[elena-n-ieno]] | 21st-Century Marine Biology, Ecological Data Analysis & R Statistical Pedagogy | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[educational-technology-and-disruptive-pedagogy]] | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] |
-| [[eli-lifland]] | 21st-Century Superforecasting & Quantitative AI Trajectory Modeling | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[ai-2027]] |
-| [[eli-m-noam]] | Media Economics, Telecommunications Policy & Digital Information Management | [[media-economics-and-entertainment-science]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[media-and-digital-management]] |
-| [[elias-canetti]] | Interwar Viennese Analytic Modernism & 20th-Century Social Philosophy (1981 Nobel Prize in Literature) | [[literary-criticism-and-modernism]], [[philosophical-fiction]], [[republican-intellectual-history]] | [[the-end-of-modernism-elias-canettis-auto-da-fe]] |
-| [[erdal-polat]] | Turkish Republican Historiography, History of Science, Cultural Heritage Studies | [[archaeological-historiography]], [[anatolian-civilizations]], [[republican-intellectual-history]] | [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] |
-| [[eric-h-cline]] |  |  |  |
-| [[eric-jorgenson]] |  |  |  |
-| [[eric-r-kandel]] | Molecular Neurobiology of Memory, Neuroaesthetics & Bridging the Two Cultures (2000 Nobel Prize in Physiology or Medicine) | [[neuroscience-and-philosophy-of-mind]], [[anthropology-of-consciousness]], [[poetry-and-poetics]] | [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]] |
-| [[eric-ries]] |  |  |  |
-| [[eric-schmidt]] |  |  |  |
-| [[eric-steven-raymond]] |  |  |  |
-| [[eric-tyson]] |  |  |  |
-| [[eric-w-robinson]] | Contemporary Classical Greek Constitutional & Political Historiography | [[comparative-democratic-history]], [[political-science]], [[archaeological-historiography]] | [[the-first-democracies-early-popular-government-outside-athens]] |
-| [[erik-h-w-g-meesters]] | 21st-Century Marine Ecosystem Modeling & R Statistical Programming | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[educational-technology-and-disruptive-pedagogy]] | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] |
-| [[erik-mooi]] |  |  |  |
-| [[esther-mugerditchian]] |  |  |  |
-| [[ethan-mollick]] | 21st-Century Generative AI Collaboration, Wharton Innovation & Disruptive Pedagogy | [[artificial-intelligence-and-machine-learning]], [[leadership-and-management]], [[educational-technology-and-disruptive-pedagogy]] | [[co-intelligence-living-and-working-with-ai]] |
-| [[eyup-akman]] |  |  |  |
-| [[farid-ud-din-attar]] |  |  |  |
-| [[fernando-pizarro]] | 21st-Century SaaS Sales Operations, Revenue Blueprints & B2B Growth | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]] | [[blueprints-for-a-saas-sales-organization]], [[the-saas-sales-method-for-customer-success-and-account-managers]] |
-| [[firoozeh-dumas]] |  |  |  |
-| [[flexera-research]] | 21st-Century Enterprise IT Asset Management, FinOps & Cloud Spend Governance | [[cloud-computing-and-distributed-systems]], [[saas-and-subscription-business-models]], [[leadership-and-management]] | [[state-of-it-asset-management-2022]] |
-| [[frances-hazlitt]] |  |  |  |
-| [[francesc-miralles]] | 21st-Century Personal Development, Existential Psychology & Literary Journalism | [[biotechnology-medicine-and-longevity]], [[organizational-psychology]], [[ethics-and-value-philosophy]] | [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] |
-| [[francesco-giumelli]] | International Sanctions, Coercive Diplomacy, European Foreign Policy | [[international-relations]], [[security-studies]], [[political-science]] | [[deterrence-in-the-21st-century]] |
-| [[francis-fukuyama]] |  |  |  |
-| [[frank-mclynn]] |  |  |  |
-| [[frans-johansson]] | 21st-Century Intersectional Innovation, Diversity-Driven Creativity & Strategic Entrepreneurship | [[innovation-and-economic-growth]], [[leadership-and-management]], [[organizational-psychology]] | [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]] |
-| [[frans-osinga]] | Contemporary [[strategic-studies]], Military Theory, Modern Air Power & Operational Art | [[strategic-studies]], [[military-science]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[frederic-bibard]] |  |  |  |
-| [[fredric-jameson]] | Western Marxism, Critical Theory & Postmodern Cultural Studies | [[philosophy-and-poetics-of-music]], [[political-science]], [[social-choice-theory]] | [[noise-the-political-economy-of-music]] |
-| [[fuat-sezgin]] |  |  |  |
-| [[garret-j-etgen]] | 20th/21st-Century Differential Equations & University Mathematics Education | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[calculus-one-and-several-variables]] |
-| [[gary-marchant]] | Science & Technology Law, Regulatory Governance & National Academies Energy Policy | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[public-policy-and-urban-mobility]] | [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] |
-| [[gary-r-gruber]] |  |  |  |
-| [[geoffrey-a-moore]] |  |  |  |
-| [[georg-simmel]] |  |  |  |
-| [[georgi-mihailov]] |  |  |  |
-| [[gilit-saporta]] | 21st-Century Fintech Fraud Intelligence, AML Analytics & Adversarial Data Science | [[cybersecurity-and-digital-forensics]], [[data-science-and-scientific-computing]], [[cloud-computing-and-distributed-systems]] | [[practical-fraud-prevention]] |
-| [[giovanni-boccaccio]] |  |  |  |
-| [[gjorgji-georgievski]] | 21st-Century Cloud Data Pipelines, Streaming Ingestion & SaaS Architecture | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]] | [[architecting-data-intensive-saas-applications]] |
-| [[glenn-kreisberg]] | North American Archaeoastronomy, Megalithic Research, Radio Archaeology | [[alternative-archaeology]], [[archaeoastronomy]], [[esoteric-history]] | [[lost-knowledge-of-the-ancients]] |
-| [[graham-hancock]] | Contemporary Alternative Archaeology, Catastrophism, Revisionist Prehistory, Investigative Non-Fiction | [[alternative-archaeology]], [[archaeoastronomy]], [[investigative-non-fiction]], [[historical-fiction]], [[anthropology-of-consciousness]] | [[fingerprints-of-the-gods]], [[keeper-of-genesis]], [[robert-bauval]], [[the-mars-mystery]], [[robert-bauval]], [[john-grigsby]], [[underworld-mysterious-origins-of-civilization]], [[supernatural-meetings-with-the-ancient-teachers-of-mankind]], [[the-master-game]], [[robert-bauval]], [[war-god-nights-of-the-witch]], [[magicians-of-the-gods]], [[america-before-the-key-to-earths-lost-civilization]], [[lost-knowledge-of-the-ancients]], [[glenn-kreisberg]] |
-| [[greg-bernarda]] |  |  |  |
-| [[gregory-hays]] |  |  |  |
-| [[guenter-lewy]] |  |  |  |
-| [[hakki-yirtici]] |  |  |  |
-| [[hambleton-lord]] |  |  |  |
-| [[hanri-benazus]] |  |  |  |
-| [[hans-peters]] |  |  |  |
-| [[harm-f-de-vries]] |  |  |  |
-| [[harry-kalven-jr]] | Mid-20th Century American Legal Realism & Civil Liberties | [[political-science]], [[republican-intellectual-history]] | [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]] |
-| [[harvard-business-review-editorial]] |  |  |  |
-| [[harvey-c-mansfield]] |  |  |  |
-| [[heather-a-horst]] | 21st-Century Digital Anthropology, Media Ethnography & Material Culture | [[cultural-and-digital-anthropology]], [[media-economics-and-entertainment-science]] | [[digital-anthropology]] |
-| [[heather-staker]] | Blended Learning Taxonomy & Student-Centered School Design | [[educational-technology-and-disruptive-pedagogy]], [[leadership-and-management]], [[organizational-psychology]] | [[blended-using-disruptive-innovation-to-improve-schools]] |
-| [[hector-garcia]] | 21st-Century Japanese Culture, Longevity Journalism & Applied Philosophy | [[biotechnology-medicine-and-longevity]], [[organizational-psychology]], [[ethics-and-value-philosophy]] | [[ikigai-the-japanese-secret-to-a-long-and-happy-life]] |
-| [[helio-fred-garcia]] | Contemporary Crisis Management, Executive Rhetoric, and Strategic Communication | [[strategic-communication]], [[leadership-and-management]], [[strategic-studies]] | [[influencing-leaders]], [[james-e-lukaszewski]] |
-| [[henrietta-m-batson]] |  |  |  |
-| [[henry-cloud]] |  |  |  |
-| [[henry-ernest-dudeney]] |  |  |  |
-| [[henry-hazlitt]] |  |  |  |
-| [[henry-kissinger]] |  |  |  |
-| [[henry-p-stapp]] | 20th/21st-Century Quantum Foundations, S-Matrix Theory & Quantum Mind-Brain Physics | [[theoretical-physics-and-cosmology]], [[neuroscience-and-philosophy-of-mind]], [[anthropology-of-consciousness]] | [[mind-matter-and-quantum-mechanics]] |
-| [[hikmet-kivilcimli]] |  |  |  |
-| [[hovhannes-kajaznuni]] |  |  |  |
-| [[hugh-everett-iii]] | 20th-Century Quantum Foundations, Many-Worlds Interpretation & Operations Research | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[neuroscience-and-philosophy-of-mind]] | [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]] |
-| [[hulya-apaydin]] | 21st-Century Clinical Neurology, Movement Disorders & Patient Education (Türkiye) | [[biotechnology-medicine-and-longevity]], [[neuroscience-and-philosophy-of-mind]] | [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] |
-| [[hyun-jin-kim]] |  |  |  |
-| [[iain-staffell]] | Sustainable Energy Systems, Power Grid Decarbonization & Techno-Economic Modeling | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[strategic-studies]] | [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] |
-| [[ian-livingstone]] |  |  |  |
-| [[ian-mcewan]] |  |  |  |
-| [[ibn-fadlan]] |  |  |  |
-| [[ibrahim-gosterir]] | Contemporary Turkish Folklore, Folk Literature Scholarship, Cultural Anthropology | [[turkish-folk-literature]], Cultural Studies, Lexicography | [[asik-borani-soz-insanin-aynasi]] |
-| [[ibrahim-sahin-ates]] |  |  |  |
-| [[if-epfcl-editorial]] |  |  |  |
-| [[igor-yevgenyevich-irodov]] | 20th-Century Soviet Physics Education & Analytical Problem-Solving | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[problems-in-general-physics]] |
-| [[ilan-pappe]] |  |  |  |
-| [[ilber-ortayli]] |  |  |  |
-| [[imam-al-ghazali]] |  |  |  |
-| [[irakli-nadareishvili]] | 21st-Century Microservices, Distributed Data & Engineering Leadership | [[cloud-computing-and-distributed-systems]], [[leadership-and-management]] | [[microservices-up-and-running]] |
-| [[irma-mooi-reci]] |  |  |  |
-| [[isabelle-duyvesteyn]] | Modern History of War, Strategic Culture, Terrorism & Insurgency | [[strategic-studies]], [[international-relations]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[ismail-zileli]] | 21st-Century Neurological Physiotherapy & Functional Rehabilitation | [[biotechnology-medicine-and-longevity]], [[neuroscience-and-philosophy-of-mind]] | [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] |
-| [[j-eric-oliver]] |  |  |  |
-| [[j-michael-spector]] | Instructional Systems Design, Complex Learning Assessment & Educational Technology | [[educational-technology-and-disruptive-pedagogy]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[educational-technology-a-primer-for-the-21st-century]] |
-| [[jaap-hage]] | Philosophy of Law, Legal Logic, Artificial Intelligence & Comparative Jurisprudence | [[law-and-quantitative-criminology]], [[political-science]], [[republican-intellectual-history]] | [[introduction-to-law]] |
-| [[jacco-van-der-kooij]] | 21st-Century Revenue Architecture, Recurring-Revenue Science & SaaS Sales | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]], [[leadership-and-management]] | [[blueprints-for-a-saas-sales-organization]], [[the-saas-sales-method-for-customer-success-and-account-managers]] |
-| [[jacques-alain-miller]] |  |  |  |
-| [[jacques-attali]] | 20th/21st-Century French Political Economy, Critical Theory & Futurology | [[philosophy-and-poetics-of-music]], [[political-science]], [[social-choice-theory]] | [[noise-the-political-economy-of-music]] |
-| [[jacques-lacan]] |  |  |  |
-| [[jalal-al-din-rumi]] |  |  |  |
-| [[jalil-mammadguluzadeh]] |  |  |  |
-| [[james-a-robinson]] |  |  |  |
-| [[james-allworth]] |  |  |  |
-| [[james-bessen]] | Economics of Technological Change, Labor Markets, Software Patents & AI Policy | [[innovation-and-economic-growth]], [[political-science]], [[leadership-and-management]] | [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]] |
-| [[james-cheo]] |  |  |  |
-| [[james-ciuffetelli]] | 21st-Century Private Equity Value Creation, Pricing & Exit Transformation | [[private-equity-and-venture-capital]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[the-ultimate-private-equity-playbook]] |
-| [[james-e-lukaszewski]] | Late 20th – Early 21st Century Crisis Management, Executive Advisory, and Strategic Communication | [[strategic-communication]], [[leadership-and-management]], [[strategic-studies]] | [[influencing-leaders]], [[helio-fred-garcia]] |
-| [[james-joyce]] |  |  |  |
-| [[jamie-thomson]] |  |  |  |
-| [[janice-j-terry]] |  |  |  |
-| [[jason-mendelson]] |  |  |  |
-| [[jawid-mojaddedi]] |  |  |  |
-| [[jay-abramson]] | 21st-Century Open Educational Resources (OER) & Undergraduate Mathematics Pedagogy | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[precalculus-openstax]] |
-| [[jay-heinrichs]] |  |  |  |
-| [[jay-samit]] |  |  |  |
-| [[jean-baptiste-nicolas]] |  |  |  |
-| [[jeffrey-bussgang]] |  |  |  |
-| [[jen-sincero]] |  |  |  |
-| [[jenny-loveless]] |  |  |  |
-| [[jeremy-harwood]] |  |  |  |
-| [[jerrold-m-post]] |  |  |  |
-| [[jerry-i-porras]] |  |  |  |
-| [[jim-collins]] |  |  |  |
-| [[jiu-hwa-lo-upshur]] |  |  |  |
-| [[jo-hands]] | 21st-Century Private Equity Operational Transformation & Commercial Strategy | [[private-equity-and-venture-capital]], [[leadership-and-management]] | [[the-ultimate-private-equity-playbook]] |
-| [[joan-marques]] |  |  |  |
-| [[jochen-pade]] | 21st-Century Quantum Mechanics Pedagogy & Theoretical Physics Education | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[quantum-mechanics-for-pedestrians]] |
-| [[joe-beda]] | 21st-Century Cloud-Native Distributed Systems & Container Orchestration | [[cloud-computing-and-distributed-systems]] | [[kubernetes-up-and-running]] |
-| [[joe-knight]] |  |  |  |
-| [[johannes-friedrich]] |  |  |  |
-| [[john-a-tracy]] |  |  |  |
-| [[john-anthony-west]] | Symbolist Egyptology, Esoteric Philosophy, Sphinx Re-dating | [[alternative-archaeology]], [[esoteric-history]], [[archaeological-historiography]] | [[lost-knowledge-of-the-ancients]], [[keeper-of-genesis]], [[fingerprints-of-the-gods]] |
-| [[john-bolton]] |  |  |  |
-| [[john-case]] |  |  |  |
-| [[john-grigsby]] | Archaeoastronomy, Comparative Mythology, Planetary Catastrophism | [[planetary-science-speculation]], [[alternative-archaeology]] | [[the-mars-mystery]], [[graham-hancock]], [[robert-bauval]] |
-| [[john-hunt]] | 21st-Century Python 3 Software Engineering, Functional/Concurrent Architecture & Data Analytics | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[educational-technology-and-disruptive-pedagogy]] | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] |
-| [[john-j-mearsheimer]] |  |  |  |
-| [[john-keane]] | 21st-Century Global Democratic Theory & Post-Westminster Institutional Analysis | [[comparative-democratic-history]], [[political-science]], [[social-choice-theory]] | [[the-life-and-death-of-democracy-and-monitory-democracy]], [[the-secret-history-of-democracy-primitive-democracy]] |
-| [[john-m-cooper]] |  |  |  |
-| [[john-moyne]] |  |  |  |
-| [[john-payne]] |  |  |  |
-| [[john-sanei]] | 21st-Century Futures Strategy, Applied Neuroscience, and Adaptive Leadership | [[leadership-and-management]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[the-adaptability-advantage]] |
-| [[john-townsend]] |  |  |  |
-| [[jonas-hubotter]] | 21st-Century Probabilistic AI, Active Learning & Sequential Decision-Making | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[game-theory]] | [[probabilistic-artificial-intelligence]] |
-| [[jonathan-haidt]] | Moral Psychology, Institutional Pluralism, and Digital-Age Social Psychology | [[organizational-psychology]], [[leadership-and-management]], [[political-science]] | [[the-righteous-mind]], [[leading-for-tomorrow]] |
-| [[jonathan-rosenberg]] |  |  |  |
-| [[jorg-noll]] | Contemporary [[military-science]], Operational Analysis, Baltic Security | [[military-science]], [[strategic-studies]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[joseph-a-schumpeter]] |  |  |  |
-| [[joseph-campbell]] |  |  |  |
-| [[joseph-leeming]] |  |  |  |
-| [[josephine-quinn]] |  |  |  |
-| [[josh-kosman]] | 21st-Century Investigative Financial Journalism & Wall Street LBO Critique | [[private-equity-and-venture-capital]], [[investigative-non-fiction]], [[political-science]] | [[the-buyout-of-america]] |
-| [[jostein-gaarder]] |  |  |  |
-| [[joyce-kay-avila]] | 21st-Century Cloud Data Warehousing, Data Engineering & Governance | [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]], [[saas-and-subscription-business-models]] | [[snowflake-the-definitive-guide]] |
-| [[judith-hurwitz]] | 21st-Century Cognitive Computing, Enterprise Cloud & Machine Learning Strategy | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[leadership-and-management]] | [[machine-learning-for-dummies-ibm-limited-edition]] |
-| [[judy-robinett]] |  |  |  |
-| [[julian-knight]] |  |  |  |
-| [[junfeng-yang]] | Smart Classrooms, Learner Experience (LX) & Digital Pedagogy | [[educational-technology-and-disruptive-pedagogy]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[educational-technology-a-primer-for-the-21st-century]] |
-| [[justin-anderson]] |  |  |  |
-| [[karen-berman]] |  |  |  |
-| [[karen-dillon]] |  |  |  |
-| [[karen-hao]] | 21st-Century Investigative Technology Journalism & Political Economy of AI | [[artificial-intelligence-and-machine-learning]], [[investigative-non-fiction]], [[political-science]] | [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] |
-| [[karen-scarfone]] | NIST Cybersecurity Guidelines & Enterprise Security Architecture | [[cybersecurity-and-digital-forensics]], [[security-studies]], [[strategic-studies]] | [[computer-security-incident-handling-guide-nist-sp-800-61r2]] |
-| [[karl-mueller]] | Contemporary [[strategic-studies]], Conventional Deterrence Theory, Air Power Strategy | [[strategic-studies]], [[military-science]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[karl-popper]] |  |  |  |
-| [[kastamonulu-ishak-zade-hasan-fevzi]] |  |  |  |
-| [[katerina-honzikova]] |  |  |  |
-| [[kaya-ataberk]] |  |  |  |
-| [[kazim-karabekir]] |  |  |  |
-| [[kazuo-ishiguro]] |  |  |  |
-| [[kelsey-hightower]] | 21st-Century Cloud-Native Operations, DevOps & Developer Advocacy | [[cloud-computing-and-distributed-systems]] | [[kubernetes-up-and-running]] |
-| [[kenneth-i-carlaw]] | Evolutionary Macroeconomics, Endogenous GPT Modeling & Innovation Policy | [[innovation-and-economic-growth]], [[political-science]], [[archaeological-historiography]] | [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] |
-| [[kenneth-w-harl]] |  |  |  |
-| [[kent-d-lee]] | 21st-Century Computer Science Pedagogy, Debugger-Driven Learning & Computational Complexity | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[educational-technology-and-disruptive-pedagogy]] | [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]] |
-| [[kerri-oneill]] | Contemporary People Strategy, AI Workplace Transformation, and Organizational Rewilding | [[organizational-psychology]], [[leadership-and-management]] | [[rapid-reculturing]], [[alex-bailey]] |
-| [[kersey-graves]] |  |  |  |
-| [[kevin-d-roberts]] |  |  |  |
-| [[kevin-mcginley]] | 21st-Century Cloud Data Engineering & SaaS Analytics Architecture | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]] | [[architecting-data-intensive-saas-applications]] |
-| [[kim-richard-nossal]] | Contemporary Canadian Foreign & Defense Policy and International Relations | [[international-relations]], [[security-studies]], [[strategic-studies]] | [[developing-the-super-soldier-enhancing-military-performance]] |
-| [[kim-williams]] |  |  |  |
-| [[kurt-and-margot-lubinski]] | Early 20th-Century Photojournalism / Weimar & National Geographic Ethnographic Photography | [[anatolian-civilizations]], [[republican-intellectual-history]], [[archaeological-historiography]] | [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] |
-| [[kwo-young]] | Electrochemical Battery Engineering & Electric Vehicle Powertrain Systems | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[public-policy-and-urban-mobility]] | [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] |
-| [[lachlan-evenson]] | 21st-Century Cloud-Native Computing & Open-Source Container Ecosystems | [[cloud-computing-and-distributed-systems]] | [[kubernetes-up-and-running]] |
-| [[lane-denicola]] | 21st-Century Digital Anthropology, Design Ethnography, STS & Geomedia | [[cultural-and-digital-anthropology]], [[innovation-and-economic-growth]] | [[digital-anthropology]], [[the-digital-as-para-world]] |
-| [[larry-anderson]] |  |  |  |
-| [[laura-igual]] | 21st-Century Python Data Science, Computer Vision & Statistical Modeling | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[media-economics-and-entertainment-science]] | [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] |
-| [[laurence-s-lyons]] |  |  |  |
-| [[lawrence-c-miller]] | 21st-Century Enterprise Cloud, IoT Architecture & Information Security Education | [[internet-of-things-and-edge-computing]], [[cloud-computing-and-distributed-systems]], [[saas-and-subscription-business-models]], [[cybersecurity-and-digital-forensics]] | [[saas-for-dummies-oracle-special-edition]], [[iaas-for-dummies-oracle-special-edition]], [[iot-for-dummies-applications-solutions-and-security-compendium]] |
-| [[lawrence-freedman]] | Modern [[strategic-studies]], Nuclear Strategy History, Strategic Theory | [[strategic-studies]], [[military-science]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[learningexpress-editors]] | 21st-Century Mathematics Skill-Building & Test-Preparation Pedagogy | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[501-math-word-problems-and-middle-school-math-challenges]] |
-| [[lee-nichol]] |  |  |  |
-| [[leo-tolstoy]] |  |  |  |
-| [[leonard-lewisohn]] |  |  |  |
-| [[leonard-mlodinow]] | 21st-Century Theoretical Physics, Probability & Popular Philosophy of Science | [[theoretical-physics-and-cosmology]], [[neuroscience-and-philosophy-of-mind]] | [[the-grand-design]] |
-| [[leopold-aschenbrenner]] | 21st-Century AGI Scaling Theory, Superalignment & National Security Mobilization | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[situational-awareness-the-decade-ahead]] |
-| [[lesley-hazleton]] |  |  |  |
-| [[lord-kinross]] |  |  |  |
-| [[louise-bennett]] | 20th-Century Jamaican Creole Poetry, Caribbean Oral Tradition & Postcolonial Literature | [[postcolonial-and-diaspora-studies]], [[political-science]], [[poetry-and-poetics]] | [[mongrel-nation-colonization-in-reverse]] |
-| [[lutfi-dogan]] |  |  |  |
-| [[lynn-vincent]] |  |  |  |
-| [[madsen-pirie]] |  |  |  |
-| [[maggie-kline]] |  |  |  |
-| [[mahatma-gandhi]] |  |  |  |
-| [[mahendra-ramsinghani]] |  |  |  |
-| [[malala-yousafzai]] |  |  |  |
-| [[malcolm-gladwell]] |  |  |  |
-| [[marc-benioff]] | 21st-Century Cloud Computing, Enterprise SaaS & Stakeholder Capitalism | [[saas-and-subscription-business-models]], [[leadership-and-management]], [[innovation-and-economic-growth]] | [[behind-the-cloud]] |
-| [[marco-di-maggio]] | 21st-Century Financial Economics, FinTech, Cryptoeconomics & Decentralized Finance | [[blockchain-and-decentralized-finance]], [[game-theory]], [[strategic-studies]] | [[blockchain-crypto-and-defi-bridging-finance-and-technology]] |
-| [[marcus-aurelius]] |  |  |  |
-| [[margaret-g-hermann]] |  |  |  |
-| [[mario-alinei]] |  |  |  |
-| [[mark-b-houston]] | Marketing Strategy, Entertainment Econometrics & Innovation Management | [[media-economics-and-entertainment-science]], [[strategic-communication]], [[leadership-and-management]] | [[entertainment-science-data-analytics-and-practical-theory]] |
-| [[mark-f-whitters]] |  |  |  |
-| [[marko-sarstedt]] |  |  |  |
-| [[marsha-e-ackermann]] |  |  |  |
-| [[marshall-goldsmith]] |  |  |  |
-| [[marshall-s-rich]] | 21st-Century Forensic Cyberpsychology, Behavioral Network Forensics & AI Security | [[cybersecurity-and-digital-forensics]], [[organizational-psychology]], [[security-studies]] | [[advanced-network-forensics-a-cyber-behavioral-science-approach]] |
-| [[martijn-kitzen]] | Irregular Warfare, Counterinsurgency (COIN), Military Anthropology | [[military-science]], [[strategic-studies]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[martin-gardner]] |  |  |  |
-| [[marty-cagan]] |  |  |  |
-| [[mary-carroll-nelson]] |  |  |  |
-| [[mary-shelley]] |  |  |  |
-| [[matt-lucas]] | Enterprise Blockchain Strategy & Supply Chain Digitization | [[blockchain-and-decentralized-finance]], [[strategic-studies]], [[leadership-and-management]] | [[getting-started-with-enterprise-blockchain]] |
-| [[matt-mochary]] |  |  |  |
-| [[matthew-dixon]] | 21st-Century B2B Commercial Research, Challenger Selling & Customer Experience | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[leadership-and-management]] | [[the-challenger-sale-challenge-yourself-action-book]] |
-| [[matthew-golby-kirk]] | Enterprise Software Architecture & Smart Contract Engineering | [[blockchain-and-decentralized-finance]], [[strategic-studies]], [[leadership-and-management]] | [[getting-started-with-enterprise-blockchain]] |
-| [[max-smeets]] | Cyber Strategy, National Cyber Power, Transatlantic Tech Policy | [[strategic-studies]], [[security-studies]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[max-solomon-bennett]] | 21st-Century Evolutionary Neuroscience, Cognitive Science & AI Architecture | [[neuroscience-and-philosophy-of-mind]], [[artificial-intelligence-and-machine-learning]], [[evolutionary-biology]] | [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] |
-| [[mehmet-eroz]] | 20th-Century Turkish Sociology, Anatolian Ethnography & Economic History | [[cultural-and-digital-anthropology]], [[anatolian-civilizations]], [[republican-intellectual-history]] | [[yorukler]] |
-| [[mehmet-topal]] |  |  |  |
-| [[melanie-bien]] |  |  |  |
-| [[melissa-joy-kong]] |  |  |  |
-| [[menno-j-van-loon]] |  |  |  |
-| [[mesut-aydiner]] |  |  |  |
-| [[michael-a-singer]] |  |  |  |
-| [[michael-alexander]] |  |  |  |
-| [[michael-b-horn]] | Disruptive Innovation in Education, Blended Learning & Student-Centered Schooling | [[educational-technology-and-disruptive-pedagogy]], [[innovation-and-economic-growth]], [[organizational-psychology]], [[leadership-and-management]] | [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[blended-using-disruptive-innovation-to-improve-schools]] |
-| [[michael-bhaskar]] | 21st-Century Publishing Theory, Curation Economics & Technology Policy | [[artificial-intelligence-and-machine-learning]], [[political-science]], [[strategic-studies]] | [[the-coming-wave-ai-power-and-our-future]] |
-| [[michael-bradley]] | Enterprise Distributed Ledger Architecture & IBM Blockchain Engineering | [[blockchain-and-decentralized-finance]], [[strategic-studies]], [[leadership-and-management]] | [[getting-started-with-enterprise-blockchain]] |
-| [[michael-j-schroeder]] |  |  |  |
-| [[michael-lewis]] |  |  |  |
-| [[michael-mazarr]] | Contemporary [[strategic-studies]], Defense Policy Analysis, Deterrence Theory | [[strategic-studies]], [[security-studies]], [[political-science]] | [[deterrence-in-the-21st-century]] |
-| [[michael-prahl]] | 21st-Century Global Private Equity, Cross-Border Buyouts & Fund Management | [[private-equity-and-venture-capital]], [[leadership-and-management]] | [[mastering-private-equity]] |
-| [[michael-wooldridge]] | Late 20th & 21st-Century Multi-Agent Systems, Autonomous Rational Agents & AI History | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[game-theory]] | [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] |
-| [[michelle-u-campos]] |  |  |  |
-| [[mike-amundsen]] | 21st-Century Web APIs, Hypermedia Architecture & API Product Strategy | [[cloud-computing-and-distributed-systems]], [[saas-and-subscription-business-models]] | [[api-strategy-for-decision-makers]] |
-| [[mikhail-prokopenko]] | 21st-Century Complex Systems Science, Information Theory, and Topological Decision Theory | [[social-choice-theory]], [[algebraic-topology]], [[game-theory]], [[political-science]] | [[the-non-orientable-topology-of-condorcets-paradox]], [[ori-livson]], [[siddharth-pritam]] |
-| [[miroslav-kubat]] | Late 20th & 21st-Century Inductive Machine Learning, Imbalanced Datasets & Ensemble Classifiers | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[educational-technology-and-disruptive-pedagogy]] | [[an-introduction-to-machine-learning]] |
-| [[monica-ramona-costache]] | 21st-Century Mathematical Physics & Functional Analysis Education | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]] | [[mathematical-foundations-of-quantum-physics]] |
-| [[morris-chang]] | Global Semiconductor Foundry Architecture & East Asian Industrial Strategy | [[strategic-studies]], [[leadership-and-management]], [[international-relations]] | [[chip-war-the-fight-for-the-worlds-most-critical-technology]] |
-| [[muazzez-ilmiye-cig]] |  |  |  |
-| [[muna-lee]] |  |  |  |
-| [[mustafa-suleyman]] | 21st-Century Frontier AI Leadership, DeepMind / Microsoft AI & Technological Containment | [[artificial-intelligence-and-machine-learning]], [[political-science]], [[strategic-studies]] | [[the-coming-wave-ai-power-and-our-future]] |
-| [[muzaffer-dogan]] |  |  |  |
-| [[naomi-klein]] | 21st-Century Critical Political Economy, Postcolonial Studies & Climate Justice | [[postcolonial-and-diaspora-studies]], [[political-science]], [[investigative-non-fiction]] | [[doppelganger-israel-palestine-and-the-doppelganger-effect]] |
-| [[nassim-nicholas-taleb]] |  |  |  |
-| [[naval-ravikant]] |  |  |  |
-| [[neal-stephenson]] |  |  |  |
-| [[necdet-sander]] |  |  |  |
-| [[neil-postman]] |  |  |  |
-| [[neil-rackham]] | Empirical Sales Behavior Analysis & Consultative Enterprise Selling | [[consultative-sales-and-commercial-teaching]], [[strategic-communication]], [[organizational-psychology]] | [[spin-selling]] |
-| [[nesrin-tura-demiryontan]] |  |  |  |
-| [[niccolo-machiavelli]] |  |  |  |
-| [[nick-ragone]] |  |  |  |
-| [[nicola-di-cosmo]] |  |  |  |
-| [[nir-eyal]] |  |  |  |
-| [[niv-dror]] |  |  |  |
-| [[noah-d-oppenheim]] |  |  |  |
-| [[norbert-wiener]] |  |  |  |
-| [[nuriye-atabey]] |  |  |  |
-| [[obiora-ike]] | African Social Ethics, Catholic Social Thought, Human Rights & Global Development | [[ethics-and-value-philosophy]], [[leadership-and-management]], [[international-relations]], [[educational-technology-and-disruptive-pedagogy]] | [[global-ethics-for-leadership-values-and-virtues-for-life]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]] |
-| [[octave-plancherel]] | 21st-Century Cyber Technology Monitoring & Defense Intelligence | [[cybersecurity-and-digital-forensics]], [[artificial-intelligence-and-machine-learning]], [[security-studies]] | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] |
-| [[oliver-schmidt]] | 21st-Century Clean-Tech Energy Economics, Battery Storage & Experience Curve Modeling | [[energy-policy-and-clean-tech-economics]], [[innovation-and-economic-growth]], [[strategic-studies]] | [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] |
-| [[omar-khayyam]] |  |  |  |
-| [[omer-isbilir]] |  |  |  |
-| [[ori-livson]] | 21st-Century Complex Systems, Mathematical Logic, and Topological Social Choice Theory | [[social-choice-theory]], [[algebraic-topology]], [[game-theory]], [[political-science]] | [[the-non-orientable-topology-of-condorcets-paradox]], [[siddharth-pritam]], [[mikhail-prokopenko]] |
-| [[osman-pamukoglu]] |  |  |  |
-| [[pat-walsh]] |  |  |  |
-| [[patrick-barillot]] |  |  |  |
-| [[patrick-vlaskovits]] |  |  |  |
-| [[paul-carson]] |  |  |  |
-| [[paul-cichonski]] | NIST Cybersecurity Standards & Federal Information Security | [[cybersecurity-and-digital-forensics]], [[security-studies]], [[strategic-studies]] | [[computer-security-incident-handling-guide-nist-sp-800-61r2]] |
-| [[paul-connerton]] |  |  |  |
-| [[paul-dans]] |  |  |  |
-| [[paul-ducheine]] | International Military Law, Cyber Operations Law, Law of Armed Conflict | [[military-science]], [[strategic-studies]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[paul-mladjenovic]] |  |  |  |
-| [[paul-pignataro]] |  |  |  |
-| [[paul-van-hooft]] | Contemporary [[strategic-studies]], Grand Strategy, Transatlantic & Indo-Pacific Security | [[strategic-studies]], [[international-relations]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[paul-veyne]] |  |  |  |
-| [[pawel-bloch]] |  |  |  |
-| [[peter-a-levine]] |  |  |  |
-| [[peter-b-golden]] |  |  |  |
-| [[peter-n-stearns]] |  |  |  |
-| [[peter-thiel]] |  |  |  |
-| [[phil-knight]] |  |  |  |
-| [[phil-stutz]] |  |  |  |
-| [[phillip-s-kavanagh]] |  |  |  |
-| [[plato]] |  |  |  |
-| [[pragmatic-coders]] |  |  |  |
-| [[presh-talwalkar]] |  |  |  |
-| [[priya-parker]] |  |  |  |
-| [[product-hunt]] |  |  |  |
-| [[pui-kei-johnston-chu]] | 21st-Century Multi-Tenant SaaS Data Engineering & Cloud Architecture | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]] | [[architecting-data-intensive-saas-applications]] |
-| [[quassim-cassam]] |  |  |  |
-| [[r-b-sparkman]] |  |  |  |
-| [[r-m-j-mcbain]] |  |  |  |
-| [[rafael-de-nogales]] |  |  |  |
-| [[ralph-r-roberts]] |  |  |  |
-| [[ramiz-asker]] |  |  |  |
-| [[randy-borum]] |  |  |  |
-| [[recai-tekoglu]] |  |  |  |
-| [[recep-ahishali]] |  |  |  |
-| [[reid-hoffman]] |  |  |  |
-| [[reynold-a-nicholson]] |  |  |  |
-| [[richard-c-foltz]] |  |  |  |
-| [[richard-dawkins]] | Neo-Darwinian Evolutionary Biology, Gene-Centric Selection, and Memetics | [[evolutionary-biology]], [[game-theory]], [[anthropology-of-consciousness]] | [[the-selfish-gene]] |
-| [[richard-g-lipsey]] | Structuralist-Evolutionary Economics, General Purpose Technologies & Theory of the Second Best | [[innovation-and-economic-growth]], [[political-science]], [[archaeological-historiography]] | [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]] |
-| [[richard-j-evans]] | Contemporary Classical Historiography & Ancient Political Review | [[comparative-democratic-history]], [[archaeological-historiography]] | [[the-first-democracies-early-popular-government-outside-athens]] |
-| [[richard-l-harris]] |  |  |  |
-| [[richard-swedberg]] |  |  |  |
-| [[rita-mcgrath]] | Contemporary Corporate Strategy, Discovery-Driven Planning, and Transient Advantage | [[leadership-and-management]], [[strategic-studies]] | [[leading-for-tomorrow]] |
-| [[robert-arnot]] |  |  |  |
-| [[robert-axelrod]] | [[game-theory]], Behavioral Political Science, Evolutionary Economics | [[game-theory]], [[political-science]], [[strategic-studies]] | [[the-evolution-of-cooperation]] |
-| [[robert-b-cialdini]] |  |  |  |
-| [[robert-bauval]] | Contemporary Archaeoastronomy, Revisionist Egyptology, Hermeticism | [[archaeoastronomy]], [[alternative-archaeology]], [[esoteric-history]] | [[keeper-of-genesis]], [[graham-hancock]], [[the-mars-mystery]], [[graham-hancock]], [[john-grigsby]], [[the-master-game]], [[graham-hancock]], [[lost-knowledge-of-the-ancients]] |
-| [[robert-d-sindelar]] | 21st-Century Pharmaceutical Sciences, Medicinal Chemistry & Biologics Education | [[biotechnology-medicine-and-longevity]], [[innovation-and-economic-growth]] | [[pharmaceutical-biotechnology-fundamentals-and-applications]] |
-| [[robert-greene]] |  |  |  |
-| [[robert-l-heilbroner]] |  |  |  |
-| [[robert-m-pirsig]] | 20th-Century American Philosophy, Metaphysics of Quality & Philosophical Fiction | [[ethics-and-value-philosophy]], [[philosophical-fiction]], [[anthropology-of-consciousness]] | [[zen-and-the-art-of-motorcycle-maintenance]] |
-| [[robert-schoch]] | Geological Dating of Megaliths, Solar Catastrophism, Paleoclimatology | [[alternative-archaeology]], [[paleoclimatology]], [[archaeological-historiography]] | [[lost-knowledge-of-the-ancients]], [[fingerprints-of-the-gods]], [[keeper-of-genesis]], [[magicians-of-the-gods]] |
-| [[robert-skrob]] | 21st-Century Subscription Retention, Membership Economics & Direct-Response Onboarding | [[saas-and-subscription-business-models]], [[consultative-sales-and-commercial-teaching]] | [[retention-point-membership-and-subscription-growth]] |
-| [[robin-campbell]] |  |  |  |
-| [[roger-penrose]] | Mathematical Physics, General Relativity, Twistor Theory & Philosophy of Consciousness (2020 Nobel Prize in Physics) | [[neuroscience-and-philosophy-of-mind]], [[algebraic-topology]], [[anthropology-of-consciousness]] | [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]] |
-| [[romeo-dean]] | 21st-Century Semiconductor Supply Chain & AI Compute Forecasting | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[ai-2027]] |
-| [[ronghuai-huang]] | Smart Learning Environments, AI in Education & Educational Technology | [[educational-technology-and-disruptive-pedagogy]], [[organizational-psychology]], [[anthropology-of-consciousness]] | [[educational-technology-a-primer-for-the-21st-century]] |
-| [[ronnie-mitra]] | 21st-Century Microservices, API Design & Socio-Technical Software Architecture | [[cloud-computing-and-distributed-systems]], [[leadership-and-management]] | [[microservices-up-and-running]] |
-| [[roy-lindelauf]] | Mathematical Game Theory, Data Science, Algorithmic Defense | [[game-theory]], [[military-science]], [[strategic-studies]] | [[deterrence-in-the-21st-century]] |
-| [[russell-a-berman]] |  |  |  |
-| [[russell-grigg]] |  |  |  |
-| [[ryan-holiday]] |  |  |  |
-| [[ryan-hoover]] |  |  |  |
-| [[sadettin-nuzhet-ergun]] |  |  |  |
-| [[saint-augustine]] |  |  |  |
-| [[sam-harris]] |  |  |  |
-| [[samer-salam]] | 21st-Century Internet of Things, Semantic Technologies & Carrier Networking | [[internet-of-things-and-edge-computing]], [[cloud-computing-and-distributed-systems]] | [[internet-of-things-from-hype-to-reality]] |
-| [[samuel-zilincik]] | Contemporary [[strategic-studies]], Cross-Domain Coercion, Emotions in Strategy | [[strategic-studies]], [[security-studies]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[sandra-ackerman]] | Decade of the Brain (1990s) Scientific Synthesis & Biomedical Communication | [[neuroscience-and-philosophy-of-mind]], [[evolutionary-biology]], [[organizational-psychology]] | [[discovering-the-brain]] |
-| [[sandro-skansi]] | 21st-Century Philosophical Engineering, Logic & Deep Neural Networks | [[artificial-intelligence-and-machine-learning]], [[neuroscience-and-philosophy-of-mind]], [[data-science-and-scientific-computing]] | [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]] |
-| [[santi-segui]] | 21st-Century Data Science, Recommender Systems & Biomedical Machine Learning | [[data-science-and-scientific-computing]], [[artificial-intelligence-and-machine-learning]], [[media-economics-and-entertainment-science]] | [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]] |
-| [[satinder-dhiman]] |  |  |  |
-| [[saturnino-l-salas]] | 20th/21st-Century Mathematical Analysis & University Calculus Pedagogy | [[pure-and-applied-mathematics]], [[educational-technology-and-disruptive-pedagogy]] | [[calculus-one-and-several-variables]] |
-| [[savas-kilic]] |  |  |  |
-| [[scott-alexander]] | 21st-Century Rationalist Essayism, Psychiatry & Technological Forecasting | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[ai-2027]] |
-| [[scott-barry-kaufman]] | 21st-Century Humanistic Psychology, Positive Psychology, and Intelligence Research | [[organizational-psychology]], [[leadership-and-management]] | [[leading-for-tomorrow]], [[chris-shipley]] |
-| [[scott-d-lowe]] | 21st-Century Hyperconverged Infrastructure, Enterprise Cloud & Datacenter Modernization | [[cloud-computing-and-distributed-systems]], [[innovation-and-economic-growth]] | [[enterprise-cloud-for-dummies-nutanix-special-edition]] |
-| [[semavi-eyice]] |  |  |  |
-| [[semra-oguz]] | 21st-Century Neurological Physiotherapy & Parkinson's Rehabilitation | [[biotechnology-medicine-and-longevity]], [[neuroscience-and-philosophy-of-mind]] | [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] |
-| [[seneca]] |  |  |  |
-| [[sezai-karakoc]] |  |  |  |
-| [[shams-i-tabrizi]] |  |  |  |
-| [[sheera-frenkel]] |  |  |  |
-| [[sheetal-shah]] |  |  |  |
-| [[sheila-fitzpatrick]] |  |  |  |
-| [[shoshana-maraney]] | 21st-Century Ecommerce Fraud Analytics, Identity Trust & Financial Crime Defense | [[cybersecurity-and-digital-forensics]], [[data-science-and-scientific-computing]] | [[practical-fraud-prevention]] |
-| [[sibel-ozekmekci]] | 21st-Century Clinical Neurology, Parkinson's Disease & Movement Disorders (Türkiye) | [[biotechnology-medicine-and-longevity]], [[neuroscience-and-philosophy-of-mind]] | [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]] |
-| [[siddharth-pritam]] | 21st-Century Computational Topology, Applied Algebraic Topology, and Combinatorial Geometry | [[algebraic-topology]], [[social-choice-theory]], [[game-theory]] | [[the-non-orientable-topology-of-condorcets-paradox]], [[ori-livson]], [[mikhail-prokopenko]] |
-| [[sigmund-freud]] |  |  |  |
-| [[simon-grondin]] |  |  |  |
-| [[simon-sinek]] |  |  |  |
-| [[sjoerd-mol]] |  |  |  |
-| [[slavs-and-tatars]] |  |  |  |
-| [[smithsonian-institution]] |  |  |  |
-| [[stat-news-editorial]] | 21st-Century Investigative Biomedical Journalism, Biotechnology & Regulatory Reporting | [[biotechnology-medicine-and-longevity]], [[investigative-non-fiction]] | [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] |
-| [[stefan-soesanto]] | Cyber Warfare, Defense Technology, Information Security | [[security-studies]], [[military-science]], [[strategic-studies]] | [[deterrence-in-the-21st-century]] |
-| [[stefanie-von-hlatky]] | 21st-Century Transatlantic Security Studies, NATO Interoperability & Defense Policy | [[security-studies]], [[strategic-studies]], [[international-relations]], [[military-science]] | [[developing-the-super-soldier-enhancing-military-performance]] |
-| [[sten-rynning]] | Contemporary [[strategic-studies]], NATO Studies, Transatlantic Security | [[strategic-studies]], [[international-relations]], [[security-studies]] | [[deterrence-in-the-21st-century]] |
-| [[stephan-fackler]] | 21st-Century Functional Analysis, Operator Theory & Mathematical Physics | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]] | [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]] |
-| [[stephen-fortescue]] |  |  |  |
-| [[stephen-g-walker]] |  |  |  |
-| [[stephen-hanselman]] |  |  |  |
-| [[stephen-hawking]] | 20th/21st-Century Theoretical Cosmology, Black-Hole Thermodynamics & Quantum Gravity | [[theoretical-physics-and-cosmology]], [[pure-and-applied-mathematics]], [[artificial-intelligence-and-machine-learning]] | [[brief-answers-to-the-big-questions]], [[the-grand-design]], [[the-theory-of-everything-origin-and-fate-of-the-universe]], [[a-brief-history-of-time]] |
-| [[stephen-m-walt]] |  |  |  |
-| [[stephen-r-bucci]] |  |  |  |
-| [[stephen-r-covey]] |  |  |  |
-| [[stephen-stockwell]] | 21st-Century Comparative Democratic History, Classical Rhetoric & Media Studies | [[comparative-democratic-history]], [[political-science]], [[strategic-communication]] | [[the-secret-history-of-democracy-primitive-democracy]] |
-| [[steve-blank]] |  |  |  |
-| [[steve-j-heims]] |  |  |  |
-| [[steven-groves]] |  |  |  |
-| [[steven-pinker]] |  |  |  |
-| [[sultan-huseyn-bayqara]] |  |  |  |
-| [[susan-mcclary]] | New Musicology, Feminist Music Criticism & Cultural History | [[philosophy-and-poetics-of-music]], [[political-science]], [[social-choice-theory]] | [[noise-the-political-economy-of-music]] |
-| [[sven-ove-hansson]] |  |  |  |
-| [[tadeusz-sulimirski]] |  |  |  |
-| [[tahl-raz]] |  |  |  |
-| [[tamim-ansary]] |  |  |  |
-| [[tarang-shah]] |  |  |  |
-| [[ted-benna]] |  |  |  |
-| [[telman-khurshidoglu-aliyev]] |  |  |  |
-| [[tevfik-fikret]] |  |  |  |
-| [[the-giving-block]] | 21st-Century Crypto Philanthropy, Web3 Fundraising & Nonprofit Innovation | [[blockchain-and-decentralized-finance]], [[cultural-and-digital-anthropology]] | [[crypto-and-nft-philanthropy-afsp-case-study]] |
-| [[thomas-j-fewer]] |  |  |  |
-| [[thomas-j-wood]] |  |  |  |
-| [[thomas-k-mugerditchian]] |  |  |  |
-| [[thomas-larsen]] | 21st-Century AI Alignment Research & Quantitative AGI Forecasting | [[artificial-intelligence-and-machine-learning]], [[strategic-studies]], [[security-studies]] | [[ai-2027]] |
-| [[thomas-sowell]] | Chicago School Economics, Intellectual History & Comparative Social Philosophy | [[political-science]], [[social-choice-theory]], [[republican-intellectual-history]] | [[a-conflict-of-visions-ideological-origins-of-political-struggles]] |
-| [[thorkild-jacobsen]] | 20th-Century Assyriology, Sumerology & Ancient Near Eastern Institutional History | [[archaeological-historiography]], [[comparative-democratic-history]], [[anatolian-civilizations]] | [[the-secret-history-of-democracy-primitive-democracy]] |
-| [[thorsten-hennig-thurau]] | 21st-Century Entertainment Science, Cultural Econometrics & Digital Marketing | [[media-economics-and-entertainment-science]], [[strategic-communication]], [[leadership-and-management]] | [[entertainment-science-data-analytics-and-practical-theory]] |
-| [[tim-grance]] | NIST Information Technology Laboratory & Federal Cybersecurity Doctrine | [[cybersecurity-and-digital-forensics]], [[security-studies]], [[strategic-studies]] | [[computer-security-incident-handling-guide-nist-sp-800-61r2]] |
-| [[tim-ingold]] | 20th/21st-Century Social Anthropology, Relational Ecology & Philosophy of Making | [[cultural-and-digital-anthropology]], [[anthropology-of-consciousness]], [[ethics-and-value-philosophy]] | [[anthropology-why-it-matters]] |
-| [[tim-sweijs]] | Contemporary [[strategic-studies]], Conflict Analysis, Future of Warfare | [[strategic-studies]], [[security-studies]], [[international-relations]] | [[deterrence-in-the-21st-century]] |
-| [[timothy-ferriss]] |  |  |  |
-| [[timothy-taylor]] |  |  |  |
-| [[todd-burpo]] |  |  |  |
-| [[tom-bijlsma]] | Behavioral Economics, Decision Theory, Cognitive Psychology in Strategy | [[strategic-studies]], [[security-studies]], [[political-science]] | [[deterrence-in-the-21st-century]] |
-| [[tom-eisenmann]] |  |  |  |
-| [[tom-millar]] | US-CERT / CISA National Cyber Incident Response & Threat Intelligence Sharing | [[cybersecurity-and-digital-forensics]], [[security-studies]], [[strategic-studies]] | [[computer-security-incident-handling-guide-nist-sp-800-61r2]] |
-| [[ton-j-cleophas]] | Late 20th & 21st-Century Clinical Biostatistics, Medical Machine Learning & Internal Medicine | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[evolutionary-biology]] | [[machine-learning-in-medicine-a-complete-overview]] |
-| [[tony-levene]] |  |  |  |
-| [[trevor-noah]] |  |  |  |
-| [[tristan-gaston-breton]] |  |  |  |
-| [[troy-jackson]] |  |  |  |
-| [[turhan-gurkan]] |  |  |  |
-| [[turkic-world-policy-analysts]] |  |  |  |
-| [[tushar-balkrishna-raut]] | 21st-Century Finance Education, Indian Capital Markets & Emerging-Market Private Equity | [[private-equity-and-venture-capital]], [[law-and-quantitative-criminology]], [[ethics-and-value-philosophy]] | [[venture-capital-and-private-equity-mms-curriculum]] |
-| [[tyler-yamazaki]] |  |  |  |
-| [[ugur-mumcu]] |  |  |  |
-| [[unity-stoakes]] |  |  |  |
-| [[uzeyir-garih]] |  |  |  |
-| [[valentin-mulder]] | 21st-Century Cyber-Defence Technology Monitoring & AI Security | [[cybersecurity-and-digital-forensics]], [[artificial-intelligence-and-machine-learning]], [[security-studies]] | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] |
-| [[vanessa-errecarte]] | 21st-Century Strategic Marketing, Service-First Personal Branding, and Digital Communication | [[strategic-communication]], [[leadership-and-management]] | [[valuable-and-visible]] |
-| [[vasant-shinde]] | Contemporary South Asian Prehistory & Harappan Archaeology | [[archaeological-historiography]], [[paleoclimatology]], [[alternative-archaeology]] | [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]] |
-| [[victor-ostrovsky]] |  |  |  |
-| [[vincent-f-hendricks]] |  |  |  |
-| [[vincent-lenders]] | 21st-Century National Cyber Defense, Critical Infrastructure & AI Security | [[cybersecurity-and-digital-forensics]], [[artificial-intelligence-and-machine-learning]], [[security-studies]] | [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] |
-| [[vj-books-editorial]] |  |  |  |
-| [[walter-fust]] | International Development Cooperation, Global Governance & Institutional Ethics | [[ethics-and-value-philosophy]], [[leadership-and-management]], [[international-relations]] | [[global-ethics-for-leadership-values-and-virtues-for-life]] |
-| [[wiktor-zolnowski]] |  |  |  |
-| [[will-durant]] |  |  |  |
-| [[will-peters]] |  |  |  |
-| [[william-b-irvine]] |  |  |  |
-| [[william-c-chittick]] |  |  |  |
-| [[william-collins-donahue]] | Contemporary German Studies, Modernist Literary Criticism & Holocaust Studies | [[literary-criticism-and-modernism]], [[philosophical-fiction]], [[republican-intellectual-history]] | [[the-end-of-modernism-elias-canettis-auto-da-fe]] |
-| [[william-d-hamilton]] | Modern Evolutionary Biology, Sociobiology, Evolutionary Genetics | [[evolutionary-biology]], Theoretical Biology, Population Genetics | [[the-evolution-of-cooperation]] |
-| [[william-g-braun-iii]] | 21st-Century U.S. Military Strategic Doctrine & Human Performance Enhancement | [[military-science]], [[strategic-studies]], [[security-studies]] | [[developing-the-super-soldier-enhancing-military-performance]] |
-| [[william-golding]] |  |  |  |
-| [[william-stanley-jevons]] |  |  |  |
-| [[william-waddington]] | 21st-Century Cloud Data Applications & Multi-Tenant SaaS Architecture | [[saas-and-subscription-business-models]], [[cloud-computing-and-distributed-systems]], [[data-science-and-scientific-computing]] | [[architecting-data-intensive-saas-applications]] |
-| [[wolfgang-ertel]] | Late 20th & 21st-Century Automated Theorem Proving, Probabilistic Logic & Autonomous Robotics | [[artificial-intelligence-and-machine-learning]], [[data-science-and-scientific-computing]], [[neuroscience-and-philosophy-of-mind]] | [[introduction-to-artificial-intelligence]] |
-| [[y-turan-cetiner]] |  |  |  |
-| [[yasar-kececi]] |  |  |  |
-| [[yenal-bilgici]] |  |  |  |
-| [[yuval-noah-harari]] |  |  |  |
-| [[yves-pigneur]] |  |  |  |
-| [[zbigniew-romanowicz]] |  |  |  |
+- [[100-math-brainteasers]]
+- [[1177-bc-the-year-civilization-collapsed]]
+- [[21-lessons-for-the-21st-century]]
+- [[30-french-short-stories-for-complete-beginners]]
+- [[50-plus-books-that-changed-my-life]]
+- [[501-math-word-problems-and-middle-school-math-challenges]]
+- [[536-puzzles-and-curious-problems]]
+- [[99-yuz]]
+- [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]]
+- [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]]
+- [[a-brief-history-of-time]]
+- [[a-conflict-of-visions-ideological-origins-of-political-struggles]]
+- [[a-guide-to-the-good-life-stoic-joy]]
+- [[a-history-of-russia-central-asia-and-mongolia-vol-2]]
+- [[a-transylvanian-ruler-in-the-talons-of-the-ottoman-empire]]
+- [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]]
+- [[advanced-network-forensics-a-cyber-behavioral-science-approach]]
+- [[after-the-prophet-shia-sunni-split]]
+- [[ahi-evren-ve-mevlana-mucadelesi]]
+- [[ai-2027]]
+- [[akis-mekanigi-kazim-mirsan]]
+- [[amazon-in-healthcare-strategy-for-a-3-trillion-market]]
+- [[america-before-the-key-to-earths-lost-civilization]]
+- [[amusing-ourselves-to-death]]
+- [[an-introduction-to-machine-learning]]
+- [[an-introduction-to-the-history-of-the-turkic-peoples]]
+- [[an-ugly-truth-inside-facebook]]
+- [[anadoluda-ilk-tapinak-gobeklitepe]]
+- [[anadoluda-on-bin-yil-turk-dilinin-bes-bin-yili]]
+- [[ancient-china-and-its-enemies]]
+- [[anthropology-why-it-matters]]
+- [[anti-zionism-a-jewish-history]]
+- [[antifragile]]
+- [[api-strategy-for-decision-makers]]
+- [[architecting-data-intensive-saas-applications]]
+- [[asik-borani-soz-insanin-aynasi]]
+- [[ataturk-bir-milletin-yeniden-dogusu]]
+- [[ataturk-hakkinda-hatiralar-ve-belgeler]]
+- [[ataturkun-not-defterleri]]
+- [[ataturkun-ozledigi-bilgin-kazim-mirsani-okurken]]
+- [[ataturkun-usaginin-gizli-defteri]]
+- [[atheism-all-that-matters]]
+- [[avrupa-ve-biz]]
+- [[becoming-king-martin-luther-king-jr]]
+- [[behind-the-cloud]]
+- [[benim-pencerem]]
+- [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]]
+- [[bilimsel-bir-psikoloji-projesi-1895]]
+- [[bir-omur-nasil-yasanir]]
+- [[bizansli-gozuyle-turkler]]
+- [[blended-using-disruptive-innovation-to-improve-schools]]
+- [[blink-power-of-thinking-without-thinking]]
+- [[blitzscaling]]
+- [[blockchain-crypto-and-defi-bridging-finance-and-technology]]
+- [[blueprints-for-a-saas-sales-organization]]
+- [[born-a-crime]]
+- [[boundaries-cloud-townsend]]
+- [[brain-teasers-211-logic-puzzles]]
+- [[breaking-the-spell]]
+- [[brief-answers-to-the-big-questions]]
+- [[built-to-last]]
+- [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]]
+- [[business-startup-for-dummies-bundle]]
+- [[buyuk-ataturk-albumu-1]]
+- [[by-way-of-deception]]
+- [[cagdas-kapitalizmin-mekansal-orgutlenmesi]]
+- [[calculus-one-and-several-variables]]
+- [[cambridge-ancient-history-scythia-and-thrace]]
+- [[canakkale-zafer-yolunda]]
+- [[capitalism-socialism-and-democracy]]
+- [[cehennemdere-kanyonu]]
+- [[central-asia-in-world-history]]
+- [[che-guevara-a-biography]]
+- [[chip-war-the-fight-for-the-worlds-most-critical-technology]]
+- [[co-intelligence-living-and-working-with-ai]]
+- [[coaching-for-leadership]]
+- [[cocuklarda-travmanin-yaralarini-sarmak]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]]
+- [[confessions-of-saint-augustine]]
+- [[crack-the-funding-code]]
+- [[crossing-the-chasm]]
+- [[crossroads-of-civilization-a-history-of-central-asia]]
+- [[crypto-and-nft-philanthropy-afsp-case-study]]
+- [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]]
+- [[cumhuriyetin-ilk-yuzyili-1923-2023]]
+- [[david-and-goliath]]
+- [[deep-work]]
+- [[democracy-in-america]]
+- [[deploying-a-modern-security-data-lake]]
+- [[deri-ben-the-skin-ego]]
+- [[destiny-disrupted]]
+- [[deterrence-in-the-21st-century]]
+- [[developing-the-super-soldier-enhancing-military-performance]]
+- [[devranname-seyyah-i-fakir-evliya-celebi]]
+- [[digital-anthropology]]
+- [[diodorus-of-sicily-library-of-history]]
+- [[discovering-the-brain]]
+- [[disrupt-you]]
+- [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]]
+- [[divan-sultan-huseyn-bayqara]]
+- [[doppelganger-israel-palestine-and-the-doppelganger-effect]]
+- [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]]
+- [[educational-technology-a-primer-for-the-21st-century]]
+- [[ego-is-the-enemy]]
+- [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]]
+- [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]]
+- [[emotional-intelligence]]
+- [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]]
+- [[empires-of-the-silk-road]]
+- [[empires-of-the-steppes-companion]]
+- [[enchanted-america]]
+- [[encyclopedia-of-world-history-facts-on-file]]
+- [[entelektuelin-kutsal-kitabi-biyografiler]]
+- [[entelektuelin-kutsal-kitabi-modern-kultur]]
+- [[enterprise-cloud-for-dummies-nutanix-special-edition]]
+- [[entertainment-science-data-analytics-and-practical-theory]]
+- [[epictetus-stoic-and-socratic-guide]]
+- [[ermenilerin-kaleminden-kurtlesen-ermeniler]]
+- [[ethics-in-higher-education-values-driven-leaders-for-the-future]]
+- [[etruscan-an-archaic-form-of-hungarian]]
+- [[excel-for-accountants]]
+- [[ey-dunya-insanlari-hepiniz-turksunuz]]
+- [[ey-vatan]]
+- [[female-sexuality-early-psychoanalytic-controversies]]
+- [[financial-analysis-using-excel]]
+- [[financial-intelligence-for-managers]]
+- [[financial-modeling-and-valuation]]
+- [[financing-real-estate-investments-for-dummies]]
+- [[fingerprints-of-the-gods]]
+- [[finnegans-wake]]
+- [[fooled-by-randomness]]
+- [[four-years-beneath-the-crescent]]
+- [[funny-in-farsi]]
+- [[fusul-i-asikan]]
+- [[game-theory-a-multi-leveled-approach]]
+- [[gandhi-my-experiments-with-truth]]
+- [[getting-started-with-enterprise-blockchain]]
+- [[gilgames-tarihte-ilk-kral-kahraman]]
+- [[give-and-take]]
+- [[global-ethics-for-leadership-values-and-virtues-for-life]]
+- [[good-to-great]]
+- [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]]
+- [[gormedigimiz-turkiye-national-geographic-arsivi]]
+- [[gunumuz-turkcesiyle-evliya-celebi-seyahatnamesi-cilt-9-kitap-2]]
+- [[hadji-murad]]
+- [[handbook-of-quantitative-criminology]]
+- [[hbr-10-must-reads-on-teams]]
+- [[hbr-at-100]]
+- [[hbr-insights-future-of-business-boxed-set]]
+- [[hbr-women-at-work-collection]]
+- [[heaven-is-for-real]]
+- [[heterite-11-les-paradoxes-du-desir]]
+- [[high-output-management]]
+- [[history-of-civilizations-of-central-asia-vol-4-part-2]]
+- [[hititler-ve-hattusa-istarin-kaleminden]]
+- [[homer-troy-and-the-turks]]
+- [[homo-deus]]
+- [[hooked-how-to-build-habit-forming-products]]
+- [[house-of-trump-house-of-putin]]
+- [[how-societies-remember]]
+- [[how-the-world-made-the-west]]
+- [[how-to-build-a-career-in-tech]]
+- [[how-to-start-a-startup-pragmatic-coders]]
+- [[how-to-win-every-argument]]
+- [[how-to-win-friends-and-influence-people]]
+- [[how-will-you-measure-your-life]]
+- [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]]
+- [[i-am-malala]]
+- [[iaas-for-dummies-oracle-special-edition]]
+- [[ibni-fadlan-seyahatnamesi]]
+- [[ibrahim-peygamber-sumer-yazilarina-gore]]
+- [[ikigai-the-japanese-secret-to-a-long-and-happy-life]]
+- [[inannanin-aski-sumerde-inanc-ve-kutsal-evlenme]]
+- [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]]
+- [[influence-the-psychology-of-persuasion]]
+- [[influencing-leaders]]
+- [[insan-ve-devlet]]
+- [[inspiration-to-live-your-magic]]
+- [[inspired-how-to-create-tech-products-customers-love]]
+- [[intentional-attention]]
+- [[internet-of-things-from-hype-to-reality]]
+- [[introduction-to-artificial-intelligence]]
+- [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]]
+- [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]]
+- [[introduction-to-formal-philosophy]]
+- [[introduction-to-law]]
+- [[investing-for-dummies]]
+- [[investment-banks-hedge-funds-and-private-equity]]
+- [[iot-for-dummies-applications-solutions-and-security-compendium]]
+- [[irak-bitigi-iraktaki-bilgiler-kitabi]]
+- [[iranda-turk-kimligi]]
+- [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]]
+- [[islam-oncesi-kurt-tarihi]]
+- [[islamda-bilim-ve-teknik-science-and-technology-in-islam]]
+- [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]]
+- [[karl-marx-a-biography]]
+- [[karl-marx-and-the-actualization-of-philosophy]]
+- [[kayip-yazilar-ve-diller]]
+- [[kazim-karabekir-anlatiyor]]
+- [[kazim-karabekir-hayatim]]
+- [[keeper-of-genesis]]
+- [[klara-and-the-sun]]
+- [[korkunun-cocuklari]]
+- [[korkunun-otesi-beyond-fear]]
+- [[kubernetes-up-and-running]]
+- [[kuran-incil-ve-tevratin-sumerdeki-kokeni]]
+- [[la-saga-des-rothschild]]
+- [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]]
+- [[law-of-attraction-secret-power]]
+- [[leaders-eat-last]]
+- [[leadership-lessons-six-titans]]
+- [[leadership-today]]
+- [[leading-for-tomorrow]]
+- [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]]
+- [[leaving-socialism-behind]]
+- [[letters-from-a-stoic]]
+- [[lord-of-the-flies]]
+- [[lost-knowledge-of-the-ancients]]
+- [[lying-sam-harris]]
+- [[machine-learning-for-dummies-ibm-limited-edition]]
+- [[machine-learning-in-medicine-a-complete-overview]]
+- [[machines-like-me]]
+- [[magicians-of-the-gods]]
+- [[managing-your-money-all-in-one-for-dummies]]
+- [[mandate-for-leadership-2025]]
+- [[mantikut-tayr-conference-of-the-birds]]
+- [[market-research-process-data-methods-stata]]
+- [[mastering-private-equity]]
+- [[mastering-the-vc-game]]
+- [[mastery-robert-greene]]
+- [[math-puzzles-classic-riddles]]
+- [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]]
+- [[mathematical-foundations-of-quantum-physics]]
+- [[me-and-rumi-shams-i-tabrizi]]
+- [[media-and-digital-management]]
+- [[meditations-marcus-aurelius]]
+- [[medler-ve-turkler]]
+- [[mehmet-akif]]
+- [[meltdown-credit-suisse]]
+- [[microservices-up-and-running]]
+- [[microsoft-365-excel-office-scripts-for-dummies]]
+- [[milli-kurtulus-tarihi-1838den-1995e]]
+- [[mind-matter-and-quantum-mechanics]]
+- [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]]
+- [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]]
+- [[mongrel-nation-colonization-in-reverse]]
+- [[napoleon-a-biography]]
+- [[never-split-the-difference]]
+- [[noise-the-political-economy-of-music]]
+- [[of-heroes-and-villains-pre-revolutionary-russia]]
+- [[olum-ve-kiyamet-olume-hazirlik]]
+- [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]]
+- [[on-turk-tarihi]]
+- [[onturkceden-bugunku-kurtceye]]
+- [[orientalism]]
+- [[osmanli-imparatorlugunun-yukselisi-ve-cokusu]]
+- [[osmanli-turkcesi-metinleri-1]]
+- [[ottoman-brothers]]
+- [[outliers-story-of-success]]
+- [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]]
+- [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]]
+- [[personal-finance-and-investing-all-in-one-for-dummies]]
+- [[pharmaceutical-biotechnology-fundamentals-and-applications]]
+- [[philosophy-100-great-thinkers]]
+- [[pivot-alan-zimmerman]]
+- [[plato-complete-works]]
+- [[practical-fraud-prevention]]
+- [[precalculus-openstax]]
+- [[probabilistic-artificial-intelligence]]
+- [[problems-in-general-physics]]
+- [[psychology-of-perception]]
+- [[psychology-of-terrorism-ncjrs]]
+- [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]]
+- [[quantum-mechanics-for-pedestrians]]
+- [[rapid-reculturing]]
+- [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]]
+- [[religions-of-the-silk-road]]
+- [[reminiscences-of-a-stock-operator]]
+- [[retention-point-membership-and-subscription-growth]]
+- [[review-math-and-the-mona-lisa]]
+- [[richard-dawkins-god-delusion-bloch]]
+- [[riddles-riddles-riddles]]
+- [[rubab-i-sikeste]]
+- [[rumi-the-book-of-love]]
+- [[russia-rebounds]]
+- [[russian-politics-from-lenin-to-putin]]
+- [[ruyalari-yorumu-interpretation-of-dreams]]
+- [[saas-for-dummies-oracle-special-edition]]
+- [[saatleri-ayarlama-enstitusu]]
+- [[sapiens-a-brief-history-of-humankind]]
+- [[seminar-2-the-ego-in-freuds-theory]]
+- [[seminar-8-transference]]
+- [[seneca-the-life-of-a-stoic]]
+- [[shoe-dog]]
+- [[situational-awareness-the-decade-ahead]]
+- [[skin-in-the-game]]
+- [[small-is-beautiful]]
+- [[snowflake-the-definitive-guide]]
+- [[so-good-they-cant-ignore-you]]
+- [[sophies-world]]
+- [[spin-selling]]
+- [[spirituality-in-the-land-of-the-noble-reviews]]
+- [[start-with-why]]
+- [[starting-and-running-a-coaching-business]]
+- [[state-of-it-asset-management-2022]]
+- [[stock-investing-for-dummies]]
+- [[stock-trading-strategy-3-book-bundle]]
+- [[strateji-yenecek-ve-kazanacaksin]]
+- [[sultan-cemin-portreleri-hakkinda]]
+- [[sumer-ve-turkler-makaleler]]
+- [[sumerli-ludingirra]]
+- [[sumerlilerde-tufan-tufanda-turkler]]
+- [[supernatural-meetings-with-the-ancient-teachers-of-mankind]]
+- [[tarih-devrim-sosyalizm]]
+- [[tarih-turklerle-baslar-bilinmeyen-turk-tarihi]]
+- [[tarihi-degistiren-askerler]]
+- [[tarihi-degistiren-bilginler]]
+- [[tarihi-degistiren-konusmalar]]
+- [[tarihi-degistiren-liderler]]
+- [[tarihin-basladigi-on-turk-uygarligi]]
+- [[tasnak-partisinin-yapacagi-bir-sey-yok]]
+- [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]]
+- [[thank-you-for-arguing]]
+- [[the-33-strategies-of-war]]
+- [[the-7-habits-of-highly-effective-people]]
+- [[the-adaptability-advantage]]
+- [[the-alexiad]]
+- [[the-almanack-of-naval-ravikant]]
+- [[the-armenian-massacres-in-ottoman-turkey]]
+- [[the-art-of-gathering]]
+- [[the-art-of-manipulation]]
+- [[the-art-of-startup-fundraising]]
+- [[the-barbarian-empires-of-the-steppes]]
+- [[the-bed-of-procrustes]]
+- [[the-better-angels-of-our-nature]]
+- [[the-black-swan]]
+- [[the-business-of-venture-capital]]
+- [[the-buyout-of-america]]
+- [[the-case-against-reality]]
+- [[the-cathedral-and-the-bazaar]]
+- [[the-challenger-sale-challenge-yourself-action-book]]
+- [[the-coal-question]]
+- [[the-coming-wave-ai-power-and-our-future]]
+- [[the-daily-stoic]]
+- [[the-dawn-of-everything]]
+- [[the-decameron-volume-three]]
+- [[the-devil-made-me-do-it-malevolent-creativity]]
+- [[the-diamond-age]]
+- [[the-digital-as-para-world]]
+- [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]]
+- [[the-encyclopedia-of-world-history-stearns]]
+- [[the-end-of-history-and-the-last-man]]
+- [[the-end-of-modernism-elias-canettis-auto-da-fe]]
+- [[the-essential-david-bohm]]
+- [[the-essential-rumi]]
+- [[the-ethnic-cleansing-of-palestine]]
+- [[the-evolution-of-cooperation]]
+- [[the-first-democracies-early-popular-government-outside-athens]]
+- [[the-god-delusion]]
+- [[the-grand-design]]
+- [[the-great-ceo-within]]
+- [[the-greek-invasion-of-smyrna-1919]]
+- [[the-hard-thing-about-hard-things]]
+- [[the-hero-with-a-thousand-faces]]
+- [[the-horse-the-wheel-and-language]]
+- [[the-human-use-of-human-beings]]
+- [[the-huns-hyun-jin-kim]]
+- [[the-idea-of-israel]]
+- [[the-innovators-dilemma]]
+- [[the-israel-lobby-and-us-foreign-policy]]
+- [[the-last-man-volume-one]]
+- [[the-laws-of-human-nature]]
+- [[the-lean-entrepreneur]]
+- [[the-lean-startup]]
+- [[the-lessons-of-history]]
+- [[the-life-and-death-of-democracy-and-monitory-democracy]]
+- [[the-life-and-work-of-jalal-ud-din-rumi]]
+- [[the-linkedin-playbook-for-employees]]
+- [[the-mars-mystery]]
+- [[the-masnavi-books-one-and-two-mojaddedi]]
+- [[the-masnavi-whinfield]]
+- [[the-master-game]]
+- [[the-math-hacker-book]]
+- [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]]
+- [[the-mission-generation]]
+- [[the-mongols-and-the-west-1221-1410]]
+- [[the-non-orientable-topology-of-condorcets-paradox]]
+- [[the-open-society-and-its-enemies-vol-1]]
+- [[the-ottoman-empire-kenneth-harl]]
+- [[the-penguin-book-of-curious-and-interesting-puzzles]]
+- [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]]
+- [[the-philosophy-of-money]]
+- [[the-portraits-of-murad-iii]]
+- [[the-power-of-habit]]
+- [[the-power-of-now]]
+- [[the-prince-machiavelli]]
+- [[the-prosperity-paradox]]
+- [[the-psychological-assessment-of-political-leaders]]
+- [[the-relationship-between-capitalism-and-democracy]]
+- [[the-righteous-mind]]
+- [[the-room-where-it-happened]]
+- [[the-rubaiyat-of-omar-khayyam-batson-ross]]
+- [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]]
+- [[the-saas-sales-method-for-customer-success-and-account-managers]]
+- [[the-scythian-empire]]
+- [[the-secret-history-of-democracy-primitive-democracy]]
+- [[the-selfish-gene]]
+- [[the-start-up-of-you]]
+- [[the-startup-owners-manual]]
+- [[the-startup-playbook]]
+- [[the-story-of-civilization-vol-1-our-oriental-heritage]]
+- [[the-sufistic-quatrains-of-omar-khayyam]]
+- [[the-theory-of-everything-origin-and-fate-of-the-universe]]
+- [[the-thirteenth-tribe]]
+- [[the-tipping-point]]
+- [[the-tools-stutz-michels]]
+- [[the-truth-will-out-armenian-allegations]]
+- [[the-turkic-world-in-mahmud-al-kashghari]]
+- [[the-ultimate-private-equity-playbook]]
+- [[the-undoing-project]]
+- [[the-untethered-soul]]
+- [[the-wealth-of-nations]]
+- [[the-wisdom-of-the-stoics]]
+- [[the-world-of-the-khazars-new-perspectives]]
+- [[the-worldly-philosophers]]
+- [[the-worlds-200-hardest-brain-teasers]]
+- [[the-worlds-sixteen-crucified-saviors]]
+- [[think-like-an-entrepreneur-act-like-a-ceo]]
+- [[thinking-fast-and-slow]]
+- [[timelines-of-history]]
+- [[tolstoy-treatise-on-muhammad]]
+- [[tools-of-titans]]
+- [[transcaucasia-and-ararat]]
+- [[trillion-dollar-coach]]
+- [[trump-the-art-of-the-deal]]
+- [[turk-bilgi-kazim-mirsan]]
+- [[turk-gencinin-el-kitabi-ataturkun-ogutleri]]
+- [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]]
+- [[turk-milli-kulturu]]
+- [[turk-sairleri-cilt-2]]
+- [[turkic-world-senate-analysis-2026]]
+- [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]]
+- [[turkler-cilt-05-orta-cag]]
+- [[turkler-cilt-21-genel-indeks]]
+- [[turkler-kimdir-ve-kimlerden-ibarettir]]
+- [[turklerin-kaybolan-atalari]]
+- [[turks-and-khazars-origins-institutions-and-interactions]]
+- [[uc-kitada-osmanlilar]]
+- [[uc-tarz-i-siyaset]]
+- [[underworld-mysterious-origins-of-civilization]]
+- [[unutulanlar-disinda-yeni-bir-sey-yok]]
+- [[us-declaration-of-independence-and-constitution-appendix]]
+- [[uygarlik-anadoluda-dogdu]]
+- [[valuable-and-visible]]
+- [[value-proposition-design]]
+- [[venture-capital-a-practical-guide]]
+- [[venture-capital-and-private-equity-mms-curriculum]]
+- [[venture-capital-deal-terms]]
+- [[venture-capitalists-at-work]]
+- [[venture-deals]]
+- [[vices-of-the-mind]]
+- [[war-god-nights-of-the-witch]]
+- [[what-the-dog-saw]]
+- [[why-nations-fail]]
+- [[why-startups-fail]]
+- [[world-order]]
+- [[yorukler]]
+- [[you-are-a-badass]]
+- [[zaman-tuneli-ile-gecmiste-sumere-yolculuk]]
+- [[zen-and-the-art-of-motorcycle-maintenance]]
+- [[zero-to-one]]
 
 ---
 
-## Genres (86)
+## 2. Author & Thinker Profiles (658)
 
-* **[[algebraic-topology]]**: The branch of mathematics that uses algebraic, combinatorial, and homological invariants—such as simplicial nerve complexes, fundamental groups, covering spaces, Euler characteristics, and orientability—to classify topological spaces and relational structures.
-  * Works: [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]], [[the-non-orientable-topology-of-condorcets-paradox]]
-* **[[alternative-archaeology]]**: 
-* **[[anatolian-civilizations]]**: 
-  * Works: [[kayip-yazilar-ve-diller]], [[1177-bc-the-year-civilization-collapsed]], [[kuran-incil-ve-tevratin-sumerdeki-kokeni]], [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]], [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]], [[yorukler]]
-* **[[anatolian-humanism]]**: The indigenous philosophical, spiritual, and ethical tradition of Anatolia emphasizing universal human dignity, tolerance, egalitarianism, and divine reflection within the human conscience.
-  * Works: [[fusul-i-asikan]], [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]], [[asik-borani-soz-insanin-aynasi]]
-* **[[anthropology-of-consciousness]]**: The study of human consciousness across cultures, prehistory, and neurobiology, focusing on shamanic states, entheogenic plants, altered states of consciousness, neuroplasticity, and their foundational role in human art, religion, and adaptive evolution.
-  * Works: [[korkunun-otesi-beyond-fear]], [[breaking-the-spell]], [[mind-matter-and-quantum-mechanics]], [[anthropology-why-it-matters]], [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]], [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]], [[zen-and-the-art-of-motorcycle-maintenance]], [[educational-technology-a-primer-for-the-21st-century]], [[supernatural-meetings-with-the-ancient-teachers-of-mankind]], [[america-before-the-key-to-earths-lost-civilization]], [[the-adaptability-advantage]]
-* **[[archaeoastronomy]]**: 
-* **[[archaeological-historiography]]**: 
-  * Works: [[cambridge-ancient-history-scythia-and-thrace]], [[kayip-yazilar-ve-diller]], [[etruscan-an-archaic-form-of-hungarian]], [[the-horse-the-wheel-and-language]], [[timelines-of-history]], [[1177-bc-the-year-civilization-collapsed]], [[how-the-world-made-the-west]], [[kuran-incil-ve-tevratin-sumerdeki-kokeni]], [[islamda-bilim-ve-teknik-science-and-technology-in-islam]]
-* **[[artificial-intelligence-and-machine-learning]]**: Theoretical, algorithmic, architectural, and strategic foundations of symbolic AI, statistical machine learning, deep neural networks, large language models, and autonomous agentic systems.
-  * Works: [[homo-deus]], [[21-lessons-for-the-21st-century]], [[the-human-use-of-human-beings]], [[hbr-insights-future-of-business-boxed-set]], [[brief-answers-to-the-big-questions]], [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]], [[machine-learning-in-medicine-a-complete-overview]], [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]], [[machine-learning-for-dummies-ibm-limited-edition]], [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]], [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]]
-* **[[behavioral-science-risk-and-antifragility]]**: Probabilistic epistemology, Black Swan outliers, antifragile systems design, skin-in-the-game ethics, rapid cognition, social contagion, and structural drivers of achievement.
-  * Works: [[you-are-a-badass]], [[thinking-fast-and-slow]], [[the-power-of-habit]], [[the-undoing-project]], [[the-better-angels-of-our-nature]], [[why-startups-fail]], [[hooked-how-to-build-habit-forming-products]], [[skin-in-the-game]], [[the-laws-of-human-nature]], [[david-and-goliath]], [[antifragile]], [[the-bed-of-procrustes]], [[what-the-dog-saw]], [[outliers-story-of-success]], [[the-black-swan]], [[blink-power-of-thinking-without-thinking]], [[fooled-by-randomness]], [[the-tipping-point]], [[influence-the-psychology-of-persuasion]]
-* **[[biography-memoir-and-intellectual-history]]**: Lives of transformative moral reformers, political revolutionaries, conquerors, humorists, and dealmakers—illuminating how personal character collides with historical structures.
-  * Works: [[four-years-beneath-the-crescent]], [[buyuk-ataturk-albumu-1]], [[ermenilerin-kaleminden-kurtlesen-ermeniler]], [[anti-zionism-a-jewish-history]], [[leadership-lessons-six-titans]], [[review-math-and-the-mona-lisa]], [[entelektuelin-kutsal-kitabi-modern-kultur]], [[entelektuelin-kutsal-kitabi-biyografiler]], [[sultan-cemin-portreleri-hakkinda]], [[kazim-karabekir-hayatim]], [[bir-omur-nasil-yasanir]], [[99-yuz]], [[ataturkun-usaginin-gizli-defteri]], [[ataturkun-not-defterleri]], [[ataturk-hakkinda-hatiralar-ve-belgeler]], [[ataturk-bir-milletin-yeniden-dogusu]], [[tarihi-degistiren-liderler]], [[tarihi-degistiren-konusmalar]], [[tarihi-degistiren-bilginler]], [[tarihi-degistiren-askerler]], [[the-undoing-project]], [[female-sexuality-early-psychoanalytic-controversies]], [[philosophy-100-great-thinkers]], [[confessions-of-saint-augustine]], [[venture-capitalists-at-work]], [[the-startup-playbook]], [[shoe-dog]], [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]], [[the-hard-thing-about-hard-things]], [[mastery-robert-greene]], [[seneca-the-life-of-a-stoic]], [[epictetus-stoic-and-socratic-guide]], [[la-saga-des-rothschild]], [[reminiscences-of-a-stock-operator]], [[the-worldly-philosophers]], [[heaven-is-for-real]], [[after-the-prophet-shia-sunni-split]], [[the-life-and-work-of-jalal-ud-din-rumi]], [[me-and-rumi-shams-i-tabrizi]], [[korkunun-cocuklari]], [[unutulanlar-disinda-yeni-bir-sey-yok]], [[tolstoy-treatise-on-muhammad]], [[turk-sairleri-cilt-2]], [[50-plus-books-that-changed-my-life]], [[born-a-crime]], [[i-am-malala]], [[che-guevara-a-biography]], [[inspiration-to-live-your-magic]], [[becoming-king-martin-luther-king-jr]], [[funny-in-farsi]], [[napoleon-a-biography]], [[trump-the-art-of-the-deal]], [[karl-marx-a-biography]], [[gandhi-my-experiments-with-truth]]
-* **[[biotechnology-medicine-and-longevity]]**: Molecular biologics, CAR-T and CRISPR cell/gene therapies, neurological patient care, healthcare supply-chain disruption, and Blue Zone lifestyle longevity.
-  * Works: [[homo-deus]], [[tools-of-titans]], [[cocuklarda-travmanin-yaralarini-sarmak]], [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]], [[crypto-and-nft-philanthropy-afsp-case-study]], [[amazon-in-healthcare-strategy-for-a-3-trillion-market]], [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]], [[pharmaceutical-biotechnology-fundamentals-and-applications]]
-* **[[blockchain-and-decentralized-finance]]**: Study of cryptographic distributed ledgers, consensus protocols, smart contracts, decentralized financial markets, and permissioned enterprise networks.
-  * Works: [[hbr-insights-future-of-business-boxed-set]], [[crypto-and-nft-philanthropy-afsp-case-study]], [[blockchain-crypto-and-defi-bridging-finance-and-technology]], [[getting-started-with-enterprise-blockchain]]
-* **[[catastrophism]]**: 
-* **[[central-eurasian-steppe-and-silk-road-history]]**: Macro-historical, nomadic, archaeological, and economic analysis of the Eurasian steppe corridor, transcontinental trade arteries, nomadic confederations, and pastoralist-sedentary state formation.
-  * Works: [[empires-of-the-steppes-companion]], [[the-scythian-empire]], [[a-history-of-russia-central-asia-and-mongolia-vol-2]], [[the-huns-hyun-jin-kim]], [[the-barbarian-empires-of-the-steppes]], [[empires-of-the-silk-road]], [[the-horse-the-wheel-and-language]], [[ancient-china-and-its-enemies]], [[religions-of-the-silk-road]], [[an-introduction-to-the-history-of-the-turkic-peoples]], [[cambridge-ancient-history-scythia-and-thrace]], [[the-thirteenth-tribe]]
-* **[[classical-and-analytic-philosophy]]**: Primary philosophical canons from Plato and Saint Augustine through Popper, Schumpeter, and Marx scholarship to formal logic, vice epistemology, and modern Stoicism.
-  * Works: [[the-story-of-civilization-vol-1-our-oriental-heritage]], [[tarih-devrim-sosyalizm]], [[diodorus-of-sicily-library-of-history]], [[the-lessons-of-history]], [[the-scythian-empire]], [[the-essential-david-bohm]], [[the-daily-stoic]], [[entelektuelin-kutsal-kitabi-biyografiler]], [[karl-marx-and-the-actualization-of-philosophy]], [[vices-of-the-mind]], [[introduction-to-formal-philosophy]], [[lying-sam-harris]], [[philosophy-100-great-thinkers]], [[a-guide-to-the-good-life-stoic-joy]], [[plato-complete-works]], [[sophies-world]], [[seminar-2-the-ego-in-freuds-theory]], [[the-open-society-and-its-enemies-vol-1]], [[seminar-8-transference]], [[the-human-use-of-human-beings]], [[confessions-of-saint-augustine]]
-* **[[classical-and-institutional-economics]]**: Foundational treatises and critical syntheses exploring the wealth of nations, resource limits, the sociology of money, inclusive vs. extractive institutions, urban capitalism, and macroeconomic stabilization.
-  * Works: [[leaving-socialism-behind]], [[benim-pencerem]], [[thinking-fast-and-slow]], [[game-theory-a-multi-leveled-approach]], [[karl-marx-and-the-actualization-of-philosophy]], [[capitalism-socialism-and-democracy]], [[the-prosperity-paradox]], [[antifragile]], [[the-black-swan]], [[why-nations-fail]], [[cagdas-kapitalizmin-mekansal-orgutlenmesi]], [[russia-rebounds]], [[small-is-beautiful]], [[the-worldly-philosophers]], [[the-philosophy-of-money]], [[the-coal-question]], [[the-wealth-of-nations]]
-* **[[cloud-computing-and-distributed-systems]]**: Engineering, operational, and economic foundations of hyperscale cloud infrastructure, container orchestration, microservices, cloud data platforms, API ecosystems, and IT asset governance.
-  * Works: [[microsoft-365-excel-office-scripts-for-dummies]], [[the-cathedral-and-the-bazaar]], [[amazon-in-healthcare-strategy-for-a-3-trillion-market]], [[api-strategy-for-decision-makers]], [[deploying-a-modern-security-data-lake]], [[kubernetes-up-and-running]], [[practical-fraud-prevention]], [[snowflake-the-definitive-guide]], [[state-of-it-asset-management-2022]], [[architecting-data-intensive-saas-applications]], [[microservices-up-and-running]], [[saas-for-dummies-oracle-special-edition]], [[internet-of-things-from-hype-to-reality]], [[iaas-for-dummies-oracle-special-edition]], [[enterprise-cloud-for-dummies-nutanix-special-edition]]
-* **[[cognitive-moral-and-social-psychology]]**: Empirical studies of human perception, heuristics and biases, moral foundations, violence decline, collective memory, social ritual, cybernetics, media ecology, and political violence.
-  * Works: [[the-power-of-now]], [[thinking-fast-and-slow]], [[the-power-of-habit]], [[deep-work]], [[intentional-attention]], [[the-case-against-reality]], [[vices-of-the-mind]], [[of-heroes-and-villains-pre-revolutionary-russia]], [[the-art-of-gathering]], [[the-devil-made-me-do-it-malevolent-creativity]], [[psychology-of-perception]], [[the-undoing-project]], [[the-righteous-mind]], [[the-tools-stutz-michels]], [[lying-sam-harris]], [[the-better-angels-of-our-nature]], [[psychology-of-terrorism-ncjrs]], [[deri-ben-the-skin-ego]], [[how-societies-remember]], [[amusing-ourselves-to-death]], [[the-human-use-of-human-beings]]
-* **[[comparative-democratic-history]]**: The cross-civilizational historical, sociological, and constitutional study of popular assemblies, electoral representation, civil associations, and power-monitoring institutions from third-millennium BC Mesopotamia to modern post-parliamentary democracies.
-  * Works: [[ottoman-brothers]], [[the-dawn-of-everything]], [[the-better-angels-of-our-nature]], [[the-open-society-and-its-enemies-vol-1]], [[why-nations-fail]], [[gandhi-my-experiments-with-truth]], [[becoming-king-martin-luther-king-jr]], [[russian-politics-from-lenin-to-putin]], [[us-declaration-of-independence-and-constitution-appendix]], [[the-end-of-history-and-the-last-man]], [[democracy-in-america]], [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]], [[the-first-democracies-early-popular-government-outside-athens]], [[the-life-and-death-of-democracy-and-monitory-democracy]], [[the-secret-history-of-democracy-primitive-democracy]], [[the-non-orientable-topology-of-condorcets-paradox]]
-* **[[comparative-religion-and-islamic-history]]**: Historical, archaeological, and scientific investigations tracing ancient Near Eastern religious origins, Iranian pluralism, the early Islamic caliphate, and Islamic Golden Age science.
-  * Works: [[the-worlds-sixteen-crucified-saviors]], [[the-story-of-civilization-vol-1-our-oriental-heritage]], [[the-thirteenth-tribe]], [[an-introduction-to-the-history-of-the-turkic-peoples]], [[religions-of-the-silk-road]], [[destiny-disrupted]], [[ibni-fadlan-seyahatnamesi]], [[olum-ve-kiyamet-olume-hazirlik]], [[after-the-prophet-shia-sunni-split]], [[islamda-bilim-ve-teknik-science-and-technology-in-islam]], [[me-and-rumi-shams-i-tabrizi]], [[spirituality-in-the-land-of-the-noble-reviews]], [[kuran-incil-ve-tevratin-sumerdeki-kokeni]], [[the-life-and-work-of-jalal-ud-din-rumi]]
-* **[[consultative-sales-and-commercial-teaching]]**: Empirical behavioral science of complex B2B sales conversations, need-discovery questioning (SPIN), and insight-led commercial teaching (Challenger).
-  * Works: [[the-art-of-manipulation]], [[influence-the-psychology-of-persuasion]], [[retention-point-membership-and-subscription-growth]], [[the-saas-sales-method-for-customer-success-and-account-managers]], [[blueprints-for-a-saas-sales-organization]], [[spin-selling]], [[the-challenger-sale-challenge-yourself-action-book]]
-* **[[corporate-strategy-and-management-classics]]**: Empirical studies of enduring corporate greatness, Harvard Business Review centennial canons, empowered tech product discovery, open-source collaboration, and adaptive career strategy.
-  * Works: [[leadership-lessons-six-titans]], [[leaders-eat-last]], [[high-output-management]], [[why-startups-fail]], [[zero-to-one]], [[value-proposition-design]], [[the-startup-owners-manual]], [[the-innovators-dilemma]], [[crossing-the-chasm]], [[blitzscaling]], [[disrupt-you]], [[how-will-you-measure-your-life]], [[hbr-at-100]], [[hbr-women-at-work-collection]], [[hbr-insights-future-of-business-boxed-set]], [[inspired-how-to-create-tech-products-customers-love]], [[market-research-process-data-methods-stata]], [[venture-capital-a-practical-guide]], [[financial-intelligence-for-managers]], [[hbr-10-must-reads-on-teams]], [[the-start-up-of-you]], [[good-to-great]], [[the-cathedral-and-the-bazaar]], [[built-to-last]]
-* **[[cultural-and-digital-anthropology]]**: Ethnographic and philosophical study of human ways of living—from pastoral Anatolian nomadism and ecological relations to ubiquitous computing, digital materiality, and Web3 subcultures.
-  * Works: [[sapiens-a-brief-history-of-humankind]], [[the-dawn-of-everything]], [[ibni-fadlan-seyahatnamesi]], [[how-societies-remember]], [[the-hero-with-a-thousand-faces]], [[cagdas-kapitalizmin-mekansal-orgutlenmesi]], [[born-a-crime]], [[funny-in-farsi]], [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]], [[crypto-and-nft-philanthropy-afsp-case-study]], [[anthropology-why-it-matters]], [[digital-anthropology]], [[the-digital-as-para-world]], [[yorukler]]
-* **[[cyberpunk-ai-fiction-and-techno-humanism]]**: Literary speculative fiction interrogating artificial consciousness, nanotechnology, bio-enhancement, algorithmic ethics, and adaptive pedagogy.
-  * Works: [[klara-and-the-sun]], [[machines-like-me]], [[the-diamond-age]]
-* **[[cybersecurity-and-digital-forensics]]**: Technical, organizational, and behavioral methodologies for securing information systems, handling cyber intrusions, and conducting legally defensible network forensics.
-  * Works: [[an-ugly-truth-inside-facebook]], [[hbr-insights-future-of-business-boxed-set]], [[deploying-a-modern-security-data-lake]], [[practical-fraud-prevention]], [[iot-for-dummies-applications-solutions-and-security-compendium]], [[internet-of-things-from-hype-to-reality]], [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]], [[computer-security-incident-handling-guide-nist-sp-800-61r2]], [[advanced-network-forensics-a-cyber-behavioral-science-approach]]
-* **[[data-science-and-scientific-computing]]**: Methodologies, programming architectures (Python and R), exploratory statistics, and computational pipelines for extracting actionable knowledge and predictive models from complex empirical datasets.
-  * Works: [[microsoft-365-excel-office-scripts-for-dummies]], [[market-research-process-data-methods-stata]], [[financial-analysis-using-excel]], [[excel-for-accountants]], [[calculus-one-and-several-variables]], [[architecting-data-intensive-saas-applications]], [[deploying-a-modern-security-data-lake]], [[practical-fraud-prevention]], [[snowflake-the-definitive-guide]], [[kubernetes-up-and-running]], [[an-introduction-to-machine-learning]], [[introduction-to-artificial-intelligence]], [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]], [[probabilistic-artificial-intelligence]]
-* **[[educational-technology-and-disruptive-pedagogy]]**: Research and design frameworks for transforming K–12 and higher education through student-centric online learning, blended models, and smart classrooms.
-  * Works: [[cocuklarda-travmanin-yaralarini-sarmak]], [[the-diamond-age]], [[30-french-short-stories-for-complete-beginners]], [[osmanli-turkcesi-metinleri-1]], [[the-math-hacker-book]], [[i-am-malala]], [[501-math-word-problems-and-middle-school-math-challenges]], [[precalculus-openstax]], [[calculus-one-and-several-variables]], [[problems-in-general-physics]], [[quantum-mechanics-for-pedestrians]], [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]], [[an-introduction-to-machine-learning]], [[co-intelligence-living-and-working-with-ai]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[blended-using-disruptive-innovation-to-improve-schools]], [[educational-technology-a-primer-for-the-21st-century]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]]
-* **[[energy-policy-and-clean-tech-economics]]**: Geopolitical, techno-economic, and engineering analysis of national energy security, renewable power integration, grid-scale energy storage, and electric mobility.
-  * Works: [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]], [[small-is-beautiful]], [[the-coal-question]], [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]], [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]], [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]]
-* **[[entrepreneurship-and-startup-methodology]]**: Foundational playbooks and empirical frameworks for launching, validating, scaling, financing, and surviving high-uncertainty ventures—from Customer Development and Lean Startup to Blitzscaling, Zero to One, and startup failure forensics.
-  * Works: [[tools-of-titans]], [[starting-and-running-a-coaching-business]], [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]], [[how-to-build-a-career-in-tech]], [[the-great-ceo-within]], [[trillion-dollar-coach]], [[so-good-they-cant-ignore-you]], [[high-output-management]], [[the-mission-generation]], [[how-to-start-a-startup-pragmatic-coders]], [[why-startups-fail]], [[the-almanack-of-naval-ravikant]], [[crack-the-funding-code]], [[the-prosperity-paradox]], [[blitzscaling]], [[shoe-dog]], [[the-art-of-startup-fundraising]], [[think-like-an-entrepreneur-act-like-a-ceo]], [[venture-capital-deal-terms]], [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]], [[crossing-the-chasm]], [[hooked-how-to-build-habit-forming-products]], [[the-hard-thing-about-hard-things]], [[value-proposition-design]], [[zero-to-one]], [[the-lean-entrepreneur]], [[the-startup-owners-manual]], [[the-startup-playbook]], [[business-startup-for-dummies-bundle]], [[the-lean-startup]], [[venture-capitalists-at-work]], [[venture-deals]], [[mastering-the-vc-game]], [[start-with-why]], [[the-innovators-dilemma]]
-* **[[epic-narrative]]**: 
-  * Works: [[cehennemdere-kanyonu]]
-* **[[esoteric-history]]**: 
-* **[[ethics-and-value-philosophy]]**: Philosophical and cross-cultural inquiry into axiology (the Metaphysics of Quality), universal vs. contextual global values, character virtues, and academic ethics.
-  * Works: [[the-7-habits-of-highly-effective-people]], [[the-righteous-mind]], [[lying-sam-harris]], [[olum-ve-kiyamet-olume-hazirlik]], [[plato-complete-works]], [[how-will-you-measure-your-life]], [[boundaries-cloud-townsend]], [[how-to-win-every-argument]], [[the-wisdom-of-the-stoics]], [[epictetus-stoic-and-socratic-guide]], [[letters-from-a-stoic]], [[skin-in-the-game]], [[the-bed-of-procrustes]], [[the-black-swan]], [[pivot-alan-zimmerman]], [[small-is-beautiful]], [[the-philosophy-of-money]], [[the-wealth-of-nations]], [[korkunun-otesi-beyond-fear]], [[atheism-all-that-matters]], [[richard-dawkins-god-delusion-bloch]], [[the-god-delusion]], [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]], [[machines-like-me]], [[tolstoy-treatise-on-muhammad]], [[inspiration-to-live-your-magic]], [[i-am-malala]], [[karl-marx-a-biography]], [[gandhi-my-experiments-with-truth]], [[becoming-king-martin-luther-king-jr]], [[50-plus-books-that-changed-my-life]], [[the-relationship-between-capitalism-and-democracy]], [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[anthropology-why-it-matters]], [[venture-capital-and-private-equity-mms-curriculum]], [[zen-and-the-art-of-motorcycle-maintenance]], [[global-ethics-for-leadership-values-and-virtues-for-life]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]]
-* **[[evolutionary-biology]]**: The subfield of biology that studies the evolutionary processes—natural selection, adaptation, speciation, and population genetics—that produced the diversity of life.
-  * Works: [[sapiens-a-brief-history-of-humankind]], [[the-case-against-reality]], [[breaking-the-spell]], [[the-god-delusion]], [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]], [[pharmaceutical-biotechnology-fundamentals-and-applications]], [[machine-learning-in-medicine-a-complete-overview]], [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]], [[discovering-the-brain]], [[the-evolution-of-cooperation]]
-* **[[executive-coaching-and-personal-mastery]]**: Practitioner playbooks, cognitive operating systems, habit architectures, and executive coaching methodologies bridging individual self-governance and high-trust organizational performance.
-  * Works: [[intentional-attention]], [[the-linkedin-playbook-for-employees]], [[the-mission-generation]], [[the-great-ceo-within]], [[bir-omur-nasil-yasanir]], [[trillion-dollar-coach]], [[how-to-build-a-career-in-tech]], [[leadership-today]], [[tools-of-titans]], [[deep-work]], [[ego-is-the-enemy]], [[the-daily-stoic]], [[law-of-attraction-secret-power]], [[give-and-take]], [[you-are-a-badass]], [[so-good-they-cant-ignore-you]], [[the-power-of-habit]], [[starting-and-running-a-coaching-business]], [[coaching-for-leadership]], [[the-power-of-now]], [[the-7-habits-of-highly-effective-people]]
-* **[[financial-history-banking-and-market-psychology]]**: Narrative histories of European banking dynasties, systemic institutional collapses, and timeless chronicles of speculative market psychology and monetary culture.
-  * Works: [[fooled-by-randomness]], [[meltdown-credit-suisse]], [[la-saga-des-rothschild]], [[reminiscences-of-a-stock-operator]], [[the-philosophy-of-money]]
-* **[[game-theory]]**: The mathematical and formal study of strategic interaction, conflict, and cooperation among rational (and boundedly rational) decision-makers.
-  * Works: [[game-theory-a-multi-leveled-approach]], [[introduction-to-formal-philosophy]], [[math-puzzles-classic-riddles]], [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]], [[probabilistic-artificial-intelligence]], [[blockchain-crypto-and-defi-bridging-finance-and-technology]], [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[the-non-orientable-topology-of-condorcets-paradox]]
-* **[[geopolitics-and-diplomatic-history]]**: Comparative international orders, Westphalian balance of power, post-Cold War ideological transitions, great-power rivalry, Eurasian corridors, and high-level diplomatic memoirs.
-  * Works: [[the-encyclopedia-of-world-history-stearns]], [[ancient-china-and-its-enemies]], [[the-armenian-massacres-in-ottoman-turkey]], [[the-ethnic-cleansing-of-palestine]], [[tasnak-partisinin-yapacagi-bir-sey-yok]], [[encyclopedia-of-world-history-facts-on-file]], [[empires-of-the-silk-road]], [[destiny-disrupted]], [[ottoman-brothers]], [[the-idea-of-israel]], [[the-barbarian-empires-of-the-steppes]], [[a-history-of-russia-central-asia-and-mongolia-vol-2]], [[21-lessons-for-the-21st-century]], [[the-greek-invasion-of-smyrna-1919]], [[leaving-socialism-behind]], [[how-the-world-made-the-west]], [[anti-zionism-a-jewish-history]], [[ataturk-bir-milletin-yeniden-dogusu]], [[la-saga-des-rothschild]], [[russia-rebounds]], [[after-the-prophet-shia-sunni-split]], [[strateji-yenecek-ve-kazanacaksin]], [[napoleon-a-biography]], [[che-guevara-a-biography]], [[turkic-world-senate-analysis-2026]], [[the-room-where-it-happened]], [[world-order]], [[russian-politics-from-lenin-to-putin]], [[the-israel-lobby-and-us-foreign-policy]], [[the-end-of-history-and-the-last-man]]
-* **[[hermeticism]]**: 
-* **[[historical-fiction]]**: 
-  * Works: [[cehennemdere-kanyonu]], [[the-decameron-volume-three]], [[hadji-murad]]
-* **[[innovation-and-economic-growth]]**: Evolutionary, historical, and empirical analysis of technological revolutions, General Purpose Technologies (GPTs), learning-by-doing skill diffusion, and cross-disciplinary creativity.
-  * Works: [[capitalism-socialism-and-democracy]], [[zero-to-one]], [[the-prosperity-paradox]], [[the-lean-startup]], [[the-innovators-dilemma]], [[crossing-the-chasm]], [[blitzscaling]], [[disrupt-you]], [[the-cathedral-and-the-bazaar]], [[inspired-how-to-create-tech-products-customers-love]], [[hbr-at-100]], [[islamda-bilim-ve-teknik-science-and-technology-in-islam]], [[investing-for-dummies]], [[amazon-in-healthcare-strategy-for-a-3-trillion-market]], [[pharmaceutical-biotechnology-fundamentals-and-applications]], [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]], [[a-brief-history-of-time]], [[the-digital-as-para-world]], [[digital-anthropology]], [[the-ultimate-private-equity-playbook]], [[mastering-private-equity]], [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]], [[behind-the-cloud]], [[enterprise-cloud-for-dummies-nutanix-special-edition]], [[iaas-for-dummies-oracle-special-edition]], [[api-strategy-for-decision-makers]], [[microservices-up-and-running]], [[kubernetes-up-and-running]], [[iot-for-dummies-applications-solutions-and-security-compendium]], [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]], [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]], [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]], [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]], [[media-and-digital-management]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]], [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]], [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]]
-* **[[intelligence-studies-and-national-security]]**: Covert intelligence tradecraft, democratic oversight of shadow agencies, at-a-distance leadership profiling, NSC executive policymaking, and transnational hybrid warfare.
-  * Works: [[the-room-where-it-happened]], [[house-of-trump-house-of-putin]], [[the-psychological-assessment-of-political-leaders]], [[by-way-of-deception]]
-* **[[international-relations]]**: The academic study of the political, diplomatic, military, and economic interactions between sovereign states, non-state actors, and international systems.
-  * Works: [[turkic-world-senate-analysis-2026]], [[world-order]], [[the-israel-lobby-and-us-foreign-policy]], [[global-ethics-for-leadership-values-and-virtues-for-life]], [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
-* **[[internet-of-things-and-edge-computing]]**: Networking protocols, sensor-actuator transducers, fog/edge computing architectures, hardware-rooted cryptographic security, and recurring-service business models connecting physical assets to the cloud.
-  * Works: [[internet-of-things-from-hype-to-reality]], [[iot-for-dummies-applications-solutions-and-security-compendium]]
-* **[[investigative-non-fiction]]**: 
-  * Works: [[the-thirteenth-tribe]], [[the-armenian-massacres-in-ottoman-turkey]], [[the-ethnic-cleansing-of-palestine]], [[ermenilerin-kaleminden-kurtlesen-ermeniler]], [[kazim-karabekir-anlatiyor]], [[what-the-dog-saw]], [[an-ugly-truth-inside-facebook]], [[meltdown-credit-suisse]], [[house-of-trump-house-of-putin]], [[by-way-of-deception]], [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]], [[the-buyout-of-america]]
-* **[[law-and-quantitative-criminology]]**: Doctrinal, philosophical, and empirical-experimental study of legal systems, constitutional governance, crime concentration, and criminal justice policy.
-  * Works: [[the-devil-made-me-do-it-malevolent-creativity]], [[psychology-of-terrorism-ncjrs]], [[investment-banks-hedge-funds-and-private-equity]], [[financing-real-estate-investments-for-dummies]], [[us-declaration-of-independence-and-constitution-appendix]], [[mandate-for-leadership-2025]], [[venture-capital-and-private-equity-mms-curriculum]], [[handbook-of-quantitative-criminology]], [[introduction-to-law]]
-* **[[leadership-and-management]]**: The interdisciplinary study and practice of executive decision-making, organizational design, adaptive strategy, cultural stewardship, and human-centered governance in complex institutions.
-  * Works: [[leadership-lessons-six-titans]], [[the-7-habits-of-highly-effective-people]], [[starting-and-running-a-coaching-business]], [[ego-is-the-enemy]], [[benim-pencerem]], [[tarihi-degistiren-liderler]], [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]], [[how-to-build-a-career-in-tech]], [[the-great-ceo-within]], [[leaders-eat-last]], [[leadership-today]], [[trillion-dollar-coach]], [[coaching-for-leadership]], [[so-good-they-cant-ignore-you]], [[deep-work]], [[high-output-management]], [[give-and-take]], [[the-mission-generation]], [[the-linkedin-playbook-for-employees]], [[intentional-attention]], [[the-art-of-gathering]], [[think-like-an-entrepreneur-act-like-a-ceo]], [[the-startup-playbook]], [[the-hard-thing-about-hard-things]], [[start-with-why]], [[disrupt-you]], [[how-will-you-measure-your-life]], [[how-to-win-friends-and-influence-people]], [[never-split-the-difference]], [[emotional-intelligence]], [[mastery-robert-greene]], [[meditations-marcus-aurelius]], [[david-and-goliath]], [[outliers-story-of-success]], [[pivot-alan-zimmerman]], [[the-start-up-of-you]], [[hbr-women-at-work-collection]], [[hbr-at-100]], [[hbr-10-must-reads-on-teams]], [[good-to-great]], [[built-to-last]], [[financial-intelligence-for-managers]], [[inspiration-to-live-your-magic]], [[trump-the-art-of-the-deal]], [[50-plus-books-that-changed-my-life]], [[the-psychological-assessment-of-political-leaders]], [[the-ultimate-private-equity-playbook]], [[mastering-private-equity]], [[saas-for-dummies-oracle-special-edition]], [[retention-point-membership-and-subscription-growth]], [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]], [[the-saas-sales-method-for-customer-success-and-account-managers]], [[blueprints-for-a-saas-sales-organization]], [[behind-the-cloud]], [[state-of-it-asset-management-2022]], [[microservices-up-and-running]], [[machine-learning-for-dummies-ibm-limited-edition]], [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]], [[co-intelligence-living-and-working-with-ai]], [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]], [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]], [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]], [[global-ethics-for-leadership-values-and-virtues-for-life]], [[blended-using-disruptive-innovation-to-improve-schools]], [[the-challenger-sale-challenge-yourself-action-book]], [[media-and-digital-management]], [[entertainment-science-data-analytics-and-practical-theory]], [[getting-started-with-enterprise-blockchain]], [[influencing-leaders]], [[the-adaptability-advantage]], [[rapid-reculturing]], [[leading-for-tomorrow]], [[valuable-and-visible]]
-* **[[literary-criticism-and-modernism]]**: Critical, historical, and philological scholarship examining modernist fiction, narrative form, and the intersection of literature with intellectual and political crises.
-  * Works: [[the-idea-of-israel]], [[review-math-and-the-mona-lisa]], [[entelektuelin-kutsal-kitabi-modern-kultur]], [[mehmet-akif]], [[99-yuz]], [[finnegans-wake]], [[spirituality-in-the-land-of-the-noble-reviews]], [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]], [[the-rubaiyat-of-omar-khayyam-batson-ross]], [[saatleri-ayarlama-enstitusu]], [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]], [[rubab-i-sikeste]], [[orientalism]], [[the-end-of-modernism-elias-canettis-auto-da-fe]]
-* **[[media-economics-and-entertainment-science]]**: Econometric, managerial, and industrial-organization analysis of movies, music, games, publishing, and digital streaming platforms.
-  * Works: [[entelektuelin-kutsal-kitabi-modern-kultur]], [[amusing-ourselves-to-death]], [[what-the-dog-saw]], [[the-tipping-point]], [[market-research-process-data-methods-stata]], [[an-ugly-truth-inside-facebook]], [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]], [[the-digital-as-para-world]], [[digital-anthropology]], [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]], [[entertainment-science-data-analytics-and-practical-theory]], [[media-and-digital-management]]
-* **[[military-science]]**: The systematic study of military processes, operational doctrine, weapon systems, command and control (C2), and the conduct of warfare.
-  * Works: [[four-years-beneath-the-crescent]], [[diodorus-of-sicily-library-of-history]], [[ancient-china-and-its-enemies]], [[the-barbarian-empires-of-the-steppes]], [[the-huns-hyun-jin-kim]], [[the-greek-invasion-of-smyrna-1919]], [[canakkale-zafer-yolunda]], [[empires-of-the-steppes-companion]], [[kazim-karabekir-hayatim]], [[ataturkun-not-defterleri]], [[tarihi-degistiren-askerler]], [[the-33-strategies-of-war]], [[strateji-yenecek-ve-kazanacaksin]], [[cehennemdere-kanyonu]], [[unutulanlar-disinda-yeni-bir-sey-yok]], [[napoleon-a-biography]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
-* **[[neuroscience-and-philosophy-of-mind]]**: Biological, physical, and philosophical investigation of brain architecture, synaptic memory, visual perception of art, and the non-algorithmic nature of consciousness.
-  * Works: [[the-essential-david-bohm]], [[the-case-against-reality]], [[psychology-of-perception]], [[bilimsel-bir-psikoloji-projesi-1895]], [[ruyalari-yorumu-interpretation-of-dreams]], [[emotional-intelligence]], [[blink-power-of-thinking-without-thinking]], [[breaking-the-spell]], [[brain-teasers-211-logic-puzzles]], [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]], [[mind-matter-and-quantum-mechanics]], [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]], [[the-grand-design]], [[introduction-to-artificial-intelligence]], [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]], [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]], [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]], [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]], [[discovering-the-brain]], [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]]
-* **[[occult-studies]]**: 
-* **[[organizational-psychology]]**: The scientific study of human behavior, motivation, psychological safety, neuroplasticity, and collective culture within workplaces and complex institutions.
-  * Works: [[leaders-eat-last]], [[leadership-today]], [[coaching-for-leadership]], [[give-and-take]], [[think-like-an-entrepreneur-act-like-a-ceo]], [[boundaries-cloud-townsend]], [[emotional-intelligence]], [[the-laws-of-human-nature]], [[mastery-robert-greene]], [[outliers-story-of-success]], [[blink-power-of-thinking-without-thinking]], [[the-tipping-point]], [[pivot-alan-zimmerman]], [[the-start-up-of-you]], [[hbr-women-at-work-collection]], [[hbr-10-must-reads-on-teams]], [[good-to-great]], [[built-to-last]], [[stock-trading-strategy-3-book-bundle]], [[enchanted-america]], [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[discovering-the-brain]], [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]], [[educational-technology-a-primer-for-the-21st-century]], [[blended-using-disruptive-innovation-to-improve-schools]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[spin-selling]], [[advanced-network-forensics-a-cyber-behavioral-science-approach]], [[the-adaptability-advantage]], [[rapid-reculturing]], [[leading-for-tomorrow]]
-* **[[ottoman-philology-and-literary-historiography]]**: Critical manuscript transcription, paleography, biographical dictionaries (*tezkire*), classical rhetoric (*belâgat*), and archival recovery across Ottoman and early Republican Turkish literature.
-  * Works: [[sultan-cemin-portreleri-hakkinda]], [[fusul-i-asikan]], [[osmanli-turkcesi-metinleri-1]], [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]], [[turk-sairleri-cilt-2]], [[rubab-i-sikeste]], [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]]
-* **[[paleoclimatology]]**: 
-* **[[personal-finance-investing-and-capital-markets]]**: From household budgeting, retirement compounding, equity valuation, and real-estate leverage to quantitative Excel modeling and Wall Street investment banking, hedge funds, and private equity.
-  * Works: [[the-business-of-venture-capital]], [[financial-modeling-and-valuation]], [[business-startup-for-dummies-bundle]], [[the-almanack-of-naval-ravikant]], [[fooled-by-randomness]], [[microsoft-365-excel-office-scripts-for-dummies]], [[financial-intelligence-for-managers]], [[venture-capital-a-practical-guide]], [[meltdown-credit-suisse]], [[reminiscences-of-a-stock-operator]], [[russia-rebounds]], [[investment-banks-hedge-funds-and-private-equity]], [[investing-for-dummies]], [[stock-investing-for-dummies]], [[stock-trading-strategy-3-book-bundle]], [[financing-real-estate-investments-for-dummies]], [[managing-your-money-all-in-one-for-dummies]], [[excel-for-accountants]], [[personal-finance-and-investing-all-in-one-for-dummies]], [[financial-analysis-using-excel]], [[trump-the-art-of-the-deal]]
-* **[[persuasion-negotiation-and-rhetoric]]**: Behavioral psychology of compliance, FBI hostage-negotiation tactics, Aristotelian rhetoric, informal logic, interpersonal goodwill, relational boundaries, and human-nature realism.
-  * Works: [[the-art-of-gathering]], [[venture-deals]], [[crack-the-funding-code]], [[start-with-why]], [[the-laws-of-human-nature]], [[never-split-the-difference]], [[thank-you-for-arguing]], [[how-to-win-every-argument]], [[the-33-strategies-of-war]], [[boundaries-cloud-townsend]], [[influence-the-psychology-of-persuasion]], [[the-art-of-manipulation]], [[how-to-win-friends-and-influence-people]]
-* **[[philosophical-fiction]]**: Narrative fiction in which philosophical inquiry, epistemology, ethics, and the critique of civilization form the central dramatic engine.
-  * Works: [[lord-of-the-flies]], [[finnegans-wake]], [[sophies-world]], [[machines-like-me]], [[klara-and-the-sun]], [[the-last-man-volume-one]], [[the-decameron-volume-three]], [[hadji-murad]], [[the-sufistic-quatrains-of-omar-khayyam]], [[saatleri-ayarlama-enstitusu]], [[the-end-of-modernism-elias-canettis-auto-da-fe]], [[zen-and-the-art-of-motorcycle-maintenance]]
-* **[[philosophy-and-poetics-of-music]]**: Theoretical and historical analysis of sound, noise, musical forms, and recording technologies as prophetic mirrors and instruments of social and economic order.
-  * Works: [[noise-the-political-economy-of-music]]
-* **[[philosophy-of-religion-secularism-and-apologetics]]**: Dialectical debates spanning evolutionary naturalism, cognitive science of religion, New Atheism, classical Christian apologetics, secular ethics, and lived afterlife testimony.
-  * Works: [[the-worlds-sixteen-crucified-saviors]], [[law-of-attraction-secret-power]], [[confessions-of-saint-augustine]], [[atheism-all-that-matters]], [[richard-dawkins-god-delusion-bloch]], [[heaven-is-for-real]], [[breaking-the-spell]], [[the-god-delusion]]
-* **[[planetary-science-speculation]]**: 
-* **[[poetry-and-poetics]]**: The literary art of rhythmic, metered, and lyrical language exploring philosophical, existential, emotional, and social dimensions of human experience.
-  * Works: [[mehmet-akif]], [[divan-sultan-huseyn-bayqara]], [[mantikut-tayr-conference-of-the-birds]], [[rumi-the-book-of-love]], [[the-essential-rumi]], [[the-masnavi-whinfield]], [[the-masnavi-books-one-and-two-mojaddedi]], [[the-rubaiyat-of-omar-khayyam-batson-ross]], [[the-sufistic-quatrains-of-omar-khayyam]], [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]], [[turk-sairleri-cilt-2]], [[fusul-i-asikan]], [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]], [[rubab-i-sikeste]], [[riddles-riddles-riddles]], [[mongrel-nation-colonization-in-reverse]], [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]], [[asik-borani-soz-insanin-aynasi]]
-* **[[political-psychology-and-ideology]]**: Cognitive and personality foundations of political behavior—spanning Intuitionism vs. Rationalism, at-a-distance leader assessment, populism, and ideological belief systems.
-  * Works: [[lord-of-the-flies]], [[the-righteous-mind]], [[vices-of-the-mind]], [[enchanted-america]], [[the-psychological-assessment-of-political-leaders]]
-* **[[political-science]]**: The social scientific discipline that studies systems of governance, political behavior, institutional design, power dynamics, and public policy.
-  * Works: [[tarih-devrim-sosyalizm]], [[the-lessons-of-history]], [[the-ethnic-cleansing-of-palestine]], [[tasnak-partisinin-yapacagi-bir-sey-yok]], [[the-idea-of-israel]], [[leaving-socialism-behind]], [[anti-zionism-a-jewish-history]], [[kazim-karabekir-anlatiyor]], [[of-heroes-and-villains-pre-revolutionary-russia]], [[amusing-ourselves-to-death]], [[karl-marx-and-the-actualization-of-philosophy]], [[capitalism-socialism-and-democracy]], [[the-open-society-and-its-enemies-vol-1]], [[plato-complete-works]], [[the-prince-machiavelli]], [[seneca-the-life-of-a-stoic]], [[skin-in-the-game]], [[why-nations-fail]], [[the-wealth-of-nations]], [[korkunun-cocuklari]], [[insan-ve-devlet]], [[ey-vatan]], [[karl-marx-a-biography]], [[che-guevara-a-biography]], [[the-relationship-between-capitalism-and-democracy]], [[russian-politics-from-lenin-to-putin]], [[the-room-where-it-happened]], [[house-of-trump-house-of-putin]], [[us-declaration-of-independence-and-constitution-appendix]], [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]], [[mandate-for-leadership-2025]], [[enchanted-america]], [[the-israel-lobby-and-us-foreign-policy]], [[the-end-of-history-and-the-last-man]], [[orientalism]], [[the-buyout-of-america]], [[the-coming-wave-ai-power-and-our-future]], [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]], [[mongrel-nation-colonization-in-reverse]], [[doppelganger-israel-palestine-and-the-doppelganger-effect]], [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]], [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]], [[introduction-to-law]], [[handbook-of-quantitative-criminology]], [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]], [[noise-the-political-economy-of-music]], [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]], [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[the-non-orientable-topology-of-condorcets-paradox]]
-* **[[postcolonial-and-diaspora-studies]]**: Historical and cultural analysis of empire, settler-colonialism, diasporic migration, anti-racist solidarity, and the mirror dynamics of nationalism.
-  * Works: [[born-a-crime]], [[funny-in-farsi]], [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]], [[orientalism]], [[doppelganger-israel-palestine-and-the-doppelganger-effect]], [[mongrel-nation-colonization-in-reverse]]
-* **[[pre-columbian-history]]**: 
-  * Works: [[korkunun-otesi-beyond-fear]]
-* **[[private-equity-and-venture-capital]]**: Private-market capital formation across venture capital, growth equity, leveraged buyouts, GP–LP fund economics, operational value creation, regulatory governance, and systemic credit risk.
-  * Works: [[venture-deals]], [[venture-capitalists-at-work]], [[venture-capital-deal-terms]], [[the-business-of-venture-capital]], [[the-art-of-startup-fundraising]], [[mastering-the-vc-game]], [[financial-modeling-and-valuation]], [[crack-the-funding-code]], [[venture-capital-a-practical-guide]], [[investment-banks-hedge-funds-and-private-equity]], [[venture-capital-and-private-equity-mms-curriculum]], [[the-ultimate-private-equity-playbook]], [[mastering-private-equity]], [[the-buyout-of-america]]
-* **[[product-design-and-behavioral-engineering]]**: Customer-centered digital product discovery, value-proposition prototyping, UX validation, and ethical habit-forming behavioral design for technology products.
-  * Works: [[how-to-start-a-startup-pragmatic-coders]], [[hooked-how-to-build-habit-forming-products]], [[value-proposition-design]], [[the-lean-entrepreneur]], [[the-lean-startup]]
-* **[[psychoanalysis-and-depth-psychology]]**: Foundational Freudian, Lacanian, and post-Freudian clinical theory alongside comparative mythology, somatic trauma recovery, and action-oriented psychological liberation.
-  * Works: [[cocuklarda-travmanin-yaralarini-sarmak]], [[heterite-11-les-paradoxes-du-desir]], [[the-tools-stutz-michels]], [[the-untethered-soul]], [[female-sexuality-early-psychoanalytic-controversies]], [[deri-ben-the-skin-ego]], [[seminar-2-the-ego-in-freuds-theory]], [[seminar-8-transference]], [[the-hero-with-a-thousand-faces]], [[ruyalari-yorumu-interpretation-of-dreams]], [[bilimsel-bir-psikoloji-projesi-1895]]
-* **[[public-policy-and-urban-mobility]]**: Empirical and regulatory analysis of public transit systems, automotive fuel-economy standards, and shared urban micromobility governance.
-  * Works: [[cagdas-kapitalizmin-mekansal-orgutlenmesi]], [[turkic-world-senate-analysis-2026]], [[mandate-for-leadership-2025]], [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]], [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]]
-* **[[pure-and-applied-mathematics]]**: Single- and multivariable calculus, open-access precalculus, functional analysis and operator theory, and structured problem-solving curricula underpinning science and engineering.
-  * Works: [[review-math-and-the-mona-lisa]], [[game-theory-a-multi-leveled-approach]], [[introduction-to-formal-philosophy]], [[the-worlds-200-hardest-brain-teasers]], [[the-penguin-book-of-curious-and-interesting-puzzles]], [[the-math-hacker-book]], [[math-puzzles-classic-riddles]], [[536-puzzles-and-curious-problems]], [[100-math-brainteasers]], [[501-math-word-problems-and-middle-school-math-challenges]], [[quantum-mechanics-for-pedestrians]], [[precalculus-openstax]], [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]], [[the-grand-design]], [[calculus-one-and-several-variables]], [[mathematical-foundations-of-quantum-physics]], [[the-theory-of-everything-origin-and-fate-of-the-universe]], [[a-brief-history-of-time]], [[problems-in-general-physics]], [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]]
-* **[[recreational-mathematics-and-logic-puzzles]]**: Four millennia of mathematical puzzles, cryptarithms, geometric dissections, probability paradoxes, lateral-thinking games, verbal riddles, and rapid numeracy shortcuts.
-  * Works: [[the-math-hacker-book]], [[100-math-brainteasers]], [[math-puzzles-classic-riddles]], [[the-worlds-200-hardest-brain-teasers]], [[brain-teasers-211-logic-puzzles]], [[the-penguin-book-of-curious-and-interesting-puzzles]], [[536-puzzles-and-curious-problems]], [[riddles-riddles-riddles]]
-* **[[republican-intellectual-history]]**: 
-  * Works: [[ataturk-hakkinda-hatiralar-ve-belgeler]], [[insan-ve-devlet]], [[ey-vatan]], [[yorukler]]
-* **[[saas-and-subscription-business-models]]**: Multi-tenant cloud software delivery, recurring-revenue unit economics (LTV:CAC, NRR), buyer-centric sales blueprints, customer-driven product engineering, and post-join retention mechanics.
-  * Works: [[inspired-how-to-create-tech-products-customers-love]], [[api-strategy-for-decision-makers]], [[snowflake-the-definitive-guide]], [[state-of-it-asset-management-2022]], [[architecting-data-intensive-saas-applications]], [[saas-for-dummies-oracle-special-edition]], [[blueprints-for-a-saas-sales-organization]], [[retention-point-membership-and-subscription-growth]], [[the-saas-sales-method-for-customer-success-and-account-managers]], [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]], [[behind-the-cloud]]
-* **[[security-studies]]**: The academic subdiscipline of international relations focusing on national, international, and human security, threat perception, conflict prevention, and defense policy.
-  * Works: [[of-heroes-and-villains-pre-revolutionary-russia]], [[psychology-of-terrorism-ncjrs]], [[by-way-of-deception]], [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]], [[situational-awareness-the-decade-ahead]], [[ai-2027]], [[advanced-network-forensics-a-cyber-behavioral-science-approach]], [[computer-security-incident-handling-guide-nist-sp-800-61r2]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
-* **[[shamanism]]**: 
-  * Works: [[korkunun-otesi-beyond-fear]]
-* **[[social-choice-theory]]**: The mathematical and philosophical study of collective decision-making, preference aggregation, voting paradoxes, and the axiomatic foundations of democratic governance.
-  * Works: [[the-relationship-between-capitalism-and-democracy]], [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[handbook-of-quantitative-criminology]], [[noise-the-political-economy-of-music]], [[the-non-orientable-topology-of-condorcets-paradox]], [[the-evolution-of-cooperation]]
-* **[[speculative-fiction]]**: 
-  * Works: [[the-diamond-age]], [[machines-like-me]], [[klara-and-the-sun]], [[the-last-man-volume-one]]
-* **[[stoic-philosophy-and-practical-ethics]]**: Classical Roman and Hellenistic Stoic primary texts, modern translations, scholarly studies, and aphoristic guides to equanimity, moral volition, and resilience under adversity.
-  * Works: [[ego-is-the-enemy]], [[the-daily-stoic]], [[the-untethered-soul]], [[a-guide-to-the-good-life-stoic-joy]], [[the-almanack-of-naval-ravikant]], [[the-bed-of-procrustes]], [[seneca-the-life-of-a-stoic]], [[epictetus-stoic-and-socratic-guide]], [[meditations-marcus-aurelius]], [[the-wisdom-of-the-stoics]], [[letters-from-a-stoic]]
-* **[[strategic-communication]]**: The discipline of purposeful, high-stakes persuasion, crisis counseling, executive advisory rhetoric, and service-first public visibility.
-  * Works: [[tarihi-degistiren-konusmalar]], [[the-linkedin-playbook-for-employees]], [[how-to-win-every-argument]], [[thank-you-for-arguing]], [[how-to-win-friends-and-influence-people]], [[never-split-the-difference]], [[the-challenger-sale-challenge-yourself-action-book]], [[spin-selling]], [[entertainment-science-data-analytics-and-practical-theory]], [[influencing-leaders]], [[valuable-and-visible]]
-* **[[strategic-studies]]**: The interdisciplinary field of study devoted to the relationship between political objectives, military power, coercion, deterrence, and international conflict resolution.
-  * Works: [[the-33-strategies-of-war]], [[the-prince-machiavelli]], [[david-and-goliath]], [[antifragile]], [[strateji-yenecek-ve-kazanacaksin]], [[korkunun-cocuklari]], [[insan-ve-devlet]], [[ey-vatan]], [[unutulanlar-disinda-yeni-bir-sey-yok]], [[world-order]], [[brief-answers-to-the-big-questions]], [[the-coming-wave-ai-power-and-our-future]], [[situational-awareness-the-decade-ahead]], [[ai-2027]], [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]], [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]], [[computer-security-incident-handling-guide-nist-sp-800-61r2]], [[getting-started-with-enterprise-blockchain]], [[blockchain-crypto-and-defi-bridging-finance-and-technology]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]], [[influencing-leaders]], [[leading-for-tomorrow]]
-* **[[sufism-mysticism-and-rumi-studies]]**: Primary mystical epics, oral discourses, comparative translations, biographies, and academic philology illuminating the Sufi path—centered on Jalal al-Din Rumi and Shams-i Tabrizi.
-  * Works: [[the-power-of-now]], [[the-untethered-soul]], [[olum-ve-kiyamet-olume-hazirlik]], [[mantikut-tayr-conference-of-the-birds]], [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]], [[me-and-rumi-shams-i-tabrizi]], [[the-masnavi-books-one-and-two-mojaddedi]], [[rumi-the-book-of-love]], [[the-essential-rumi]], [[the-life-and-work-of-jalal-ud-din-rumi]], [[the-masnavi-whinfield]]
-* **[[theoretical-physics-and-cosmology]]**: Relativistic cosmology, black-hole thermodynamics, quantum measurement interpretations, Hilbert-space functional analysis, quantum consciousness debates, and analytical problem-solving.
-  * Works: [[the-essential-david-bohm]], [[tarihi-degistiren-bilginler]], [[brief-answers-to-the-big-questions]], [[quantum-mechanics-for-pedestrians]], [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]], [[the-grand-design]], [[mind-matter-and-quantum-mechanics]], [[mathematical-foundations-of-quantum-physics]], [[the-theory-of-everything-origin-and-fate-of-the-universe]], [[a-brief-history-of-time]], [[problems-in-general-physics]], [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]]
-* **[[turkish-folk-literature]]**: The centuries-old oral and written literary tradition of Anatolia, composed in the vernacular language using syllabic verse (*hece ölçüsü*), musical accompaniment (*bağlama/saz*), and traditional forms (*koşma*, *semai*, *mani*, *taşlama*, *deyiş*).
-  * Works: [[divan-sultan-huseyn-bayqara]], [[turk-sairleri-cilt-2]], [[fusul-i-asikan]], [[asik-borani-soz-insanin-aynasi]]
-* **[[turkish-republican-history-and-biographical-memoirs]]**: Primary archival documents, eyewitness memoirs, historical biographies, investigative studies, and humanist essays illuminating Ottoman-Turkish continuity, Atatürk and the Republican founding, and modern Turkish cultural life.
-  * Works: [[four-years-beneath-the-crescent]], [[an-introduction-to-the-history-of-the-turkic-peoples]], [[the-armenian-massacres-in-ottoman-turkey]], [[tasnak-partisinin-yapacagi-bir-sey-yok]], [[ottoman-brothers]], [[buyuk-ataturk-albumu-1]], [[ermenilerin-kaleminden-kurtlesen-ermeniler]], [[the-greek-invasion-of-smyrna-1919]], [[canakkale-zafer-yolunda]], [[benim-pencerem]], [[bir-omur-nasil-yasanir]], [[tarihi-degistiren-liderler]], [[99-yuz]], [[ataturk-hakkinda-hatiralar-ve-belgeler]], [[kazim-karabekir-hayatim]], [[tarihi-degistiren-bilginler]], [[tarihi-degistiren-askerler]], [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]], [[tarihi-degistiren-konusmalar]], [[ataturkun-not-defterleri]], [[ataturk-bir-milletin-yeniden-dogusu]], [[kazim-karabekir-anlatiyor]], [[mehmet-akif]], [[sultan-cemin-portreleri-hakkinda]], [[ataturkun-usaginin-gizli-defteri]], [[ibni-fadlan-seyahatnamesi]]
-* **[[world-classics-and-comparative-literature]]**: Canonical narratives, verse cycles, and cross-cultural translations spanning medieval Italy, Seljuk Persia, 19th-century Britain and Russia, modern Turkey, and contemporary multilingual storytelling.
-  * Works: [[lord-of-the-flies]], [[the-hero-with-a-thousand-faces]], [[finnegans-wake]], [[sophies-world]], [[divan-sultan-huseyn-bayqara]], [[mantikut-tayr-conference-of-the-birds]], [[the-prince-machiavelli]], [[the-wisdom-of-the-stoics]], [[meditations-marcus-aurelius]], [[letters-from-a-stoic]], [[rumi-the-book-of-love]], [[the-essential-rumi]], [[the-masnavi-whinfield]], [[the-masnavi-books-one-and-two-mojaddedi]], [[30-french-short-stories-for-complete-beginners]], [[tolstoy-treatise-on-muhammad]], [[saatleri-ayarlama-enstitusu]], [[hadji-murad]], [[the-sufistic-quatrains-of-omar-khayyam]], [[the-rubaiyat-of-omar-khayyam-batson-ross]], [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]], [[the-decameron-volume-three]], [[the-last-man-volume-one]]
-* **[[world-history-macro-anthropology-and-ancient-civilizations]]**: Comprehensive universal chronologies, deep-time civilizational analysis, evolutionary anthropology, and macro-historical investigations spanning humanity's emergence through ancient and modern eras.
-  * Works: [[how-the-world-made-the-west]], [[empires-of-the-steppes-companion]], [[the-scythian-empire]], [[the-dawn-of-everything]], [[21-lessons-for-the-21st-century]], [[a-history-of-russia-central-asia-and-mongolia-vol-2]], [[homo-deus]], [[the-huns-hyun-jin-kim]], [[1177-bc-the-year-civilization-collapsed]], [[sapiens-a-brief-history-of-humankind]], [[timelines-of-history]], [[destiny-disrupted]], [[empires-of-the-silk-road]], [[encyclopedia-of-world-history-facts-on-file]], [[the-horse-the-wheel-and-language]], [[etruscan-an-archaic-form-of-hungarian]], [[the-encyclopedia-of-world-history-stearns]], [[kayip-yazilar-ve-diller]], [[religions-of-the-silk-road]], [[cambridge-ancient-history-scythia-and-thrace]], [[the-lessons-of-history]], [[diodorus-of-sicily-library-of-history]], [[tarih-devrim-sosyalizm]], [[the-story-of-civilization-vol-1-our-oriental-heritage]]
+- [[a-a-long]]
+- [[a-j-arberry]]
+- [[adam-grant]]
+- [[adam-smith]]
+- [[adi-ignatius]]
+- [[adrian-stan]]
+- [[aeilko-h-zwinderman]]
+- [[afet-inan]]
+- [[afzal-iqbal]]
+- [[ahmet-hamdi-tanpinar]]
+- [[alain-f-zuur]]
+- [[alain-mermoud]]
+- [[alan-eagle]]
+- [[alan-r-zimmerman]]
+- [[alan-smith-strategyzer]]
+- [[alejandro-cremades]]
+- [[aleksandra-evelyn-petkovic]]
+- [[alex-bailey]]
+- [[alex-oconnor]]
+- [[alex-r-piquero]]
+- [[alex-wilner]]
+- [[alexander-kolpakov]]
+- [[alexander-osterwalder]]
+- [[alexey-arbatov]]
+- [[alexis-de-tocqueville]]
+- [[ali-bey-huseyinzade]]
+- [[ali-cimen]]
+- [[ali-haydar-bayat]]
+- [[ali-mithat-inan]]
+- [[ali-osman-kurt]]
+- [[ali-z-ciftci]]
+- [[ammar-rayes]]
+- [[amy-c-edmondson]]
+- [[andras-rona-tas]]
+- [[andreas-krause]]
+- [[andrei-kucharavy]]
+- [[andrew-s-grove]]
+- [[anindya-sarkar]]
+- [[anke-hilbrenner]]
+- [[anna-comnena]]
+- [[antonia-waltermann]]
+- [[archie-brown]]
+- [[ari-inan]]
+- [[ariel-durant]]
+- [[arif-acaloglu]]
+- [[arthur-koestler]]
+- [[arun-gupta]]
+- [[aryanne-oade]]
+- [[ashlee-vance]]
+- [[ashley-dawson]]
+- [[asik-borani]]
+- [[atif-kureishy]]
+- [[aylmer-maude]]
+- [[ayse-cevirici-cagin]]
+- [[barry-michels]]
+- [[ben-casnocha]]
+- [[ben-horowitz]]
+- [[ben-mackenzie]]
+- [[benjamin-isakhan]]
+- [[benjamin-moser]]
+- [[berat-albayrak]]
+- [[bernard-f-rogers-jr]]
+- [[bernd-meibohm]]
+- [[beverly-e-jones]]
+- [[blake-masters]]
+- [[bob-dorf]]
+- [[bowen-white]]
+- [[brad-feld]]
+- [[bram-akkermans]]
+- [[brant-cooper]]
+- [[brendan-burns]]
+- [[brent-adamson]]
+- [[brian-solis]]
+- [[bugra-atasayar]]
+- [[burak-dalgin]]
+- [[burcu-alver]]
+- [[burhan-oguz]]
+- [[burzine-k-waghmar]]
+- [[busra-yilmaz]]
+- [[c-bradford-welles]]
+- [[c-e-bosworth]]
+- [[c-h-oldfather]]
+- [[cal-newport]]
+- [[carlye-adler]]
+- [[cb-insights-research]]
+- [[cecilia-kang]]
+- [[cemal-granda]]
+- [[cemal-sureya]]
+- [[chad-meley]]
+- [[charles-duhigg]]
+- [[chip-cummings]]
+- [[chris-miller]]
+- [[chris-shipley]]
+- [[chris-voss]]
+- [[chris-yeh]]
+- [[christina-lamb]]
+- [[christoph-schuringa]]
+- [[christoph-stuckelberger]]
+- [[christopher-i-beckwith]]
+- [[christopher-mirabile]]
+- [[claire-hoy]]
+- [[claudia-zeisberger]]
+- [[clayton-m-christensen]]
+- [[clifford-t-bekar]]
+- [[coleman-barks]]
+- [[colin-barrow]]
+- [[colin-murphy]]
+- [[conrad-carlberg]]
+- [[cormac-gallagher]]
+- [[cosmin-ionita]]
+- [[craig-smith]]
+- [[craig-unger]]
+- [[curtis-w-johnson]]
+- [[d-s-hutchinson]]
+- [[daan-j-a-crommelin]]
+- [[dale-bishop]]
+- [[dale-carnegie]]
+- [[daniel-c-dennett]]
+- [[daniel-goleman]]
+- [[daniel-kahneman]]
+- [[daniel-kirsch]]
+- [[daniel-kokotajlo]]
+- [[daniel-miller]]
+- [[daron-acemoglu]]
+- [[dave-wright]]
+- [[david-baum]]
+- [[david-beyer]]
+- [[david-bohm]]
+- [[david-cancel]]
+- [[david-christian]]
+- [[david-frisby]]
+- [[david-g-winter]]
+- [[david-gorman]]
+- [[david-graeber]]
+- [[david-h-cropley]]
+- [[david-mclellan]]
+- [[david-o-robinson]]
+- [[david-owen]]
+- [[david-p-stowell]]
+- [[david-s-kidder]]
+- [[david-w-anthony]]
+- [[david-weisburd]]
+- [[david-wells]]
+- [[david-wengrow]]
+- [[dean-cheng]]
+- [[derric-gilling]]
+- [[didier-anzieu]]
+- [[dilaver-cebeci]]
+- [[dilman-muradoglu]]
+- [[dinesh-kulkarni]]
+- [[diodorus-siculus]]
+- [[divya-singh]]
+- [[dmitry-adamsky]]
+- [[doga-dernegi-researchers]]
+- [[dogan-avcioglu]]
+- [[dominique-hecq]]
+- [[dominique-levin]]
+- [[don-miguel-ruiz]]
+- [[donald-d-hoffman]]
+- [[donald-j-trump]]
+- [[dorling-kindersley]]
+- [[duncan-mavin]]
+- [[dylan-evans]]
+- [[e-f-schumacher]]
+- [[eckhard-neubauer]]
+- [[eckhart-tolle]]
+- [[edward-b-pusey]]
+- [[edward-denison-ross]]
+- [[edward-fitzgerald]]
+- [[edward-henry-whinfield]]
+- [[edward-heron-allen]]
+- [[edward-w-said]]
+- [[edwin-lefevre]]
+- [[efosa-ojomo]]
+- [[egemen-yilgur]]
+- [[einar-hille]]
+- [[eitan-shamir]]
+- [[ekrem-akurgal]]
+- [[elena-n-ieno]]
+- [[eli-lifland]]
+- [[eli-m-noam]]
+- [[elias-canetti]]
+- [[enver-ziya-karal]]
+- [[erdal-polat]]
+- [[eren-tasar]]
+- [[eric-h-cline]]
+- [[eric-jorgenson]]
+- [[eric-r-kandel]]
+- [[eric-ries]]
+- [[eric-schmidt]]
+- [[eric-steven-raymond]]
+- [[eric-tyson]]
+- [[eric-w-robinson]]
+- [[erik-h-w-g-meesters]]
+- [[erik-mooi]]
+- [[esther-mugerditchian]]
+- [[ethan-mollick]]
+- [[evliya-celebi]]
+- [[eyup-akman]]
+- [[fahri-isik]]
+- [[farid-ud-din-attar]]
+- [[fernando-pizarro]]
+- [[firoozeh-dumas]]
+- [[flexera-research]]
+- [[florentina-nitu]]
+- [[frances-hazlitt]]
+- [[francesc-miralles]]
+- [[francesco-giumelli]]
+- [[francis-fukuyama]]
+- [[frank-mclynn]]
+- [[frans-johansson]]
+- [[frans-osinga]]
+- [[frederic-bibard]]
+- [[fredric-jameson]]
+- [[fuat-sezgin]]
+- [[garret-j-etgen]]
+- [[gary-marchant]]
+- [[gary-r-gruber]]
+- [[gene-d-matlock]]
+- [[geoffrey-a-moore]]
+- [[georg-simmel]]
+- [[georges-pachymeres]]
+- [[georgi-mihailov]]
+- [[gilit-saporta]]
+- [[giovanni-boccaccio]]
+- [[gjorgji-georgievski]]
+- [[glenn-kreisberg]]
+- [[graham-hancock]]
+- [[greg-bernarda]]
+- [[gregory-hays]]
+- [[guenter-lewy]]
+- [[haggai-ben-shammai]]
+- [[hakki-yirtici]]
+- [[haluk-tarcan]]
+- [[hambleton-lord]]
+- [[hamid-sehanegi]]
+- [[hanri-benazus]]
+- [[hans-peters]]
+- [[harm-f-de-vries]]
+- [[harry-kalven-jr]]
+- [[harvard-business-review-editorial]]
+- [[harvey-c-mansfield]]
+- [[hasan-celal-guzel]]
+- [[heather-a-horst]]
+- [[heather-staker]]
+- [[hector-garcia]]
+- [[helio-fred-garcia]]
+- [[henrietta-m-batson]]
+- [[henry-cloud]]
+- [[henry-ernest-dudeney]]
+- [[henry-hazlitt]]
+- [[henry-kissinger]]
+- [[henry-p-stapp]]
+- [[hikmet-kivilcimli]]
+- [[hovhannes-kajaznuni]]
+- [[hugh-everett-iii]]
+- [[hulya-apaydin]]
+- [[hyun-jin-kim]]
+- [[iain-staffell]]
+- [[ian-livingstone]]
+- [[ian-mcewan]]
+- [[ibn-fadlan]]
+- [[ibrahim-gosterir]]
+- [[ibrahim-kafesoglu]]
+- [[ibrahim-sahin-ates]]
+- [[if-epfcl-editorial]]
+- [[igor-yevgenyevich-irodov]]
+- [[ilan-pappe]]
+- [[ilber-ortayli]]
+- [[imam-al-ghazali]]
+- [[irakli-nadareishvili]]
+- [[irma-mooi-reci]]
+- [[isabelle-duyvesteyn]]
+- [[ismail-kucukkaya]]
+- [[ismail-zileli]]
+- [[j-eric-oliver]]
+- [[j-michael-spector]]
+- [[jaap-hage]]
+- [[jacco-van-der-kooij]]
+- [[jacques-alain-miller]]
+- [[jacques-attali]]
+- [[jacques-lacan]]
+- [[jalal-al-din-rumi]]
+- [[jalil-mammadguluzadeh]]
+- [[james-a-robinson]]
+- [[james-allworth]]
+- [[james-bessen]]
+- [[james-bryce]]
+- [[james-cheo]]
+- [[james-ciuffetelli]]
+- [[james-e-lukaszewski]]
+- [[james-joyce]]
+- [[jamie-thomson]]
+- [[janice-j-terry]]
+- [[jason-mendelson]]
+- [[jawid-mojaddedi]]
+- [[jay-abramson]]
+- [[jay-heinrichs]]
+- [[jay-samit]]
+- [[jean-baptiste-nicolas]]
+- [[jeffrey-bussgang]]
+- [[jen-sincero]]
+- [[jenny-loveless]]
+- [[jeremy-harwood]]
+- [[jerrold-m-post]]
+- [[jerry-i-porras]]
+- [[jim-collins]]
+- [[jiu-hwa-lo-upshur]]
+- [[jo-hands]]
+- [[joan-marques]]
+- [[jochen-pade]]
+- [[joe-beda]]
+- [[joe-knight]]
+- [[johannes-friedrich]]
+- [[john-a-tracy]]
+- [[john-anthony-west]]
+- [[john-bolton]]
+- [[john-case]]
+- [[john-grigsby]]
+- [[john-hunt]]
+- [[john-j-mearsheimer]]
+- [[john-keane]]
+- [[john-m-cooper]]
+- [[john-moyne]]
+- [[john-payne]]
+- [[john-sanei]]
+- [[john-townsend]]
+- [[jonas-hubotter]]
+- [[jonathan-haidt]]
+- [[jonathan-rosenberg]]
+- [[jorg-noll]]
+- [[joseph-a-schumpeter]]
+- [[joseph-campbell]]
+- [[joseph-leeming]]
+- [[josephine-quinn]]
+- [[josh-kosman]]
+- [[jostein-gaarder]]
+- [[joyce-kay-avila]]
+- [[judith-hurwitz]]
+- [[judy-robinett]]
+- [[julian-knight]]
+- [[junfeng-yang]]
+- [[justin-anderson]]
+- [[karen-berman]]
+- [[karen-dillon]]
+- [[karen-hao]]
+- [[karen-scarfone]]
+- [[karl-mueller]]
+- [[karl-popper]]
+- [[kastamonulu-ishak-zade-hasan-fevzi]]
+- [[katerina-honzikova]]
+- [[kaya-ataberk]]
+- [[kazim-karabekir]]
+- [[kazim-mirsan]]
+- [[kazuo-ishiguro]]
+- [[kelsey-hightower]]
+- [[kemal-cicek]]
+- [[kenneth-i-carlaw]]
+- [[kenneth-w-harl]]
+- [[kent-d-lee]]
+- [[kerri-oneill]]
+- [[kersey-graves]]
+- [[kevin-d-roberts]]
+- [[kevin-mcginley]]
+- [[kim-richard-nossal]]
+- [[kim-williams]]
+- [[kurt-and-margot-lubinski]]
+- [[kwo-young]]
+- [[lachlan-evenson]]
+- [[lane-denicola]]
+- [[larry-anderson]]
+- [[laura-igual]]
+- [[laurence-s-lyons]]
+- [[lawrence-c-miller]]
+- [[lawrence-freedman]]
+- [[learningexpress-editors]]
+- [[lee-nichol]]
+- [[leo-tolstoy]]
+- [[leonard-lewisohn]]
+- [[leonard-mlodinow]]
+- [[leopold-aschenbrenner]]
+- [[lesley-hazleton]]
+- [[lord-kinross]]
+- [[louise-bennett]]
+- [[lutfi-dogan]]
+- [[lynn-vincent]]
+- [[m-s-asimov]]
+- [[madsen-pirie]]
+- [[maggie-kline]]
+- [[mahatma-gandhi]]
+- [[mahendra-ramsinghani]]
+- [[malala-yousafzai]]
+- [[malcolm-gladwell]]
+- [[marc-benioff]]
+- [[marco-di-maggio]]
+- [[marcus-aurelius]]
+- [[margaret-g-hermann]]
+- [[mario-alinei]]
+- [[mark-b-houston]]
+- [[mark-f-whitters]]
+- [[marko-sarstedt]]
+- [[marsha-e-ackermann]]
+- [[marshall-goldsmith]]
+- [[marshall-s-rich]]
+- [[martijn-kitzen]]
+- [[martin-gardner]]
+- [[marty-cagan]]
+- [[mary-carroll-nelson]]
+- [[mary-shelley]]
+- [[matt-lucas]]
+- [[matt-mochary]]
+- [[matthew-dixon]]
+- [[matthew-golby-kirk]]
+- [[max-smeets]]
+- [[max-solomon-bennett]]
+- [[mehmet-bayrakdar]]
+- [[mehmet-eroz]]
+- [[mehmet-topal]]
+- [[melanie-bien]]
+- [[melissa-joy-kong]]
+- [[menno-j-van-loon]]
+- [[merve-dilek-dagdelen]]
+- [[mesut-aydiner]]
+- [[michael-a-singer]]
+- [[michael-alexander]]
+- [[michael-b-horn]]
+- [[michael-bhaskar]]
+- [[michael-bradley]]
+- [[michael-j-schroeder]]
+- [[michael-lewis]]
+- [[michael-mazarr]]
+- [[michael-prahl]]
+- [[michael-wooldridge]]
+- [[michelle-u-campos]]
+- [[mikail-bayram]]
+- [[mike-amundsen]]
+- [[mikhail-prokopenko]]
+- [[miroslav-kubat]]
+- [[monica-ramona-costache]]
+- [[morris-chang]]
+- [[muazzez-ilmiye-cig]]
+- [[muna-lee]]
+- [[mustafa-kemal-ataturk]]
+- [[mustafa-suleyman]]
+- [[mustafa-turgay-tufekcioglu]]
+- [[muzaffer-dogan]]
+- [[naomi-klein]]
+- [[nassim-nicholas-taleb]]
+- [[naval-ravikant]]
+- [[neal-stephenson]]
+- [[necdet-sander]]
+- [[necdet-sumer]]
+- [[neil-postman]]
+- [[neil-rackham]]
+- [[nesrin-tura-demiryontan]]
+- [[niccolo-machiavelli]]
+- [[nick-ragone]]
+- [[nicola-di-cosmo]]
+- [[nir-eyal]]
+- [[niv-dror]]
+- [[noah-d-oppenheim]]
+- [[norbert-wiener]]
+- [[nuriye-atabey]]
+- [[obiora-ike]]
+- [[octave-plancherel]]
+- [[oliver-schmidt]]
+- [[omar-khayyam]]
+- [[omer-isbilir]]
+- [[ori-livson]]
+- [[osman-pamukoglu]]
+- [[ozden-ilteris-bulca]]
+- [[pat-walsh]]
+- [[patrick-barillot]]
+- [[patrick-vlaskovits]]
+- [[paul-carson]]
+- [[paul-cichonski]]
+- [[paul-connerton]]
+- [[paul-dans]]
+- [[paul-ducheine]]
+- [[paul-mladjenovic]]
+- [[paul-pignataro]]
+- [[paul-van-hooft]]
+- [[paul-veyne]]
+- [[pawel-bloch]]
+- [[peter-a-levine]]
+- [[peter-b-golden]]
+- [[peter-jackson]]
+- [[peter-n-stearns]]
+- [[peter-thiel]]
+- [[phil-knight]]
+- [[phil-stutz]]
+- [[phillip-s-kavanagh]]
+- [[plato]]
+- [[pragmatic-coders]]
+- [[presh-talwalkar]]
+- [[priya-parker]]
+- [[product-hunt]]
+- [[pui-kei-johnston-chu]]
+- [[pulat-y-tacar]]
+- [[quassim-cassam]]
+- [[r-b-sparkman]]
+- [[r-m-j-mcbain]]
+- [[rafael-de-nogales]]
+- [[ralph-r-roberts]]
+- [[ramiz-asker]]
+- [[randy-borum]]
+- [[recai-tekoglu]]
+- [[recep-ahishali]]
+- [[reid-hoffman]]
+- [[reynold-a-nicholson]]
+- [[richard-c-foltz]]
+- [[richard-dawkins]]
+- [[richard-g-lipsey]]
+- [[richard-j-evans]]
+- [[richard-l-harris]]
+- [[richard-swedberg]]
+- [[rita-mcgrath]]
+- [[robert-arnot]]
+- [[robert-axelrod]]
+- [[robert-b-cialdini]]
+- [[robert-bauval]]
+- [[robert-d-sindelar]]
+- [[robert-dankoff]]
+- [[robert-greene]]
+- [[robert-l-heilbroner]]
+- [[robert-m-pirsig]]
+- [[robert-schoch]]
+- [[robert-skrob]]
+- [[robin-campbell]]
+- [[roger-penrose]]
+- [[romeo-dean]]
+- [[ronghuai-huang]]
+- [[ronnie-mitra]]
+- [[roy-lindelauf]]
+- [[russell-a-berman]]
+- [[russell-grigg]]
+- [[ryan-holiday]]
+- [[ryan-hoover]]
+- [[sadettin-nuzhet-ergun]]
+- [[saint-augustine]]
+- [[salim-koca]]
+- [[sam-harris]]
+- [[samer-salam]]
+- [[samuel-zilincik]]
+- [[sandra-ackerman]]
+- [[sandro-skansi]]
+- [[santi-segui]]
+- [[satinder-dhiman]]
+- [[saturnino-l-salas]]
+- [[savas-kilic]]
+- [[scott-alexander]]
+- [[scott-barry-kaufman]]
+- [[scott-d-lowe]]
+- [[selahi-diker]]
+- [[semavi-eyice]]
+- [[semra-oguz]]
+- [[seneca]]
+- [[seyit-ali-kahraman]]
+- [[sezai-karakoc]]
+- [[shams-i-tabrizi]]
+- [[sheera-frenkel]]
+- [[sheetal-shah]]
+- [[sheila-fitzpatrick]]
+- [[shoshana-maraney]]
+- [[sibel-ozekmekci]]
+- [[siddharth-pritam]]
+- [[sigmund-freud]]
+- [[simon-grondin]]
+- [[simon-sinek]]
+- [[sjoerd-mol]]
+- [[slavs-and-tatars]]
+- [[smithsonian-institution]]
+- [[stat-news-editorial]]
+- [[stefan-soesanto]]
+- [[stefanie-von-hlatky]]
+- [[sten-rynning]]
+- [[stephan-fackler]]
+- [[stephen-fortescue]]
+- [[stephen-g-walker]]
+- [[stephen-hanselman]]
+- [[stephen-hawking]]
+- [[stephen-m-walt]]
+- [[stephen-r-bucci]]
+- [[stephen-r-covey]]
+- [[stephen-stockwell]]
+- [[steve-blank]]
+- [[steve-j-heims]]
+- [[steven-groves]]
+- [[steven-pinker]]
+- [[sultan-huseyn-bayqara]]
+- [[susan-mcclary]]
+- [[sven-ove-hansson]]
+- [[tadeusz-sulimirski]]
+- [[tahl-raz]]
+- [[tamim-ansary]]
+- [[tarang-shah]]
+- [[ted-benna]]
+- [[telman-khurshidoglu-aliyev]]
+- [[tevfik-fikret]]
+- [[the-giving-block]]
+- [[thomas-j-fewer]]
+- [[thomas-j-wood]]
+- [[thomas-k-mugerditchian]]
+- [[thomas-larsen]]
+- [[thomas-sowell]]
+- [[thorkild-jacobsen]]
+- [[thorsten-hennig-thurau]]
+- [[tim-grance]]
+- [[tim-ingold]]
+- [[tim-sweijs]]
+- [[timothy-ferriss]]
+- [[timothy-taylor]]
+- [[todd-burpo]]
+- [[tom-bijlsma]]
+- [[tom-eisenmann]]
+- [[tom-millar]]
+- [[ton-j-cleophas]]
+- [[tony-levene]]
+- [[trevor-noah]]
+- [[tristan-gaston-breton]]
+- [[troy-jackson]]
+- [[tulay-reyhanli]]
+- [[turhan-gurkan]]
+- [[turkic-world-policy-analysts]]
+- [[tushar-balkrishna-raut]]
+- [[tyler-yamazaki]]
+- [[ugur-mumcu]]
+- [[unity-stoakes]]
+- [[uzeyir-garih]]
+- [[valentin-mulder]]
+- [[vanessa-errecarte]]
+- [[vasant-shinde]]
+- [[victor-ostrovsky]]
+- [[vincent-f-hendricks]]
+- [[vincent-lenders]]
+- [[vj-books-editorial]]
+- [[walter-fust]]
+- [[wendy-m-k-shaw]]
+- [[wiktor-zolnowski]]
+- [[will-durant]]
+- [[will-peters]]
+- [[william-b-irvine]]
+- [[william-c-chittick]]
+- [[william-collins-donahue]]
+- [[william-d-hamilton]]
+- [[william-g-braun-iii]]
+- [[william-golding]]
+- [[william-stanley-jevons]]
+- [[william-waddington]]
+- [[wolfgang-ertel]]
+- [[y-turan-cetiner]]
+- [[yasar-kececi]]
+- [[yenal-bilgici]]
+- [[yucel-dagli]]
+- [[yusuf-akcura]]
+- [[yuval-noah-harari]]
+- [[yves-pigneur]]
+- [[zbigniew-romanowicz]]
 
 ---
 
-## Core Themes (102)
+## 3. Genre Classifications (88)
 
-* **[[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]**: Tracing shared ancient Near Eastern flood, creation, and ethical motifs from Sumer and pre-Islamic Iran into Abrahamic scripture and the political birth of the Sunni–Shia divide.
-  * Works: [[after-the-prophet-shia-sunni-split]], [[spirituality-in-the-land-of-the-noble-reviews]], [[kuran-incil-ve-tevratin-sumerdeki-kokeni]]
-* **[[adaptive-intelligence-and-organizational-resilience]]**: The neurobiological, psychological, and strategic capacities that enable leaders and institutions to unlearn obsolete playbooks, regulate nervous-system stress, and thrive amid exponential uncertainty.
-  * Works: [[benim-pencerem]], [[coaching-for-leadership]], [[the-mission-generation]], [[intentional-attention]], [[cocuklarda-travmanin-yaralarini-sarmak]], [[the-tools-stutz-michels]], [[the-lean-startup]], [[the-innovators-dilemma]], [[the-hard-thing-about-hard-things]], [[disrupt-you]], [[emotional-intelligence]], [[mastery-robert-greene]], [[david-and-goliath]], [[outliers-story-of-success]], [[antifragile]], [[pivot-alan-zimmerman]], [[the-start-up-of-you]], [[inspired-how-to-create-tech-products-customers-love]], [[hbr-at-100]], [[hbr-10-must-reads-on-teams]], [[good-to-great]], [[built-to-last]], [[financial-intelligence-for-managers]], [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[the-ultimate-private-equity-playbook]], [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]], [[enterprise-cloud-for-dummies-nutanix-special-edition]], [[iaas-for-dummies-oracle-special-edition]], [[state-of-it-asset-management-2022]], [[microservices-up-and-running]], [[kubernetes-up-and-running]], [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]], [[discovering-the-brain]], [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]], [[blended-using-disruptive-innovation-to-improve-schools]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[computer-security-incident-handling-guide-nist-sp-800-61r2]], [[the-adaptability-advantage]], [[leading-for-tomorrow]], [[rapid-reculturing]]
-* **[[agi-trajectories-and-superalignment]]**: Quantitative scaling forecasts (Orders of Magnitude of compute, algorithmic efficiency, and agentic unhobbling), recursive AI R&D automation, and the technical and geopolitical challenges of aligning superhuman intelligence.
-  * Works: [[machines-like-me]], [[klara-and-the-sun]], [[brief-answers-to-the-big-questions]], [[the-coming-wave-ai-power-and-our-future]], [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]], [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]]
-* **[[altered-states-and-origin-of-art]]**: The thesis that human symbolic culture, representational art, spiritual cosmologies, and religious impulses originated from shamanic altered states of consciousness, dreams, and entheogenic visionary experiences.
-  * Works: [[korkunun-otesi-beyond-fear]], [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]], [[supernatural-meetings-with-the-ancient-teachers-of-mankind]], [[america-before-the-key-to-earths-lost-civilization]], [[war-god-nights-of-the-witch]]
-* **[[antifragility-black-swans-and-skin-in-the-game]]**: Navigating fat-tailed Extremistan through optionality, barbell portfolios, via negativa subtraction, the Lindy Effect, and symmetric downside accountability.
-  * Works: [[why-startups-fail]], [[skin-in-the-game]], [[antifragile]], [[the-bed-of-procrustes]], [[the-black-swan]], [[fooled-by-randomness]]
-* **[[archaeology-and-national-identity]]**: The utilization of archaeological excavations, museum curation, and historical historiography by state institutions to define national identity, foster civic solidarity, and construct modern cultural legitimacy.
-  * Works: [[how-societies-remember]], [[kuran-incil-ve-tevratin-sumerdeki-kokeni]], [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]], [[yorukler]], [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]], [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]], [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]], [[asik-borani-soz-insanin-aynasi]]
-* **[[asik-and-minstrel-tradition]]**: The oral, musical, and poetic heritage of the wandering Anatolian bard (*âşık / ozan*), acting as communal historian, cultural preserver, spiritual guide, and public conscience through the sacred instrument of the *bağlama*.
-  * Works: [[turk-sairleri-cilt-2]], [[fusul-i-asikan]], [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]], [[yorukler]], [[asik-borani-soz-insanin-aynasi]]
-* **[[ataturk-republican-founding-and-ottoman-turkish-memory]]**: Multi-perspectival historical and archival synthesis of Ottoman-Turkish continuity, Mustafa Kemal Atatürk's leadership, early Republican debates, and modern Turkish cultural self-reflection.
-  * Works: [[benim-pencerem]], [[bir-omur-nasil-yasanir]], [[tarihi-degistiren-liderler]], [[99-yuz]], [[ataturk-hakkinda-hatiralar-ve-belgeler]], [[kazim-karabekir-hayatim]], [[tarihi-degistiren-askerler]], [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]], [[ataturkun-not-defterleri]], [[ataturk-bir-milletin-yeniden-dogusu]], [[kazim-karabekir-anlatiyor]], [[mehmet-akif]], [[sultan-cemin-portreleri-hakkinda]], [[ataturkun-usaginin-gizli-defteri]], [[ibni-fadlan-seyahatnamesi]]
-* **[[attention-economy-and-cultural-analytics]]**: Data-driven econometric laws, 'Pinball' social media dynamics, and zero-marginal-cost platform strategies governing movies, music, games, and digital media.
-  * Works: [[entelektuelin-kutsal-kitabi-modern-kultur]], [[deep-work]], [[amusing-ourselves-to-death]], [[hooked-how-to-build-habit-forming-products]], [[what-the-dog-saw]], [[the-tipping-point]], [[an-ugly-truth-inside-facebook]], [[digital-anthropology]], [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]], [[entertainment-science-data-analytics-and-practical-theory]], [[media-and-digital-management]]
-* **[[banking-dynasties-institutional-meltdowns-and-speculative-psychology]]**: Lessons across three centuries of finance: why disciplined family trust and trend patience endure, whereas unchecked leverage, hubris, and cultural breakdown destroy even 167-year-old banks.
-  * Works: [[meltdown-credit-suisse]], [[la-saga-des-rothschild]], [[reminiscences-of-a-stock-operator]]
-* **[[biologics-cell-and-gene-therapies-and-healthcare-disruption]]**: The convergence of recombinant protein engineering, autoimmune CAR-T and in-utero/CRISPR gene editing, patient-centered neurological rehabilitation, and Big Tech disruption of healthcare delivery.
-  * Works: [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]], [[amazon-in-healthcare-strategy-for-a-3-trillion-market]], [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]], [[pharmaceutical-biotechnology-fundamentals-and-applications]]
-* **[[bronze-age-collapse-big-history-and-civilizational-cycles]]**: 
-* **[[capital-markets-investment-banking-and-personal-wealth-architecture]]**: Connecting Wall Street institutional intermediation, securities regulation, and spreadsheet valuation directly to household budgeting, diversified equity compounding, real-estate leverage, and behavioral trading discipline.
-  * Works: [[the-business-of-venture-capital]], [[financial-modeling-and-valuation]], [[business-startup-for-dummies-bundle]], [[the-almanack-of-naval-ravikant]], [[microsoft-365-excel-office-scripts-for-dummies]], [[financial-intelligence-for-managers]], [[venture-capital-a-practical-guide]], [[meltdown-credit-suisse]], [[la-saga-des-rothschild]], [[reminiscences-of-a-stock-operator]], [[russia-rebounds]], [[investment-banks-hedge-funds-and-private-equity]], [[investing-for-dummies]], [[stock-investing-for-dummies]], [[stock-trading-strategy-3-book-bundle]], [[financing-real-estate-investments-for-dummies]], [[managing-your-money-all-in-one-for-dummies]], [[excel-for-accountants]], [[personal-finance-and-investing-all-in-one-for-dummies]], [[financial-analysis-using-excel]], [[trump-the-art-of-the-deal]]
-* **[[catastrophism-and-earth-history]]**: The scientific and historical perspective that Earth's geological, biological, and human history has been punctuated by sudden, violent, planetary-scale convulsions, overturning rigid uniformitarian assumptions.
-  * Works: [[brief-answers-to-the-big-questions]], [[fingerprints-of-the-gods]], [[the-mars-mystery]], [[magicians-of-the-gods]], [[underworld-mysterious-origins-of-civilization]]
-* **[[clash-of-civilizations]]**: The catastrophic confrontation between fundamentally incompatible cultural, theological, and ideological systems, resulting in the annihilation or subjugation of one civilizational order by another.
-  * Works: [[orientalism]], [[doppelganger-israel-palestine-and-the-doppelganger-effect]], [[war-god-nights-of-the-witch]], [[deterrence-in-the-21st-century]]
-* **[[cloud-native-architecture-and-declarative-infrastructure]]**: Designing resilient, high-velocity distributed systems via immutable containers, declarative reconciliation loops, bounded-context microservices, separated storage/compute, API-first contracts, and hybrid cloud governance.
-  * Works: [[microsoft-365-excel-office-scripts-for-dummies]], [[the-cathedral-and-the-bazaar]], [[amazon-in-healthcare-strategy-for-a-3-trillion-market]], [[api-strategy-for-decision-makers]], [[deploying-a-modern-security-data-lake]], [[kubernetes-up-and-running]], [[snowflake-the-definitive-guide]], [[state-of-it-asset-management-2022]], [[architecting-data-intensive-saas-applications]], [[microservices-up-and-running]], [[saas-for-dummies-oracle-special-edition]], [[internet-of-things-from-hype-to-reality]], [[iaas-for-dummies-oracle-special-edition]], [[enterprise-cloud-for-dummies-nutanix-special-edition]]
-* **[[cloud-scale-fraud-analytics-and-security-data-lakes]]**: Unifying high-volume cloud telemetry, adversarial machine learning, dynamic risk-versus-friction calibration, and Detection-as-Code pipelines to defend modern fintech, ecommerce, and cloud enterprises.
-  * Works: [[house-of-trump-house-of-putin]], [[deploying-a-modern-security-data-lake]], [[practical-fraud-prevention]], [[snowflake-the-definitive-guide]], [[architecting-data-intensive-saas-applications]]
-* **[[constrained-vs-unconstrained-visions-and-postcolonial-identity]]**: The ideological clash between Constrained (trade-off/systemic) and Unconstrained (solution/articulated) visions alongside postcolonial diaspora hybridity and ethnic mirror projections.
-  * Works: [[the-righteous-mind]], [[born-a-crime]], [[enchanted-america]], [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[doppelganger-israel-palestine-and-the-doppelganger-effect]], [[mongrel-nation-colonization-in-reverse]]
-* **[[consultative-questioning-and-constructive-tension]]**: Evidence-based behavioral methodologies for uncovering explicit buyer needs via SPIN questioning and reframing stakeholder assumptions through Challenger commercial teaching.
-  * Works: [[starting-and-running-a-coaching-business]], [[crossing-the-chasm]], [[never-split-the-difference]], [[influence-the-psychology-of-persuasion]], [[the-saas-sales-method-for-customer-success-and-account-managers]], [[blueprints-for-a-saas-sales-organization]], [[spin-selling]], [[the-challenger-sale-challenge-yourself-action-book]]
-* **[[cooperation-and-reciprocity]]**: The theoretical and empirical principles governing how conditional cooperation, mutual restraint, and reciprocal punishment emerge and persist among self-interested actors without centralized enforcement.
-  * Works: [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]], [[leaders-eat-last]], [[give-and-take]], [[game-theory-a-multi-leveled-approach]], [[the-better-angels-of-our-nature]], [[venture-deals]], [[the-cathedral-and-the-bazaar]], [[anthropology-why-it-matters]], [[mastering-private-equity]], [[the-saas-sales-method-for-customer-success-and-account-managers]], [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]], [[global-ethics-for-leadership-values-and-virtues-for-life]], [[handbook-of-quantitative-criminology]], [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]], [[getting-started-with-enterprise-blockchain]], [[blockchain-crypto-and-defi-bridging-finance-and-technology]], [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[asik-borani-soz-insanin-aynasi]], [[influencing-leaders]], [[rapid-reculturing]], [[valuable-and-visible]], [[the-non-orientable-topology-of-condorcets-paradox]]
-* **[[cosmology-black-holes-and-the-arrow-of-time]]**: From Big Bang singularities, Hawking radiation, and M-theory multiverses to thermodynamic entropy arrows, model-dependent realism, and humanity's multi-planetary survival.
-  * Works: [[brief-answers-to-the-big-questions]], [[the-grand-design]], [[the-theory-of-everything-origin-and-fate-of-the-universe]], [[a-brief-history-of-time]], [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]]
-* **[[counterinsurgency-mountain-warfare-and-classical-military-strategy]]**: Irregular highland combat, small-unit endurance, civil-military tension, and the continuity between frontline counterinsurgency and classical grand strategy from Alexander to Clausewitz.
-  * Works: [[ataturkun-not-defterleri]], [[tarihi-degistiren-askerler]], [[psychology-of-terrorism-ncjrs]], [[the-33-strategies-of-war]], [[strateji-yenecek-ve-kazanacaksin]], [[cehennemdere-kanyonu]], [[korkunun-cocuklari]], [[insan-ve-devlet]], [[ey-vatan]], [[unutulanlar-disinda-yeni-bir-sey-yok]], [[hadji-murad]]
-* **[[critique-of-academic-orthodoxy]]**: The analysis and critique of dogmatism, paradigm lock-in, peer-review conservatism, and institutional resistance to anomalous evidence within mainstream academic disciplines.
-  * Works: [[female-sexuality-early-psychoanalytic-controversies]], [[the-open-society-and-its-enemies-vol-1]], [[the-bed-of-procrustes]], [[the-black-swan]], [[kuran-incil-ve-tevratin-sumerdeki-kokeni]], [[spirituality-in-the-land-of-the-noble-reviews]], [[islamda-bilim-ve-teknik-science-and-technology-in-islam]], [[orientalism]], [[zen-and-the-art-of-motorcycle-maintenance]], [[the-end-of-modernism-elias-canettis-auto-da-fe]], [[noise-the-political-economy-of-music]], [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]], [[fingerprints-of-the-gods]], [[keeper-of-genesis]], [[lost-knowledge-of-the-ancients]], [[magicians-of-the-gods]], [[america-before-the-key-to-earths-lost-civilization]]
-* **[[cross-domain-conflict]]**: Strategic interaction and coercive bargaining where threats, denial, or punishment in one domain (e.g., cyber, space, economic, information, nuclear) are used to deter or respond to actions in another.
-  * Works: [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
-* **[[cybernetics-media-ecology-collective-memory-and-political-violence]]**: Examining how information feedback, entertainment media, embodied ritual memory, purposeful gathering, and situational climates govern social cohesion—or fracture into extremism and political violence.
-  * Works: [[entelektuelin-kutsal-kitabi-modern-kultur]], [[of-heroes-and-villains-pre-revolutionary-russia]], [[the-art-of-gathering]], [[the-devil-made-me-do-it-malevolent-creativity]], [[psychology-of-terrorism-ncjrs]], [[how-societies-remember]], [[amusing-ourselves-to-death]], [[seminar-2-the-ego-in-freuds-theory]], [[the-human-use-of-human-beings]]
-* **[[decentralized-trust-and-cryptographic-governance]]**: Replacing centralized intermediaries with cryptographic proofs, consensus protocols, smart contracts, and permissioned or permissionless network governance.
-  * Works: [[hbr-insights-future-of-business-boxed-set]], [[crypto-and-nft-philanthropy-afsp-case-study]], [[internet-of-things-from-hype-to-reality]], [[blockchain-crypto-and-defi-bridging-finance-and-technology]], [[getting-started-with-enterprise-blockchain]]
-* **[[deep-work-habit-architecture-and-cognitive-systems]]**: How dual-system cognition, basal-ganglia habit loops, distraction-free concentration, attentional training, and unified perception govern elite creative output and psychological clarity.
-  * Works: [[intentional-attention]], [[tools-of-titans]], [[deep-work]], [[entelektuelin-kutsal-kitabi-modern-kultur]], [[law-of-attraction-secret-power]], [[entelektuelin-kutsal-kitabi-biyografiler]], [[you-are-a-badass]], [[so-good-they-cant-ignore-you]], [[the-power-of-habit]], [[thinking-fast-and-slow]], [[review-math-and-the-mona-lisa]], [[the-power-of-now]], [[the-essential-david-bohm]], [[the-7-habits-of-highly-effective-people]]
-* **[[deterrence-and-coercion]]**: The strategy and psychology of preventing unwanted adversary actions through the credible threat of unacceptable costs (punishment) or rendering the objective unattainable (denial).
-  * Works: [[the-33-strategies-of-war]], [[strateji-yenecek-ve-kazanacaksin]], [[napoleon-a-biography]], [[the-room-where-it-happened]], [[world-order]], [[by-way-of-deception]], [[ai-2027]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
-* **[[digital-materiality-nomadic-heritage-and-anthropological-holism]]**: Studying humanity holistically across traditional pastoral/ecological worlds and digital para-worlds—exposing how material culture, geography, and social institutions co-evolve without romanticizing the pre-digital.
-  * Works: [[ibni-fadlan-seyahatnamesi]], [[how-societies-remember]], [[cagdas-kapitalizmin-mekansal-orgutlenmesi]], [[funny-in-farsi]], [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]], [[crypto-and-nft-philanthropy-afsp-case-study]], [[anthropology-why-it-matters]], [[digital-anthropology]], [[the-digital-as-para-world]], [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]], [[yorukler]]
-* **[[disruptive-innovation-blitzscaling-and-founder-resilience]]**: Building category-defining enterprises through disruptive non-consumption markets, creative monopolies, hypergrowth blitzscaling, purpose-led inspiration, permissionless leverage, and wartime CEO survival.
-  * Works: [[leadership-lessons-six-titans]], [[tools-of-titans]], [[how-to-build-a-career-in-tech]], [[the-great-ceo-within]], [[trillion-dollar-coach]], [[high-output-management]], [[capitalism-socialism-and-democracy]], [[why-startups-fail]], [[the-almanack-of-naval-ravikant]], [[the-prosperity-paradox]], [[blitzscaling]], [[shoe-dog]], [[think-like-an-entrepreneur-act-like-a-ceo]], [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]], [[crossing-the-chasm]], [[the-hard-thing-about-hard-things]], [[zero-to-one]], [[the-startup-owners-manual]], [[the-startup-playbook]], [[venture-capitalists-at-work]], [[mastering-the-vc-game]], [[start-with-why]], [[the-innovators-dilemma]]
-* **[[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]]**: What separates compounding, mission-driven institutions and high-velocity engineering communities from bureaucratic feature factories.
-  * Works: [[the-great-ceo-within]], [[trillion-dollar-coach]], [[high-output-management]], [[the-startup-playbook]], [[value-proposition-design]], [[the-lean-startup]], [[start-with-why]], [[how-to-start-a-startup-pragmatic-coders]], [[blitzscaling]], [[hbr-at-100]], [[inspired-how-to-create-tech-products-customers-love]], [[hbr-10-must-reads-on-teams]], [[good-to-great]], [[the-cathedral-and-the-bazaar]], [[built-to-last]]
-* **[[energy-transition-and-storage-economics]]**: Techno-economic and geopolitical strategies for decarbonizing power grids and transport via renewable energy, Levelized Cost of Storage (LCOS), EV batteries, and sovereign supply security.
-  * Works: [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]], [[small-is-beautiful]], [[the-coal-question]], [[turkiyenin-onemli-doga-alanlari-ege-bolgesi]], [[situational-awareness-the-decade-ahead]], [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]], [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]], [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]], [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]]
-* **[[eurasian-steppe-nomads-silk-road-and-ethnogenesis]]**: 
-* **[[evolution-of-human-consciousness]]**: The study of the biological, neuropsychological, and cultural shifts that enabled abstract thought, symbolic language, visionary spirituality, neuroplastic adaptability, and self-transcendence in *Homo sapiens*.
-  * Works: [[the-essential-david-bohm]], [[law-of-attraction-secret-power]], [[the-power-of-now]], [[tarihi-degistiren-bilginler]], [[leadership-today]], [[the-case-against-reality]], [[the-righteous-mind]], [[the-untethered-soul]], [[the-hero-with-a-thousand-faces]], [[finnegans-wake]], [[ruyalari-yorumu-interpretation-of-dreams]], [[sophies-world]], [[confessions-of-saint-augustine]], [[emotional-intelligence]], [[blink-power-of-thinking-without-thinking]], [[korkunun-otesi-beyond-fear]], [[breaking-the-spell]], [[mind-matter-and-quantum-mechanics]], [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]], [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]], [[supernatural-meetings-with-the-ancient-teachers-of-mankind]], [[the-adaptability-advantage]], [[leading-for-tomorrow]]
-* **[[evolution-of-strategies]]**: The dynamic processes by which strategic heuristics, operational doctrines, and behavioral phenotypes emerge, invade, compete, and stabilize within biological and social populations over time.
-  * Works: [[an-introduction-to-machine-learning]], [[probabilistic-artificial-intelligence]], [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]], [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[the-adaptability-advantage]], [[influencing-leaders]]
-* **[[evolutionary-naturalism-new-atheism-and-theistic-apologetics]]**: The twenty-first-century clash between Darwinian/memetic explanations of religion, secular moral philosophy, Thomistic-historical Christian apologetics, and personal afterlife narratives.
-  * Works: [[atheism-all-that-matters]], [[richard-dawkins-god-delusion-bloch]], [[heaven-is-for-real]], [[breaking-the-spell]], [[the-god-delusion]]
-* **[[fanaticism-and-human-sacrifice]]**: The philosophical and psychological critique of religious and ideological absolutism that demands the violent sacrifice of human lives in service to abstract dogmas, deities, or state terror.
-  * Works: [[lord-of-the-flies]], [[the-end-of-modernism-elias-canettis-auto-da-fe]], [[war-god-nights-of-the-witch]], [[asik-borani-soz-insanin-aynasi]]
-* **[[gene-centric-evolution-and-memetics]]**: The neo-Darwinian paradigm explaining biological and cultural evolution through the differential survival of self-copying digital information units—genes in the biological sphere and memes in human culture—operating through organismal vehicles and extended phenotypes.
-  * Works: [[breaking-the-spell]], [[the-god-delusion]], [[the-selfish-gene]], [[the-evolution-of-cooperation]], [[the-adaptability-advantage]], [[supernatural-meetings-with-the-ancient-teachers-of-mankind]]
-* **[[general-purpose-technologies-and-learning-by-doing]]**: How radical inventions born at disciplinary intersections require decades of structural redesign and worker 'learning by doing' before generating broad-based productivity and wage growth.
-  * Works: [[zero-to-one]], [[the-prosperity-paradox]], [[the-innovators-dilemma]], [[microsoft-365-excel-office-scripts-for-dummies]], [[the-coal-question]], [[the-wealth-of-nations]], [[islamda-bilim-ve-teknik-science-and-technology-in-islam]], [[the-diamond-age]], [[amazon-in-healthcare-strategy-for-a-3-trillion-market]], [[pharmaceutical-biotechnology-fundamentals-and-applications]], [[the-digital-as-para-world]], [[digital-anthropology]], [[enterprise-cloud-for-dummies-nutanix-special-edition]], [[iaas-for-dummies-oracle-special-edition]], [[api-strategy-for-decision-makers]], [[snowflake-the-definitive-guide]], [[kubernetes-up-and-running]], [[iot-for-dummies-applications-solutions-and-security-compendium]], [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]], [[machine-learning-for-dummies-ibm-limited-edition]], [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]], [[the-coming-wave-ai-power-and-our-future]], [[co-intelligence-living-and-working-with-ai]], [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]], [[media-and-digital-management]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]], [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]], [[the-medici-effect-what-elephants-and-epidemics-can-teach-us-about-innovation]]
-* **[[hermetic-tradition-and-secret-societies]]**: The historical survival, clandestine transmission, and political influence of Hermetic philosophy, Gnosticism, and sacred geometry through esoteric brotherhoods (Templars, Rosicrucians, Freemasons).
-  * Works: [[the-master-game]], [[lost-knowledge-of-the-ancients]]
-* **[[human-centered-ai-and-augmented-leadership]]**: The strategic, ethical, and psychological integration of artificial intelligence as a collaborative co-pilot that amplifies—rather than replaces—human judgment, empathy, creativity, and moral responsibility.
-  * Works: [[the-human-use-of-human-beings]], [[hbr-insights-future-of-business-boxed-set]], [[hbr-at-100]], [[the-digital-as-para-world]], [[saas-for-dummies-oracle-special-edition]], [[machine-learning-in-medicine-a-complete-overview]], [[introduction-to-artificial-intelligence]], [[machine-learning-for-dummies-ibm-limited-edition]], [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]], [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]], [[co-intelligence-living-and-working-with-ai]], [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]], [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]], [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]], [[educational-technology-a-primer-for-the-21st-century]], [[advanced-network-forensics-a-cyber-behavioral-science-approach]], [[blockchain-crypto-and-defi-bridging-finance-and-technology]], [[leading-for-tomorrow]], [[the-adaptability-advantage]], [[rapid-reculturing]], [[deterrence-in-the-21st-century]]
-* **[[human-performance-enhancement-and-neuro-warfare]]**: The operational, neuroscientific, psychological, and ethical dimensions of augmenting human soldiers and decision-makers across physical, cognitive, brain-network, and emotional domains in high-tempo conflict.
-  * Works: [[discovering-the-brain]], [[developing-the-super-soldier-enhancing-military-performance]], [[deterrence-in-the-21st-century]], [[the-adaptability-advantage]], [[leading-for-tomorrow]]
-* **[[hybrid-threats-and-cyber-warfare]]**: The integration of unconventional, covert, cyber, electronic, economic, and informational instruments designed to achieve strategic goals below the threshold of open armed conflict.
-  * Works: [[house-of-trump-house-of-putin]], [[by-way-of-deception]], [[deploying-a-modern-security-data-lake]], [[practical-fraud-prevention]], [[iot-for-dummies-applications-solutions-and-security-compendium]], [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]], [[advanced-network-forensics-a-cyber-behavioral-science-approach]], [[computer-security-incident-handling-guide-nist-sp-800-61r2]], [[deterrence-in-the-21st-century]]
-* **[[inclusive-institutions-economic-thought-and-ecological-limits]]**: How division of labor, institutional pluralism, macroeconomic reform, urban space, and finite ecological endowments interact to determine whether nations flourish or stagnate.
-  * Works: [[benim-pencerem]], [[the-better-angels-of-our-nature]], [[capitalism-socialism-and-democracy]], [[the-prosperity-paradox]], [[why-nations-fail]], [[cagdas-kapitalizmin-mekansal-orgutlenmesi]], [[russia-rebounds]], [[small-is-beautiful]], [[the-worldly-philosophers]], [[the-philosophy-of-money]], [[the-coal-question]], [[the-wealth-of-nations]]
-* **[[institutional-neutrality-and-academic-freedom]]**: The principle that academic institutions must maintain political neutrality to preserve the environment of free inquiry and diverse thought.
-  * Works: [[ataturk-hakkinda-hatiralar-ve-belgeler]], [[the-israel-lobby-and-us-foreign-policy]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]], [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]]
-* **[[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]**: How covert agencies, domestic interest lobbies, transnational illicit networks, and individual leader psychology shape—and sometimes distort—democratic national-security decision-making.
-  * Works: [[turkic-world-senate-analysis-2026]], [[mandate-for-leadership-2025]], [[the-room-where-it-happened]], [[house-of-trump-house-of-putin]], [[russian-politics-from-lenin-to-putin]], [[the-israel-lobby-and-us-foreign-policy]], [[the-psychological-assessment-of-political-leaders]], [[by-way-of-deception]]
-* **[[iot-cyber-physical-convergence-and-edge-security]]**: Extending internet protocols, distributed fog/edge intelligence, and silicon-rooted cryptographic trust into physical sensors, actuators, smart homes, and industrial machines where breaches carry lethal real-world consequences.
-  * Works: [[architecting-data-intensive-saas-applications]], [[internet-of-things-from-hype-to-reality]], [[iot-for-dummies-applications-solutions-and-security-compendium]]
-* **[[islamic-golden-age-science-and-civilizational-transmission]]**: Documenting how medieval Islamic scholars preserved, expanded, and experimentally instrumented astronomy, optics, medicine, chemistry, cartography, and mechanics—bridging antiquity and modern science.
-  * Works: [[ibni-fadlan-seyahatnamesi]], [[tarihi-degistiren-bilginler]], [[islamda-bilim-ve-teknik-science-and-technology-in-islam]]
-* **[[late-ottoman-conflict-palestine-zionism-and-contested-memory]]**: 
-* **[[lean-startup-customer-development-and-product-market-fit]]**: Treating early-stage ventures as hypothesis-testing engines—using Customer Discovery, MVPs, Value Proposition Canvases, habit loops, and beachhead crossing to achieve repeatable product-market fit before premature scaling.
-  * Works: [[so-good-they-cant-ignore-you]], [[how-to-start-a-startup-pragmatic-coders]], [[why-startups-fail]], [[crossing-the-chasm]], [[hooked-how-to-build-habit-forming-products]], [[value-proposition-design]], [[the-lean-entrepreneur]], [[the-startup-owners-manual]], [[the-startup-playbook]], [[the-lean-startup]]
-* **[[lost-civilization-hypothesis]]**: The proposition that an advanced precursor human civilization flourished during the late Pleistocene epoch and was obliterated by global cataclysms at the end of the last Ice Age, leaving behind megalithic monuments, anomalous cartography, and cross-cultural flood myths.
-  * Works: [[fingerprints-of-the-gods]], [[keeper-of-genesis]], [[magicians-of-the-gods]], [[america-before-the-key-to-earths-lost-civilization]], [[underworld-mysterious-origins-of-civilization]]
-* **[[metaphysics-of-quality-and-global-ethics]]**: Healing the Romantic–Classical schism through pre-intellectual Quality (Arete) while balancing universal ethical standards with contextual cultural virtues.
-  * Works: [[venture-capital-and-private-equity-mms-curriculum]], [[zen-and-the-art-of-motorcycle-maintenance]], [[global-ethics-for-leadership-values-and-virtues-for-life]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]]
-* **[[monitory-democracy-and-power-scrutiny]]**: The post-1945 historical form of democracy in which periodic electoral representation is surrounded and checked by a continuous, decentralized web of extra-parliamentary watchdog institutions, courts, integrity commissions, and public transparency networks.
-  * Works: [[kazim-karabekir-anlatiyor]], [[amusing-ourselves-to-death]], [[vices-of-the-mind]], [[an-ugly-truth-inside-facebook]], [[the-life-and-death-of-democracy-and-monitory-democracy]], [[the-secret-history-of-democracy-primitive-democracy]], [[democracy-in-america]], [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]], [[influencing-leaders]]
-* **[[moral-courage-nonviolent-resistance-and-transformative-biography]]**: How individuals and grassroots communities confront colonial rule, racial apartheid, segregation, and extremist violence through truth-force (*satyagraha*), education, cultural humor, and ethical agency.
-  * Works: [[mehmet-akif]], [[tarihi-degistiren-liderler]], [[tarihi-degistiren-konusmalar]], [[shoe-dog]], [[meditations-marcus-aurelius]], [[david-and-goliath]], [[heaven-is-for-real]], [[cehennemdere-kanyonu]], [[hadji-murad]], [[50-plus-books-that-changed-my-life]], [[born-a-crime]], [[i-am-malala]], [[inspiration-to-live-your-magic]], [[becoming-king-martin-luther-king-jr]], [[gandhi-my-experiments-with-truth]]
-* **[[moral-foundations-cognitive-biases-and-interface-perception]]**: Investigating how evolution shaped human sensory interfaces, intuitive heuristics, loss aversion, strategic game rationality, moral taste buds, and the long-run pacification of human violence.
-  * Works: [[thinking-fast-and-slow]], [[the-case-against-reality]], [[psychology-of-perception]], [[the-undoing-project]], [[game-theory-a-multi-leveled-approach]], [[the-righteous-mind]], [[the-better-angels-of-our-nature]]
-* **[[music-as-prophecy-and-political-economy]]**: How the organization of noise into music across ritual sacrifice, concert representation, mass-recorded repetition, and autonomous composition anticipates future political economies.
-  * Works: [[noise-the-political-economy-of-music]]
-* **[[neurobiology-of-consciousness-and-non-algorithmic-mind]]**: From synaptic memory (LTP) and bottom-up/top-down visual processing of abstract art ('The Beholder's Share') to Gödelian and quantum-gravitational arguments against algorithmic Strong AI.
-  * Works: [[the-case-against-reality]], [[psychology-of-perception]], [[deri-ben-the-skin-ego]], [[bilimsel-bir-psikoloji-projesi-1895]], [[klara-and-the-sun]], [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]], [[mind-matter-and-quantum-mechanics]], [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]], [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]], [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]], [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]], [[discovering-the-brain]], [[reductionism-in-art-and-brain-science-bridging-the-two-cultures]]
-* **[[non-western-strategic-thought]]**: The doctrines, cultural concepts, and operational paradigms of deterrence, coercion, and strategy developed in non-Western strategic cultures, specifically Russia, China, Iran, and South Asia.
-  * Works: [[strateji-yenecek-ve-kazanacaksin]], [[ey-vatan]], [[unutulanlar-disinda-yeni-bir-sey-yok]], [[the-diamond-age]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]], [[asik-borani-soz-insanin-aynasi]]
-* **[[nuclear-strategy-and-strategic-stability]]**: The doctrines, operational postures, arms control frameworks, and technological dynamics governing the role of nuclear weapons in preventing major power war while avoiding catastrophic escalation.
-  * Works: [[world-order]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
-* **[[open-society-creative-destruction-and-epistemic-virtue]]**: Defending fallibilist liberal inquiry, dynamic economic innovation, formal logical clarity, everyday truthfulness, and intellectual humility against historicism, dogma, and epistemic vice.
-  * Works: [[entelektuelin-kutsal-kitabi-biyografiler]], [[tarihi-degistiren-bilginler]], [[karl-marx-and-the-actualization-of-philosophy]], [[vices-of-the-mind]], [[introduction-to-formal-philosophy]], [[lying-sam-harris]], [[philosophy-100-great-thinkers]], [[plato-complete-works]], [[sophies-world]], [[the-open-society-and-its-enemies-vol-1]], [[seminar-8-transference]], [[capitalism-socialism-and-democracy]]
-* **[[organizational-culture-and-rewilding]]**: The transformation of rigid, over-engineered corporate bureaucracies into thriving, psychologically safe human ecosystems through positive psychology, relational connection, simplicity, and frontline empowerment.
-  * Works: [[leaders-eat-last]], [[leadership-today]], [[the-power-of-habit]], [[the-art-of-gathering]], [[hbr-women-at-work-collection]], [[hbr-10-must-reads-on-teams]], [[good-to-great]], [[built-to-last]], [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]], [[behind-the-cloud]], [[microservices-up-and-running]], [[blended-using-disruptive-innovation-to-improve-schools]], [[rapid-reculturing]], [[leading-for-tomorrow]], [[the-adaptability-advantage]], [[influencing-leaders]]
-* **[[orientalism-postcolonial-discourse-and-cultural-satire]]**: How imperial knowledge regimes construct 'East' and 'West,' and how indigenous Anatolian, Turkic, and Caucasian thinkers subvert essentialism through historical syncretism and biting vernacular satire.
-  * Works: [[sultan-cemin-portreleri-hakkinda]], [[the-decameron-volume-three]], [[saatleri-ayarlama-enstitusu]], [[funny-in-farsi]], [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]], [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]], [[orientalism]]
-* **[[orion-correlation-and-sacred-astronomy]]**: The principle that ancient megalithic sites were designed as terrestrial mirrors of specific constellations (notably Orion, Cygnus, and Draco) and calibrated to astronomical dates determined by the precession of the equinoxes.
-  * Works: [[keeper-of-genesis]], [[fingerprints-of-the-gods]], [[the-master-game]], [[lost-knowledge-of-the-ancients]]
-* **[[ottoman-turkish-modernization-poetics-and-temporal-satire]]**: How Ottoman and Turkish poets, chroniclers, philologists, and modernist novelists navigated the rupture between classical *Divan*/*âşık* heritage and Westernized Republican modernity.
-  * Works: [[mehmet-akif]], [[kazim-karabekir-hayatim]], [[99-yuz]], [[ataturk-hakkinda-hatiralar-ve-belgeler]], [[ataturk-bir-milletin-yeniden-dogusu]], [[divan-sultan-huseyn-bayqara]], [[fusul-i-asikan]], [[osmanli-turkcesi-metinleri-1]], [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]], [[saatleri-ayarlama-enstitusu]], [[turk-sairleri-cilt-2]], [[rubab-i-sikeste]]
-* **[[persian-sufism-skepticism-and-comparative-translation]]**: How translation choices—literal philology, Victorian romantic paraphrase, or mystical allegory—transform classical Islamic and Persian wisdom texts across centuries and cultures.
-  * Works: [[finnegans-wake]], [[divan-sultan-huseyn-bayqara]], [[mantikut-tayr-conference-of-the-birds]], [[spirituality-in-the-land-of-the-noble-reviews]], [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]], [[the-life-and-work-of-jalal-ud-din-rumi]], [[rumi-the-book-of-love]], [[the-essential-rumi]], [[the-masnavi-whinfield]], [[the-masnavi-books-one-and-two-mojaddedi]], [[tolstoy-treatise-on-muhammad]], [[the-sufistic-quatrains-of-omar-khayyam]], [[the-rubaiyat-of-omar-khayyam-batson-ross]], [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]]
-* **[[planetary-cataclysm-and-cosmic-impacts]]**: The vulnerability of terrestrial life and civilizations to periodic extraterrestrial bombardment from cometary fragments, meteor streams, and solar super-flares, and the urgent imperative for planetary monitoring and defense.
-  * Works: [[the-mars-mystery]], [[magicians-of-the-gods]], [[fingerprints-of-the-gods]]
-* **[[platform-power-data-governance-and-career-adaptability]]**: Navigating an economy dominated by algorithmic platforms, pervasive data analytics, hybrid inclusion, and the demise of linear lifetime employment.
-  * Works: [[how-to-build-a-career-in-tech]], [[the-linkedin-playbook-for-employees]], [[think-like-an-entrepreneur-act-like-a-ceo]], [[blitzscaling]], [[disrupt-you]], [[hbr-women-at-work-collection]], [[an-ugly-truth-inside-facebook]], [[hbr-insights-future-of-business-boxed-set]], [[market-research-process-data-methods-stata]], [[the-start-up-of-you]], [[pivot-alan-zimmerman]]
-* **[[political-intuitionism-administrative-state-and-capitalist-democracy]]**: Structural and cognitive tensions inside modern constitutional democracies: intuitive vs. rationalist epistemology, unitary-executive battles over the bureaucracy, and corporate capital's dual role in enabling yet constraining political equality.
-  * Works: [[why-nations-fail]], [[the-worldly-philosophers]], [[the-wealth-of-nations]], [[insan-ve-devlet]], [[karl-marx-a-biography]], [[mandate-for-leadership-2025]], [[enchanted-america]], [[the-relationship-between-capitalism-and-democracy]], [[us-declaration-of-independence-and-constitution-appendix]], [[the-psychological-assessment-of-political-leaders]]
-* **[[power-realism-social-contagion-and-intentional-life-design]]**: Understanding how political realism, strategic mastery, tipping-point epidemics, thin-slicing intuition, structural opportunity, and deliberate resource allocation shape extraordinary lives.
-  * Works: [[law-of-attraction-secret-power]], [[you-are-a-badass]], [[the-power-of-habit]], [[so-good-they-cant-ignore-you]], [[the-mission-generation]], [[think-like-an-entrepreneur-act-like-a-ceo]], [[shoe-dog]], [[zero-to-one]], [[the-hard-thing-about-hard-things]], [[the-laws-of-human-nature]], [[disrupt-you]], [[david-and-goliath]], [[how-will-you-measure-your-life]], [[mastery-robert-greene]], [[what-the-dog-saw]], [[outliers-story-of-success]], [[the-33-strategies-of-war]], [[blink-power-of-thinking-without-thinking]], [[the-tipping-point]], [[the-art-of-manipulation]], [[the-prince-machiavelli]]
-* **[[pre-athenian-and-indigenous-democracies]]**: Archaeological, epigraphic, and philological evidence demonstrating that deliberative citizen assemblies, popular courts, and consensual governance flourished in ancient Mesopotamia, Phoenicia, Bronze Age India, and archaic non-Athenian Greek poleis centuries to millennia before fifth-century BC Classical Athens.
-  * Works: [[the-secret-history-of-democracy-primitive-democracy]], [[the-first-democracies-early-popular-government-outside-athens]], [[the-life-and-death-of-democracy-and-monitory-democracy]], [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]], [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]]
-* **[[pre-clovis-and-american-antiquity]]**: The revolution in American archaeology demonstrating human occupation of the Americas tens of thousands of years before the "Clovis-First" paradigm (13,000 BP), revealing sophisticated prehistoric indigenous civilizations.
-  * Works: [[america-before-the-key-to-earths-lost-civilization]], [[lost-knowledge-of-the-ancients]]
-* **[[private-equity-value-creation-leverage-and-systemic-risk]]**: The central tension in modern private markets between active operational transformation, GP–LP alignment, and buy-and-build multiple expansion versus LBO debt-loading, dividend extraction, and macroeconomic fragility.
-  * Works: [[the-business-of-venture-capital]], [[financial-modeling-and-valuation]], [[venture-capital-a-practical-guide]], [[meltdown-credit-suisse]], [[investment-banks-hedge-funds-and-private-equity]], [[financing-real-estate-investments-for-dummies]], [[venture-capital-and-private-equity-mms-curriculum]], [[the-ultimate-private-equity-playbook]], [[mastering-private-equity]], [[the-buyout-of-america]]
-* **[[probabilistic-inference-and-uncertainty-quantification]]**: Treating probability as the logic of uncertainty to decompose aleatoric noise from epistemic ignorance across Bayesian deep learning, Gaussian processes, active learning, clinical biostatistics, and safe reinforcement learning.
-  * Works: [[the-undoing-project]], [[introduction-to-formal-philosophy]], [[antifragile]], [[the-black-swan]], [[fooled-by-randomness]], [[market-research-process-data-methods-stata]], [[math-puzzles-classic-riddles]], [[calculus-one-and-several-variables]], [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]], [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]], [[probabilistic-artificial-intelligence]]
-* **[[purposeful-longevity-flow-and-mathematical-literacy]]**: Sustaining cognitive vitality, purposeful daily engagement (ikigai), and analytical fluency across the lifespan—from Blue Zone centenarian habits to open-access mathematical and physical mastery.
-  * Works: [[tools-of-titans]], [[review-math-and-the-mona-lisa]], [[bir-omur-nasil-yasanir]], [[deep-work]], [[a-guide-to-the-good-life-stoic-joy]], [[how-will-you-measure-your-life]], [[mastery-robert-greene]], [[pivot-alan-zimmerman]], [[the-penguin-book-of-curious-and-interesting-puzzles]], [[the-math-hacker-book]], [[riddles-riddles-riddles]], [[brain-teasers-211-logic-puzzles]], [[536-puzzles-and-curious-problems]], [[100-math-brainteasers]], [[investing-for-dummies]], [[inspiration-to-live-your-magic]], [[50-plus-books-that-changed-my-life]], [[501-math-word-problems-and-middle-school-math-challenges]], [[quantum-mechanics-for-pedestrians]], [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[precalculus-openstax]], [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]], [[calculus-one-and-several-variables]], [[mathematical-foundations-of-quantum-physics]], [[problems-in-general-physics]]
-* **[[quantum-foundations-measurement-and-many-worlds]]**: The central mathematical and philosophical puzzle of quantum mechanics: how unitary Hilbert-space evolution reconciles with definite classical observation across Many-Worlds, von Neumann–Heisenberg participatory mind, and objective collapse.
-  * Works: [[the-essential-david-bohm]], [[quantum-mechanics-for-pedestrians]], [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]], [[the-grand-design]], [[mind-matter-and-quantum-mechanics]], [[mathematical-foundations-of-quantum-physics]], [[the-theory-of-everything-origin-and-fate-of-the-universe]], [[a-brief-history-of-time]], [[problems-in-general-physics]], [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]]
-* **[[rationality-and-decision-making]]**: The analysis of how human cognition, heuristics, biases, emotions, and computational algorithms shape, distort, or enable strategic decisions in conflict and cooperation.
-  * Works: [[the-daily-stoic]], [[thinking-fast-and-slow]], [[intentional-attention]], [[the-devil-made-me-do-it-malevolent-creativity]], [[the-undoing-project]], [[game-theory-a-multi-leveled-approach]], [[vices-of-the-mind]], [[introduction-to-formal-philosophy]], [[lying-sam-harris]], [[philosophy-100-great-thinkers]], [[plato-complete-works]], [[the-art-of-manipulation]], [[how-to-win-every-argument]], [[thank-you-for-arguing]], [[influence-the-psychology-of-persuasion]], [[the-laws-of-human-nature]], [[the-wisdom-of-the-stoics]], [[epictetus-stoic-and-socratic-guide]], [[what-the-dog-saw]], [[blink-power-of-thinking-without-thinking]], [[the-tipping-point]], [[fooled-by-randomness]], [[market-research-process-data-methods-stata]], [[financial-intelligence-for-managers]], [[venture-capital-a-practical-guide]], [[reminiscences-of-a-stock-operator]], [[the-philosophy-of-money]], [[atheism-all-that-matters]], [[richard-dawkins-god-delusion-bloch]], [[the-god-delusion]], [[the-worlds-200-hardest-brain-teasers]], [[math-puzzles-classic-riddles]], [[stock-trading-strategy-3-book-bundle]], [[stock-investing-for-dummies]], [[personal-finance-and-investing-all-in-one-for-dummies]], [[managing-your-money-all-in-one-for-dummies]], [[investing-for-dummies]], [[financing-real-estate-investments-for-dummies]], [[financial-analysis-using-excel]], [[excel-for-accountants]], [[the-relationship-between-capitalism-and-democracy]], [[the-psychological-assessment-of-political-leaders]], [[enchanted-america]], [[the-end-of-history-and-the-last-man]], [[501-math-word-problems-and-middle-school-math-challenges]], [[precalculus-openstax]], [[calculus-one-and-several-variables]], [[pharmaceutical-biotechnology-fundamentals-and-applications]], [[problems-in-general-physics]], [[mathematical-foundations-of-quantum-mechanics-ulm-lecture-notes]], [[quantum-mechanics-for-pedestrians]], [[on-the-foundations-of-quantum-mechanics-relative-state-formulation]], [[the-grand-design]], [[the-theory-of-everything-origin-and-fate-of-the-universe]], [[a-brief-history-of-time]], [[the-ultimate-private-equity-playbook]], [[mastering-private-equity]], [[retention-point-membership-and-subscription-growth]], [[blueprints-for-a-saas-sales-organization]], [[state-of-it-asset-management-2022]], [[practical-fraud-prevention]], [[machine-learning-in-medicine-a-complete-overview]], [[introduction-to-data-science-a-python-approach-to-concepts-techniques-and-applications]], [[an-introduction-to-machine-learning]], [[introduction-to-artificial-intelligence]], [[machine-learning-for-dummies-ibm-limited-edition]], [[introduction-to-deep-learning-from-logical-calculus-to-artificial-intelligence]], [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]], [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]], [[probabilistic-artificial-intelligence]], [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[the-emperors-new-mind-concerning-computers-minds-and-the-laws-of-physics]], [[learning-by-doing-the-real-connection-between-innovation-wages-and-wealth]], [[economic-transformations-general-purpose-technologies-and-long-term-economic-growth]], [[zen-and-the-art-of-motorcycle-maintenance]], [[educational-technology-a-primer-for-the-21st-century]], [[the-challenger-sale-challenge-yourself-action-book]], [[spin-selling]], [[introduction-to-law]], [[handbook-of-quantitative-criminology]], [[media-and-digital-management]], [[entertainment-science-data-analytics-and-practical-theory]], [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]], [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]], [[advanced-network-forensics-a-cyber-behavioral-science-approach]], [[computer-security-incident-handling-guide-nist-sp-800-61r2]], [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]], [[asik-borani-soz-insanin-aynasi]], [[influencing-leaders]], [[the-adaptability-advantage]], [[leading-for-tomorrow]], [[the-non-orientable-topology-of-condorcets-paradox]]
-* **[[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]]**: Training flexible, non-algorithmic insight through mathematical puzzles, invariants, probability paradoxes, visual symmetry, verbal conundrums, and mental calculation shortcuts.
-  * Works: [[review-math-and-the-mona-lisa]], [[how-to-win-every-argument]], [[the-math-hacker-book]], [[100-math-brainteasers]], [[math-puzzles-classic-riddles]], [[the-worlds-200-hardest-brain-teasers]], [[brain-teasers-211-logic-puzzles]], [[the-penguin-book-of-curious-and-interesting-puzzles]], [[536-puzzles-and-curious-problems]], [[riddles-riddles-riddles]]
-* **[[recurring-revenue-customer-success-and-retention-mechanics]]**: How subscription and SaaS models shift enterprise economics from one-off sales acquisition to post-join onboarding, Time-to-First-Value, SPICED impact orchestration, and Net Revenue Retention above 130%.
-  * Works: [[the-lean-entrepreneur]], [[hooked-how-to-build-habit-forming-products]], [[inspired-how-to-create-tech-products-customers-love]], [[api-strategy-for-decision-makers]], [[saas-for-dummies-oracle-special-edition]], [[blueprints-for-a-saas-sales-organization]], [[retention-point-membership-and-subscription-growth]], [[the-saas-sales-method-for-customer-success-and-account-managers]], [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]], [[behind-the-cloud]]
-* **[[revolutionary-ambition-power-and-historical-legacy]]**: Comparative biographies of figures who sought to remake empires, economies, or political orders through military genius, ideological theory, guerrilla insurrection, or leveraged commercial branding.
-  * Works: [[leadership-lessons-six-titans]], [[ego-is-the-enemy]], [[entelektuelin-kutsal-kitabi-biyografiler]], [[sultan-cemin-portreleri-hakkinda]], [[kazim-karabekir-anlatiyor]], [[kazim-karabekir-hayatim]], [[ataturkun-usaginin-gizli-defteri]], [[ataturkun-not-defterleri]], [[ataturk-bir-milletin-yeniden-dogusu]], [[tarihi-degistiren-liderler]], [[tarihi-degistiren-konusmalar]], [[tarihi-degistiren-askerler]], [[of-heroes-and-villains-pre-revolutionary-russia]], [[karl-marx-and-the-actualization-of-philosophy]], [[divan-sultan-huseyn-bayqara]], [[elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future]], [[the-prince-machiavelli]], [[seneca-the-life-of-a-stoic]], [[la-saga-des-rothschild]], [[the-worldly-philosophers]], [[after-the-prophet-shia-sunni-split]], [[strateji-yenecek-ve-kazanacaksin]], [[the-last-man-volume-one]], [[che-guevara-a-biography]], [[napoleon-a-biography]], [[trump-the-art-of-the-deal]], [[karl-marx-a-biography]]
-* **[[rule-of-law-and-experimental-justice]]**: The interplay between comparative legal philosophy (legal certainty, human rights, Hart vs. Dworkin) and quantitative/experimental criminology (hot-spots RCTs and trajectory modeling).
-  * Works: [[skin-in-the-game]], [[why-nations-fail]], [[korkunun-cocuklari]], [[machines-like-me]], [[investment-banks-hedge-funds-and-private-equity]], [[us-declaration-of-independence-and-constitution-appendix]], [[mandate-for-leadership-2025]], [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]], [[venture-capital-and-private-equity-mms-curriculum]], [[the-buyout-of-america]], [[handbook-of-quantitative-criminology]], [[introduction-to-law]]
-* **[[semiconductor-geopolitics-and-chokepoints]]**: The strategic competition over integrated circuit design, extreme ultraviolet (EUV) lithography, and advanced foundry fabrication—where ultra-concentrated technological chokepoints in Silicon Valley, the Netherlands (ASML), and Taiwan (TSMC) underpin 21st-century military deterrence, AI supremacy, and US–China grand strategy.
-  * Works: [[situational-awareness-the-decade-ahead]], [[ai-2027]], [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]], [[getting-started-with-enterprise-blockchain]], [[chip-war-the-fight-for-the-worlds-most-critical-technology]], [[deterrence-in-the-21st-century]], [[developing-the-super-soldier-enhancing-military-performance]], [[leading-for-tomorrow]], [[the-adaptability-advantage]]
-* **[[servant-coaching-high-output-management-and-stoic-ego]]**: The convergence of operational managerial leverage, high-trust servant coaching, generous reciprocity, and Stoic ego restraint in building resilient teams and enduring organizations.
-  * Works: [[the-mission-generation]], [[the-great-ceo-within]], [[trillion-dollar-coach]], [[how-to-build-a-career-in-tech]], [[leadership-lessons-six-titans]], [[leadership-today]], [[ego-is-the-enemy]], [[the-daily-stoic]], [[leaders-eat-last]], [[give-and-take]], [[you-are-a-badass]], [[starting-and-running-a-coaching-business]], [[coaching-for-leadership]], [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]], [[the-7-habits-of-highly-effective-people]], [[high-output-management]], [[lord-of-the-flies]]
-* **[[service-first-branding-and-authentic-visibility]]**: The ethical and strategic practice of sharing domain expertise, lived wisdom, and proprietary frameworks in the public square to serve others—prioritizing measurable human impact over performative self-promotion.
-  * Works: [[the-linkedin-playbook-for-employees]], [[trump-the-art-of-the-deal]], [[50-plus-books-that-changed-my-life]], [[retention-point-membership-and-subscription-growth]], [[behind-the-cloud]], [[entertainment-science-data-analytics-and-practical-theory]], [[valuable-and-visible]], [[influencing-leaders]], [[asik-borani-soz-insanin-aynasi]]
-* **[[shadow-of-the-future]]**: The degree to which expected future interactions discount present decisions, shaping whether rational actors choose immediate exploitation or long-term cooperation.
-  * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
-* **[[social-critique-and-moral-conscience]]**: The use of literature, satire (*taşlama*), and public testimony to denounce corruption, economic exploitation, hypocrisy, and ignorance while defending civic justice and integrity.
-  * Works: [[99-yuz]], [[ataturkun-usaginin-gizli-defteri]], [[karl-marx-and-the-actualization-of-philosophy]], [[how-will-you-measure-your-life]], [[boundaries-cloud-townsend]], [[seneca-the-life-of-a-stoic]], [[letters-from-a-stoic]], [[outliers-story-of-success]], [[skin-in-the-game]], [[cagdas-kapitalizmin-mekansal-orgutlenmesi]], [[small-is-beautiful]], [[the-philosophy-of-money]], [[atheism-all-that-matters]], [[richard-dawkins-god-delusion-bloch]], [[after-the-prophet-shia-sunni-split]], [[me-and-rumi-shams-i-tabrizi]], [[ey-vatan]], [[machines-like-me]], [[the-last-man-volume-one]], [[the-decameron-volume-three]], [[tolstoy-treatise-on-muhammad]], [[hadji-murad]], [[the-rubaiyat-of-omar-khayyam-batson-ross]], [[the-rubaiyat-of-omar-khayyam-bodleian-facsimile]], [[saatleri-ayarlama-enstitusu]], [[tevfik-fikretin-siirlerindeki-edebi-sanatlar]], [[rubab-i-sikeste]], [[born-a-crime]], [[karl-marx-a-biography]], [[gandhi-my-experiments-with-truth]], [[che-guevara-a-biography]], [[becoming-king-martin-luther-king-jr]], [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]], [[turkic-world-senate-analysis-2026]], [[turk-halk-dusuncesi-ve-hareketlerinin-ideolojik-kokenleri]], [[the-buyout-of-america]], [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]], [[mongrel-nation-colonization-in-reverse]], [[doppelganger-israel-palestine-and-the-doppelganger-effect]], [[the-end-of-modernism-elias-canettis-auto-da-fe]], [[noise-the-political-economy-of-music]], [[asik-borani-soz-insanin-aynasi]]
-* **[[stoic-equanimity-dichotomy-of-control-and-self-mastery]]**: Building an unshakeable inner citadel by separating what lies within our moral volition from external fortune, status, and adversity.
-  * Works: [[the-7-habits-of-highly-effective-people]], [[ego-is-the-enemy]], [[the-daily-stoic]], [[the-power-of-now]], [[bir-omur-nasil-yasanir]], [[the-tools-stutz-michels]], [[the-untethered-soul]], [[a-guide-to-the-good-life-stoic-joy]], [[olum-ve-kiyamet-olume-hazirlik]], [[confessions-of-saint-augustine]], [[plato-complete-works]], [[the-almanack-of-naval-ravikant]], [[the-bed-of-procrustes]], [[seneca-the-life-of-a-stoic]], [[epictetus-stoic-and-socratic-guide]], [[meditations-marcus-aurelius]], [[the-wisdom-of-the-stoics]], [[letters-from-a-stoic]]
-* **[[student-centric-and-blended-learning]]**: Replacing standardized factory-batch schooling with modular, competency-based blended learning models (Rotation, Flex, A La Carte, Enriched Virtual) and smart classrooms.
-  * Works: [[sophies-world]], [[the-diamond-age]], [[30-french-short-stories-for-complete-beginners]], [[osmanli-turkcesi-metinleri-1]], [[the-math-hacker-book]], [[i-am-malala]], [[501-math-word-problems-and-middle-school-math-challenges]], [[precalculus-openstax]], [[python-and-r-scientific-computing-foundations-for-ai-and-data-science]], [[co-intelligence-living-and-working-with-ai]], [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-learns]], [[blended-using-disruptive-innovation-to-improve-schools]], [[educational-technology-a-primer-for-the-21st-century]], [[ethics-in-higher-education-values-driven-leaders-for-the-future]]
-* **[[submerged-ruins-and-sea-level-rise]]**: The study of underwater megaliths, drowned coastal settlements, and drowned prehistoric landmasses submerged by the 120-meter global sea-level rise at the end of the last Ice Age.
-  * Works: [[underworld-mysterious-origins-of-civilization]], [[lost-knowledge-of-the-ancients]], [[fingerprints-of-the-gods]]
-* **[[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]]**: How the transformative encounter between Jalal al-Din Rumi and Shams-i Tabrizi forged an enduring mystical philosophy of *ishq* (love), ego-dissolution, ring-compositional poetry, and interfaith mercy.
-  * Works: [[the-hero-with-a-thousand-faces]], [[olum-ve-kiyamet-olume-hazirlik]], [[mantikut-tayr-conference-of-the-birds]], [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]], [[me-and-rumi-shams-i-tabrizi]], [[the-masnavi-books-one-and-two-mojaddedi]], [[rumi-the-book-of-love]], [[the-essential-rumi]], [[the-life-and-work-of-jalal-ud-din-rumi]], [[the-masnavi-whinfield]]
-* **[[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]]**: Speculative and pedagogical explorations of artificial minds, human-in-the-loop mentoring, moral alignment paradoxes, and civilizational resilience.
-  * Works: [[klara-and-the-sun]], [[machines-like-me]], [[30-french-short-stories-for-complete-beginners]], [[the-diamond-age]], [[the-last-man-volume-one]]
-* **[[tactical-empathy-persuasion-principles-and-rhetorical-mastery]]**: Mastering emotional intelligence, psychological compliance triggers, FBI crisis negotiation, Aristotelian rhetoric, informal logic, and healthy relational boundaries.
-  * Works: [[tarihi-degistiren-konusmalar]], [[give-and-take]], [[the-art-of-gathering]], [[lying-sam-harris]], [[venture-deals]], [[venture-capital-deal-terms]], [[the-art-of-startup-fundraising]], [[crack-the-funding-code]], [[start-with-why]], [[the-laws-of-human-nature]], [[never-split-the-difference]], [[thank-you-for-arguing]], [[how-to-win-every-argument]], [[emotional-intelligence]], [[boundaries-cloud-townsend]], [[influence-the-psychology-of-persuasion]], [[the-art-of-manipulation]], [[how-to-win-friends-and-influence-people]]
-* **[[technological-containment-and-omni-use-proliferation]]**: Why general-purpose technologies characterized by asymmetry, hyper-evolution, omni-use, and autonomy resist historical containment, amplifying nation-state fragility between the poles of catastrophe and surveillance dystopia.
-  * Works: [[the-human-use-of-human-beings]], [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]], [[the-coming-wave-ai-power-and-our-future]]
-* **[[tit-for-tat]]**: The decision rule and strategic heuristic of starting with cooperation and subsequently replicating the opponent's preceding action in every subsequent round.
-  * Works: [[the-evolution-of-cooperation]], [[deterrence-in-the-21st-century]]
-* **[[topological-social-choice-and-preference-cycles]]**: The algebraic-topological modeling of collective preference aggregation, resolving why majority voting generates cyclic paradoxes and how Arrow's Impossibility Theorem reduces to the geometric duality between orientable and non-orientable manifolds.
-  * Works: [[the-non-orientable-topology-of-condorcets-paradox]], [[the-evolution-of-cooperation]]
-* **[[trusted-strategic-advisors-and-influence]]**: The behavioral, rhetorical, and psychological principles through which subject-matter experts transition from technical executors ("doers") into indispensable C-suite confidants who guide leaders through crisis, ambiguity, and high-stakes decisions.
-  * Works: [[starting-and-running-a-coaching-business]], [[coaching-for-leadership]], [[the-linkedin-playbook-for-employees]], [[crack-the-funding-code]], [[thank-you-for-arguing]], [[how-to-win-friends-and-influence-people]], [[never-split-the-difference]], [[the-start-up-of-you]], [[the-challenger-sale-challenge-yourself-action-book]], [[spin-selling]], [[influencing-leaders]], [[valuable-and-visible]], [[deterrence-in-the-21st-century]]
-* **[[tyranny-of-the-majority-and-civil-associations]]**: The structural tension in democratic societies between majoritarian conformity or centralized "soft despotism" on one hand, and the protective counterweights of voluntary civil associations, local self-government, judicial review, and pluralist norms on the other.
-  * Works: [[lord-of-the-flies]], [[the-open-society-and-its-enemies-vol-1]], [[becoming-king-martin-luther-king-jr]], [[the-relationship-between-capitalism-and-democracy]], [[russian-politics-from-lenin-to-putin]], [[us-declaration-of-independence-and-constitution-appendix]], [[the-end-of-history-and-the-last-man]], [[mongrel-nation-colonization-in-reverse]], [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[introduction-to-law]], [[democracy-in-america]], [[kalven-committee-report-on-the-universitys-role-in-political-and-social-action]], [[the-life-and-death-of-democracy-and-monitory-democracy]], [[the-non-orientable-topology-of-condorcets-paradox]], [[the-evolution-of-cooperation]]
-* **[[unconscious-desire-lacanian-subject-and-somatic-healing]]**: Charting the psyche from Freud's 1895 neural project and dream-work through Lacan's Symbolic/Real subject, Anzieu's Skin-Ego, Campbell's Monomyth, Joyce's dream-language, and somatic/action therapies.
-  * Works: [[cocuklarda-travmanin-yaralarini-sarmak]], [[heterite-11-les-paradoxes-du-desir]], [[the-tools-stutz-michels]], [[the-untethered-soul]], [[female-sexuality-early-psychoanalytic-controversies]], [[deri-ben-the-skin-ego]], [[seminar-2-the-ego-in-freuds-theory]], [[seminar-8-transference]], [[the-hero-with-a-thousand-faces]], [[finnegans-wake]], [[ruyalari-yorumu-interpretation-of-dreams]], [[bilimsel-bir-psikoloji-projesi-1895]]
-* **[[universal-love-and-human-dignity]]**: The ontological and ethical principle that all human beings possess intrinsic dignity, that love (*sevgi*) is a foundational science for societal survival, and that artificial sectarian, racial, or national divisions must be rejected.
-  * Works: [[cocuklarda-travmanin-yaralarini-sarmak]], [[olum-ve-kiyamet-olume-hazirlik]], [[mantikut-tayr-conference-of-the-birds]], [[confessions-of-saint-augustine]], [[boundaries-cloud-townsend]], [[how-to-win-friends-and-influence-people]], [[the-wisdom-of-the-stoics]], [[epictetus-stoic-and-socratic-guide]], [[meditations-marcus-aurelius]], [[letters-from-a-stoic]], [[hbr-women-at-work-collection]], [[heaven-is-for-real]], [[korkunun-otesi-beyond-fear]], [[the-philosophy-of-ecstasy-rumi-and-the-sufi-tradition]], [[the-life-and-work-of-jalal-ud-din-rumi]], [[me-and-rumi-shams-i-tabrizi]], [[rumi-the-book-of-love]], [[the-essential-rumi]], [[the-masnavi-whinfield]], [[the-masnavi-books-one-and-two-mojaddedi]], [[klara-and-the-sun]], [[the-decameron-volume-three]], [[tolstoy-treatise-on-muhammad]], [[the-sufistic-quatrains-of-omar-khayyam]], [[fusul-i-asikan]], [[rubab-i-sikeste]], [[inspiration-to-live-your-magic]], [[i-am-malala]], [[gandhi-my-experiments-with-truth]], [[funny-in-farsi]], [[parkinson-hastaligi-hasta-ve-yakinlari-icin-el-kitabi]], [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[crypto-and-nft-philanthropy-afsp-case-study]], [[anthropology-why-it-matters]], [[global-ethics-for-leadership-values-and-virtues-for-life]], [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]], [[asik-borani-soz-insanin-aynasi]], [[leading-for-tomorrow]], [[rapid-reculturing]]
-* **[[venture-capital-term-sheets-and-fundraising-mechanics]]**: End-to-end mechanics of institutional venture funds, LP–GP economics, pitch craft, three-statement financial modeling, and clause-by-clause U.S. and European term-sheet negotiation.
-  * Works: [[crack-the-funding-code]], [[the-art-of-startup-fundraising]], [[venture-capital-deal-terms]], [[the-business-of-venture-capital]], [[financial-modeling-and-valuation]], [[business-startup-for-dummies-bundle]], [[venture-capitalists-at-work]], [[venture-deals]], [[mastering-the-vc-game]]
-* **[[violent-non-state-actors]]**: The theoretical concepts, operational methodologies, and challenges of applying deterrence, coercion, and counter-influence against terrorists, insurgent groups, and violent non-state actors (VNSAs).
-  * Works: [[the-devil-made-me-do-it-malevolent-creativity]], [[of-heroes-and-villains-pre-revolutionary-russia]], [[psychology-of-terrorism-ncjrs]], [[cehennemdere-kanyonu]], [[korkunun-cocuklari]], [[insan-ve-devlet]], [[unutulanlar-disinda-yeni-bir-sey-yok]], [[deterrence-in-the-21st-century]], [[the-evolution-of-cooperation]]
-* **[[westphalian-world-order-end-of-history-and-great-power-realism]]**: The central grand-strategy debate of modern international relations: whether history converges toward universal liberal democracy or remains governed by competing civilizational visions, sovereignty, and power equilibrium.
-  * Works: [[the-prince-machiavelli]], [[russia-rebounds]], [[napoleon-a-biography]], [[che-guevara-a-biography]], [[turkic-world-senate-analysis-2026]], [[the-room-where-it-happened]], [[world-order]], [[russian-politics-from-lenin-to-putin]], [[the-israel-lobby-and-us-foreign-policy]], [[the-end-of-history-and-the-last-man]]
-* **[[younger-dryas-impact-hypothesis]]**: The scientific hypothesis that fragments of a disintegrating giant comet struck Earth approximately 12,800 years ago, initiating the 1,200-year Younger Dryas cold snap, widespread wildfires, megafaunal extinction, and catastrophic flooding.
-  * Works: [[magicians-of-the-gods]], [[america-before-the-key-to-earths-lost-civilization]]
+- [[algebraic-topology]]
+- [[alternative-archaeology]]
+- [[anatolian-civilizations]]
+- [[anatolian-humanism]]
+- [[anthropology-of-consciousness]]
+- [[archaeoastronomy]]
+- [[archaeological-historiography]]
+- [[artificial-intelligence-and-machine-learning]]
+- [[behavioral-science-risk-and-antifragility]]
+- [[biography-memoir-and-intellectual-history]]
+- [[biotechnology-medicine-and-longevity]]
+- [[blockchain-and-decentralized-finance]]
+- [[byzantine-and-ottoman-historiography]]
+- [[catastrophism]]
+- [[central-eurasian-steppe-and-silk-road-history]]
+- [[classical-and-analytic-philosophy]]
+- [[classical-and-institutional-economics]]
+- [[cloud-computing-and-distributed-systems]]
+- [[cognitive-moral-and-social-psychology]]
+- [[comparative-democratic-history]]
+- [[comparative-religion-and-islamic-history]]
+- [[consultative-sales-and-commercial-teaching]]
+- [[corporate-strategy-and-management-classics]]
+- [[cultural-and-digital-anthropology]]
+- [[cyberpunk-ai-fiction-and-techno-humanism]]
+- [[cybersecurity-and-digital-forensics]]
+- [[data-science-and-scientific-computing]]
+- [[educational-technology-and-disruptive-pedagogy]]
+- [[energy-policy-and-clean-tech-economics]]
+- [[entrepreneurship-and-startup-methodology]]
+- [[epic-narrative]]
+- [[esoteric-history]]
+- [[ethics-and-value-philosophy]]
+- [[evolutionary-biology]]
+- [[executive-coaching-and-personal-mastery]]
+- [[financial-history-banking-and-market-psychology]]
+- [[game-theory]]
+- [[geopolitics-and-diplomatic-history]]
+- [[hermeticism]]
+- [[historical-fiction]]
+- [[innovation-and-economic-growth]]
+- [[intelligence-studies-and-national-security]]
+- [[international-relations]]
+- [[internet-of-things-and-edge-computing]]
+- [[investigative-non-fiction]]
+- [[law-and-quantitative-criminology]]
+- [[leadership-and-management]]
+- [[literary-criticism-and-modernism]]
+- [[media-economics-and-entertainment-science]]
+- [[military-science]]
+- [[neuroscience-and-philosophy-of-mind]]
+- [[occult-studies]]
+- [[organizational-psychology]]
+- [[ottoman-philology-and-literary-historiography]]
+- [[paleoclimatology]]
+- [[personal-finance-investing-and-capital-markets]]
+- [[persuasion-negotiation-and-rhetoric]]
+- [[philosophical-fiction]]
+- [[philosophy-and-poetics-of-music]]
+- [[philosophy-of-religion-secularism-and-apologetics]]
+- [[planetary-science-speculation]]
+- [[poetry-and-poetics]]
+- [[political-psychology-and-ideology]]
+- [[political-science]]
+- [[postcolonial-and-diaspora-studies]]
+- [[pre-columbian-history]]
+- [[private-equity-and-venture-capital]]
+- [[product-design-and-behavioral-engineering]]
+- [[psychoanalysis-and-depth-psychology]]
+- [[public-policy-and-urban-mobility]]
+- [[pure-and-applied-mathematics]]
+- [[recreational-mathematics-and-logic-puzzles]]
+- [[republican-intellectual-history]]
+- [[saas-and-subscription-business-models]]
+- [[security-studies]]
+- [[shamanism]]
+- [[social-choice-theory]]
+- [[speculative-fiction]]
+- [[stoic-philosophy-and-practical-ethics]]
+- [[strategic-communication]]
+- [[strategic-studies]]
+- [[sufism-mysticism-and-rumi-studies]]
+- [[theoretical-physics-and-cosmology]]
+- [[turkish-folk-literature]]
+- [[turkish-republican-history-and-biographical-memoirs]]
+- [[turkology-and-comparative-eurasian-philology]]
+- [[world-classics-and-comparative-literature]]
+- [[world-history-macro-anthropology-and-ancient-civilizations]]
 
 ---
 
-## Directory Structure
+## 4. Thematic Syntheses (105)
 
-```
-GilgamisLLMWiki/
-├── [Mounted External Library]                      # C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\
-│   ├── BOOKS/AI/                                  # Ingested: All 25 files (18 distinct works)
-│   ├── BOOKS/IoT/                                 # Ingested: All 4 files (2 distinct works: Rayes/Salam; Lawrence C. Miller IoT Compendium)
-│   ├── BOOKS/Cloud/                               # Ingested: All 9 files (9 distinct works: Kubernetes, Microservices, Snowflake, Fraud Prevention, Security Data Lake, API Strategy, Flexera ITAM, IaaS, Enterprise Cloud)
-│   ├── BOOKS/SaaS/                                # Ingested: All 7 files (7 distinct works: Benioff, Winning by Design x2, David Cancel, Robert Skrob, Data-Intensive SaaS, SaaS For Dummies)
-│   ├── BOOKS/Private Equity/                      # Ingested: All 5 files (4 distinct works: Mastering Private Equity [2 copies], Buyout of America, Whiteark PE Playbook, Mumbai MMS VC/PE)
-│   ├── BOOKS/Anthropology_/                       # Ingested: All 6 files (5 distinct works: Tim Ingold, Horst & Miller Digital Anthropology [2 files], Lane DeNicola, Mehmet Eröz Yörükler, AFSP Crypto Case Study)
-│   ├── BOOKS/Physics/                             # Ingested: All 11 files (10 distinct works: Hawking x4, Hugh Everett III 1957 Thesis, Henry Stapp, Jochen Pade [2 vols], Stephan Fackler, Stan/Costache, I. E. Irodov)
-│   ├── BOOKS/Health Pharma/                       # Ingested: All 7 files (5 distinct works: STAT 2026 Beyond Cancer, Crommelin et al. Pharmaceutical Biotech, CB Insights Amazon Healthcare, Ikigai [3 files], Parkinson El Kitabı)
-│   ├── BOOKS/Math/                                # Ingested: All 5 files (4 distinct works: Salas/Hille/Etgen Calculus, OpenStax Precalculus, 501 Math & 8th Grade Challenges, Doğa Derneği Ege Bölgesi ÖDA)
-│   ├── BOOKS/Politics_/                           # Ingested: All 18 files (16 distinct works: Said, Fukuyama, Ostrovsky/Hoy, Mearsheimer/Walt, Oliver/Wood, Project 2025, Burhan Oğuz [3 vols], Post et al., Ragone/Constitution, Kissinger, Unger, Bolton, Fortescue et al., Turkic Senate 2026, Petkovic, Slavs and Tatars)
-│   ├── BOOKS/50+_Books_That_Changed_My_Life.pdf   # Ingested: Unity Stoakes (2025, 47 pp.)
-│   ├── BOOKS/Biography_/                          # Ingested: All 10 files (10 works: Trump, MLK, Che Guevara, Funny in Farsi, Gandhi, Marx, Napoleon, Born a Crime, I Am Malala, 75 Inspiring Biographies)
-│   ├── BOOKS/Investment_/                         # Ingested: All 10 files (9 works: Carlberg, VJ Books, Real Estate Financing, Eric Tyson, David Stowell, US & UK Money All-in-One, Mladjenovic [2 eds], Yamazaki)
-│   ├── BOOKS/Fun & Puzzles_/                      # Ingested: All 8 files (8 works: Romanowicz, Dudeney/Gardner 536, Livingstone/Thomson, Talwalkar, Leeming, Paul Carson, David Wells, Gary Gruber)
-│   ├── BOOKS/Game Theory/                         # Verified SHA-256 identical to raw/ (Axelrod & Deterrence in 21st Century)
-│   ├── BOOKS/Literature/                          # Ingested: All 23 files (23 works: Tevfik Fikret, Çağın thesis, Osmanlı Metinleri I, Fusûl-ı Âşıkân, Türk Şairleri 2, Tanpınar, Omar Khayyam x3, Tolstoy x2, Boccaccio Vol. III, Mary Shelley Vol. I, Bibard French, Ishiguro, McEwan, Stephenson, Osman Pamukoğlu x6)
-│   ├── BOOKS/Religion_/                           # Ingested: All 24 files (17 distinct works: Fuat Sezgin [6 files consolidated], Rumi Masnavi Mojaddedi [2 vols] & Whinfield, Coleman Barks x2, Chittick Shams, Afzal Iqbal, Lewisohn, Hazleton, Foltz reviews [2 files], Muazzez İlmiye Çığ, Dawkins, Bloch, Dennett, Dylan Evans, Don Miguel Ruiz, Burpo & Vincent)
-│   ├── BOOKS/Business Economy Finance/            # Ingested: All 26 files (26 works: Adam Smith, Jevons, Simmel, Heilbroner, Schumacher, Hakkı Yırtıcı, Acemoglu/Robinson, IMF Russia, Lefèvre/Livermore, Rothschilds, Credit Suisse Meltdown, Seraf VC, Financial Intelligence, Collins x2, HBR x4, Marty Cagan, Eric Raymond, An Ugly Truth, Mooi Stata, Excel Office Scripts 2026, Hoffman Start-Up of You [EPUB], Zimmerman Pivot)
-│   ├── BOOKS/EQ, Negotiation, Influence/          # Ingested: All 29 files (29 works: Taleb Incerto x5, Gladwell x5, Stoics x5 [Seneca, Marcus Aurelius, Epictetus/Long, Veyne, Hazlitt], Machiavelli, Robert Greene x3, Goleman EQ, Cialdini, Chris Voss, Dale Carnegie, Heinrichs, Pirie, Sparkman, Cloud/Townsend, Christensen Measure Your Life, Jay Samit)
-│   ├── BOOKS/Entrepreneurship_/                   # Ingested: All 31 files (28 new canonical works + 1 SHA-256 duplicate synced [Marty Cagan Inspired]; Almanack of Naval Ravikant [2 files], Blitzscaling, Crossing the Chasm [2 eds], Hooked, Pragmatic Coders, Start With Why, Hard Thing About Hard Things, Innovator's Dilemma, Lean Entrepreneur, Lean Startup, Prosperity Paradox, Startup Owner's Manual, Value Proposition Design, Zero to One, Dummies 3-Book Bundle, Crack the Funding Code, Elon Musk, Financial Modeling & Valuation, Mastering the VC Game, Shoe Dog, Art of Startup Fundraising, Business of VC, Startup Playbook, Think Like an Entrepreneur, VC Deal Terms, VCs at Work, Venture Deals, Why Startups Fail)
-│   ├── BOOKS/Philosophy Psychology Sociology/     # Ingested: All 42 files (39 new canonical works + 2 Sowell edition syncs + 1 Wiener dup consolidated; Plato Complete Works, St. Augustine, Attar, Al-Ghazali, Bayqara, Popper Open Society I, Schumpeter, Sophie's World, Irvine Stoic Joy, Harwood 100 Thinkers, Sam Harris Lying, Formal Philosophy, Cassam Vices of the Mind, Schuringa Marx, Freud x2, Lacan x2, IF-EPFCL Hétérité 11, Anzieu Skin-Ego, Grigg Female Sexuality, Joyce Finnegans Wake, Campbell Hero, Singer Untethered Soul, Stutz/Michels Tools, Levine/Kline Trauma TR, Wiener Cybernetics [2 copies], Postman, Connerton, Borum Terrorism, Pinker Better Angels, Haidt Righteous Mind, Hans Peters Game Theory, Grondin Perception, Michael Lewis Undoing Project, Priya Parker Gathering, Hilbrenner, McBain/Cropley Malevolent Creativity [.docx], Donald Hoffman Case Against Reality)
-│   ├── BOOKS/Leadership_/                         # Ingested: All 53 files (51 canonical works + 2 edition pairs consolidated [Grove High Output Management x2, Kinross Atatürk x2]; Intentional Attention, LinkedIn Playbook, Mission Generation, Give and Take, Deep Work, So Good They Can't Ignore You, Power of Habit, Coaching for Leadership, Thinking Fast and Slow, Trillion Dollar Coach, Leadership Today, Leaders Eat Last, Great CEO Within, Product Hunt Tech Career, Üzeyir Garih, Ali Çimen x4, Afet İnan, Ali Mithat İnan, Turhan Gürkan/Cemal Granda, Burak Dalgın, Cemal Süreya 99 Yüz, İbn Fadlan, İlber Ortaylı, Kâzım Karabekir Hayatım, Uğur Mumcu, Semavi Eyice, Sezai Karakoç Mehmet Akif, Kidder/Oppenheim x2, Eckhart Tolle, Jen Sincero, Jenny Loveless, Lord of the Flies, Kim Williams NNJ Review, Ryan Holiday x2, Aryanne Oade, Stephen Covey 7 Habits, Essential David Bohm, Tools of Titans, Will Peters)
-│   ├── BOOKS/History_/                            # Ingested: Tranche 1, files [001]–[059] (41 new canonical works + 1 synced [The First Democracies monograph] + 6 duplicate pairs consolidated + 11 Durant HTML bookmarks consolidated; Cline 1177 BC, CAH Scythia & Thrace, Golden Turkic Peoples, Foltz Silk Road, Di Cosmo Ancient China, Alinei Etruscan, Anthony Horse Wheel Language, Beckwith Empires of Silk Road & Scythian Empire, Kim Huns, Christian Russia Vol. II, Quinn How the World Made the West, Diodorus Siculus Loeb Vols. II & VIII, Koestler Thirteenth Tribe, Graeber & Wengrow Dawn of Everything, Durant Lessons of History & Story of Civilization Vol. I, Harari Trilogy [Sapiens, Homo Deus, 21 Lessons], Friedrich Kayıp Yazılar, Harl Steppes Companion & Barbarian Empires, Graves Crucified Saviors, DK Timelines of History, Ansary Destiny Disrupted, Facts on File Encyclopedia of World History, Stearns Encyclopedia of World History, Nogales Four Years Beneath the Crescent, Campos Ottoman Brothers, Kajaznuni Manifestosu, Benazus Büyük Atatürk Albümü 1, Gürkan Leaving Socialism Behind, Kıvılcımlı Tarih Devrim Sosyalizm, Walsh & Çetiner Greek Invasion of Smyrna, Ataberk Zafer Yolunda & Kürtleşen Ermeniler, Lewy Armenian Massacres, Pappé Ethnic Cleansing & Idea of Israel, Berman Anti-Zionism)
-│   ├── BOOKS/Archeology/                          # Ingested: 11 landmark works (Akurgal, Hancock, Bauval, etc.)
-│   ├── BOOKS/Art/                                 # Ingested: Âşık Borani (Cilt I & II)
-│   ├── BOOKS/Leadership_/                         # Partial: 5 landmark 2026 leadership works (48 remaining)
-│   ├── BOOKS/Military_/                           # Ingested: Developing the Super Soldier (2017)
-│   ├── BOOKS/Biology Evolution/                   # Ingested: The Selfish Gene (Dawkins, 30th Anniversary Ed.)
-│   ├── BOOKS/Semiconductors/                      # Ingested: Chip War (Chris Miller, 2022)
-│   ├── BOOKS/Türkiye_/                            # Ingested: Görmediğimiz Türkiye: 123 Yıllık National Geographic Arşivi
-│   ├── BOOKS/Music/                               # Ingested: Noise: The Political Economy of Music (Jacques Attali, 1985)
-│   ├── BOOKS/Fiction/                             # Ingested: The End of Modernism: Elias Canetti's Auto-da-Fé (Donahue, 2001)
-│   ├── BOOKS/Blockchain_/                         # Ingested: 2 works (Blockchain, Crypto & DeFi; Enterprise Blockchain)
-│   ├── BOOKS/Cybersecurity/                       # Ingested: 2 works (NIST SP 800-61r2; Advanced Network Forensics)
-│   ├── BOOKS/Energy/                              # Ingested: 3 works across 6 files
-│   ├── BOOKS/Entertainment Media/                 # Ingested: 2 works (Entertainment Science; Media and Digital Management)
-│   ├── BOOKS/Law/                                 # Ingested: 2 works (Handbook of Quantitative Criminology; Introduction to Law)
-│   ├── BOOKS/Sales/                               # Ingested: 2 works (SPIN Selling; The Challenger Sale Action Book)
-│   ├── BOOKS/Education_/                          # Ingested: 3 works (Disrupting Class; Blended; Educational Technology)
-│   ├── BOOKS/Ethics/                              # Ingested: 3 works (Zen and the Art of Motorcycle Maintenance; Global Ethics; Ethics in Higher Education)
-│   ├── BOOKS/Innovation_/                         # Ingested: 3 works (Economic Transformations GPTs; Learning by Doing; The Medici Effect)
-│   ├── BOOKS/Neuroscience_/                       # Ingested: 3 works (The Emperor's New Mind; Discovering the Brain; Reductionism in Art and Brain Science)
-│   ├── BOOKS/Society_/                            # Ingested: 3 works across 4 files
-│   ├── ARTICLES-REPORTS/Democracy/                # Ingested: All 10 files (7 distinct works)
-│   └── BOOKS/Politics_/, Physics/, History_/, ... # Remaining categorical domain libraries (immutable, git-ignored)
-├── .gitignore                                     # Excludes raw/, BOOKS/, _GilgameshLibrary/, and PDF binaries
-├── raw/                                           # Immutable local staging documents (git-ignored)
-├── wiki/                                          # Maintained knowledge base (1220 markdown pages)
-│   ├── index.md                                   # Master index and table of contents
-│   ├── log.md                                     # Ingestion and audit changelog
-│   ├── dashboard_data.json                        # Embedded data payload for dashboard
-│   ├── index.html / dashboard.html                # Interactive single-page dashboard app
-│   ├── books/                                     # Ingested book detail pages (417 pages)
-│   ├── authors/                                   # Author profile pages (613 pages)
-│   ├── genres/                                    # Genre index pages (86 pages)
-│   └── themes/                                    # Core thematic concept pages (102 pages)
-├── .agents/skills/gilgamis-llm-wiki/
-│   ├── SKILL.md                                   # Skill manifest & workflow runbook
-│   └── scripts/
-│       ├── ollama_agent.py                        # Local Ollama (qwen3.8:latest) ingestion, Vision OCR, query & audit CLI
-│       ├── build_dashboard.py                     # Dashboard JSON & HTML builder
-│       └── serve_dashboard.py                     # Local HTTP server launcher
-├── GilgamisLLMWiki.md                             # LLM Wiki design specification
-├── SUMMARY.md                                     # Standalone executive library summary
-└── README.md                                      # Project overview and interactive dashboard guide
-```
+- [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]
+- [[adaptive-intelligence-and-organizational-resilience]]
+- [[agi-trajectories-and-superalignment]]
+- [[altered-states-and-origin-of-art]]
+- [[antifragility-black-swans-and-skin-in-the-game]]
+- [[archaeology-and-national-identity]]
+- [[asik-and-minstrel-tradition]]
+- [[ataturk-republican-founding-and-ottoman-turkish-memory]]
+- [[attention-economy-and-cultural-analytics]]
+- [[banking-dynasties-institutional-meltdowns-and-speculative-psychology]]
+- [[biologics-cell-and-gene-therapies-and-healthcare-disruption]]
+- [[bronze-age-collapse-big-history-and-civilizational-cycles]]
+- [[byzantine-seljuk-ottoman-frontier-and-imperial-transition]]
+- [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+- [[catastrophism-and-earth-history]]
+- [[clash-of-civilizations]]
+- [[cloud-native-architecture-and-declarative-infrastructure]]
+- [[cloud-scale-fraud-analytics-and-security-data-lakes]]
+- [[constrained-vs-unconstrained-visions-and-postcolonial-identity]]
+- [[consultative-questioning-and-constructive-tension]]
+- [[cooperation-and-reciprocity]]
+- [[cosmology-black-holes-and-the-arrow-of-time]]
+- [[counterinsurgency-mountain-warfare-and-classical-military-strategy]]
+- [[critique-of-academic-orthodoxy]]
+- [[cross-domain-conflict]]
+- [[cybernetics-media-ecology-collective-memory-and-political-violence]]
+- [[decentralized-trust-and-cryptographic-governance]]
+- [[deep-work-habit-architecture-and-cognitive-systems]]
+- [[deterrence-and-coercion]]
+- [[digital-materiality-nomadic-heritage-and-anthropological-holism]]
+- [[disruptive-innovation-blitzscaling-and-founder-resilience]]
+- [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]]
+- [[energy-transition-and-storage-economics]]
+- [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]]
+- [[evolution-of-human-consciousness]]
+- [[evolution-of-strategies]]
+- [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]]
+- [[fanaticism-and-human-sacrifice]]
+- [[gene-centric-evolution-and-memetics]]
+- [[general-purpose-technologies-and-learning-by-doing]]
+- [[hermetic-tradition-and-secret-societies]]
+- [[human-centered-ai-and-augmented-leadership]]
+- [[human-performance-enhancement-and-neuro-warfare]]
+- [[hybrid-threats-and-cyber-warfare]]
+- [[inclusive-institutions-economic-thought-and-ecological-limits]]
+- [[institutional-neutrality-and-academic-freedom]]
+- [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]
+- [[iot-cyber-physical-convergence-and-edge-security]]
+- [[islamic-golden-age-science-and-civilizational-transmission]]
+- [[late-ottoman-conflict-palestine-zionism-and-contested-memory]]
+- [[lean-startup-customer-development-and-product-market-fit]]
+- [[lost-civilization-hypothesis]]
+- [[metaphysics-of-quality-and-global-ethics]]
+- [[monitory-democracy-and-power-scrutiny]]
+- [[moral-courage-nonviolent-resistance-and-transformative-biography]]
+- [[moral-foundations-cognitive-biases-and-interface-perception]]
+- [[music-as-prophecy-and-political-economy]]
+- [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
+- [[non-western-strategic-thought]]
+- [[nuclear-strategy-and-strategic-stability]]
+- [[open-society-creative-destruction-and-epistemic-virtue]]
+- [[organizational-culture-and-rewilding]]
+- [[orientalism-postcolonial-discourse-and-cultural-satire]]
+- [[orion-correlation-and-sacred-astronomy]]
+- [[ottoman-turkish-modernization-poetics-and-temporal-satire]]
+- [[panturkism-modernization-and-national-awakening]]
+- [[persian-sufism-skepticism-and-comparative-translation]]
+- [[planetary-cataclysm-and-cosmic-impacts]]
+- [[platform-power-data-governance-and-career-adaptability]]
+- [[political-intuitionism-administrative-state-and-capitalist-democracy]]
+- [[power-realism-social-contagion-and-intentional-life-design]]
+- [[pre-athenian-and-indigenous-democracies]]
+- [[pre-clovis-and-american-antiquity]]
+- [[private-equity-value-creation-leverage-and-systemic-risk]]
+- [[probabilistic-inference-and-uncertainty-quantification]]
+- [[purposeful-longevity-flow-and-mathematical-literacy]]
+- [[quantum-foundations-measurement-and-many-worlds]]
+- [[rationality-and-decision-making]]
+- [[recreational-mathematics-lateral-thinking-and-problem-solving-heuristics]]
+- [[recurring-revenue-customer-success-and-retention-mechanics]]
+- [[revolutionary-ambition-power-and-historical-legacy]]
+- [[rule-of-law-and-experimental-justice]]
+- [[semiconductor-geopolitics-and-chokepoints]]
+- [[servant-coaching-high-output-management-and-stoic-ego]]
+- [[service-first-branding-and-authentic-visibility]]
+- [[shadow-of-the-future]]
+- [[social-critique-and-moral-conscience]]
+- [[stoic-equanimity-dichotomy-of-control-and-self-mastery]]
+- [[student-centric-and-blended-learning]]
+- [[submerged-ruins-and-sea-level-rise]]
+- [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]]
+- [[sumerology-cuneiform-epigraphy-and-mesopotamian-mythology]]
+- [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]]
+- [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]]
+- [[technological-containment-and-omni-use-proliferation]]
+- [[tit-for-tat]]
+- [[topological-social-choice-and-preference-cycles]]
+- [[trusted-strategic-advisors-and-influence]]
+- [[tyranny-of-the-majority-and-civil-associations]]
+- [[unconscious-desire-lacanian-subject-and-somatic-healing]]
+- [[universal-love-and-human-dignity]]
+- [[venture-capital-term-sheets-and-fundraising-mechanics]]
+- [[violent-non-state-actors]]
+- [[westphalian-world-order-end-of-history-and-great-power-realism]]
+- [[younger-dryas-impact-hypothesis]]

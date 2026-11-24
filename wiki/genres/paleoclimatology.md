@@ -1,7 +1,7 @@
 # Genre: Paleoclimatology
 
 **Summary**: The scientific study of past climates throughout Earth's geological history, reconstructing temperatures, ice sheet dynamics, sea levels, and catastrophic weather shifts using ice cores, ocean sediments, and speleothems.  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

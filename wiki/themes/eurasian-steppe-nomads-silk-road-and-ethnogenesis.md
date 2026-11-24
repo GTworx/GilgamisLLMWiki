@@ -1,7 +1,7 @@
 # Theme: Eurasian Steppe Nomads, Silk Road, and Ethnogenesis
 
 **Description**: Pastoral nomadic statehood, military revolutions, transcontinental Silk Road ecology, linguistic dispersals, and nomadic-sedentary interactions across Inner Eurasia.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -11,44 +11,83 @@ The Eurasian steppe was not an empty wilderness separating great sedentary civil
 ---
 
 ## Books in Wiki
+- [[bizansli-gozuyle-turkler]] (c.) — [[georges-pachymeres]]
+- [[iranda-turk-kimligi]] (2026) — [[hamid-sehanegi]], [[merve-dilek-dagdelen]], [[busra-yilmaz]]
+- [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]
 - [[the-scythian-empire]] (2023) — [[christopher-i-beckwith]]
 - [[a-history-of-russia-central-asia-and-mongolia-vol-2]] (2018) — [[david-christian]]
 - [[the-huns-hyun-jin-kim]] (2016) — [[hyun-jin-kim]]
+- [[turks-and-khazars-origins-institutions-and-interactions]] (2016) — [[peter-b-golden]]
 - [[the-barbarian-empires-of-the-steppes]] (2014) — [[kenneth-w-harl]]
+- [[medler-ve-turkler]] (2013) — [[mehmet-bayrakdar]]
+- [[central-asia-in-world-history]] (2010) — [[peter-b-golden]]
+- [[the-turkic-world-in-mahmud-al-kashghari]] (2010) — [[peter-b-golden]]
 - [[empires-of-the-silk-road]] (2009) — [[christopher-i-beckwith]]
 - [[the-horse-the-wheel-and-language]] (2007) — [[david-w-anthony]]
+- [[the-world-of-the-khazars-new-perspectives]] (2007) — [[peter-b-golden]], [[haggai-ben-shammai]], [[andras-rona-tas]]
+- [[the-mongols-and-the-west-1221-1410]] (2005) — [[peter-jackson]]
 - [[etruscan-an-archaic-form-of-hungarian]] (2003) — [[mario-alinei]]
 - [[ancient-china-and-its-enemies]] (2002) — [[nicola-di-cosmo]]
+- [[turkler-cilt-05-orta-cag]] (2002) — [[hasan-celal-guzel]], [[kemal-cicek]], [[salim-koca]]
+- [[turkler-cilt-21-genel-indeks]] (2002) — [[hasan-celal-guzel]], [[kemal-cicek]], [[salim-koca]]
+- [[turklerin-kaybolan-atalari]] (2002) — [[kazim-mirsan]]
+- [[history-of-civilizations-of-central-asia-vol-4-part-2]] (2000) — [[c-e-bosworth]], [[m-s-asimov]]
+- [[sumer-ve-turkler-makaleler]] (2000) — [[muazzez-ilmiye-cig]]
+- [[anadoluda-on-bin-yil-turk-dilinin-bes-bin-yili]] (1999) — [[selahi-diker]]
 - [[religions-of-the-silk-road]] (1999) — [[richard-c-foltz]]
+- [[islam-oncesi-kurt-tarihi]] (1998) — [[kazim-mirsan]]
+- [[onturkceden-bugunku-kurtceye]] (1997) — [[kazim-mirsan]]
 - [[an-introduction-to-the-history-of-the-turkic-peoples]] (1992) — [[peter-b-golden]]
 - [[cambridge-ancient-history-scythia-and-thrace]] (1991) — [[tadeusz-sulimirski]], [[timothy-taylor]], [[georgi-mihailov]]
+- [[turk-milli-kulturu]] (1977) — [[ibrahim-kafesoglu]]
 - [[the-thirteenth-tribe]] (1976) — [[arthur-koestler]]
 - [[diodorus-of-sicily-library-of-history]] (1967) — [[diodorus-siculus]], [[c-h-oldfather]], [[c-bradford-welles]]
 - [[tarih-devrim-sosyalizm]] (1965) — [[hikmet-kivilcimli]]
-
----
+- [[turkler-kimdir-ve-kimlerden-ibarettir]] (1905) — [[ali-bey-huseyinzade]], [[ali-haydar-bayat]]
+- [[transcaucasia-and-ararat]] (1876) — [[james-bryce]]
+- [[the-alexiad]] (1148) — [[anna-comnena]]
 
 ## Key Thinkers & Proponents
-- [[kenneth-w-harl]]
+- [[ali-bey-huseyinzade]]
+- [[ali-haydar-bayat]]
+- [[andras-rona-tas]]
+- [[anna-comnena]]
+- [[arthur-koestler]]
+- [[busra-yilmaz]]
+- [[c-bradford-welles]]
+- [[c-e-bosworth]]
+- [[c-h-oldfather]]
 - [[christopher-i-beckwith]]
 - [[david-christian]]
-- [[hyun-jin-kim]]
 - [[david-w-anthony]]
+- [[diodorus-siculus]]
+- [[eren-tasar]]
+- [[georges-pachymeres]]
+- [[georgi-mihailov]]
+- [[haggai-ben-shammai]]
+- [[hamid-sehanegi]]
+- [[hasan-celal-guzel]]
+- [[hikmet-kivilcimli]]
+- [[hyun-jin-kim]]
+- [[ibrahim-kafesoglu]]
+- [[james-bryce]]
+- [[kazim-mirsan]]
+- [[kemal-cicek]]
+- [[kenneth-w-harl]]
+- [[m-s-asimov]]
 - [[mario-alinei]]
+- [[mehmet-bayrakdar]]
+- [[merve-dilek-dagdelen]]
+- [[muazzez-ilmiye-cig]]
 - [[nicola-di-cosmo]]
-- [[richard-c-foltz]]
 - [[peter-b-golden]]
+- [[peter-jackson]]
+- [[richard-c-foltz]]
+- [[salim-koca]]
+- [[selahi-diker]]
 - [[tadeusz-sulimirski]]
 - [[timothy-taylor]]
-- [[georgi-mihailov]]
-- [[arthur-koestler]]
-- [[diodorus-siculus]]
-- [[c-h-oldfather]]
-- [[c-bradford-welles]]
-- [[hikmet-kivilcimli]]
-
----
 
 ## Related Genres & Themes
 - [[central-eurasian-steppe-and-silk-road-history]]

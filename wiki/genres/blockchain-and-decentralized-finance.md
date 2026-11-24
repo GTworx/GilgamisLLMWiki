@@ -2,7 +2,7 @@
 
 **Description**: Study of cryptographic distributed ledgers, consensus protocols, smart contracts, decentralized financial markets, and permissioned enterprise networks.
 **Key Themes**: [[decentralized-trust-and-cryptographic-governance]], [[cooperation-and-reciprocity]], [[human-centered-ai-and-augmented-leadership]], [[semiconductor-geopolitics-and-chokepoints]]
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -14,21 +14,19 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 ---
 
 ## Books in Wiki
-- [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
-- [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
+- [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
+- [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]
 - [[getting-started-with-enterprise-blockchain]] (2019) — [[michael-bradley]], [[david-gorman]], [[matt-lucas]], [[matthew-golby-kirk]]
 
----
-
 ## Key Authors & Theorists
-- [[marco-di-maggio]]
-- [[michael-bradley]]
 - [[david-gorman]]
+- [[harvard-business-review-editorial]]
+- [[marco-di-maggio]]
 - [[matt-lucas]]
 - [[matthew-golby-kirk]]
-
----
+- [[michael-bradley]]
+- [[the-giving-block]]
 
 ## Related Genres & Themes
 - [[decentralized-trust-and-cryptographic-governance]]

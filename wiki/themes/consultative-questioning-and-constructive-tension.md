@@ -1,7 +1,7 @@
 # Theme: Consultative Questioning (SPIN) and Constructive Commercial Tension (Challenger)
 
 **Summary**: Evidence-based behavioral methodologies for uncovering explicit buyer needs via SPIN questioning and reframing stakeholder assumptions through Challenger commercial teaching.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

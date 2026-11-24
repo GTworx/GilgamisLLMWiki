@@ -1,7 +1,7 @@
 # Theme: Hermetic Tradition and Secret Societies
 
 **Summary**: The historical survival, clandestine transmission, and political influence of Hermetic philosophy, Gnosticism, and sacred geometry through esoteric brotherhoods (Templars, Rosicrucians, Freemasons).  
-**Last updated**: 2026-09-12
+**Last updated**: 2026-11-24
 
 ---
 

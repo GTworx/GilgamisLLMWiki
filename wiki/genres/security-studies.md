@@ -2,7 +2,7 @@
 
 **Description**: The academic subdiscipline of international relations focusing on national, international, and human security, threat perception, conflict prevention, and defense policy.  
 **Key Themes**: [[deterrence-and-coercion]], [[hybrid-threats-and-cyber-warfare]], [[cross-domain-conflict]], [[violent-non-state-actors]], [[nuclear-strategy-and-strategic-stability]]  
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -13,28 +13,66 @@ Security Studies analyzes threats to the survival and stability of states, socie
 ---
 
 ## Books in Wiki
+- [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
+- [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
+- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
+- [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
+- [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
+- [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]]
 - [[of-heroes-and-villains-pre-revolutionary-russia]] (2018) — [[anke-hilbrenner]]
+- [[developing-the-super-soldier-enhancing-military-performance]] (2017) — [[william-g-braun-iii]], [[stefanie-von-hlatky]], [[kim-richard-nossal]]
+- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
 - [[psychology-of-terrorism-ncjrs]] (2004) — [[randy-borum]]
 - [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 
-- [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]] (2024) — [[andrei-kucharavy]], [[octave-plancherel]], [[valentin-mulder]], [[alain-mermoud]], [[vincent-lenders]]
-- [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
-- [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
-- [[advanced-network-forensics-a-cyber-behavioral-science-approach]] (2026) — [[marshall-s-rich]]
-- [[computer-security-incident-handling-guide-nist-sp-800-61r2]] (2012) — [[paul-cichonski]], [[tom-millar]], [[tim-grance]], [[karen-scarfone]]
-- [[deterrence-in-the-21st-century]] (2021) — Frans Osinga & Tim Sweijs (eds.)
-- [[the-evolution-of-cooperation]] (1984) — Robert Axelrod
-
----
-
 ## Key Authors & Theorists
 
-- [[tim-sweijs]]: Director of Research at HCSS focusing on global security risks.
-- [[frans-osinga]]: Chair of War Studies, Netherlands Defence Academy.
-- [[michael-mazarr]]: RAND defense and security policy analyst.
-- [[lawrence-freedman]]: Historian of international security and strategy.
-
----
+- [[alain-mermoud]]
+- [[alex-wilner]]
+- [[alexey-arbatov]]
+- [[andrei-kucharavy]]
+- [[anke-hilbrenner]]
+- [[chris-miller]]
+- [[claire-hoy]]
+- [[daniel-kokotajlo]]
+- [[dean-cheng]]
+- [[dmitry-adamsky]]
+- [[eitan-shamir]]
+- [[eli-lifland]]
+- [[francesco-giumelli]]
+- [[frans-osinga]]
+- [[isabelle-duyvesteyn]]
+- [[jorg-noll]]
+- [[karen-scarfone]]
+- [[karl-mueller]]
+- [[kim-richard-nossal]]
+- [[lawrence-freedman]]
+- [[leopold-aschenbrenner]]
+- [[marshall-s-rich]]
+- [[martijn-kitzen]]
+- [[max-smeets]]
+- [[michael-mazarr]]
+- [[octave-plancherel]]
+- [[paul-cichonski]]
+- [[paul-ducheine]]
+- [[paul-van-hooft]]
+- [[randy-borum]]
+- [[romeo-dean]]
+- [[roy-lindelauf]]
+- [[samuel-zilincik]]
+- [[scott-alexander]]
+- [[stefan-soesanto]]
+- [[stefanie-von-hlatky]]
+- [[sten-rynning]]
+- [[thomas-larsen]]
+- [[tim-grance]]
+- [[tim-sweijs]]
+- [[tom-bijlsma]]
+- [[tom-millar]]
+- [[valentin-mulder]]
+- [[victor-ostrovsky]]
+- [[vincent-lenders]]
+- [[william-g-braun-iii]]
 
 ## Related Genres & Themes
 

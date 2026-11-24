@@ -1,7 +1,7 @@
 # Theme: Bronze Age Collapse, Big History, and Civilizational Cycles
 
 **Description**: Systemic complexity, multi-causal ecological and economic shocks, civilizational rhythms, and deep-time macro-historical transformations across global societies.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 
@@ -21,6 +21,7 @@ Civilizational cycles and catastrophic collapse represent central inquiries in d
 - [[the-huns-hyun-jin-kim]] (2016) — [[hyun-jin-kim]]
 - [[1177-bc-the-year-civilization-collapsed]] (2014) — [[eric-h-cline]]
 - [[sapiens-a-brief-history-of-humankind]] (2014) — [[yuval-noah-harari]]
+- [[uygarlik-anadoluda-dogdu]] (2012) — [[fahri-isik]]
 - [[timelines-of-history]] (2011) — [[dorling-kindersley]], [[smithsonian-institution]]
 - [[empires-of-the-silk-road]] (2009) — [[christopher-i-beckwith]]
 - [[encyclopedia-of-world-history-facts-on-file]] (2008) — [[marsha-e-ackermann]], [[michael-j-schroeder]], [[janice-j-terry]], [[jiu-hwa-lo-upshur]], [[mark-f-whitters]]
@@ -32,37 +33,34 @@ Civilizational cycles and catastrophic collapse represent central inquiries in d
 - [[tarih-devrim-sosyalizm]] (1965) — [[hikmet-kivilcimli]]
 - [[the-story-of-civilization-vol-1-our-oriental-heritage]] (1935) — [[will-durant]], [[ariel-durant]]
 
----
-
 ## Key Thinkers & Proponents
-- [[josephine-quinn]]
-- [[kenneth-w-harl]]
+- [[ariel-durant]]
+- [[c-bradford-welles]]
+- [[c-h-oldfather]]
 - [[christopher-i-beckwith]]
-- [[david-graeber]]
-- [[david-wengrow]]
-- [[yuval-noah-harari]]
 - [[david-christian]]
-- [[hyun-jin-kim]]
-- [[eric-h-cline]]
+- [[david-graeber]]
+- [[david-w-anthony]]
+- [[david-wengrow]]
+- [[diodorus-siculus]]
 - [[dorling-kindersley]]
-- [[smithsonian-institution]]
-- [[marsha-e-ackermann]]
-- [[michael-j-schroeder]]
+- [[eric-h-cline]]
+- [[fahri-isik]]
+- [[hikmet-kivilcimli]]
+- [[hyun-jin-kim]]
 - [[janice-j-terry]]
 - [[jiu-hwa-lo-upshur]]
-- [[mark-f-whitters]]
-- [[david-w-anthony]]
-- [[peter-n-stearns]]
 - [[johannes-friedrich]]
+- [[josephine-quinn]]
+- [[kenneth-w-harl]]
+- [[mark-f-whitters]]
+- [[marsha-e-ackermann]]
+- [[michael-j-schroeder]]
+- [[peter-n-stearns]]
 - [[recai-tekoglu]]
+- [[smithsonian-institution]]
 - [[will-durant]]
-- [[ariel-durant]]
-- [[diodorus-siculus]]
-- [[c-h-oldfather]]
-- [[c-bradford-welles]]
-- [[hikmet-kivilcimli]]
-
----
+- [[yuval-noah-harari]]
 
 ## Related Genres & Themes
 - [[world-history-macro-anthropology-and-ancient-civilizations]]

@@ -1,7 +1,7 @@
 # Theme: Political Intuitionism, The Administrative State, and Capitalist Democracy
 
 **Summary**: Structural and cognitive tensions inside modern constitutional democracies: intuitive vs. rationalist epistemology, unitary-executive battles over the bureaucracy, and corporate capital's dual role in enabling yet constraining political equality.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 

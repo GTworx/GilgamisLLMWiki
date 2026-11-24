@@ -14,13 +14,13 @@
 The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base built following Andrej Karpathy's LLM Wiki pattern and integrated with a local **Ollama (`qwen3.8:latest` / `qwen3.8:27b`)** agentic execution and multimodal Vision OCR pipeline. This document summarizes the complete ingestion of foundational literature from both the primary mounted library (`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\`) and local staging (`raw/`), establishing an expansive, cross-referenced corpus spanning game theory, topological social choice, comparative democratic history (from third-millennium BC Mesopotamia to post-1945 monitory democracy), strategic studies, semiconductor geopolitics, military human performance enhancement, executive leadership, organizational psychology, evolutionary biology and memetics, Anatolian minstrel literature, classical archaeology, paleoclimatology, archaeoastronomy, alternative prehistory, Inner Eurasian nomadic empires, Big History, and Late Ottoman contested memory.
 
 ### Library Metrics at a Glance
-- **Total Ingested Works**: 417 distinct intellectual works (across 477 source files/volumes and ~153,000+ pages)
-- **Total Generated Wiki Pages**: 1,220 interlinked markdown files (1,218 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 471 distinct intellectual works (across 551 source files/volumes and ~177,000+ pages)
+- **Total Generated Wiki Pages**: 1,324 interlinked markdown files (1,322 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 417 ([books/](wiki/books/))
-- **Author Profile Pages**: 613 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 86 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 102 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 471 ([books/](wiki/books/))
+- **Author Profile Pages**: 658 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 88 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 105 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -895,3 +895,114 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Intellectual history examining the evolution of Zionist ideology, Israeli historiographical orthodoxies, and the emergence of post-Zionist scholarly critique.
 417. **[[anti-zionism-a-jewish-history]]** ([[russell-a-berman]], 2024, Telos Press Publishing, 256 pp.)  
      Stanford scholar's intellectual chronicle examining the varied religious, political, and philosophical traditions of Jewish critique of Zionism from the late 19th century to the present.
+
+### Category L2: Byzantine-Ottoman Historiography, Turkish National Modernization, Sumerology & Central Asian Nomads (Option L2 Sweep)
+418. **[[the-alexiad]]** ([[anna-comnena]], 1148/1969, Penguin Classics, 915 pp.)  
+     Preeminent primary Byzantine historical narrative chronicling the First Crusade, Norman invasions, and early Seljuk Turkish expansion across Anatolia.
+419. **[[bizansli-gozuyle-turkler]]** ([[georges-pachymeres]], c. 1308/2009, İlgi Kültür Sanat, 338 pp.)  
+     Foundational contemporary Byzantine chronicle containing the very first historical record of Osman Gazi (Atman) and the Battle of Bapheus (1302).
+420. **[[devranname-seyyah-i-fakir-evliya-celebi]]** ([[evliya-celebi]] & [[dilaver-cebeci]], 1989/2002, 181 pp.)  
+     Literary-philosophical study of Evliyâ Çelebi's worldview, cosmic journey (*devrân*), and the baroque linguistic realism of the 17th-century Ottoman traveler.
+421. **[[gunumuz-turkcesiyle-evliya-celebi-seyahatnamesi-cilt-9-kitap-2]]** ([[evliya-celebi]], [[seyit-ali-kahraman]], [[yucel-dagli]], & [[robert-dankoff]], 2011, YKY, 472 pp.)  
+     Exhaustive pilgrimage journal traversing Southwestern Anatolia, the Levant, Jerusalem, and the Hejaz with detailed architectural and urban surveys.
+422. **[[osmanli-imparatorlugunun-yukselisi-ve-cokusu]]** ([[lord-kinross]], 1977/2008, Altın Kitaplar, 819 pp.)  
+     Classic comprehensive six-hundred-year narrative of the House of Osman from frontier Bithynian gazi principality to imperial zenith and modern dissolution.
+423. **[[the-ottoman-empire-kenneth-harl]]** ([[kenneth-w-harl]], 2017, The Great Courses, 303 pp.)  
+     36-lecture master collegiate survey analyzing Ottoman institutional syncretism: Kanun statutory law, the Janissary meritocracy, and the Roman-Persian-Steppe synthesis.
+424. **[[a-transylvanian-ruler-in-the-talons-of-the-ottoman-empire]]** ([[cosmin-ionita]] & [[florentina-nitu]], 2014, IBAC Series 4, 20 pp.)  
+     Diplomatic and military study of Wallachian Prince Michael the Brave navigating Ottoman suzerainty and Habsburg realpolitik during the Long Turkish War.
+425. **[[the-portraits-of-murad-iii]]** ([[tulay-reyhanli]], 1983, Sanat Tarihi Yıllığı, 43 pp.)  
+     Art-historical analysis of imperial portraiture and court miniaturist Nakkaş Osman's standardization of the sultanic visual canon in the *Şemâilnâme*.
+426. **[[homer-troy-and-the-turks]]** ([[wendy-m-k-shaw]], 2017, Amsterdam University Press, 222 pp.)  
+     Late Ottoman and Republican intellectual history examining Osman Hamdi Bey's anti-colonial antiquities preservation and the Turkish humanist claim to Troy.
+427. **[[uc-kitada-osmanlilar]]** ([[ilber-ortayli]], 2007, Timaş Yayınları, 166 pp.)  
+     Lucid historical essays demonstrating that the Ottoman Empire was fundamentally a Balkan/European state ruled through administrative pragmatism and legal pluralism.
+428. **[[avrupa-ve-biz]]** ([[ilber-ortayli]], 2007, Turkuvaz Kitap, 300 pp.)  
+     Deconstruction of centuries of mutual Turkish-European diplomatic, intellectual, and cultural interactions from Renaissance embassies to the Tanzimat.
+429. **[[cumhuriyetin-ilk-yuzyili-1923-2023]]** ([[ilber-ortayli]] & [[ismail-kucukkaya]], 2012, Timaş Yayınları, 295 pp.)  
+     Thematic centennial dialogue assessing the founding genius of Atatürk, the transition to multi-party democracy, legal secularism, and institutional memory.
+430. **[[milli-kurtulus-tarihi-1838den-1995e]]** ([[dogan-avcioglu]], 1974–1975, Tekin Yayınevi, 4 vols., 1,729 pp.)  
+     Monumental 4-volume anti-imperialist socioeconomic history tracing the semicolonial collapse of the Ottoman Empire after 1838 and the revolutionary War of Independence.
+431. **[[uc-tarz-i-siyaset]]** ([[yusuf-akcura]] & [[enver-ziya-karal]], 1904/1976, Türk Tarih Kurumu, 91 pp.)  
+     Foundational political treatise evaluating Ottomanism, Pan-Islamism, and Turkism—the intellectual blueprint for modern secular Turkish nationalism.
+432. **[[turkler-kimdir-ve-kimlerden-ibarettir]]** ([[ali-bey-huseyinzade]] & [[ali-haydar-bayat]], 1905/1997, Türk Dünyası Araştırmaları, 38 pp.)  
+     Seminal Baku manifesto by the intellectual architect of the modernization triad: 'Türkleşmek, İslâmlaşmak, Muasırlaşmak'.
+433. **[[turk-milli-kulturu]]** ([[ibrahim-kafesoglu]], 1977/1997, Ötüken Neşriyat, 262 pp.)  
+     Authoritative academic classic systemizing pre-Islamic Eurasian steppe culture, social structure (*Oğuş, Boy, İl*), divine *Kut*, and the unwritten constitution of the *Töre*.
+434. **[[ahi-evren-ve-mevlana-mucadelesi]]** ([[mikail-bayram]], 2012, Nüve Kültür Merkezi, 315 pp.)  
+     Revisionist archival study unveiling the 13th-century sociopolitical clash between Ahi Evren's anti-Mongol artisan resistance and Mevlânâ's palace accommodation.
+435. **[[the-truth-will-out-armenian-allegations]]** ([[pulat-y-tacar]], 2024, AVİM, 170 pp.)  
+     Diplomatic and international legal analysis examining the 1948 Genocide Convention criteria, ECHR jurisprudence (*Perinçek v. Switzerland*), and 'fair memory'.
+436. **[[transcaucasia-and-ararat]]** ([[james-bryce]], 1876/1896, Macmillan, 565 pp.)  
+     Nineteenth-century British jurist's celebrated travelogue chronicling his solo ascent of Mount Ararat and ethnographic surveys of Caucasian and Ottoman borderlands.
+437. **[[turk-gencinin-el-kitabi-ataturkun-ogutleri]]** ([[mustafa-kemal-ataturk]], 1938/1998, Millî Eğitim Bakanlığı, 96 pp.)  
+     Civic and intellectual counsels of Mustafa Kemal Atatürk to Turkish youth, emphasizing scientific rationalism (*'Hayatta en hakiki mürşit ilimdir'*) and civic duty.
+438. **[[gormedigimiz-turkiye-national-geographic-arsivi]]** ([[ali-z-ciftci]], 2011, National Geographic Türkiye, 50 pp.)  
+     Archival photographic retrospective documenting late Ottoman Constantinople, Gallipoli, and the early Turkish Republic across 123 years of photojournalism.
+439. **[[iranda-turk-kimligi]]** ([[hamid-sehanegi]], [[merve-dilek-dagdelen]], & [[busra-yilmaz]], 2026, İRAM, 37 pp.)  
+     Demographic and sociolinguistic strategic report analyzing the contemporary cultural revival and civil rights of Iran's 30-million-strong Turkic population.
+440. **[[gilgames-tarihte-ilk-kral-kahraman]]** ([[muazzez-ilmiye-cig]], 1996/2000, Kaynak Yayınları, 90 pp.)  
+     Literary and philological reconstruction of the world's oldest epic, tracing King Gilgamesh's friendship with Enkidu and his quest for immortality.
+441. **[[hititler-ve-hattusa-istarin-kaleminden]]** ([[muazzez-ilmiye-cig]], 2000, Kaynak Yayınları, 225 pp.)  
+     Vivid first-person reconstruction through goddess Ishtar of Bronze Age Hittite civilization, Queen Puduhepa's diplomacy, and progressive restorative law codes.
+442. **[[inannanin-aski-sumerde-inanc-ve-kutsal-evlenme]]** ([[muazzez-ilmiye-cig]], 1998/2007, Kaynak Yayınları, 91 pp.)  
+     Translation and mythological synthesis of Sumerian cuneiform love songs, the Sacred Marriage (*Hieros Gamos*) of Inanna and Dumuzi, and their biblical parallels.
+443. **[[zaman-tuneli-ile-gecmiste-sumere-yolculuk]]** ([[muazzez-ilmiye-cig]], 1993/2001, Kültür Bakanlığı, 38 pp.)  
+     Educational narrative transporting modern students back to third-millennium BCE Nippur to explore the cuneiform tablet school (*Edubba*) and base-60 mathematics.
+444. **[[sumer-ve-turkler-makaleler]]** ([[muazzez-ilmiye-cig]], 2000, Kaynak Yayınları, 1,027 pp.)  
+     Exhaustive collected papers compendium evaluating structural linguistic affinities, flood traditions, and artistic motifs linking Sumerians with early Eurasian peoples.
+445. **[[sumerlilerde-tufan-tufanda-turkler]]** ([[muazzez-ilmiye-cig]], 2008, Kaynak Yayınları, 85 pp.)  
+     Textual comparison of the Sumerian Ziusudra deluge tablet with Babylonian Atrahasis, biblical Noah, and the Central Asian Altay flood legend of Nama.
+446. **[[sumerli-ludingirra]]** ([[muazzez-ilmiye-cig]], 1996/2005, Kaynak Yayınları, 112 pp.)  
+     Retrospective historical novel in the first-person voice of an elderly Sumerian teacher-poet recording domestic life, medicine, and temple rituals for posterity.
+447. **[[ibrahim-peygamber-sumer-yazilarina-gore]]** ([[muazzez-ilmiye-cig]], 1997/2007, Kaynak Yayınları, 128 pp.)  
+     Archaeological investigation of the patriarchal narratives, cross-referencing biblical Abraham's departures from Ur and Harran with Mesopotamian cuneiform tablets.
+448. **[[uygarlik-anadoluda-dogdu]]** ([[fahri-isik]], 2012/2015, Ege Yayınları, 499 pp.)  
+     Groundbreaking archaeological treatise overthrowing the Eurocentric 'Greek Miracle' by proving classical architecture, philosophy, and democracy originated in Anatolia.
+449. **[[anadoluda-ilk-tapinak-gobeklitepe]]** ([[ali-osman-kurt]], 2017, Cumhuriyet İlahiyat Dergisi, 32 pp.)  
+     Archaeological-theological analysis of 11,500-year-old Göbeklitepe, demonstrating that monumental ritual assembly preceded and catalyzed settled agriculture.
+450. **[[anadoluda-on-bin-yil-turk-dilinin-bes-bin-yili]]** ([[selahi-diker]], 1999/2000, Töre Yayın Grubu, 574 pp.)  
+     Comprehensive alternative epigraphic investigation seeking to decipher Etruscan, Sumerian, Phrygian, and ancient Anatolian scripts using Proto-Turkic roots.
+451. **[[medler-ve-turkler]]** ([[mehmet-bayrakdar]], 2013, Akçağ Yayınları, 601 pp.)  
+     Philosophical and historical study examining Greek, Assyrian, and Byzantine sources to argue for the ancient Turanian/agglutinative roots of the Medes.
+452. **[[on-turk-tarihi]]** ([[haluk-tarcan]], 1998, Kaynak Yayınları, 366 pp.)  
+     Epigraphic treatise decoding Saymalıtaş petroglyphs and proposing that written language and solar cosmology originated in prehistoric Central Asia.
+453. **[[tarihin-basladigi-on-turk-uygarligi]]** ([[haluk-tarcan]], 2003, Töre Yayın Grubu, 364 pp.)  
+     Photographic and epigraphic compendium challenging Western historiographical hegemony through petroglyphic records from Minusinsk to the Hakkâri stelae.
+454. **[[ataturkun-ozledigi-bilgin-kazim-mirsani-okurken]]** ([[necdet-sumer]], 2014, 753 pp.)  
+     Exhaustive intellectual biography of runologist Kazım Mirşan, evaluating his decodings of 40+ ancient Eurasian scripts in light of Atatürk's Historical Thesis.
+455. **[[irak-bitigi-iraktaki-bilgiler-kitabi]]** ([[kazim-mirsan]], [[mustafa-turgay-tufekcioglu]], & [[ozden-ilteris-bulca]], 2018, 164 pp.)  
+     Posthumous epigraphic publication transcribing and analyzing archaic runiform and tamga inscriptions in Northern Mesopotamia and Iraqi Kurdistan.
+456. **[[tarih-turklerle-baslar-bilinmeyen-turk-tarihi]]** ([[kazim-mirsan]], 2021, 886 pp.)  
+     Massive compendium of Mirşan's collected papers, facsimiles, and runic glossaries, challenging Samuel Noah Kramer with an Inner Asian civilizational origin thesis.
+457. **[[akis-mekanigi-kazim-mirsan]]** ([[kazim-mirsan]], 1985, 186 pp.)  
+     Rigorous mathematical and hydraulic civil engineering textbook illustrating the physical sciences training underlying Mirşan's systematic epigraphic method.
+458. **[[turk-bilgi-kazim-mirsan]]** ([[kazim-mirsan]], 1994, 31 pp.)  
+     Epigraphic philosophical tract defining *Bilgi* (wisdom) in archaic Turkic thought as the moral synchronization of human action with the unchangeable *Töre*.
+459. **[[turklerin-kaybolan-atalari]]** ([[kazim-mirsan]], 2002, 89 pp.)  
+     Recovering forgotten Eurasian nomadic confederations (Dingling, Wusun, Gutians, Scythians) misidentified or suppressed in Greco-Roman and Chinese dynastic annals.
+460. **[[onturkceden-bugunku-kurtceye]]** ([[kazim-mirsan]], 1997, 19 pp.)  
+     Comparative linguistic analysis examining agglutinative substrate elements and shared pastoral vocabulary between ancient Proto-Turkic and Kurdish dialects.
+461. **[[islam-oncesi-kurt-tarihi]]** ([[kazim-mirsan]], 1998, 26 pp.)  
+     Highland Mesopotamian history evaluating Xenophon's *Carduchi*, Gutians, and shared metallurgical liberation myths (*Newroz/Ergenekon*).
+462. **[[ey-dunya-insanlari-hepiniz-turksunuz]]** ([[gene-d-matlock]], 2002/2005, Nokta Kitap, 310 pp.)  
+     American alternative historian's diffusionist synthesis exploring worldwide mythological, pyramidal, and linguistic parallels to assert a shared human ancestry.
+463. **[[central-asia-in-world-history]]** ([[peter-b-golden]], 2010, Oxford University Press, 224 pp.)  
+     Synthesizes three millennia of Central Eurasian history, establishing the steppe-oasis nexus as the primary transmission belt of Old World technologies and religions.
+464. **[[turks-and-khazars-origins-institutions-and-interactions]]** ([[peter-b-golden]], 2016, Routledge Variorum, 430 pp.)  
+     Landmark collected studies volume analyzing early Turkic ethnogenesis, Khazar sacred dual kingship (*Qağan* and *Bek*), and western steppe geopolitics.
+465. **[[the-turkic-world-in-mahmud-al-kashghari]]** ([[peter-b-golden]], 2010, Bilkent University, 68 pp.)  
+     Omeljan Pritsak lecture dissecting the earliest encyclopedia of the Turkic world: the 1074 *Dīwān Lughāt al-Turk*, its circular world map, and comparative dialectology.
+466. **[[the-world-of-the-khazars-new-perspectives]]** ([[peter-b-golden]], [[haggai-ben-shammai]], & [[andras-rona-tas]], 2007, Brill, 469 pp.)  
+     Multidisciplinary academic compendium presenting Saltovo-Mayaki archaeology, Hebrew documents, and numismatics to demystify the Khazar Khaganate.
+467. **[[the-mongols-and-the-west-1221-1410]]** ([[peter-jackson]], 2005, Routledge, 449 pp.)  
+     Definitive history of the encounter between Western Christendom and the Mongol Empire, detailing papal embassies, Ilkhanid diplomatic alliances, and the Black Death.
+468. **[[crossroads-of-civilization-a-history-of-central-asia]]** ([[eren-tasar]], 2025, The Great Courses, 190 pp.)  
+     24-lecture collegiate guide exploring Central Asian history from Silk Road religions to the Islamic Golden Age in Bukhara and post-Soviet sovereignty.
+469. **[[history-of-civilizations-of-central-asia-vol-4-part-2]]** ([[c-e-bosworth]] & [[m-s-asimov]], 2000, UNESCO Publishing, 690 pp.)  
+     Monumental UNESCO reference surveying the science (Ibn Sina, Biruni), literature (Ferdowsi, Kashghari), and architecture (Timurids) of Central Asia from 750 to 1500 CE.
+470. **[[turkler-cilt-05-orta-cag]]** ([[hasan-celal-guzel]], [[kemal-cicek]], & [[salim-koca]], 2002, Yeni Türkiye Yayınları, 1,808 pp.)  
+     Unmatched encyclopedic compendium covering the medieval Turkic dynasties: Ghaznavids, Great Seljuks, Qarakhanids, Delhi Sultanate, and Anatolian Seljuks.
+471. **[[turkler-cilt-21-genel-indeks]]** ([[hasan-celal-guzel]], [[kemal-cicek]], & [[salim-koca]], 2002, Yeni Türkiye Yayınları, 835 pp.)  
+     Master General Index cross-referencing tens of thousands of historical figures, dynasties, battles, and institutions across all 20 volumes of *Türkler Ansiklopedisi*.
+

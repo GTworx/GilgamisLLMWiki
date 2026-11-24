@@ -1,7 +1,7 @@
 # Theme: Open Society, Creative Destruction, and Epistemic Virtue
 
 **Summary**: Defending fallibilist liberal inquiry, dynamic economic innovation, formal logical clarity, everyday truthfulness, and intellectual humility against historicism, dogma, and epistemic vice.
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ---
 

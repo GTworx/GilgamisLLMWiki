@@ -1,7 +1,7 @@
 # Theme: Trusted Strategic Advisors and Influence
 
 **Summary**: The behavioral, rhetorical, and psychological principles through which subject-matter experts transition from technical executors ("doers") into indispensable C-suite confidants who guide leaders through crisis, ambiguity, and high-stakes decisions.
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
