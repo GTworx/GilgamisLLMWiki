@@ -1171,3 +1171,64 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (1,426 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+### 2026-11-24: Ingestion Milestone — Option AR-3: Quantum Computing & Data Centers (66 Physical Files, 44 Canonical Works)
+- **Scope & Source Corpus**: Comprehensive ingestion of the entire **QuantumCompute** (47 files) and **Data Centers** (19 files) directories from `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\`.
+- **Physical Files Ingested**: **66 of 66 files accounted for (100.0% coverage, 0 unmapped)**, comprising peer-reviewed Nature physics articles, institutional investment primers (BofA, Morgan Stanley, Goldman Sachs), federal engineering assessments (LBNL, GAO), market intelligence reports (CB Insights, DC Byte, CBRE, Cushman & Wakefield, JLL), and foundational system architecture treatises.
+- **Canonical Works Synthesized (44 Works across 66 Files)**:
+  - **Data Center Power, Thermal Management & Grid Interconnections (14 works, 19 physical files)**:
+    - [[bank-of-america-who-makes-the-data-center]] ([[bank-of-america-global-research]], 2024, 43 pp. across 2 reports).
+    - [[goldman-sachs-dallas-data-center-trip-and-power-demand]] ([[goldman-sachs-equity-research]], 2024, 23 pp.).
+    - [[united-states-data-center-energy-usage-report-2024]] ([[lawrence-berkeley-national-laboratory]], 2024, 79 pp., Arman Shehabi et al.).
+    - [[dc-byte-the-hyperscale-build-race]] ([[dc-byte]], 2025, 30 pp.).
+    - [[mavka-ai-inference-infrastructure-deep-dive]] ([[vitaly-golomb]], 2025, 13 pp.).
+    - [[morgan-stanley-global-data-center-capacity-growth-to-increase-6x]] ([[morgan-stanley-research]], 2025, 135 pp.).
+    - [[power-analyst-where-will-data-centers-go]] ([[power-analyst-research]], 2025, 21 pp.).
+    - [[gao-generative-ai-environmental-and-grid-demands]] ([[us-government-accountability-office]], 2025, 47 pp.).
+    - [[project-suncatcher-space-based-ai-infrastructure]] ([[blaise-aguera-y-arcas]], 2025, 19 pp., Google Research).
+    - [[cbre-global-data-center-trends-2023]] ([[cbre-research]], 2023, 38 pp.).
+    - [[cushman-wakefield-global-data-center-market-comparison-2023]] ([[cushman-and-wakefield]], 2023, 50 pp. across 2 reports).
+    - [[datacenter-architecture-engineering-and-colocation-guide]] ([[techtarget-editorial]], 2023, 59 pp. + Infographic across 3 files).
+    - [[jll-global-and-north-america-data-center-outlook-2023]] ([[jll-research]], 2023, 41 pp. across 2 reports).
+    - [[mckinsey-investing-in-the-rising-data-center-economy]] ([[mckinsey-and-company]], 2023, 8 pp.).
+  - **Quantum Hardware Architectures, Supremacy & Error Correction (30 works, 47 physical files)**:
+    - [[nature-quantum-computing-milestone-package]] ([[nature-editorial-consortium]], 2017, 7 milestone review papers & cover).
+    - [[room-temperature-valley-selective-emission-in-si-mose2-heterostructures]] ([[feng-pan]], 2025, 46 pp. across 3 files).
+    - [[quantum-biology-and-end-of-life-experiences-case-study]] ([[quantum-biology-research-group]], 2016, 10 pp. across 2 files).
+    - [[cb-insights-the-big-tech-in-quantum-computing-report]] ([[cb-insights-research]], 2020, 104 pp. across 2 reports).
+    - [[catalant-novel-and-quantum-computing-landscape-scoping-frameworks]] ([[catalant-technologies]], 2020, 2 consulting scoping frameworks).
+    - [[quantum-sensing-principles-gravity-cartography-and-biomedical-applications]] ([[christian-l-degen]], 2023, 71 pp. across 4 treatises).
+    - [[quantum-foundations-epistemology-and-participatory-measurement]] ([[quantum-epistemology-collaborative]], 2022, 4 foundational manuscripts & schematics).
+    - [[1qbit-bringing-quantum-computing-from-theory-to-application]] ([[1qbit-technologies]], 2017, 4 pp.).
+    - [[stephen-ergodicity-breaking-robust-to-arbitrary-perturbations]] ([[david-t-stephen]], 2022, 15 pp.).
+    - [[fedoseev-coherent-and-incoherent-light-scattering-by-single-atom-wavepackets]] ([[vitaly-fedoseev]], 2024, 6 pp.).
+    - [[bravyi-high-threshold-and-low-overhead-fault-tolerant-quantum-memory]] ([[sergey-bravyi]], 2024 Nature, 11 pp.).
+    - [[decross-computational-power-of-random-quantum-circuits-in-arbitrary-geometries]] ([[michael-decross]], 2024, 36 pp.).
+    - [[muller-improved-belief-propagation-for-real-time-decoding-of-quantum-memory]] ([[tristan-muller]], 2025, 8 pp.).
+    - [[morgan-stanley-quantum-computing-how-will-it-impact-ai]] ([[morgan-stanley-research]], 2025, 77 pp.).
+    - [[google-quantum-ai-constructive-interference-at-the-edge-of-quantum-ergodicity]] ([[google-quantum-ai]], 2025 Nature, 8 pp.).
+    - [[hoffreumon-quantum-theory-does-not-need-complex-numbers]] ([[timothee-hoffreumon]], 2025, 40 pp.).
+    - [[yoder-tour-de-gross-modular-quantum-computer-bivariate-bicycle-codes]] ([[theodore-j-yoder]], 2025 IBM Quantum, 68 pp.).
+    - [[accenture-quantum-computing-from-theoretical-to-tangible]] ([[accenture-strategy]], 2017, 20 pp.).
+    - [[zlokapa-boundaries-of-quantum-supremacy-via-random-circuit-sampling]] ([[alexander-zlokapa]], 2023 npj, 8 pp.).
+    - [[boixo-characterizing-quantum-supremacy-in-near-term-devices]] ([[sergio-boixo]], 2016 Google, 23 pp.).
+    - [[gircha-hybrid-quantum-classical-machine-learning-for-generative-chemistry]] ([[artem-i-gircha]], 2023 Sci Reports, 8 pp.).
+    - [[google-quantum-ai-presents-new-superconducting-quantum-processor]] ([[google-quantum-ai]], 2021, 4 pp.).
+    - [[ibm-exploring-quantum-use-cases-for-chemicals-and-petroleum]] ([[ibm-institute-for-business-value]], 2019, 20 pp.).
+    - [[schuld-is-quantum-advantage-the-right-goal-for-quantum-machine-learning]] ([[maria-schuld]], 2022 PRX Quantum, 14 pp.).
+    - [[mckinsey-what-is-quantum-computing]] ([[mckinsey-and-company]], 2023, 12 pp.).
+    - [[kissell-new-paradigms-for-scientific-computing-as-a-service]] ([[kevin-kissell]], 2018 Google Cloud, 16 pp.).
+    - [[arute-quantum-supremacy-using-a-programmable-superconducting-processor]] ([[frank-arute]], 2019 Nature Sycamore, 12 pp.).
+    - [[hermans-qubit-teleportation-between-non-neighbouring-nodes]] ([[sophie-l-n-hermans]], 2022 Nature QuTech, 7 pp.).
+    - [[niels-bohr-institute-entanglement-of-two-quantum-light-sources]] ([[niels-bohr-institute]], 2021, 4 pp.).
+    - [[inlek-trapped-ion-quantum-information-science-and-multispecies-networks]] ([[volkan-inlek]], 2016 Duke / Monroe Lab, 164 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +44 canonical entries (total: 557).
+  - **Authors**: +40 author profiles created or updated (total: 754).
+  - **Genres**: +2 new genres ([[quantum-information-science-and-computing]], [[datacenter-infrastructure-and-power-engineering]]) created; 5 existing genres updated (total: 93).
+  - **Themes**: +2 new themes ([[fault-tolerant-quantum-computing-and-error-correction]], [[hyperscale-datacenter-power-and-thermal-engineering]]) created; 5 existing themes updated (total: 110).
+  - **Total Wiki Pages**: **1,514 entity pages** (1,516 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (1,514 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
