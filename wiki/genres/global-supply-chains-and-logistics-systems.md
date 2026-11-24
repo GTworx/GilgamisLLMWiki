@@ -11,6 +11,9 @@ Investigates the physical, geopolitical, and digital architecture of global supp
 ---
 
 ## Representative Books in Wiki
+- [[afet-lojistigi-ve-yonetim-asamalari]]
+- [[usaid-turkiye-syria-earthquake-response-fact-sheet]]
+- [[afad-uluslararasi-insani-yardim-ve-kuresel-lojistik]]
 - [[tusiad-tedarik-zincirlerinde-adil-gecis-rehberi]]
 - [[sp-global-commodities-market-movers-and-supply-chains]]
 - [[life-sciences-healthcare-supply-chain-resilience]]
@@ -35,6 +38,9 @@ Investigates the physical, geopolitical, and digital architecture of global supp
 ---
 
 ## Related pages
+- [[afet-lojistigi-ve-yonetim-asamalari]]
+- [[usaid-turkiye-syria-earthquake-response-fact-sheet]]
+- [[afad-uluslararasi-insani-yardim-ve-kuresel-lojistik]]
 - [[tusiad-tedarik-zincirlerinde-adil-gecis-rehberi]]
 - [[sp-global-commodities-market-movers-and-supply-chains]]
 - [[life-sciences-healthcare-supply-chain-resilience]]

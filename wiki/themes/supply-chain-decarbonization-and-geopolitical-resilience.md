@@ -32,6 +32,7 @@ Investigates the strategic restructuring of global trade corridors and productio
 ---
 
 ## Related pages
+- [[financial-times-china-accelerating-green-energy-transition]]
 - [[tusiad-tedarik-zincirlerinde-adil-gecis-rehberi]]
 - [[sp-global-commodities-market-movers-and-supply-chains]]
 - [[life-sciences-healthcare-supply-chain-resilience]]

@@ -12,6 +12,7 @@ Gartner is the world's leading research and advisory company, providing executiv
 ---
 
 ## Books in Wiki
+- [[gartner-enterprise-sustainability-strategy-framework-and-hype-cycle]]
 - [[gartner-cool-vendors-in-the-internet-of-things]]
 
 ---
@@ -23,6 +24,9 @@ Gartner is the world's leading research and advisory company, providing executiv
 ---
 
 ## Related pages
+- [[climate-mitigation-esg-and-sustainable-finance]]
+- [[sustainability-esg-and-clean-technology]]
+- [[gartner-enterprise-sustainability-strategy-framework-and-hype-cycle]]
 - [[gartner-cool-vendors-in-the-internet-of-things]]
 - [[internet-of-things-and-industrial-automation]]
 - [[corporate-strategy-and-management-classics]]

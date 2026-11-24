@@ -1352,3 +1352,65 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (1,660 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+### 2026-11-24: Ingestion Milestone — Option AR-6A: Climate, Natural Disasters, Earthquakes & Sustainability (67 Physical Files, 38 Canonical Works)
+- **Scope & Source Corpus**: Comprehensive ingestion of two major environmental science, seismological engineering, and corporate sustainability directories from `C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\`:
+  - `Climate & Nat Disasters Earthquakes_` (62 files)
+  - `Sustainability` (5 files)
+- **Physical Files Ingested**: **67 of 67 files accounted for (100.0% coverage, 0 unmapped)**, encompassing official state damage assessments (Presidency Strategy and Budget Directorate SBB, 145 pp.), Boğaziçi Kandilli Observatory Istanbul earthquake loss models (Mustafa Erdik et al., 364 pp.), the official Turkish Building Earthquake Code (TBDY 2018, 416 pp.), national risk and response plans (AFAD TARAP 2022-2030, TAMP 2014, UDSEP 2012-2023, UDAP research compendium), Turkish Catastrophe Insurance Pool (DASK 2021 report), Turkish Medical Association (TTB) and Bar Associations (TBB) disaster audits, Law No. 4708 building inspection critiques, international regulatory reforms (World Bank, Hong Kong BSCI, New Zealand), UNU-INWEH aging global dam risks, NOAA US billion-dollar climate disaster mapping, WHO Foreign Medical Teams standards, UN OCHA 3D-printing emergency supply chains, and enterprise sustainability frameworks (Gartner Hype Cycle, Deloitte CxO Sustainability 2024, FT China Clean Energy, UN Global Compact ESG report).
+- **Canonical Works Synthesized (38 Works across 67 Files)**:
+  - **Seismology, Hazard Assessment & Building Codes (8 works, 12 files)**:
+    - [[kandilli-bogazici-istanbul-earthquake-risk-and-loss-assessment]] ([[mustafa-erdik]], [[kandilli-observatory-and-earthquake-research-institute]], 2020, 364 pp. across 2 volumes).
+    - [[sbb-2023-kahramanmaras-and-hatay-earthquakes-assessment-report]] ([[presidency-strategy-and-budget-directorate-sbb]], 2023, 145 pp.).
+    - [[turkiye-bina-deprem-yonetmeligi-tbdy-2018-esaslar]] ([[afad-deprem-dairesi-baskanligi]], [[turkiye-deprem-muhendisligi-dernegi]], 2018, 416 pp.).
+    - [[afad-ulusal-deprem-stratejisi-ve-eylem-plani-udsep]] ([[afad-baskanligi]], [[deprem-danisma-kurulu]], 2013, 84 pp.).
+    - [[afad-ulusal-deprem-arastirma-programi-udap-uygulamalar]] ([[afad-deprem-dairesi-baskanligi]], 2018, 92 pp.).
+    - [[turkiye-yapisal-deprem-risklerinin-azaltilmasi-ve-fay-hatlari]] ([[afad-baskanligi]], [[cevre-sehircilik-ve-iklim-degisikligi-bakanligi]], 2023, 3-part dossier, 64 pp.).
+    - [[turkiye-yerbilimsel-verilerin-mekansal-planlamaya-entegrasyonu]] ([[japan-international-cooperation-agency-jica]], [[bayindirlik-ve-iskan-bakanligi-turkiye]], 2006, 167 pp.).
+    - [[turkiye-deprem-muhendisligi-dernegi-raporlari-ve-meclis-beyanati]] ([[turkiye-deprem-muhendisligi-dernegi]], 2023, 2-statement dossier, 6 pp.).
+  - **Disaster Risk Reduction, Institutional Plans & Field Logistics (7 works, 10 files)**:
+    - [[afad-turkiye-afet-risk-azaltma-plani-tarap-2022-2030]] ([[afad-baskanligi]], 2022, 104 pp.).
+    - [[afad-turkiye-afet-mudahale-plani-tamp-and-resilience]] ([[afad-baskanligi]], [[ali-utku-sahin]], 2020, 2-part study, 95 pp.).
+    - [[afad-afet-sonrasi-iyilestirme-calismalari-ve-uluslararasi-ornekler]] ([[afad-iyilestirme-dairesi-baskanligi]], 2019, 270 pp.).
+    - [[afad-uluslararasi-insani-yardim-ve-kuresel-lojistik]] ([[afad-baskanligi]], [[turk-kizilay]], 2018, 80 pp.).
+    - [[afad-kurumsal-mali-durum-ve-turkiyede-afetler-istatistikleri]] ([[afad-strateji-gelistirme-dairesi]], 2022, 2-volume compendium, 150 pp.).
+    - [[afet-lojistigi-ve-yonetim-asamalari]] ([[insani-lojistik-arastirma-grubu]], 2020, 15 pp.).
+    - [[usaid-turkiye-syria-earthquake-response-fact-sheet]] ([[united-states-agency-for-international-development-usaid]], 2023, 10 pp.).
+  - **Building Inspection, Labor Safety & International Regulatory Reforms (2 works, 8 files)**:
+    - [[turkiye-yapi-denetimi-mevzuati-is-guvenligi-ve-konut-kalitesi]] ([[baris-duman]], [[seda-yagiz]], [[mehmet-soganci]], 2019, 4-study compendium, 167 pp.).
+    - [[international-building-safety-inspection-and-regulatory-reforms]] ([[florentin-blanc]], [[daniel-c-w-ho]], [[funmilayo-ebun-rotimi]], 2015, 4-study international compendium, 133 pp.).
+  - **Disaster Law, Public Health, Gender & Civil Society Recovery (6 works, 8 files)**:
+    - [[ttb-6-subat-depremleri-birinci-ay-halk-sagligi-raporu]] ([[turk-tabipleri-birligi-ttb]], 2023, 52 pp.).
+    - [[tbb-depremzedeler-icin-hukuk-rehberi]] ([[turkiye-barolar-birligi-tbb]], 2023, 48 pp.).
+    - [[esik-toplumsal-cinsiyet-esitligi-bakis-acisindan-6-subat-depremleri]] ([[esitlik-icin-kadin-platformu-esik]], 2023, 72 pp.).
+    - [[dask-dogal-afet-sigortalari-kurumu-faaliyet-raporu]] ([[dogal-afet-sigortalari-kurumu-dask]], 2022, 60 pp.).
+    - [[btf-and-tubisad-post-disaster-education-and-recovery-dossier]] ([[bridge-to-turkiye-fund-btf]], [[tubisad-bilisim-sanayicileri-dernegi]], 2024, 3-part dossier, 45 pp.).
+    - [[turkiye-afete-direncli-toplumlar-ve-en-iyi-uygulamalar]] ([[afad-baskanligi]], [[bogazici-universitesi-kandilli-rasathanesi]], 2017, 101 pp.).
+  - **Community Preparedness, Psychological First Aid, Vulnerable Populations & Animals (4 works, 8 files)**:
+    - [[afad-afete-hazirlik-ilk-72-saat-ve-psikolojik-ilkyardim]] ([[afad-baskanligi]], [[turkiye-psikiyatri-dernegi]], 2021, 3-manual compendium, 156 pp.).
+    - [[volunteerism-in-crisis-accounting-and-collaboration-strategies]] ([[humanitarian-volunteerism-consortium]], [[harvard-business-review-editors]], 2020, 4-part study, 87 pp.).
+    - [[pediatric-trauma-prosthetics-and-children-in-disasters]] ([[carolyn-kousky]], [[atle-dyregrov]], [[lauren-dushane]], 2021, 4-study compendium, 41 pp.).
+    - [[fema-animals-in-disasters-emergency-management-guide]] ([[federal-emergency-management-agency-fema]], 2015, 16 pp.).
+  - **Philanthropy Economics, AML Risks & Frontier Emergency Tech (5 works, 10 files)**:
+    - [[disaster-philanthropy-corporate-giving-aml-risks-and-blockchain]] ([[oecd-financial-action-task-force]], [[hao-liang]], [[congressional-research-service]], 2021, 6-study compendium, 192 pp.).
+    - [[turkiye-afet-teknolojileri-ve-acil-durum-cozumleri-raporu]] ([[turkiye-bilisim-vakfi-tbv]], [[afet-teknolojileri-konsorsiyumu]], 2023, 2-volume compendium, 152 pp.).
+    - [[who-foreign-medical-teams-standards-in-sudden-onset-disasters]] ([[world-health-organization-who]], 2013, 91 pp.).
+    - [[ocha-hyperlocal-manufacturing-and-3d-printing-in-humanitarian-response]] ([[united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha]], 2015, 20 pp.).
+    - [[unu-inweh-ageing-water-storage-infrastructure-global-risk]] ([[united-nations-university-unu-inweh]], 2021, 36 pp.).
+  - **Macro Climate Risk, Energy Transition & Corporate Sustainability (6 works, 7 files)**:
+    - [[noaa-us-billion-dollar-weather-and-climate-disasters-risk-mapping]] ([[adam-b-smith]], [[national-oceanic-and-atmospheric-administration-noaa]], 2022, 34 pp.).
+    - [[founders-forum-climate-tech-landscape-and-innovations]] ([[founders-forum-group]], 2023, 34 pp.).
+    - [[financial-times-china-accelerating-green-energy-transition]] ([[financial-times-editorial-consortium]], 2024, 11 pp.).
+    - [[deloitte-cxo-sustainability-report-driving-tangible-impact]] ([[deloitte-global-sustainability-practice]], 2024, 26 pp.).
+    - [[gartner-enterprise-sustainability-strategy-framework-and-hype-cycle]] ([[gartner-research]], 2023, 2-report compendium, 148 pp.).
+    - [[un-global-compact-global-esg-and-sustainability-leadership-report]] ([[united-nations-global-compact-unga]], 2023, 224 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +38 canonical entries (total: 666).
+  - **Authors**: +50 author profiles created, 1 updated (total: 869).
+  - **Genres**: +3 new genres ([[disaster-risk-reduction-and-emergency-management]], [[earth-sciences-and-seismology]], [[sustainability-esg-and-clean-technology]]) created; 6 existing genres updated (total: 101).
+  - **Themes**: +4 new themes ([[seismic-hazard-engineering-and-building-codes]], [[catastrophe-risk-financing-and-disaster-resilience]], [[climate-mitigation-esg-and-sustainable-finance]], [[critical-infrastructure-vulnerability-and-aging-dams]]) created; 4 existing themes updated (total: 119).
+  - **Total Wiki Pages**: **1,755 entity pages** (1,757 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (1,755 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
