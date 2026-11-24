@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-11-24 (Option AR-1: Semiconductors & Cybersecurity Ingestion)  
+**Generated**: 2026-11-24 (Option AR-2: PE & VC Ingestion)  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -15,14 +15,14 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
-- **Articles & Reports Library Status**: **Option AR-1 Complete** (34/34 files in `Semiconductors` & `Cybersecurity` mapped to 22 canonical works)
-- **Total Ingested Works**: 493 distinct intellectual works (across 576 physical source files/volumes and ~179,000+ pages)
-- **Total Generated Wiki Pages**: 1,384 interlinked markdown files (1,382 entity pages + `index.md` & `log.md`)
+- **Articles & Reports Library Status**: **Options AR-1 & AR-2 Complete** (87/87 files in `Semiconductors`, `Cybersecurity`, and `PE & VC` mapped to 42 canonical works)
+- **Total Ingested Works**: 513 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Generated Wiki Pages**: 1,428 interlinked markdown files (1,426 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 493 ([books/](wiki/books/))
-- **Author Profile Pages**: 693 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 89 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 107 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 513 ([books/](wiki/books/))
+- **Author Profile Pages**: 714 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 91 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 108 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -1055,3 +1055,46 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
      Empirical benchmark of $2B+ in lifetime cryptocurrency donations, on-chain disbursement transparency, tax mitigation mechanics, and AML/KYC compliance.
 493. **[[historical-propaganda-and-state-disinformation-techniques]]** ([[joseph-goebbels]] & [[historical-archive-editorial]], 1945, 420 pp.)  
      Primary historical archive analyzing the structural mechanics of monopolistic narrative saturation, cognitive priming, and totalitarian mass manipulation.
+
+
+### Category O: Strategic Articles & Reports — Private Equity, Venture Capital & Corporate Finance (Option AR-2)
+494. **[[pitchbook-quantitative-perspectives-private-capital-cycle]]** ([[pitchbook-data]], 2024, 179 pp. across 4 reports + 2 Excel models)  
+     Flagship quantitative study of the high-rate private capital reset, LP denominator effect, distribution freeze (11% of NAV), and synthetic NAV loans.
+495. **[[pitchbook-us-and-european-private-equity-outlook]]** ([[pitchbook-data]] & [[affinity-editorial]], 2024, 80 pp. across 5 reports)  
+     Middle-market buyout dynamics, EV/EBITDA multiple compression (11x–12x), 72% add-on rollup intensity, and relationship CRM deal sourcing.
+496. **[[pitchbook-annual-global-private-debt-report]]** ([[pitchbook-data]], 2023, 23 pp. + Excel model)  
+     $1.7T private credit asset class analysis, direct lending expansion, 11%–13% senior yields, and shadow restructuring via Payment-in-Kind (PIK) amendments.
+497. **[[hsbc-ivb-vc-term-sheet-guide-2025]]** ([[hsbc-innovation-banking]], 2025, 91 pp.)  
+     Definitive term sheet manual dissecting pre-money option pool shuffles, participating preferred liquidation traps, anti-dilution ratchets, and founder control.
+498. **[[the-big-book-of-venture-capital]]** ([[venture-capital-analyst-corpus]], 2023, 203 pp.)  
+     Encyclopedic guide to power-law distributions, fund-returner dynamics, pro-rata reserve modeling, SaaS multiple contraction, and generative AI mega-rounds.
+499. **[[pitchbook-venture-capital-market-outlook-and-benchmarks]]** ([[pitchbook-data]], 2025, 148 pp. across 5 reports + Excel model)  
+     Venture valuation benchmarks, late-stage structured down-rounds, fund quartile IRR divergence, and the early-stage Series A graduation cliff.
+500. **[[angel-investing-by-the-numbers]]** ([[hambleton-lord]] & [[christopher-mirabile]], 2017, 131 pp.)  
+     Quantitative angel investing, Wiltbank portfolio diversification math (25+ companies), cap table dilution modeling, and Section 1202 QSBS tax exemptions.
+501. **[[bocconi-private-equity-and-venture-capital-course]]** ([[stefano-caselli]], 2020, 215 pp. across 4 modules + dynamic LBO Excel model)  
+     Bocconi Master's curriculum covering GP/LP carried interest waterfalls (American vs. European), LBO debt sizing, and venture capital terminal valuation math.
+502. **[[venture-capital-portfolio-management-dartmouth-tuck]]** ([[andy-waldeck]], [[fred-wainwright]], & [[colin-blaydon]], 2004, 18 pp.)  
+     Dartmouth Tuck case study on follow-on capital allocation, pro-rata defense, managing troubled turnaround investments, and partner time scarcity.
+503. **[[the-delusion-of-private-equity-irrs]]** ([[ludovic-phalippou]], 2025, Oxford Saïd / FT Alphaville, 14 pp.)  
+     Mathematically rigorous critique exposing how subscription credit lines and reinvestment rate fallacies artificially inflate headline private equity IRRs.
+504. **[[private-equity-and-the-public-good]]** ([[daniel-j-morrissey]], 2025, Gonzaga Law Review, 74 pp.)  
+     Corporate governance treatise proving leveraged buyouts and dividend recapitalizations repudiate the limited liability compact and harm community welfare.
+505. **[[profits-over-patients-private-equity-in-healthcare]]** ([[united-states-senate-budget-committee]], 2025, 171 pp.)  
+     Senate Budget Committee investigation documenting predatory hospital sale-leaseback REIT transactions, clinical service closures, and nursing understaffing.
+506. **[[private-equity-buyouts-in-healthcare-who-wins-who-loses]]** ([[eileen-appelbaum]], [[rosemary-batt]], & [[pitchbook-data]], 2020, 151 pp. across 4 reports + Excel model)  
+     Meta-analysis linking nursing home buyouts to increased patient mortality, physician practice rollups, and private reimbursement inflation.
+507. **[[a-primer-on-private-equity-at-work]]** ([[eileen-appelbaum]] & [[rosemary-batt]], 2012, CEPR, 48 pp.)  
+     Baseline institutional primer on 2-and-20 fee structures, tax debt subsidies (interest deductibility), plant closures, and corporate R&D suppression.
+508. **[[the-impact-of-private-equity-academic-survey]]** ([[morten-sorensen]] & [[ayako-yasuda]], 2022, Elsevier *Handbook of Corporate Finance*, 50 pp.)  
+     Four-decade empirical survey finding PE buyouts drive 2%–4% Total Factor Productivity gains, patent focusing, and nuanced employment reallocation.
+509. **[[private-equity-vs-classical-capitalism-and-qe-leverage]]** ([[institutional-private-equity-consortium]], 2026, 28 pp. across 5 documents)  
+     Matrix contrasting Adam Smith's competitive capitalism with PE reality, proving Quantitative Easing and zero base rates were the primary drivers of PE expansion.
+510. **[[private-equity-in-401k-retirement-plans]]** ([[matt-levine]] & [[pitchbook-data]], 2025, 20 pp.)  
+     Analyzing the push to open $10T in retail 401(k) accounts to illiquid private assets, fee-layering risks, daily liquidity mismatches, and ERISA litigation.
+511. **[[comprehensive-guide-to-ai-for-private-equity]]** ([[ontra-editorial]] & [[pitchbook-data]], 2024, 72 pp. across 4 reports)  
+     Specialized legal AI for side letter MFN compliance and NDA automation, alongside Enterprise, Consumer, and Industrial sector software buyout outlooks.
+512. **[[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]]** ([[ernst-and-young-turkey]], 2024, 22 pp.)  
+     EY Turkey guide on Corporate Venture Capital strategic alignment, balance-sheet vs. fund structures, corporate governance, and Turkish innovation incentives.
+513. **[[private-equity-operating-partners-compensation-and-value-creation]]** ([[heidrick-and-struggles]] & [[stanford-graduate-school-of-business]], 2024, 33 pp. across 3 reports)  
+     Heidrick & Struggles operating partner compensation benchmarks paired with Stanford research on China's $1T state-backed Government Guidance Funds.

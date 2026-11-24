@@ -13,6 +13,7 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 ---
 
 ## Featured Works
+- [[private-equity-operating-partners-compensation-and-value-creation]] (2024) — Private Equity Operating Partners, Executive Compensation, and State-Backed Guidance Funds: Human Capital in Value Creation and China's Sovereign Model
 - [[semiconductor-geopolitics-foundry-yields-and-mercantilism]] (2024) — Semiconductor Geopolitics, Foundry Yield Dynamics, and Market Mercantilism: The TSMC Arizona Transition and China's Legacy Node Strategy
 - [[sia-state-of-the-industry-report-2023]] (2023) — 2023 State of the U.S. Semiconductor Industry Report
 - [[the-chips-and-science-act-of-2022]] (2022) — The CHIPS and Science Act of 2022: Legislative Text, Section-by-Section Analysis, and National Implementation Blueprint
@@ -29,6 +30,7 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 ---
 
 ## Related
+- [[private-equity-operating-partners-compensation-and-value-creation]]
 - [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
 - [[sia-state-of-the-industry-report-2023]]
 - [[the-chips-and-science-act-of-2022]] themes & genres

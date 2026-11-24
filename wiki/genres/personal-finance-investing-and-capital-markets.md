@@ -69,7 +69,12 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 - [[tyler-yamazaki]]
 - [[vj-books-editorial]]
 
-## Related Genres & Themes
+## Related
+- [[private-equity-in-401k-retirement-plans]]
+- [[the-delusion-of-private-equity-irrs]]
+- [[angel-investing-by-the-numbers]]
+- [[pitchbook-annual-global-private-debt-report]]
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]] Genres & Themes
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[rationality-and-decision-making]]

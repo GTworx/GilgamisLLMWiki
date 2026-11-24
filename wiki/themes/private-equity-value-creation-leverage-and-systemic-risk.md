@@ -13,6 +13,19 @@ Making the institutional and operational case, [[claudia-zeisberger]], [[michael
 ---
 
 ## Featured Works
+- [[private-equity-operating-partners-compensation-and-value-creation]] (2024) — Private Equity Operating Partners, Executive Compensation, and State-Backed Guidance Funds: Human Capital in Value Creation and China's Sovereign Model
+- [[comprehensive-guide-to-ai-for-private-equity]] (2024) — The Comprehensive Guide to AI for Private Equity: Specialized Legal Tech, Deal Sourcing, and Sector Technology Outlooks
+- [[private-equity-in-401k-retirement-plans]] (2025) — Private Equity in 401(k) Retirement Plans: Institutional Illiquidity, Valuation Mechanics, and Retail Capital Access
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]] (2026) — Private Equity vs. Classical Capitalism: Quantitative Easing, Leverage Dynamics, and Economic Rent Extraction
+- [[the-impact-of-private-equity-academic-survey]] (2022) — The Impact of Private Equity: Academic Survey of Corporate Finance, Operational Engineering, and Real Economic Outcomes
+- [[a-primer-on-private-equity-at-work]] (2012) — A Primer on Private Equity at Work: Management, Employment, Financial Architecture, and Corporate Sustainability
+- [[private-equity-buyouts-in-healthcare-who-wins-who-loses]] (2020) — Private Equity Buyouts in Healthcare: Who Wins, Who Loses? Academic Evidence, Biopharma Ventures, and Digital Health Metrics
+- [[profits-over-patients-private-equity-in-healthcare]] (2025) — Profits Over Patients: The Harmful Effects of Private Equity on the U.S. Healthcare System
+- [[private-equity-and-the-public-good]] (2025) — Private Equity and the Public Good: Fiduciary Duty, Leveraged Extraction, and Corporate Governance Reform
+- [[the-delusion-of-private-equity-irrs]] (2025) — The Delusion of Private Equity IRRs: Subscription Credit Lines, Reinvestment Rate Fallacies, and Performance Manipulation
+- [[bocconi-private-equity-and-venture-capital-course]] (2020) — Private Equity and Venture Capital: Collegiate Course Modules, Deal Structuring, and LBO Financial Modeling
+- [[pitchbook-us-and-european-private-equity-outlook]] (2024) — U.S. and European Private Equity Outlook and Middle-Market Benchmarks: Deal Sourcing, Multiple Compression, and Sectoral Playbooks
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]] (2024) — Quantitative Perspectives on the Private Capital Cycle: U.S. Market Insights, Turning the Tide, and Balancing Act
 - [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
 - [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
 - [[venture-capital-a-practical-guide]] (2018) — [[hambleton-lord]], [[christopher-mirabile]]
@@ -37,7 +50,20 @@ Making the institutional and operational case, [[claudia-zeisberger]], [[michael
 
 ---
 
-## Related themes & genres
+## Related
+- [[private-equity-operating-partners-compensation-and-value-creation]]
+- [[comprehensive-guide-to-ai-for-private-equity]]
+- [[private-equity-in-401k-retirement-plans]]
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]]
+- [[the-impact-of-private-equity-academic-survey]]
+- [[a-primer-on-private-equity-at-work]]
+- [[private-equity-buyouts-in-healthcare-who-wins-who-loses]]
+- [[profits-over-patients-private-equity-in-healthcare]]
+- [[private-equity-and-the-public-good]]
+- [[the-delusion-of-private-equity-irrs]]
+- [[bocconi-private-equity-and-venture-capital-course]]
+- [[pitchbook-us-and-european-private-equity-outlook]]
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]] themes & genres
 - [[private-equity-and-venture-capital]]
 - [[law-and-quantitative-criminology]]
 - [[ethics-and-value-philosophy]]

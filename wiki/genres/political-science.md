@@ -153,7 +153,9 @@ In the wiki, political science provides the analytical framework for institution
 - [[will-durant]]
 - [[william-d-hamilton]]
 
-## Related Genres & Themes
+## Related
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]]
+- [[private-equity-and-the-public-good]] Genres & Themes
 
 - **Related Genres**: [[international-relations]], [[game-theory]], [[strategic-studies]], [[social-choice-theory]], [[algebraic-topology]]
 - **Key Themes**: [[cooperation-and-reciprocity]], [[rationality-and-decision-making]], [[shadow-of-the-future]], [[topological-social-choice-and-preference-cycles]]

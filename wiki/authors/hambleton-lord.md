@@ -1,25 +1,25 @@
 # Author: Hambleton Lord
 
-**Bio / Role**: American venture investor, Launchpad Venture Group managing director, and co-founder of Seraf. Co-authored *Venture Capital: A Practical Guide* (2018) with Christopher Mirabile.  
-**Key Themes**: [[private-equity-value-creation-leverage-and-systemic-risk]], [[capital-markets-investment-banking-and-personal-wealth-architecture]]  
-**Last updated**: 2026-11-22
+**Bio / Role**: Managing Director of Launchpad Venture Group and co-founder of Seraf, veteran angel investor, software entrepreneur, and co-author of *Angel Investing by the Numbers*.  
+**Key Themes**: [[venture-capital-term-sheets-and-fundraising-mechanics]], [[capital-markets-investment-banking-and-personal-wealth-architecture]]  
+**Last updated**: 2026-11-24
 
 ---
 
-## Biography & Contributions
+## Biography & Institutional Contributions
 
-American venture investor, Launchpad Venture Group managing director, and co-founder of Seraf. Co-authored *Venture Capital: A Practical Guide* (2018) with Christopher Mirabile.
+Managing Director of Launchpad Venture Group and co-founder of Seraf, veteran angel investor, software entrepreneur, and co-author of *Angel Investing by the Numbers*.
 
 ---
 
 ## Works in Wiki
-- [[venture-capital-a-practical-guide]] (2018) — Venture Capital: A Practical Guide
+- [[angel-investing-by-the-numbers]] (2017) — Angel Investing by the Numbers: Valuation, Capitalization, Portfolio Construction, and Startup Economics
 
 ---
 
 ## Related pages
-- [[venture-capital-a-practical-guide]]
+- [[angel-investing-by-the-numbers]]
 - [[christopher-mirabile]]
-- [[david-p-stowell]]
-- [[private-equity-value-creation-leverage-and-systemic-risk]]
+- [[hsbc-innovation-banking]]
+- [[venture-capital-term-sheets-and-fundraising-mechanics]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]

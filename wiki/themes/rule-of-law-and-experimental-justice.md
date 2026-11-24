@@ -13,6 +13,10 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Featured Works
+- [[a-primer-on-private-equity-at-work]] (2012) — A Primer on Private Equity at Work: Management, Employment, Financial Architecture, and Corporate Sustainability
+- [[private-equity-buyouts-in-healthcare-who-wins-who-loses]] (2020) — Private Equity Buyouts in Healthcare: Who Wins, Who Loses? Academic Evidence, Biopharma Ventures, and Digital Health Metrics
+- [[profits-over-patients-private-equity-in-healthcare]] (2025) — Profits Over Patients: The Harmful Effects of Private Equity on the U.S. Healthcare System
+- [[private-equity-and-the-public-good]] (2025) — Private Equity and the Public Good: Fiduciary Duty, Leveraged Extraction, and Corporate Governance Reform
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]
 - [[korkunun-cocuklari]] (2010) — [[osman-pamukoglu]], [[nuriye-atabey]]
@@ -37,7 +41,11 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 
 ---
 
-## Related themes & genres
+## Related
+- [[a-primer-on-private-equity-at-work]]
+- [[private-equity-buyouts-in-healthcare-who-wins-who-loses]]
+- [[profits-over-patients-private-equity-in-healthcare]]
+- [[private-equity-and-the-public-good]] themes & genres
 - [[law-and-quantitative-criminology]]
 - [[social-choice-theory]]
 - [[political-science]]

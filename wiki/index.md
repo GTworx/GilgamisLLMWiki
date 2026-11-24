@@ -4,16 +4,16 @@
 **Local Ollama (`qwen3.8`) Engine**: [.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py](../.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)  
 **Interactive Dashboard**: [index.html](../index.html)  
 **Operations Log**: [wiki/log.md](log.md)  
-**Total Ingested Works**: 493 Books  
-**Total Authors**: 693 Authors  
-**Total Genres**: 89 Genres  
-**Total Thematic Syntheses**: 107 Themes  
-**Total Wiki Entity Pages**: 1382 Pages  
+**Total Ingested Works**: 513 Books  
+**Total Authors**: 714 Authors  
+**Total Genres**: 91 Genres  
+**Total Thematic Syntheses**: 108 Themes  
+**Total Wiki Entity Pages**: 1426 Pages  
 **Last updated**: 2026-11-24
 
 ---
 
-## 1. Books & Monograph Syntheses (493)
+## 1. Books & Monograph Syntheses (513)
 
 - [[100-math-brainteasers]]
 - [[1177-bc-the-year-civilization-collapsed]]
@@ -29,6 +29,7 @@
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]]
 - [[a-guide-to-the-good-life-stoic-joy]]
 - [[a-history-of-russia-central-asia-and-mongolia-vol-2]]
+- [[a-primer-on-private-equity-at-work]]
 - [[a-transylvanian-ruler-in-the-talons-of-the-ottoman-empire]]
 - [[achieving-real-business-outcomes-from-artificial-intelligence-and-the-future-of-machine-intelligence]]
 - [[advanced-network-forensics-a-cyber-behavioral-science-approach]]
@@ -47,6 +48,7 @@
 - [[anadoluda-ilk-tapinak-gobeklitepe]]
 - [[anadoluda-on-bin-yil-turk-dilinin-bes-bin-yili]]
 - [[ancient-china-and-its-enemies]]
+- [[angel-investing-by-the-numbers]]
 - [[anthropology-why-it-matters]]
 - [[anti-zionism-a-jewish-history]]
 - [[antifragile]]
@@ -73,6 +75,7 @@
 - [[blitzscaling]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]]
 - [[blueprints-for-a-saas-sales-organization]]
+- [[bocconi-private-equity-and-venture-capital-course]]
 - [[born-a-crime]]
 - [[boundaries-cloud-townsend]]
 - [[brain-teasers-211-logic-puzzles]]
@@ -95,6 +98,7 @@
 - [[co-intelligence-living-and-working-with-ai]]
 - [[coaching-for-leadership]]
 - [[cocuklarda-travmanin-yaralarini-sarmak]]
+- [[comprehensive-guide-to-ai-for-private-equity]]
 - [[computer-security-incident-handling-guide-nist-sp-800-61r2]]
 - [[confessions-of-saint-augustine]]
 - [[crack-the-funding-code]]
@@ -189,6 +193,7 @@
 - [[how-to-win-every-argument]]
 - [[how-to-win-friends-and-influence-people]]
 - [[how-will-you-measure-your-life]]
+- [[hsbc-ivb-vc-term-sheet-guide-2025]]
 - [[hypergrowth-how-the-customer-driven-model-is-revolutionizing-business]]
 - [[i-am-malala]]
 - [[iaas-for-dummies-oracle-special-edition]]
@@ -230,6 +235,7 @@
 - [[korkunun-otesi-beyond-fear]]
 - [[kubernetes-up-and-running]]
 - [[kuran-incil-ve-tevratin-sumerdeki-kokeni]]
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]]
 - [[la-saga-des-rothschild]]
 - [[large-language-models-in-cybersecurity-threats-exposure-and-mitigation]]
 - [[law-of-attraction-secret-power]]
@@ -292,12 +298,22 @@
 - [[personal-finance-and-investing-all-in-one-for-dummies]]
 - [[pharmaceutical-biotechnology-fundamentals-and-applications]]
 - [[philosophy-100-great-thinkers]]
+- [[pitchbook-annual-global-private-debt-report]]
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]]
+- [[pitchbook-us-and-european-private-equity-outlook]]
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]]
 - [[pivot-alan-zimmerman]]
 - [[plato-complete-works]]
 - [[practical-fraud-prevention]]
 - [[precalculus-openstax]]
+- [[private-equity-and-the-public-good]]
+- [[private-equity-buyouts-in-healthcare-who-wins-who-loses]]
+- [[private-equity-in-401k-retirement-plans]]
+- [[private-equity-operating-partners-compensation-and-value-creation]]
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]]
 - [[probabilistic-artificial-intelligence]]
 - [[problems-in-general-physics]]
+- [[profits-over-patients-private-equity-in-healthcare]]
 - [[protect-your-chip-design-intellectual-property]]
 - [[psychology-of-perception]]
 - [[psychology-of-terrorism-ncjrs]]
@@ -370,6 +386,7 @@
 - [[the-barbarian-empires-of-the-steppes]]
 - [[the-bed-of-procrustes]]
 - [[the-better-angels-of-our-nature]]
+- [[the-big-book-of-venture-capital]]
 - [[the-black-swan]]
 - [[the-business-of-venture-capital]]
 - [[the-buyout-of-america]]
@@ -382,6 +399,7 @@
 - [[the-daily-stoic]]
 - [[the-dawn-of-everything]]
 - [[the-decameron-volume-three]]
+- [[the-delusion-of-private-equity-irrs]]
 - [[the-devil-made-me-do-it-malevolent-creativity]]
 - [[the-diamond-age]]
 - [[the-digital-as-para-world]]
@@ -404,6 +422,7 @@
 - [[the-human-use-of-human-beings]]
 - [[the-huns-hyun-jin-kim]]
 - [[the-idea-of-israel]]
+- [[the-impact-of-private-equity-academic-survey]]
 - [[the-innovators-dilemma]]
 - [[the-israel-lobby-and-us-foreign-policy]]
 - [[the-last-man-volume-one]]
@@ -495,6 +514,7 @@
 - [[venture-capital-a-practical-guide]]
 - [[venture-capital-and-private-equity-mms-curriculum]]
 - [[venture-capital-deal-terms]]
+- [[venture-capital-portfolio-management-dartmouth-tuck]]
 - [[venture-capitalists-at-work]]
 - [[venture-deals]]
 - [[vices-of-the-mind]]
@@ -511,7 +531,7 @@
 
 ---
 
-## 2. Authors & Intellectual Contributors (693)
+## 2. Authors & Intellectual Contributors (714)
 
 - [[a-a-long]]
 - [[a-j-arberry]]
@@ -522,6 +542,7 @@
 - [[advanced-micro-devices]]
 - [[aeilko-h-zwinderman]]
 - [[afet-inan]]
+- [[affinity-editorial]]
 - [[afzal-iqbal]]
 - [[ahmet-hamdi-tanpinar]]
 - [[alain-f-zuur]]
@@ -551,6 +572,7 @@
 - [[andreas-krause]]
 - [[andrei-kucharavy]]
 - [[andrew-s-grove]]
+- [[andy-waldeck]]
 - [[anindya-sarkar]]
 - [[anke-hilbrenner]]
 - [[anna-comnena]]
@@ -566,6 +588,7 @@
 - [[ashley-dawson]]
 - [[asik-borani]]
 - [[atif-kureishy]]
+- [[ayako-yasuda]]
 - [[aylmer-maude]]
 - [[ayse-cevirici-cagin]]
 - [[barry-michels]]
@@ -623,6 +646,7 @@
 - [[clifford-t-bekar]]
 - [[coleman-barks]]
 - [[colin-barrow]]
+- [[colin-blaydon]]
 - [[colin-murphy]]
 - [[colin-p-clarke]]
 - [[conrad-carlberg]]
@@ -638,6 +662,7 @@
 - [[dale-carnegie]]
 - [[daniel-c-dennett]]
 - [[daniel-goleman]]
+- [[daniel-j-morrissey]]
 - [[daniel-kahneman]]
 - [[daniel-kirsch]]
 - [[daniel-kokotajlo]]
@@ -697,6 +722,7 @@
 - [[edwin-lefevre]]
 - [[efosa-ojomo]]
 - [[egemen-yilgur]]
+- [[eileen-appelbaum]]
 - [[einar-hille]]
 - [[eitan-shamir]]
 - [[ekrem-akurgal]]
@@ -717,6 +743,7 @@
 - [[eric-w-robinson]]
 - [[erik-h-w-g-meesters]]
 - [[erik-mooi]]
+- [[ernst-and-young-turkey]]
 - [[esther-mugerditchian]]
 - [[ethan-mollick]]
 - [[european-security-corpus]]
@@ -737,6 +764,7 @@
 - [[frank-mclynn]]
 - [[frans-johansson]]
 - [[frans-osinga]]
+- [[fred-wainwright]]
 - [[frederic-bibard]]
 - [[fredric-jameson]]
 - [[fuat-sezgin]]
@@ -771,6 +799,7 @@
 - [[heather-a-horst]]
 - [[heather-staker]]
 - [[hector-garcia]]
+- [[heidrick-and-struggles]]
 - [[helio-fred-garcia]]
 - [[henrietta-m-batson]]
 - [[henry-cloud]]
@@ -781,6 +810,7 @@
 - [[hikmet-kivilcimli]]
 - [[historical-archive-editorial]]
 - [[hovhannes-kajaznuni]]
+- [[hsbc-innovation-banking]]
 - [[hugh-everett-iii]]
 - [[hulya-apaydin]]
 - [[hyun-jin-kim]]
@@ -796,6 +826,7 @@
 - [[ilan-pappe]]
 - [[ilber-ortayli]]
 - [[imam-al-ghazali]]
+- [[institutional-private-equity-consortium]]
 - [[irakli-nadareishvili]]
 - [[irma-mooi-reci]]
 - [[isabelle-duyvesteyn]]
@@ -915,6 +946,7 @@
 - [[lesley-hazleton]]
 - [[lord-kinross]]
 - [[louise-bennett]]
+- [[ludovic-phalippou]]
 - [[lutfi-dogan]]
 - [[lynn-vincent]]
 - [[m-s-asimov]]
@@ -941,6 +973,7 @@
 - [[marty-cagan]]
 - [[mary-carroll-nelson]]
 - [[mary-shelley]]
+- [[matt-levine]]
 - [[matt-lucas]]
 - [[matt-mochary]]
 - [[matthew-dixon]]
@@ -972,6 +1005,7 @@
 - [[miroslav-kubat]]
 - [[monica-ramona-costache]]
 - [[morris-chang]]
+- [[morten-sorensen]]
 - [[muazzez-ilmiye-cig]]
 - [[muna-lee]]
 - [[mustafa-kemal-ataturk]]
@@ -1002,6 +1036,7 @@
 - [[oliver-schmidt]]
 - [[omar-khayyam]]
 - [[omer-isbilir]]
+- [[ontra-editorial]]
 - [[openssf-and-linux-foundation]]
 - [[ori-livson]]
 - [[osman-pamukoglu]]
@@ -1030,6 +1065,7 @@
 - [[phil-knight]]
 - [[phil-stutz]]
 - [[phillip-s-kavanagh]]
+- [[pitchbook-data]]
 - [[plato]]
 - [[pragmatic-coders]]
 - [[presh-talwalkar]]
@@ -1073,6 +1109,7 @@
 - [[romeo-dean]]
 - [[ronghuai-huang]]
 - [[ronnie-mitra]]
+- [[rosemary-batt]]
 - [[roy-lindelauf]]
 - [[russell-a-berman]]
 - [[russell-grigg]]
@@ -1117,9 +1154,11 @@
 - [[smithsonian-institution]]
 - [[soroush-vosoughi]]
 - [[specialist-risk-group]]
+- [[stanford-graduate-school-of-business]]
 - [[stat-news-editorial]]
 - [[stefan-soesanto]]
 - [[stefanie-von-hlatky]]
+- [[stefano-caselli]]
 - [[sten-rynning]]
 - [[stephan-fackler]]
 - [[stephen-fortescue]]
@@ -1174,11 +1213,13 @@
 - [[tyler-yamazaki]]
 - [[ugur-mumcu]]
 - [[united-states-congress]]
+- [[united-states-senate-budget-committee]]
 - [[unity-stoakes]]
 - [[uzeyir-garih]]
 - [[valentin-mulder]]
 - [[vanessa-errecarte]]
 - [[vasant-shinde]]
+- [[venture-capital-analyst-corpus]]
 - [[victor-ostrovsky]]
 - [[vincent-f-hendricks]]
 - [[vincent-lenders]]
@@ -1209,7 +1250,7 @@
 
 ---
 
-## 3. Genres & Academic Disciplines (89)
+## 3. Genres & Academic Disciplines (91)
 
 - [[algebraic-topology]]
 - [[alternative-archaeology]]
@@ -1233,6 +1274,7 @@
 - [[comparative-democratic-history]]
 - [[comparative-religion-and-islamic-history]]
 - [[consultative-sales-and-commercial-teaching]]
+- [[corporate-finance-and-investment-banking]]
 - [[corporate-strategy-and-management-classics]]
 - [[cultural-and-digital-anthropology]]
 - [[cyberpunk-ai-fiction-and-techno-humanism]]
@@ -1249,6 +1291,7 @@
 - [[financial-history-banking-and-market-psychology]]
 - [[game-theory]]
 - [[geopolitics-and-diplomatic-history]]
+- [[healthcare-economics-and-clinical-governance]]
 - [[hermeticism]]
 - [[historical-fiction]]
 - [[innovation-and-economic-growth]]
@@ -1303,7 +1346,7 @@
 
 ---
 
-## 4. Thematic Concepts & Conceptual Clusters (107)
+## 4. Thematic Concepts & Conceptual Clusters (108)
 
 - [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]
 - [[adaptive-intelligence-and-organizational-resilience]]
@@ -1379,6 +1422,7 @@
 - [[power-realism-social-contagion-and-intentional-life-design]]
 - [[pre-athenian-and-indigenous-democracies]]
 - [[pre-clovis-and-american-antiquity]]
+- [[private-debt-liquidity-and-shadow-banking]]
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[probabilistic-inference-and-uncertainty-quantification]]
 - [[purposeful-longevity-flow-and-mathematical-literacy]]

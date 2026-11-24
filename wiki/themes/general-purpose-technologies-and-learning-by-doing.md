@@ -11,6 +11,8 @@
 ---
 
 ## Featured Works
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]] (2024) — Kurumsal Girişim Sermayesi Stratejik Yönetimi: Türkiye ve Küresel CVC Ekosisteminde Stratejik Uyum, Yatırım Modelleri ve İnovasyon
+- [[comprehensive-guide-to-ai-for-private-equity]] (2024) — The Comprehensive Guide to AI for Private Equity: Specialized Legal Tech, Deal Sourcing, and Sector Technology Outlooks
 - [[secure-software-development-education-survey-2024]] (2024) — 2024 Secure Software Development Education Survey: Open-Source Vulnerabilities, Curricular Deficits, and Developer Practices
 - [[rand-h4cker5-wanted-cybersecurity-labor-market]] (2014) — H4CKER5 WANTED: An Examination of the Cybersecurity Labor Market, Elite Technical Talent, and Defense Workforce Bottlenecks
 - [[amd-advanced-datacenter-architecture-and-sovereign-ai]] (2024) — Next-Generation Datacenter Architecture and Sovereign AI Infrastructure: AMD EPYC/Instinct Ecosystem and the Nvidia-Reliance Supercomputing Partnership
@@ -67,6 +69,8 @@
 ---
 
 ## Related
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]]
+- [[comprehensive-guide-to-ai-for-private-equity]]
 - [[secure-software-development-education-survey-2024]]
 - [[rand-h4cker5-wanted-cybersecurity-labor-market]]
 - [[amd-advanced-datacenter-architecture-and-sovereign-ai]]

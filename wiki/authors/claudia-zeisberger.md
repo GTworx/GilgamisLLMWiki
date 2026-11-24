@@ -26,6 +26,9 @@ In [[mastering-private-equity]] (2017, co-authored with [[michael-prahl]] and [[
 ---
 
 ## Related pages
+- [[bocconi-private-equity-and-venture-capital-course]]
+- [[stefano-caselli]]
+- [[pitchbook-us-and-european-private-equity-outlook]]
 - [[mastering-private-equity]]
 - [[private-equity-and-venture-capital]]
 - [[leadership-and-management]]

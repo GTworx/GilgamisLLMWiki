@@ -53,7 +53,27 @@ Within the Gilgamis LLM Wiki, this genre stages a rigorous multi-perspective syn
 - [[tarang-shah]]
 - [[tushar-balkrishna-raut]]
 
-## Related Genres & Themes
+## Related
+- [[private-equity-operating-partners-compensation-and-value-creation]]
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]]
+- [[comprehensive-guide-to-ai-for-private-equity]]
+- [[private-equity-in-401k-retirement-plans]]
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]]
+- [[the-impact-of-private-equity-academic-survey]]
+- [[a-primer-on-private-equity-at-work]]
+- [[private-equity-buyouts-in-healthcare-who-wins-who-loses]]
+- [[profits-over-patients-private-equity-in-healthcare]]
+- [[private-equity-and-the-public-good]]
+- [[the-delusion-of-private-equity-irrs]]
+- [[venture-capital-portfolio-management-dartmouth-tuck]]
+- [[bocconi-private-equity-and-venture-capital-course]]
+- [[angel-investing-by-the-numbers]]
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]]
+- [[the-big-book-of-venture-capital]]
+- [[hsbc-ivb-vc-term-sheet-guide-2025]]
+- [[pitchbook-annual-global-private-debt-report]]
+- [[pitchbook-us-and-european-private-equity-outlook]]
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]] Genres & Themes
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[rationality-and-decision-making]]
 - [[social-critique-and-moral-conscience]]

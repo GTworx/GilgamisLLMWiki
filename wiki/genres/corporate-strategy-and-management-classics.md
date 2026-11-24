@@ -77,6 +77,18 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 - [[yves-pigneur]]
 
 ## Related
+- [[private-equity-operating-partners-compensation-and-value-creation]]
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]]
+- [[comprehensive-guide-to-ai-for-private-equity]]
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]]
+- [[a-primer-on-private-equity-at-work]]
+- [[venture-capital-portfolio-management-dartmouth-tuck]]
+- [[bocconi-private-equity-and-venture-capital-course]]
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]]
+- [[the-big-book-of-venture-capital]]
+- [[hsbc-ivb-vc-term-sheet-guide-2025]]
+- [[pitchbook-us-and-european-private-equity-outlook]]
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]]
 - [[crypto-philanthropy-and-blockchain-forensics-annual-report]]
 - [[cyber-insurance-underwriting-and-infrastructure-resilience]]
 - [[hbr-guide-to-cybersecurity-and-boardroom-risk]]

@@ -13,6 +13,19 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 ---
 
 ## Featured Works
+- [[private-equity-in-401k-retirement-plans]] (2025) — Private Equity in 401(k) Retirement Plans: Institutional Illiquidity, Valuation Mechanics, and Retail Capital Access
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]] (2026) — Private Equity vs. Classical Capitalism: Quantitative Easing, Leverage Dynamics, and Economic Rent Extraction
+- [[the-impact-of-private-equity-academic-survey]] (2022) — The Impact of Private Equity: Academic Survey of Corporate Finance, Operational Engineering, and Real Economic Outcomes
+- [[the-delusion-of-private-equity-irrs]] (2025) — The Delusion of Private Equity IRRs: Subscription Credit Lines, Reinvestment Rate Fallacies, and Performance Manipulation
+- [[venture-capital-portfolio-management-dartmouth-tuck]] (2004) — Venture Capital Portfolio Management: Reserve Strategies, Follow-On Allocation, and Partnership Dynamics
+- [[bocconi-private-equity-and-venture-capital-course]] (2020) — Private Equity and Venture Capital: Collegiate Course Modules, Deal Structuring, and LBO Financial Modeling
+- [[angel-investing-by-the-numbers]] (2017) — Angel Investing by the Numbers: Valuation, Capitalization, Portfolio Construction, and Startup Economics
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]] (2025) — PitchBook Venture Capital Market Outlook, Valuation Benchmarks, and Seed Stage Pressures
+- [[the-big-book-of-venture-capital]] (2023) — The Big Book of Venture Capital: Power Law Economics, Portfolio Construction, and the Post-ZIRP Reset
+- [[hsbc-ivb-vc-term-sheet-guide-2025]] (2025) — The VC Term Sheet Guide 2025: Economic Terms, Governance Rights, Liquidation Preferences, and Legal Mechanics
+- [[pitchbook-annual-global-private-debt-report]] (2023) — Annual Global Private Debt Report: Direct Lending Expansion, Bank Retrenchment, and Credit Risk Dynamics
+- [[pitchbook-us-and-european-private-equity-outlook]] (2024) — U.S. and European Private Equity Outlook and Middle-Market Benchmarks: Deal Sourcing, Multiple Compression, and Sectoral Playbooks
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]] (2024) — Quantitative Perspectives on the Private Capital Cycle: U.S. Market Insights, Turning the Tide, and Balancing Act
 - [[the-business-of-venture-capital]] (2014) — [[mahendra-ramsinghani]]
 - [[financial-modeling-and-valuation]] (2013) — [[paul-pignataro]]
 - [[business-startup-for-dummies-bundle]] (2011) — [[colin-barrow]], [[john-a-tracy]]
@@ -55,7 +68,20 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 
 ---
 
-## Related themes & genres
+## Related
+- [[private-equity-in-401k-retirement-plans]]
+- [[private-equity-vs-classical-capitalism-and-qe-leverage]]
+- [[the-impact-of-private-equity-academic-survey]]
+- [[the-delusion-of-private-equity-irrs]]
+- [[venture-capital-portfolio-management-dartmouth-tuck]]
+- [[bocconi-private-equity-and-venture-capital-course]]
+- [[angel-investing-by-the-numbers]]
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]]
+- [[the-big-book-of-venture-capital]]
+- [[hsbc-ivb-vc-term-sheet-guide-2025]]
+- [[pitchbook-annual-global-private-debt-report]]
+- [[pitchbook-us-and-european-private-equity-outlook]]
+- [[pitchbook-quantitative-perspectives-private-capital-cycle]] themes & genres
 - [[personal-finance-investing-and-capital-markets]]
 - [[private-equity-and-venture-capital]]
 - [[law-and-quantitative-criminology]]

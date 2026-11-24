@@ -13,6 +13,13 @@ At the deal-structuring core stand [[brad-feld]] & [[jason-mendelson]]'s [[ventu
 ---
 
 ## Featured Works
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]] (2024) — Kurumsal Girişim Sermayesi Stratejik Yönetimi: Türkiye ve Küresel CVC Ekosisteminde Stratejik Uyum, Yatırım Modelleri ve İnovasyon
+- [[venture-capital-portfolio-management-dartmouth-tuck]] (2004) — Venture Capital Portfolio Management: Reserve Strategies, Follow-On Allocation, and Partnership Dynamics
+- [[bocconi-private-equity-and-venture-capital-course]] (2020) — Private Equity and Venture Capital: Collegiate Course Modules, Deal Structuring, and LBO Financial Modeling
+- [[angel-investing-by-the-numbers]] (2017) — Angel Investing by the Numbers: Valuation, Capitalization, Portfolio Construction, and Startup Economics
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]] (2025) — PitchBook Venture Capital Market Outlook, Valuation Benchmarks, and Seed Stage Pressures
+- [[the-big-book-of-venture-capital]] (2023) — The Big Book of Venture Capital: Power Law Economics, Portfolio Construction, and the Post-ZIRP Reset
+- [[hsbc-ivb-vc-term-sheet-guide-2025]] (2025) — The VC Term Sheet Guide 2025: Economic Terms, Governance Rights, Liquidation Preferences, and Legal Mechanics
 - [[crack-the-funding-code]] (2019) — [[judy-robinett]]
 - [[the-art-of-startup-fundraising]] (2016) — [[alejandro-cremades]]
 - [[venture-capital-deal-terms]] (2016) — [[harm-f-de-vries]], [[menno-j-van-loon]], [[sjoerd-mol]]
@@ -43,7 +50,14 @@ At the deal-structuring core stand [[brad-feld]] & [[jason-mendelson]]'s [[ventu
 
 ---
 
-## Related themes & genres
+## Related
+- [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]]
+- [[venture-capital-portfolio-management-dartmouth-tuck]]
+- [[bocconi-private-equity-and-venture-capital-course]]
+- [[angel-investing-by-the-numbers]]
+- [[pitchbook-venture-capital-market-outlook-and-benchmarks]]
+- [[the-big-book-of-venture-capital]]
+- [[hsbc-ivb-vc-term-sheet-guide-2025]] themes & genres
 - [[private-equity-and-venture-capital]]
 - [[entrepreneurship-and-startup-methodology]]
 - [[persuasion-negotiation-and-rhetoric]]

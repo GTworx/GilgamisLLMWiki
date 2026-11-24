@@ -1128,3 +1128,46 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (1,382 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+
+## 2026-11-24 — Option AR-2: Ingestion of Private Equity, Venture Capital & Entrepreneurship Dossiers (53 Files -> 20 Canonical Works)
+
+- **Scope & Source Corpus**: Comprehensive ingestion of the entire **PE & VC** folder ([`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\PE & VC\`](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/PE%20&%20VC/)).
+- **Physical Files Ingested**: **53 of 53 files accounted for (100.0% coverage, 0 unmapped)**, comprising 46 research monographs/PDFs, 1 DOCX analytical text, and 6 companion XLS/XLSX quantitative models.
+- **Canonical Works Synthesized (20 Works, ~1,850 pp. equivalent)**:
+  - **Macro PE Cycle & Private Credit (3 works, 282 pp. + 3 Excel models)**:
+    - [[pitchbook-quantitative-perspectives-private-capital-cycle]] ([[pitchbook-data]], 2024, 179 pp. across 4 quarterly reports + 2 Excel models).
+    - [[pitchbook-us-and-european-private-equity-outlook]] ([[pitchbook-data]], [[affinity-editorial]], 2024, 80 pp. across 5 reports).
+    - [[pitchbook-annual-global-private-debt-report]] ([[pitchbook-data]], 2023, 23 pp. + Excel model).
+  - **Venture Capital, Term Sheets & Portfolio Management (5 works, 611 pp. + 1 Excel model)**:
+    - [[hsbc-ivb-vc-term-sheet-guide-2025]] ([[hsbc-innovation-banking]], 2025, 91 pp.).
+    - [[the-big-book-of-venture-capital]] ([[venture-capital-analyst-corpus]], 2023, 203 pp.).
+    - [[pitchbook-venture-capital-market-outlook-and-benchmarks]] ([[pitchbook-data]], 2025, 148 pp. across 5 reports + Excel model).
+    - [[angel-investing-by-the-numbers]] ([[hambleton-lord]], [[christopher-mirabile]], 2017, 131 pp.).
+    - [[venture-capital-portfolio-management-dartmouth-tuck]] ([[andy-waldeck]], [[fred-wainwright]], [[colin-blaydon]], 2004, 18 pp.).
+  - **Academic Buyout Curriculum & Theory (2 works, 265 pp. + 1 Excel model)**:
+    - [[bocconi-private-equity-and-venture-capital-course]] ([[stefano-caselli]], Università Bocconi, 2020, 215 pp. across 4 modules + dynamic LBO Excel model).
+    - [[the-impact-of-private-equity-academic-survey]] ([[morten-sorensen]], [[ayako-yasuda]], Elsevier *Handbook of Corporate Finance*, 2022, 50 pp.).
+  - **PE Critiques, Public Policy & Retailing/Labor Impact (4 works, 307 pp.)**:
+    - [[the-delusion-of-private-equity-irrs]] ([[ludovic-phalippou]], Oxford Saïd / FT Alphaville, 2025, 14 pp.).
+    - [[private-equity-and-the-public-good]] ([[daniel-j-morrissey]], Gonzaga Law Review, 2025, 74 pp.).
+    - [[a-primer-on-private-equity-at-work]] ([[eileen-appelbaum]], [[rosemary-batt]], CEPR, 2012, 48 pp.).
+    - [[private-equity-vs-classical-capitalism-and-qe-leverage]] ([[institutional-private-equity-consortium]], 2026, 28 pp. across 5 documents).
+  - **Healthcare Buyouts & Clinical Governance (2 works, 322 pp. + 1 Excel model)**:
+    - [[profits-over-patients-private-equity-in-healthcare]] ([[united-states-senate-budget-committee]], 2025, 171 pp.).
+    - [[private-equity-buyouts-in-healthcare-who-wins-who-loses]] ([[eileen-appelbaum]], [[rosemary-batt]], [[pitchbook-data]], 2020, 151 pp. across 4 reports + Excel model).
+  - **Retirement Assets, AI Applications, CVC & Operating Human Capital (4 works, 145 pp.)**:
+    - [[private-equity-in-401k-retirement-plans]] ([[matt-levine]], [[pitchbook-data]], 2025, 20 pp.).
+    - [[comprehensive-guide-to-ai-for-private-equity]] ([[ontra-editorial]], [[pitchbook-data]], 2024, 72 pp. across 4 reports).
+    - [[kurumsal-girisim-sermayesi-stratejik-yonetimi-cvc]] ([[ernst-and-young-turkey]], 2024, 22 pp.).
+    - [[private-equity-operating-partners-compensation-and-value-creation]] ([[heidrick-and-struggles]], [[stanford-graduate-school-of-business]], 2024, 33 pp. across 3 reports).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +20 canonical entries (total: 513).
+  - **Authors**: +21 author profiles created or updated (total: 714).
+  - **Genres**: +2 new genres ([[healthcare-economics-and-clinical-governance]], [[corporate-finance-and-investment-banking]]) created; 6 existing genres updated (total: 91).
+  - **Themes**: +1 new theme ([[private-debt-liquidity-and-shadow-banking]]) created; 6 existing themes updated (total: 108).
+  - **Total Wiki Pages**: **1,426 entity pages** (1,428 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (1,426 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

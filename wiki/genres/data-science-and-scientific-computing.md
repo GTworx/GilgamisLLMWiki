@@ -74,6 +74,7 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 - [[wolfgang-ertel]]
 
 ## Related
+- [[comprehensive-guide-to-ai-for-private-equity]]
 - [[the-spread-of-true-and-false-news-online]]
 - [[amd-advanced-datacenter-architecture-and-sovereign-ai]]
 - [[in-sensor-passive-speech-classification-phononic-metamaterials]] Genres & Themes

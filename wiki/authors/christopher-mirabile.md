@@ -1,25 +1,25 @@
 # Author: Christopher Mirabile
 
-**Bio / Role**: American early-stage investor, Angel Capital Association chair emeritus, and Seraf co-founder who co-authored *Venture Capital: A Practical Guide* (2018) with Hambleton Lord.  
-**Key Themes**: [[private-equity-value-creation-leverage-and-systemic-risk]], [[capital-markets-investment-banking-and-personal-wealth-architecture]]  
-**Last updated**: 2026-11-22
+**Bio / Role**: Chair Emeritus of the Angel Capital Association (ACA), co-managing director of Launchpad Venture Group, and co-founder of Seraf, specializing in early-stage deal structuring, capitalization tables, and angel portfolio returns.  
+**Key Themes**: [[venture-capital-term-sheets-and-fundraising-mechanics]], [[capital-markets-investment-banking-and-personal-wealth-architecture]]  
+**Last updated**: 2026-11-24
 
 ---
 
-## Biography & Contributions
+## Biography & Institutional Contributions
 
-American early-stage investor, Angel Capital Association chair emeritus, and Seraf co-founder who co-authored *Venture Capital: A Practical Guide* (2018) with Hambleton Lord.
+Chair Emeritus of the Angel Capital Association (ACA), co-managing director of Launchpad Venture Group, and co-founder of Seraf, specializing in early-stage deal structuring, capitalization tables, and angel portfolio returns.
 
 ---
 
 ## Works in Wiki
-- [[venture-capital-a-practical-guide]] (2018) — Venture Capital: A Practical Guide
+- [[angel-investing-by-the-numbers]] (2017) — Angel Investing by the Numbers
 
 ---
 
 ## Related pages
-- [[venture-capital-a-practical-guide]]
+- [[angel-investing-by-the-numbers]]
 - [[hambleton-lord]]
-- [[david-p-stowell]]
-- [[private-equity-value-creation-leverage-and-systemic-risk]]
+- [[hsbc-innovation-banking]]
+- [[venture-capital-term-sheets-and-fundraising-mechanics]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]

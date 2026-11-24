@@ -23,6 +23,10 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[robert-bauval]]
 
 ## Related
+- [[private-equity-in-401k-retirement-plans]]
+- [[profits-over-patients-private-equity-in-healthcare]]
+- [[private-equity-and-the-public-good]]
+- [[the-delusion-of-private-equity-irrs]]
 - [[the-spread-of-true-and-false-news-online]]
 - [[patternz-global-phone-spy-tool-and-adtech-surveillance]] Themes & Genres
 
