@@ -12,6 +12,7 @@ McKinsey & Company is a premier global management consulting firm advising corpo
 ---
 
 ## Books in Wiki
+- [[mckinsey-building-an-industrial-saas-software-business]]
 - [[mckinsey-investing-in-the-rising-data-center-economy]]
 - [[mckinsey-what-is-quantum-computing]]
 
@@ -24,6 +25,10 @@ McKinsey & Company is a premier global management consulting firm advising corpo
 ---
 
 ## Related pages
+- [[industrial-iot-edge-telemetry-and-it-ot-convergence]]
+- [[saas-unit-economics-and-product-led-growth]]
+- [[saas-business-models-and-cloud-economics]]
+- [[mckinsey-building-an-industrial-saas-software-business]]
 - [[mckinsey-investing-in-the-rising-data-center-economy]]
 - [[mckinsey-what-is-quantum-computing]]
 - [[datacenter-infrastructure-and-power-engineering]]

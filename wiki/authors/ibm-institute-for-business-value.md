@@ -12,6 +12,7 @@ The IBM Institute for Business Value (IBV) is the business thought leadership an
 ---
 
 ## Books in Wiki
+- [[ibm-telecoms-5g-future-network-slicing-and-telco-cloud]]
 - [[ibm-exploring-quantum-use-cases-for-chemicals-and-petroleum]]
 
 ---
@@ -23,6 +24,9 @@ The IBM Institute for Business Value (IBV) is the business thought leadership an
 ---
 
 ## Related pages
+- [[cloud-native-architecture-and-declarative-infrastructure]]
+- [[cloud-computing-and-distributed-systems]]
+- [[ibm-telecoms-5g-future-network-slicing-and-telco-cloud]]
 - [[ibm-exploring-quantum-use-cases-for-chemicals-and-petroleum]]
 - [[quantum-information-science-and-computing]]
 - [[corporate-strategy-and-management-classics]]

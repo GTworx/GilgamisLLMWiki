@@ -12,6 +12,7 @@ Accenture Strategy & Technology Consulting advises global enterprise executives 
 ---
 
 ## Books in Wiki
+- [[accenture-reinventing-with-a-digital-core]]
 - [[accenture-quantum-computing-from-theoretical-to-tangible]]
 
 ---
@@ -23,6 +24,9 @@ Accenture Strategy & Technology Consulting advises global enterprise executives 
 ---
 
 ## Related pages
+- [[cloud-native-architecture-and-declarative-infrastructure]]
+- [[cloud-computing-and-distributed-systems]]
+- [[accenture-reinventing-with-a-digital-core]]
 - [[accenture-quantum-computing-from-theoretical-to-tangible]]
 - [[quantum-information-science-and-computing]]
 - [[corporate-strategy-and-management-classics]]

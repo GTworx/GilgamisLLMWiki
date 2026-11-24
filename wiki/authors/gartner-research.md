@@ -1,0 +1,30 @@
+# Author: Gartner Research
+
+**Eras / Movements**: 20th–21st-Century Technology Research & Advisory
+**Primary Genres**: [[internet-of-things-and-industrial-automation]], [[corporate-strategy-and-management-classics]]
+**Last updated**: 2026-11-24
+
+---
+
+## Biography & Context
+Gartner is the world's leading research and advisory company, providing executive leaders with indispensable insights, advice, and tools to achieve their mission-critical priorities across information technology, IoT, and digital business.
+
+---
+
+## Books in Wiki
+- [[gartner-cool-vendors-in-the-internet-of-things]]
+
+---
+
+## Recurring Themes
+- [[industrial-iot-edge-telemetry-and-it-ot-convergence]]
+- [[general-purpose-technologies-and-learning-by-doing]]
+
+---
+
+## Related pages
+- [[gartner-cool-vendors-in-the-internet-of-things]]
+- [[internet-of-things-and-industrial-automation]]
+- [[corporate-strategy-and-management-classics]]
+- [[industrial-iot-edge-telemetry-and-it-ot-convergence]]
+- [[general-purpose-technologies-and-learning-by-doing]]

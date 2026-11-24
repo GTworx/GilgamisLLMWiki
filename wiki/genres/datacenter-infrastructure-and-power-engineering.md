@@ -11,6 +11,7 @@ Covers the mechanical, electrical, thermodynamic, and civil engineering systems 
 ---
 
 ## Representative Books in Wiki
+- [[schneider-electric-ecostruxure-and-smart-energy-architecture]]
 - [[bank-of-america-who-makes-the-data-center]]
 - [[goldman-sachs-dallas-data-center-trip-and-power-demand]]
 - [[united-states-data-center-energy-usage-report-2024]]
@@ -45,6 +46,7 @@ Covers the mechanical, electrical, thermodynamic, and civil engineering systems 
 ---
 
 ## Related pages
+- [[schneider-electric-ecostruxure-and-smart-energy-architecture]]
 - [[bank-of-america-who-makes-the-data-center]]
 - [[goldman-sachs-dallas-data-center-trip-and-power-demand]]
 - [[united-states-data-center-energy-usage-report-2024]]
