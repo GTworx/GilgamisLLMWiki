@@ -73,7 +73,10 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 - [[william-waddington]]
 - [[wolfgang-ertel]]
 
-## Related Genres & Themes
+## Related
+- [[the-spread-of-true-and-false-news-online]]
+- [[amd-advanced-datacenter-architecture-and-sovereign-ai]]
+- [[in-sensor-passive-speech-classification-phononic-metamaterials]] Genres & Themes
 - [[probabilistic-inference-and-uncertainty-quantification]]
 - [[rationality-and-decision-making]]
 - [[evolution-of-strategies]]

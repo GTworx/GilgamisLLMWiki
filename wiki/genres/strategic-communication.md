@@ -45,7 +45,8 @@ Together, these works establish that effective strategic communication is never 
 - [[thorsten-hennig-thurau]]
 - [[vanessa-errecarte]]
 
-## Related Genres & Themes
+## Related
+- [[historical-propaganda-and-state-disinformation-techniques]] Genres & Themes
 - [[leadership-and-management]]
 - [[organizational-psychology]]
 - [[strategic-studies]]

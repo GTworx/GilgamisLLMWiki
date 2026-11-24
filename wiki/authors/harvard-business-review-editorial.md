@@ -13,6 +13,7 @@ Editorial team and curated research collective of *Harvard Business Review* (fou
 ---
 
 ## Works in Wiki
+- [[hbr-guide-to-cybersecurity-and-boardroom-risk]] (2023) — HBR Guide to Cybersecurity, Boardroom Oversight, and Strategic Risk Management
 - [[hbr-at-100]] (2022) — HBR at 100: The Most Influential and Innovative Articles from Harvard Business Review's First Century
 - [[hbr-women-at-work-collection]] (2022) — HBR Women at Work Series Collection (3 Books)
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — HBR Insights: Future of Business Boxed Set (8 Books)
@@ -21,6 +22,7 @@ Editorial team and curated research collective of *Harvard Business Review* (fou
 ---
 
 ## Related pages
+- [[hbr-guide-to-cybersecurity-and-boardroom-risk]]
 - [[hbr-at-100]]
 - [[hbr-women-at-work-collection]]
 - [[hbr-insights-future-of-business-boxed-set]]

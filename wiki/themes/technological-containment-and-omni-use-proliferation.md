@@ -13,6 +13,9 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 ---
 
 ## Featured Works
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]] (2024) — Semiconductor Geopolitics, Foundry Yield Dynamics, and Market Mercantilism: The TSMC Arizona Transition and China's Legacy Node Strategy
+- [[sia-state-of-the-industry-report-2023]] (2023) — 2023 State of the U.S. Semiconductor Industry Report
+- [[the-chips-and-science-act-of-2022]] (2022) — The CHIPS and Science Act of 2022: Legislative Text, Section-by-Section Analysis, and National Implementation Blueprint
 - [[the-human-use-of-human-beings]] (1950) — [[norbert-wiener]], [[steve-j-heims]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[the-coming-wave-ai-power-and-our-future]] (2023) — [[mustafa-suleyman]], [[michael-bhaskar]]
@@ -25,7 +28,10 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 
 ---
 
-## Related themes & genres
+## Related
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
+- [[sia-state-of-the-industry-report-2023]]
+- [[the-chips-and-science-act-of-2022]] themes & genres
 - [[artificial-intelligence-and-machine-learning]]
 - [[political-science]]
 - [[strategic-studies]]

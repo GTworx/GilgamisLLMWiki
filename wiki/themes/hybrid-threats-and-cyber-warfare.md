@@ -26,6 +26,15 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 ---
 
 ## Featured Works
+- [[historical-propaganda-and-state-disinformation-techniques]] (1945) — Historical Propaganda, Totalitarian Rhetoric, and State Disinformation Techniques: The Joseph Goebbels Archive and Structural Mechanics of Public Manipulation
+- [[the-spread-of-true-and-false-news-online]] (2018) — The Spread of True and False News Online: Algorithmic Cascades, Cognitive Vulnerability, and Social Media Diffusion Dynamics
+- [[cyber-insurance-underwriting-and-infrastructure-resilience]] (2024) — Cyber Insurance Underwriting Dynamics and Critical Infrastructure Vulnerabilities: Demystifying Market Coverage and Europe's Subsea Security Crisis
+- [[patternz-global-phone-spy-tool-and-adtech-surveillance]] (2024) — Inside Patternz: Global Phone Surveillance, AdTech Data Brokerage, and Real-Time Location Tracking
+- [[hbr-guide-to-cybersecurity-and-boardroom-risk]] (2023) — HBR Guide to Cybersecurity, Boardroom Oversight, and Strategic Risk Management
+- [[rand-h4cker5-wanted-cybersecurity-labor-market]] (2014) — H4CKER5 WANTED: An Examination of the Cybersecurity Labor Market, Elite Technical Talent, and Defense Workforce Bottlenecks
+- [[rand-estimating-the-global-cost-of-cyber-risk]] (2018) — Estimating the Global Cost of Cyber Risk: Methodology, Systemic Loss Modeling, and Catastrophic Risk Aggregation
+- [[rand-lessons-for-future-us-army-information-operations]] (2018) — Lessons from Others for Future U.S. Army Operations in and Through the Information Environment: Case Studies in Contemporary Cyber and Information Warfare
+- [[nist-cybersecurity-framework-2-0]] (2024) — The NIST Cybersecurity Framework 2.0 (CSF 2.0): Enterprise Governance, Hybrid Risk Management, and Resilience Engineering
 - [[house-of-trump-house-of-putin]] (2018) — [[craig-unger]]
 - [[by-way-of-deception]] (1990) — [[victor-ostrovsky]], [[claire-hoy]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
@@ -47,7 +56,16 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 
 ---
 
-## Related themes & genres
+## Related
+- [[historical-propaganda-and-state-disinformation-techniques]]
+- [[the-spread-of-true-and-false-news-online]]
+- [[cyber-insurance-underwriting-and-infrastructure-resilience]]
+- [[patternz-global-phone-spy-tool-and-adtech-surveillance]]
+- [[hbr-guide-to-cybersecurity-and-boardroom-risk]]
+- [[rand-h4cker5-wanted-cybersecurity-labor-market]]
+- [[rand-estimating-the-global-cost-of-cyber-risk]]
+- [[rand-lessons-for-future-us-army-information-operations]]
+- [[nist-cybersecurity-framework-2-0]] themes & genres
 
 - **Related Themes**: [[cross-domain-conflict]], [[deterrence-and-coercion]], [[non-western-strategic-thought]], [[rationality-and-decision-making]]
 - **Related Genres**: [[security-studies]], [[strategic-studies]], [[military-science]], [[international-relations]]

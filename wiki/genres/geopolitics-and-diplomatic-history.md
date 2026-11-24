@@ -113,7 +113,10 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 - [[yusuf-akcura]]
 - [[yuval-noah-harari]]
 
-## Related Genres & Themes
+## Related
+- [[historical-propaganda-and-state-disinformation-techniques]]
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
+- [[the-chips-and-science-act-of-2022]] Genres & Themes
 - [[westphalian-world-order-end-of-history-and-great-power-realism]]
 - [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]
 - [[deterrence-and-coercion]]

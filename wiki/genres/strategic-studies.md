@@ -108,7 +108,13 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 - [[william-d-hamilton]]
 - [[william-g-braun-iii]]
 
-## Related Genres & Themes
+## Related
+- [[rand-h4cker5-wanted-cybersecurity-labor-market]]
+- [[rand-lessons-for-future-us-army-information-operations]]
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
+- [[nstc-vision-and-strategy-semiconductors]]
+- [[sia-state-of-the-industry-report-2023]]
+- [[the-chips-and-science-act-of-2022]] Genres & Themes
 
 - **Related Genres**: [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]], [[leadership-and-management]], [[strategic-communication]]
 - **Key Themes**: [[deterrence-and-coercion]], [[nuclear-strategy-and-strategic-stability]], [[cross-domain-conflict]], [[non-western-strategic-thought]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]]

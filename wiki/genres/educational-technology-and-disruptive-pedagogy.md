@@ -73,7 +73,8 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 - [[ronghuai-huang]]
 - [[saturnino-l-salas]]
 
-## Related Genres & Themes
+## Related
+- [[secure-software-development-education-survey-2024]] Genres & Themes
 - [[student-centric-and-blended-learning]]
 - [[general-purpose-technologies-and-learning-by-doing]]
 - [[adaptive-intelligence-and-organizational-resilience]]

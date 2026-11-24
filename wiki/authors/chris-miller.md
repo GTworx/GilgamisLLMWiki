@@ -28,6 +28,9 @@ In [[chip-war-the-fight-for-the-worlds-most-critical-technology]], Miller traces
 ---
 
 ## Related pages
+- [[the-chips-and-science-act-of-2022]]
+- [[sia-state-of-the-industry-report-2023]]
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
 - [[chip-war-the-fight-for-the-worlds-most-critical-technology]]
 - [[morris-chang]]
 - [[frans-osinga]]

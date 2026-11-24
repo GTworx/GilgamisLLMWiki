@@ -1,6 +1,6 @@
 # Gilgamis LLM Wiki — Ingestion & Library Summary
 
-**Generated**: 2026-11-24 (100% Coverage Milestone for `BOOKS/`)  
+**Generated**: 2026-11-24 (Option AR-1: Semiconductors & Cybersecurity Ingestion)  
 **Knowledge Base Specification**: [GilgamisLLMWiki.md](GilgamisLLMWiki.md)  
 **Interactive Dashboard**: [index.html](index.html) | [http://127.0.0.1:8080/index.html](http://127.0.0.1:8080/index.html)  
 **Master Index**: [wiki/index.md](wiki/index.md)  
@@ -15,13 +15,14 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
-- **Total Ingested Works**: 471 distinct intellectual works (across 542 source files/volumes and ~177,000+ pages)
-- **Total Generated Wiki Pages**: 1,324 interlinked markdown files (1,322 entity pages + `index.md` & `log.md`)
+- **Articles & Reports Library Status**: **Option AR-1 Complete** (34/34 files in `Semiconductors` & `Cybersecurity` mapped to 22 canonical works)
+- **Total Ingested Works**: 493 distinct intellectual works (across 576 physical source files/volumes and ~179,000+ pages)
+- **Total Generated Wiki Pages**: 1,384 interlinked markdown files (1,382 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 471 ([books/](wiki/books/))
-- **Author Profile Pages**: 658 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 88 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 105 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 493 ([books/](wiki/books/))
+- **Author Profile Pages**: 693 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 89 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 107 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -1007,3 +1008,50 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 471. **[[turkler-cilt-21-genel-indeks]]** ([[hasan-celal-guzel]], [[kemal-cicek]], & [[salim-koca]], 2002, Yeni Türkiye Yayınları, 835 pp.)  
      Master General Index cross-referencing tens of thousands of historical figures, dynasties, battles, and institutions across all 20 volumes of *Türkler Ansiklopedisi*.
 
+
+
+### Category N: Strategic Articles & Reports — Semiconductors, Microelectronics & Cybersecurity (Option AR-1)
+472. **[[the-chips-and-science-act-of-2022]]** ([[united-states-congress]] & [[national-institute-of-standards-and-technology]], 2022, 537 pp. across 6 documents)  
+     Landmark American industrial policy statute authorizing $52.7B in microelectronics subsidies, advanced packaging programs, and 10-year China national security guardrails.
+473. **[[sia-state-of-the-industry-report-2023]]** ([[semiconductor-industry-association]], 2023, 28 pp.)  
+     Definitive economic and supply chain benchmarking of the $574B global chip market, U.S. R&D supremacy (18.75% of revenue), and the 67,000 workforce deficit.
+474. **[[nstc-vision-and-strategy-semiconductors]]** ([[national-institute-of-standards-and-technology]], 2023, 30 pp.)  
+     Blueprint for the National Semiconductor Technology Center, bridging the microelectronics "valley of death" via shared 300mm prototyping and MPW runs.
+475. **[[protect-your-chip-design-intellectual-property]]** ([[johann-knechtel]], [[satwik-patnaik]], & [[ozgur-sinanoglu]], 2019, 6 pp.)  
+     Hardware cybersecurity guide analyzing untrusted offshore foundry threats, SAT-resilient logic locking, IC camouflaging, and split manufacturing.
+476. **[[in-sensor-passive-speech-classification-phononic-metamaterials]]** ([[dubcek-teneva-et-al]], 2024, *Advanced Functional Materials*, 8 pp.)  
+     Breakthrough zero-power acoustic classification utilizing 3D phononic metamaterial wave diffraction to eliminate standby digital DSP power at the physical sensor edge.
+477. **[[advanced-semiconductor-manufacturing-execution-systems]]** ([[critical-manufacturing-editorial]], 2024, 37 pp. across 2 whitepapers)  
+     Smart factory nervous system for 300mm front-end wafer fabs, integrating digital twins, Run-to-Run (R2R) process control, and real-time defect correlation.
+478. **[[semiconductor-geopolitics-foundry-yields-and-mercantilism]]** ([[bloomberg-news]], [[financial-times-editorial]], & [[wall-street-journal-editorial]], 2024, 9 pp.)  
+     TSMC Arizona Fab 21 engineering yields surpassing Taiwan benchmark lines by 4 percentage points, contrasted with China's mercantilist mature-node flooding strategy.
+479. **[[arm-v9-architecture-and-ai-compute-subsystems]]** ([[financial-analyst-corpus]], 2024, 5 pp.)  
+     Arm Holdings' architectural transformation through v9 2x royalty rates, Confidential Compute, and Compute Subsystems powering hyperscaler custom silicon.
+480. **[[amd-advanced-datacenter-architecture-and-sovereign-ai]]** ([[advanced-micro-devices]], [[nvidia-corporation]], & [[reliance-industries]], 2024, 31 pp.)  
+     AMD Instinct MI300X 3D chiplet integration paired with India's Reliance-Nvidia Sovereign AI green supercomputing infrastructure.
+481. **[[nist-cybersecurity-framework-2-0]]** ([[national-institute-of-standards-and-technology]], 2024, 52 pp.)  
+     Definitive global standard introducing the GOVERN (GV) function alongside Identify, Protect, Detect, Respond, and Recover across enterprise supply chains.
+482. **[[nist-digital-identity-guidelines-sp-800-63b]]** ([[national-institute-of-standards-and-technology]] & [[paul-a-grassi]], 2017, 79 pp.)  
+     Groundbreaking digital identity standard deprecating forced password rotations and SMS OTPs, establishing the AAL1–3 hierarchy and phishing-resistant FIDO2 tokens.
+483. **[[rand-lessons-for-future-us-army-information-operations]]** ([[christopher-paul]], [[colin-p-clarke]], & [[rand-corporation]], 2018, 318 pp.)  
+     Comprehensive multi-theater analysis of Russian *informatsionnoye protivoborstvo*, Chinese Three Warfares, and cyber-electromagnetic doctrine.
+484. **[[rand-estimating-the-global-cost-of-cyber-risk]]** ([[paul-dreyer]], [[jonathan-william-welburn]], & [[rand-corporation]], 2018, 63 pp.)  
+     Actuarial catastrophe modeling of heavy-tailed cyber loss distributions, systemic cloud monoculture correlation, and insurance aggregation limits.
+485. **[[rand-h4cker5-wanted-cybersecurity-labor-market]]** ([[martin-c-libicki]], [[david-senty]], [[julia-pollak]], & [[rand-corporation]], 2014, 110 pp.)  
+     Empirical labor economics study proving that the acute cyber talent shortage is concentrated in the top 1%–5% elite reverse engineers and exploit developers.
+486. **[[hbr-guide-to-cybersecurity-and-boardroom-risk]]** ([[harvard-business-review-editorial]], 2023, 177 pp.)  
+     Executive board governance manual for cyber risk quantification, SEC 4-day disclosure compliance, ransomware extortion negotiations, and CISO translation.
+487. **[[secure-software-development-education-survey-2024]]** ([[openssf-and-linux-foundation]], 2024, 64 pp.)  
+     Empirical audit revealing that under 30% of computer science graduates receive secure coding training, exposing the open-source supply chain (XZ Utils, Log4j).
+488. **[[critical-security-controls-top-20-cyberattacks]]** ([[center-for-internet-security]], 2023, 28 pp.)  
+     Threat-informed CIS controls blueprint demonstrating that basic hygiene (complete asset inventory, privilege restriction, centralized logging) thwarts 85%+ of breaches.
+489. **[[patternz-global-phone-spy-tool-and-adtech-surveillance]]** ([[joseph-cox]], 2024, 404 Media, 12 pp.)  
+     Investigative exposé uncovering how the commercial Real-Time Bidding ad ecosystem is weaponized for warrantless global location tracking of billions of devices.
+490. **[[cyber-insurance-underwriting-and-infrastructure-resilience]]** ([[specialist-risk-group]] & [[european-security-corpus]], 2024, 35 pp.)  
+     Bifurcated cyber insurance underwriting criteria combined with NATO grey-zone threat analyses of vulnerable Baltic and North Sea subsea fiber-optic cables.
+491. **[[the-spread-of-true-and-false-news-online]]** ([[sinan-aral]], [[deb-roy]], & [[soroush-vosoughi]], 2018, MIT IDE & NYT, 10 pp.)  
+     Landmark empirical investigation across 126k rumor cascades proving falsehood diffuses 70% faster and deeper than truth due to human cognitive novelty bias, not bots.
+492. **[[crypto-philanthropy-and-blockchain-forensics-annual-report]]** ([[the-giving-block-editorial]], 2023, 36 pp.)  
+     Empirical benchmark of $2B+ in lifetime cryptocurrency donations, on-chain disbursement transparency, tax mitigation mechanics, and AML/KYC compliance.
+493. **[[historical-propaganda-and-state-disinformation-techniques]]** ([[joseph-goebbels]] & [[historical-archive-editorial]], 1945, 420 pp.)  
+     Primary historical archive analyzing the structural mechanics of monopolistic narrative saturation, cognitive priming, and totalitarian mass manipulation.

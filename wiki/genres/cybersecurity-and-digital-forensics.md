@@ -45,7 +45,17 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 - [[valentin-mulder]]
 - [[vincent-lenders]]
 
-## Related Genres & Themes
+## Related
+- [[cyber-insurance-underwriting-and-infrastructure-resilience]]
+- [[patternz-global-phone-spy-tool-and-adtech-surveillance]]
+- [[critical-security-controls-top-20-cyberattacks]]
+- [[secure-software-development-education-survey-2024]]
+- [[hbr-guide-to-cybersecurity-and-boardroom-risk]]
+- [[rand-h4cker5-wanted-cybersecurity-labor-market]]
+- [[rand-estimating-the-global-cost-of-cyber-risk]]
+- [[nist-digital-identity-guidelines-sp-800-63b]]
+- [[nist-cybersecurity-framework-2-0]]
+- [[protect-your-chip-design-intellectual-property]] Genres & Themes
 - [[hybrid-threats-and-cyber-warfare]]
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[rationality-and-decision-making]]

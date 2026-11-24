@@ -22,7 +22,9 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[graham-hancock]]
 - [[robert-bauval]]
 
-## Related Themes & Genres
+## Related
+- [[the-spread-of-true-and-false-news-online]]
+- [[patternz-global-phone-spy-tool-and-adtech-surveillance]] Themes & Genres
 
 - [[critique-of-academic-orthodoxy]]
 - [[alternative-archaeology]]

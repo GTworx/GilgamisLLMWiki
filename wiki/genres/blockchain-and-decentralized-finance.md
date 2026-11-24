@@ -28,7 +28,8 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 - [[michael-bradley]]
 - [[the-giving-block]]
 
-## Related Genres & Themes
+## Related
+- [[crypto-philanthropy-and-blockchain-forensics-annual-report]] Genres & Themes
 - [[decentralized-trust-and-cryptographic-governance]]
 - [[cooperation-and-reciprocity]]
 - [[human-centered-ai-and-augmented-leadership]]

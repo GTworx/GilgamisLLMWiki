@@ -13,6 +13,9 @@
 ---
 
 ## Featured Works
+- [[critical-security-controls-top-20-cyberattacks]] (2023) — CIS Critical Security Controls: Mitigating the Top 20 Attack Vectors and Establishing Defensible Cyberspace
+- [[nist-digital-identity-guidelines-sp-800-63b]] (2017) — Digital Identity Guidelines: Authentication and Lifecycle Management (NIST SP 800-63B)
+- [[in-sensor-passive-speech-classification-phononic-metamaterials]] (2024) — In-Sensor Passive Speech Classification with Phononic Metamaterials
 - [[architecting-data-intensive-saas-applications]] (2021) — [[william-waddington]], [[kevin-mcginley]], [[pui-kei-johnston-chu]], [[gjorgji-georgievski]], [[dinesh-kulkarni]]
 - [[internet-of-things-from-hype-to-reality]] (2019) — [[ammar-rayes]], [[samer-salam]]
 - [[iot-for-dummies-applications-solutions-and-security-compendium]] (2018) — [[lawrence-c-miller]]
@@ -31,7 +34,10 @@
 
 ---
 
-## Related themes & genres
+## Related
+- [[critical-security-controls-top-20-cyberattacks]]
+- [[nist-digital-identity-guidelines-sp-800-63b]]
+- [[in-sensor-passive-speech-classification-phononic-metamaterials]] themes & genres
 - [[saas-and-subscription-business-models]]
 - [[cloud-computing-and-distributed-systems]]
 - [[data-science-and-scientific-computing]]

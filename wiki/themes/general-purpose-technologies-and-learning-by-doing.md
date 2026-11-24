@@ -11,6 +11,14 @@
 ---
 
 ## Featured Works
+- [[secure-software-development-education-survey-2024]] (2024) — 2024 Secure Software Development Education Survey: Open-Source Vulnerabilities, Curricular Deficits, and Developer Practices
+- [[rand-h4cker5-wanted-cybersecurity-labor-market]] (2014) — H4CKER5 WANTED: An Examination of the Cybersecurity Labor Market, Elite Technical Talent, and Defense Workforce Bottlenecks
+- [[amd-advanced-datacenter-architecture-and-sovereign-ai]] (2024) — Next-Generation Datacenter Architecture and Sovereign AI Infrastructure: AMD EPYC/Instinct Ecosystem and the Nvidia-Reliance Supercomputing Partnership
+- [[arm-v9-architecture-and-ai-compute-subsystems]] (2024) — Arm's Transformation: The v9 Architecture, CSS Compute Subsystems, and Edge-to-Cloud AI Infrastructure
+- [[advanced-semiconductor-manufacturing-execution-systems]] (2024) — Advanced Semiconductor Manufacturing Execution Systems (MES): Front-End Fab Agility, Yield Optimization, and Smart Factory Architecture
+- [[in-sensor-passive-speech-classification-phononic-metamaterials]] (2024) — In-Sensor Passive Speech Classification with Phononic Metamaterials
+- [[nstc-vision-and-strategy-semiconductors]] (2023) — A Vision and Strategy for the National Semiconductor Technology Center (NSTC)
+- [[the-chips-and-science-act-of-2022]] (2022) — The CHIPS and Science Act of 2022: Legislative Text, Section-by-Section Analysis, and National Implementation Blueprint
 - [[zero-to-one]] (2014) — [[peter-thiel]], [[blake-masters]]
 - [[the-prosperity-paradox]] (2019) — [[clayton-m-christensen]], [[efosa-ojomo]], [[karen-dillon]]
 - [[the-innovators-dilemma]] (1997) — [[clayton-m-christensen]]
@@ -58,7 +66,15 @@
 
 ---
 
-## Related themes & genres
+## Related
+- [[secure-software-development-education-survey-2024]]
+- [[rand-h4cker5-wanted-cybersecurity-labor-market]]
+- [[amd-advanced-datacenter-architecture-and-sovereign-ai]]
+- [[arm-v9-architecture-and-ai-compute-subsystems]]
+- [[advanced-semiconductor-manufacturing-execution-systems]]
+- [[in-sensor-passive-speech-classification-phononic-metamaterials]]
+- [[nstc-vision-and-strategy-semiconductors]]
+- [[the-chips-and-science-act-of-2022]] themes & genres
 - [[energy-policy-and-clean-tech-economics]]
 - [[innovation-and-economic-growth]]
 - [[strategic-studies]]

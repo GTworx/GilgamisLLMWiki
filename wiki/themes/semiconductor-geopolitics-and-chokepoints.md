@@ -15,6 +15,14 @@ As synthesized in [[chris-miller]]'s [[chip-war-the-fight-for-the-worlds-most-cr
 ---
 
 ## Featured Works
+- [[amd-advanced-datacenter-architecture-and-sovereign-ai]] (2024) — Next-Generation Datacenter Architecture and Sovereign AI Infrastructure: AMD EPYC/Instinct Ecosystem and the Nvidia-Reliance Supercomputing Partnership
+- [[arm-v9-architecture-and-ai-compute-subsystems]] (2024) — Arm's Transformation: The v9 Architecture, CSS Compute Subsystems, and Edge-to-Cloud AI Infrastructure
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]] (2024) — Semiconductor Geopolitics, Foundry Yield Dynamics, and Market Mercantilism: The TSMC Arizona Transition and China's Legacy Node Strategy
+- [[advanced-semiconductor-manufacturing-execution-systems]] (2024) — Advanced Semiconductor Manufacturing Execution Systems (MES): Front-End Fab Agility, Yield Optimization, and Smart Factory Architecture
+- [[protect-your-chip-design-intellectual-property]] (2019) — Protect Your Chip Design Intellectual Property: An Overview of Hardware Security, Logic Locking, and Split Manufacturing
+- [[nstc-vision-and-strategy-semiconductors]] (2023) — A Vision and Strategy for the National Semiconductor Technology Center (NSTC)
+- [[sia-state-of-the-industry-report-2023]] (2023) — 2023 State of the U.S. Semiconductor Industry Report
+- [[the-chips-and-science-act-of-2022]] (2022) — The CHIPS and Science Act of 2022: Legislative Text, Section-by-Section Analysis, and National Implementation Blueprint
 - [[situational-awareness-the-decade-ahead]] (2024) — [[leopold-aschenbrenner]]
 - [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
 - [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
@@ -35,7 +43,15 @@ As synthesized in [[chris-miller]]'s [[chip-war-the-fight-for-the-worlds-most-cr
 
 ---
 
-## Related themes & genres
+## Related
+- [[amd-advanced-datacenter-architecture-and-sovereign-ai]]
+- [[arm-v9-architecture-and-ai-compute-subsystems]]
+- [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
+- [[advanced-semiconductor-manufacturing-execution-systems]]
+- [[protect-your-chip-design-intellectual-property]]
+- [[nstc-vision-and-strategy-semiconductors]]
+- [[sia-state-of-the-industry-report-2023]]
+- [[the-chips-and-science-act-of-2022]] themes & genres
 - [[deterrence-and-coercion]]
 - [[cross-domain-conflict]]
 - [[human-centered-ai-and-augmented-leadership]]

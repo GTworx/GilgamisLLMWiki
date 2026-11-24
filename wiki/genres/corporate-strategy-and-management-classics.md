@@ -76,7 +76,15 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 - [[will-peters]]
 - [[yves-pigneur]]
 
-## Related Genres & Themes
+## Related
+- [[crypto-philanthropy-and-blockchain-forensics-annual-report]]
+- [[cyber-insurance-underwriting-and-infrastructure-resilience]]
+- [[hbr-guide-to-cybersecurity-and-boardroom-risk]]
+- [[rand-estimating-the-global-cost-of-cyber-risk]]
+- [[nist-cybersecurity-framework-2-0]]
+- [[arm-v9-architecture-and-ai-compute-subsystems]]
+- [[advanced-semiconductor-manufacturing-execution-systems]]
+- [[sia-state-of-the-industry-report-2023]] Genres & Themes
 - [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]]
 - [[platform-power-data-governance-and-career-adaptability]]
 - [[adaptive-intelligence-and-organizational-resilience]]

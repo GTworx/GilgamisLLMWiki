@@ -64,7 +64,8 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 - [[steve-j-heims]]
 - [[steven-pinker]]
 
-## Related Genres & Themes
+## Related
+- [[the-spread-of-true-and-false-news-online]] Genres & Themes
 - [[moral-foundations-cognitive-biases-and-interface-perception]]
 - [[cybernetics-media-ecology-collective-memory-and-political-violence]]
 - [[rationality-and-decision-making]]

@@ -29,7 +29,10 @@ In this wiki, the genre bridges [[victor-ostrovsky]] & [[claire-hoy]]'s Mossad a
 - [[stephen-g-walker]]
 - [[victor-ostrovsky]]
 
-## Related Genres & Themes
+## Related
+- [[historical-propaganda-and-state-disinformation-techniques]]
+- [[patternz-global-phone-spy-tool-and-adtech-surveillance]]
+- [[rand-lessons-for-future-us-army-information-operations]] Genres & Themes
 - [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]
 - [[hybrid-threats-and-cyber-warfare]]
 - [[deterrence-and-coercion]]

@@ -1088,3 +1088,43 @@ This file provides an append-only historical audit log of all book ingestions, c
   - All interactive dashboards recompiled (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Strict audit passed with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
 - **Milestone Reached**: 100% of the primary `BOOKS/` library is now canonically ingested into the Gilgamis LLM Wiki! The next frontier for ingestion is `ARTICLES-REPORTS/` (2,901 files).
+
+
+## 2026-11-24 — Option AR-1: Ingestion of Semiconductors & Cybersecurity Dossiers (34 Files -> 22 Canonical Works)
+
+- **Scope & Source Corpus**: Initiated the expansion of the Gilgamis LLM Wiki into the strategic `ARTICLES-REPORTS/` library by ingesting the complete **Semiconductors** (18 files) and **Cybersecurity** (16 files) folders ([`C:\Users\gokha\iCloudDrive\Documents\_GilgameshLibrary\ARTICLES-REPORTS\`](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/)).
+- **Physical Files Ingested**: **34 of 34 files accounted for (100.0% coverage, 0 unmapped)**.
+  - **Semiconductors (18 files -> 9 canonical works, ~680 pp.)**:
+    - [[the-chips-and-science-act-of-2022]] (Consolidating Public Law 117-167 393 pp., Section-by-Section Summary 39 pp., McKinsey Strategy 8 pp., NIST Guardrails Final Rule 23 pp., DOC Vision 31 pp., and DOC Regulatory FAQ 43 pp. — 537 pp. total).
+    - [[sia-state-of-the-industry-report-2023]] (Semiconductor Industry Association 2023 Annual Report, 28 pp.).
+    - [[nstc-vision-and-strategy-semiconductors]] (NIST / National Semiconductor Technology Center Strategy, 30 pp.).
+    - [[protect-your-chip-design-intellectual-property]] ([[johann-knechtel]], [[satwik-patnaik]], [[ozgur-sinanoglu]], NYU Tandon/AD, 6 pp.).
+    - [[in-sensor-passive-speech-classification-phononic-metamaterials]] ([[dubcek-teneva-et-al]], *Advanced Functional Materials*, 8 pp.).
+    - [[advanced-semiconductor-manufacturing-execution-systems]] (Critical Manufacturing Front-End MES Capabilities & Agility whitepapers, 37 pp.).
+    - [[semiconductor-geopolitics-foundry-yields-and-mercantilism]] (Bloomberg TSMC Arizona Yields 3 pp., WSJ Biden Chip Project Delays 3 pp., and FT China Legacy Node Dumping 3 pp. — 9 pp. total).
+    - [[arm-v9-architecture-and-ai-compute-subsystems]] (Financial & Technology Analyst Corpus, 5 pp.).
+    - [[amd-advanced-datacenter-architecture-and-sovereign-ai]] (AMD Technical Support Summit Slides 21 pp. and Reliance-Nvidia Sovereign AI Partnership 10 pp. — 31 pp. total).
+  - **Cybersecurity & Information Warfare (16 files -> 13 canonical works, ~1,120 pp.)**:
+    - [[nist-cybersecurity-framework-2-0]] (NIST CSF 2.0 / CSWP 29 introducing the GOVERN function, 52 pp.).
+    - [[nist-digital-identity-guidelines-sp-800-63b]] ([[paul-a-grassi]], NIST SP 800-63B Authentication & Lifecycle, 79 pp.).
+    - [[rand-lessons-for-future-us-army-information-operations]] ([[christopher-paul]], [[colin-p-clarke]], RAND RR-1925/2, 318 pp.).
+    - [[rand-estimating-the-global-cost-of-cyber-risk]] ([[paul-dreyer]], [[jonathan-william-welburn]], RAND RR-2299, 63 pp.).
+    - [[rand-h4cker5-wanted-cybersecurity-labor-market]] ([[martin-c-libicki]], [[david-senty]], [[julia-pollak]], RAND RR-430, 110 pp.).
+    - [[hbr-guide-to-cybersecurity-and-boardroom-risk]] ([[harvard-business-review-editorial]], 177 pp.).
+    - [[secure-software-development-education-survey-2024]] ([[openssf-and-linux-foundation]], 64 pp.).
+    - [[critical-security-controls-top-20-cyberattacks]] ([[center-for-internet-security]] / SANS, 28 pp.).
+    - [[patternz-global-phone-spy-tool-and-adtech-surveillance]] ([[joseph-cox]], 404 Media investigation, 12 pp.).
+    - [[cyber-insurance-underwriting-and-infrastructure-resilience]] (Demystifying Cyber Insurance 2024 11 pp. & Europe's Hidden Security Crisis Subsea Infrastructure 24 pp. — 35 pp. total).
+    - [[the-spread-of-true-and-false-news-online]] ([[sinan-aral]], [[deb-roy]], [[soroush-vosoughi]], MIT IDE & NYT, 10 pp.).
+    - [[crypto-philanthropy-and-blockchain-forensics-annual-report]] ([[the-giving-block-editorial]], 36 pp.).
+    - [[historical-propaganda-and-state-disinformation-techniques]] ([[joseph-goebbels]], [[historical-archive-editorial]], 420 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +22 canonical entries (total: 493).
+  - **Authors**: +35 author profiles created or updated (total: 693).
+  - **Genres**: +1 new genre ([[semiconductor-engineering-and-industrial-policy]]) created; 12 existing genres bidirectionally updated (total: 89).
+  - **Themes**: +2 new themes ([[zero-trust-architecture-and-cryptographic-resilience]], [[disinformation-cascades-and-cognitive-warfare]]) created; 5 existing themes bidirectionally updated (total: 107).
+  - **Total Wiki Pages**: **1,382 entity pages** (1,384 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (1,382 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
