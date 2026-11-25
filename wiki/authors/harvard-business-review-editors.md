@@ -12,6 +12,7 @@ The editorial consortium and scholarly contributors of Harvard Business Review p
 ---
 
 ## Books in Wiki
+- [[hbr-rules-for-companies-navigating-geopolitical-volatility]]
 - [[hbr-special-issue-navigating-uncertainty-spring-2022]]
 - [[volunteerism-in-crisis-accounting-and-collaboration-strategies]]
 

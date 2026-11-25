@@ -14,6 +14,13 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[land-purchases-and-demographic-sovereignty-palestine-cyprus]]
+- [[mavi-marmara-maritime-raid-and-diplomatic-aftermath]]
+- [[post-yugoslav-trials-and-serbian-nationalist-collapse]]
+- [[turkish-legislation-and-political-parties-code-compendium]]
+- [[un-hrc-economy-of-occupation-and-international-accountability]]
+- [[united-states-constitution-and-constitutional-republic-compendium]]
+- [[us-anti-boycott-legislation-and-first-amendment-jurisprudence]]
 - [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]] (2023) — [[european-commission-dg-connect]], [[european-media-observatory]]
 - [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]] (2024) — [[comparative-law-and-jurisprudence-group]]
 - [[international-law-of-economic-sanctions-and-un-convention-against-torture]] (2025) — [[united-nations-general-assembly]], [[international-law-commission]], [[michael-p-malloy]]

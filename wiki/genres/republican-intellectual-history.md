@@ -30,6 +30,9 @@ Republican intellectual history investigates the philosophical and institutional
 - [[anatolian-civilizations]]
 
 ## Books in Wiki
+- [[king-charles-iii-coronation-and-constitutional-monarchy-compendium]]
+- [[tbmm-milli-dayanisma-ve-demokrasi-komisyonu-raporu-2026]]
+- [[turkish-republic-territorial-diplomacy-and-sovereignty]]
 - [[iranda-turk-kimligi]] (2026) — [[hamid-sehanegi]], [[merve-dilek-dagdelen]], [[busra-yilmaz]]
 - [[the-truth-will-out-armenian-allegations]] (2024) — [[pulat-y-tacar]]
 - [[tarih-turklerle-baslar-bilinmeyen-turk-tarihi]] (2021) — [[kazim-mirsan]]

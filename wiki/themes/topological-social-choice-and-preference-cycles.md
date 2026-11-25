@@ -47,3 +47,10 @@ Arrow's Impossibility Theorem is thus revealed as a topological impossibility: *
 - [[algebraic-topology]]
 - [[game-theory]]
 - [[political-science]]
+
+## Books in Wiki
+- [[european-parliament-post-election-survey-report-2019]]
+- [[goerres-why-are-older-people-more-likely-to-vote]]
+- [[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]
+- [[turkish-electoral-dynamics-and-voter-alignment-compendium]]
+- [[us-presidential-election-polling-and-voter-psychology-2024]]

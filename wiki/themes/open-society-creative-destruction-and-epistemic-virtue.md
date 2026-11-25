@@ -74,6 +74,8 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
 
 ## Books in Wiki
+- [[historical-evolution-of-cartography-and-world-maps]]
+- [[physics-of-political-diffusion-and-regime-dynamics]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
 - [[podolny-hansen-how-apple-is-organized-for-innovation]]
 - [[gooinn-turkiye-inovasyon-raporlari-longitudinal-compendium]]

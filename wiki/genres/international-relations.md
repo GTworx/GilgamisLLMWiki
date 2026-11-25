@@ -15,6 +15,21 @@ In the wiki, IR provides the macro-political context for both Axelrod's institut
 ---
 
 ## Books in Wiki
+- [[american-hegemonic-decline-and-historical-parallels]]
+- [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
+- [[cognitive-biases-and-territorial-conflict-in-the-levant]]
+- [[ecfr-what-the-world-thinks-of-trump-ukraine-and-china]]
+- [[hbr-rules-for-companies-navigating-geopolitical-volatility]]
+- [[henry-jackson-society-gaza-and-british-defense-briefing]]
+- [[iran-destabilization-and-covert-war-objectives]]
+- [[mavi-marmara-maritime-raid-and-diplomatic-aftermath]]
+- [[mearsheimer-walt-the-israel-lobby-and-us-foreign-policy]]
+- [[oic-istanbul-declaration-2025-foreign-ministers-council]]
+- [[pollack-which-path-to-persia-american-strategy-iran]]
+- [[russia-ukraine-war-and-eurasian-geopolitics-compendium]]
+- [[trump-putin-netanyahu-erdogan-comparative-negotiation-psychometrics]]
+- [[un-hrc-economy-of-occupation-and-international-accountability]]
+- [[xi-jinping-governance-and-chinese-strategic-trajectory]]
 - [[budak-plug-and-play-international-accelerator-architecture]]
 - [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]

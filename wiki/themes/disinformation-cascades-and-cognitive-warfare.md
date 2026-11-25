@@ -49,6 +49,12 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Books in Wiki
+- [[declassified-911-investigative-dossier]]
+- [[hersh-the-killing-of-osama-bin-laden-and-diplomatic-deceptions]]
+- [[political-fandom-and-neuromarketing-in-elections]]
+- [[propaganda-doctrine-of-accusation-in-a-mirror]]
+- [[shepersisted-big-tech-weaponized-misogyny-moldova-report]]
+- [[soviet-and-russian-historiographical-manipulation-in-central-asia]]
 - [[mindshare-culture-and-consumer-trends-2024]]
 - [[wef-the-global-risks-report-2024]]
 - [[meltwater-state-of-social-media-marketing-compendium]]

@@ -147,6 +147,9 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 - **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[anatolian-humanism]], [[leadership-and-management]], [[organizational-psychology]], [[social-choice-theory]], [[algebraic-topology]]
 
 ## Books in Wiki
+- [[gilens-murakawa-elite-cues-and-political-decision-making]]
+- [[rogoff-sibert-elections-and-macroeconomic-policy-cycles]]
+- [[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]
 - [[almquist-b2b-elements-of-value-hbr-2018]]
 - [[deal-evaluation-masterclass-venture-capital-due-diligence]]
 - [[y-combinator-founder-evaluation-and-interview-framework]]

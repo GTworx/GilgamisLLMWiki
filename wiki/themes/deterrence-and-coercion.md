@@ -48,3 +48,6 @@ In *Deterrence in the 21st Century*, Lawrence Freedman, Frans Osinga, and Tim Sw
 
 - **Related Themes**: [[cross-domain-conflict]], [[nuclear-strategy-and-strategic-stability]], [[non-western-strategic-thought]], [[violent-non-state-actors]], [[rationality-and-decision-making]], [[cooperation-and-reciprocity]]
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]]
+
+## Books in Wiki
+- [[pollack-which-path-to-persia-american-strategy-iran]]

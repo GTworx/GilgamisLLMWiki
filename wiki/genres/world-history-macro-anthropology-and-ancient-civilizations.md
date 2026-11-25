@@ -12,6 +12,8 @@ World History, Macro-Anthropology, and Ancient Civilizations encompasses broad-s
 ---
 
 ## Books in Wiki
+- [[empires-versus-colonizers-institutional-and-administrative-divergence]]
+- [[historical-evolution-of-cartography-and-world-maps]]
 - [[flueckiger-larch-metal-trade-and-the-rise-of-hierarchy]]
 - [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]
 - [[how-the-world-made-the-west]] (2024) — [[josephine-quinn]]

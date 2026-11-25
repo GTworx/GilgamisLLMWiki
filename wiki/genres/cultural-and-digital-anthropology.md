@@ -14,6 +14,13 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[bonica-grumbach-old-money-campaign-finance-gerontocracy]]
+- [[deferred-complicity-in-democratic-education]]
+- [[demographic-migration-economics-and-border-policy-aeon]]
+- [[generation-z-global-citizenship-and-youth-wellbeing-compendium]]
+- [[goerres-why-are-older-people-more-likely-to-vote]]
+- [[municipal-coalition-politics-and-immigrant-mayors]]
+- [[shepersisted-big-tech-weaponized-misogyny-moldova-report]]
 - [[mindshare-culture-and-consumer-trends-2024]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[the-dawn-of-everything]] (2021) — [[david-graeber]], [[david-wengrow]]

@@ -14,6 +14,7 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[ray-dalio-populism-the-phenomenon]]
 - [[carlota-perez-technological-revolutions-and-techno-economic-paradigms]]
 - [[carta-venture-capital-fund-performance-q1-2024]]
 - [[financial-times-how-long-can-the-entrepreneurship-boom-last]]

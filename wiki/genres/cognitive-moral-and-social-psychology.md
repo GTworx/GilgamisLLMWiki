@@ -14,6 +14,8 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[political-fandom-and-neuromarketing-in-elections]]
+- [[political-psychology-of-prejudice-racism-and-nationalism]]
 - [[evolutionary-anthropology-of-cooking-meat-and-fetal-life-definitions]] (2024) — [[richard-wrangham]], [[bioethics-and-evolutionary-anthropology-consortium]]
 - [[evolutionary-biology-of-human-kissing-and-social-bonding]] (2025) — [[comparative-ethology-and-evolution-group]], [[matilda-brindle]]
 - [[paranthropus-boisei-hand-fossils-and-early-hominin-dexterity]] (2025) — [[paleoanthropology-and-hominin-origins-group]], [[carolin-feuerriegel]]

@@ -7,3 +7,6 @@ Investigates the theoretical boundaries of computational tractability, algorithm
 - [[mit-technology-review-the-computing-issue-nov-dec-2021]]
 - [[karp-reducibility-among-combinatorial-problems]]
 - [[duan-mao-breaking-sorting-barrier-directed-sssp]]
+
+## Books in Wiki
+- [[physics-of-political-diffusion-and-regime-dynamics]]

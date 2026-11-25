@@ -14,6 +14,13 @@ In this wiki, the genre bridges [[victor-ostrovsky]] & [[claire-hoy]]'s Mossad a
 ---
 
 ## Books in Wiki
+- [[authoritarian-governance-in-the-united-arab-emirates]]
+- [[declassified-911-investigative-dossier]]
+- [[hersh-the-killing-of-osama-bin-laden-and-diplomatic-deceptions]]
+- [[iran-destabilization-and-covert-war-objectives]]
+- [[israeli-intelligence-and-proxy-operations-in-iraq]]
+- [[south-asian-proxy-warfare-and-clandestine-operations]]
+- [[the-concept-of-the-deep-state-global-comparative-study]]
 - [[the-room-where-it-happened]] (2020) — [[john-bolton]]
 - [[house-of-trump-house-of-putin]] (2018) — [[craig-unger]]
 - [[the-psychological-assessment-of-political-leaders]] (2003) — [[jerrold-m-post]], [[margaret-g-hermann]], [[stephen-g-walker]], [[david-g-winter]]

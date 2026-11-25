@@ -78,3 +78,9 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 
 - [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]]
 - [[protecting-americans-from-foreign-adversary-applications-act]]
+
+## Books in Wiki
+- [[authoritarian-governance-in-the-united-arab-emirates]]
+- [[iran-destabilization-and-covert-war-objectives]]
+- [[israeli-intelligence-and-proxy-operations-in-iraq]]
+- [[south-asian-proxy-warfare-and-clandestine-operations]]

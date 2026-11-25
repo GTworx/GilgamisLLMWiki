@@ -12,6 +12,7 @@ Bank of America Global Research is the institutional equity and macroeconomic re
 ---
 
 ## Books in Wiki
+- [[turkish-electoral-dynamics-and-voter-alignment-compendium]]
 - [[bank-of-america-who-makes-the-data-center]]
 
 ---

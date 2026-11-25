@@ -15,6 +15,8 @@ Within this knowledge base, strategic studies spans historical Cold War foundati
 ---
 
 ## Books in Wiki
+- [[henry-jackson-society-gaza-and-british-defense-briefing]]
+- [[heritage-foundation-rebuilding-americas-military-united-states-navy]]
 - [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[the-evolution-of-cooperation]] (N/A) — [[robert-axelrod]], [[william-d-hamilton]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]], [[helio-fred-garcia]]

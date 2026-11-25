@@ -50,5 +50,7 @@ Following the 9/11 attacks, a widespread consensus emerged among security analys
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[security-studies]], [[international-relations]]
 
 ## Books in Wiki
+- [[israeli-intelligence-and-proxy-operations-in-iraq]]
+- [[south-asian-proxy-warfare-and-clandestine-operations]]
 - [[newsweek-international-november-2022-compendium]]
 - [[oas-the-economics-of-drug-trafficking-in-the-americas]]

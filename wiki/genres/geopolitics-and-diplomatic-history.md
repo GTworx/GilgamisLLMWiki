@@ -14,6 +14,16 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[american-hegemonic-decline-and-historical-parallels]]
+- [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
+- [[ecfr-what-the-world-thinks-of-trump-ukraine-and-china]]
+- [[global-disputed-territories-and-military-blocs-2025]]
+- [[historical-evolution-of-cartography-and-world-maps]]
+- [[hoover-digest-winter-2024-compendium]]
+- [[land-purchases-and-demographic-sovereignty-palestine-cyprus]]
+- [[oic-istanbul-declaration-2025-foreign-ministers-council]]
+- [[russia-ukraine-war-and-eurasian-geopolitics-compendium]]
+- [[turkish-republic-territorial-diplomacy-and-sovereignty]]
 - [[science-diplomacy-and-soft-power-statecraft-in-global-governance]] (2022) — [[boston-science-diplomacy-consortium]], [[paul-a-berkman]]
 - [[international-law-of-economic-sanctions-and-un-convention-against-torture]] (2025) — [[united-nations-general-assembly]], [[international-law-commission]], [[michael-p-malloy]]
 - [[turkish-national-drug-report-and-cengiz-narcotics-enforcement-analysis]] (2021) — [[turkiye-uyusturucu-ve-uyusturucu-bagimliligi-izleme-merkezi-tubim]], [[mahmut-cengiz]]

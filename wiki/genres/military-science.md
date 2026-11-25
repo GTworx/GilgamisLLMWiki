@@ -15,6 +15,12 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[cognitive-biases-and-territorial-conflict-in-the-levant]]
+- [[global-disputed-territories-and-military-blocs-2025]]
+- [[heritage-foundation-rebuilding-americas-military-united-states-navy]]
+- [[israeli-intelligence-and-proxy-operations-in-iraq]]
+- [[pollack-which-path-to-persia-american-strategy-iran]]
+- [[south-asian-proxy-warfare-and-clandestine-operations]]
 - [[regional-war-diplomacy-and-third-party-strategic-benefits]] (2022) — [[middle-east-and-south-asia-security-consortium]]
 - [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]] (2018) — [[us-congressional-emp-commission]], [[william-r-graham]]
 - [[north-korean-soldier-battlefield-diary-and-ukraine-frontline-realities]] (2025) — [[wall-street-journal-investigative-team]]

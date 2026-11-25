@@ -61,6 +61,17 @@
 - [[ethics-and-value-philosophy]]
 
 ## Books in Wiki
+- [[american-hegemonic-decline-and-historical-parallels]]
+- [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
+- [[empires-versus-colonizers-institutional-and-administrative-divergence]]
+- [[historical-evolution-of-cartography-and-world-maps]]
+- [[king-charles-iii-coronation-and-constitutional-monarchy-compendium]]
+- [[land-purchases-and-demographic-sovereignty-palestine-cyprus]]
+- [[russia-ukraine-war-and-eurasian-geopolitics-compendium]]
+- [[soviet-and-russian-historiographical-manipulation-in-central-asia]]
+- [[trump-putin-netanyahu-erdogan-comparative-negotiation-psychometrics]]
+- [[turkish-republic-territorial-diplomacy-and-sovereignty]]
+- [[xi-jinping-governance-and-chinese-strategic-trajectory]]
 - [[flueckiger-larch-metal-trade-and-the-rise-of-hierarchy]]
 - [[mullin-genghis-khan-trade-warrior-pax-mongolica]]
 - [[historical-leadership-and-influence-models-compendium]]

@@ -17,6 +17,11 @@
 ---
 
 ## Books in Wiki
+- [[european-parliament-post-election-survey-report-2019]]
+- [[king-charles-iii-coronation-and-constitutional-monarchy-compendium]]
+- [[mordecai-roshwald-democracy-and-the-elite]]
+- [[multi-ethnic-states-and-constitutional-governance]]
+- [[united-states-constitution-and-constitutional-republic-compendium]]
 - [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]] (2016) — [[anindya-sarkar]], [[arpita-sengupta]], [[indus-civilization-paleoclimate-group]]
 - [[ancient-mesopotamian-and-primitive-democracy-origins]] (2011) — [[thorkild-jacobsen]], [[david-stasavage]], [[benjamin-r-foster]]
 - [[keane-life-and-death-of-democracy-and-monitory-institutions]] (2009) — [[john-keane]]

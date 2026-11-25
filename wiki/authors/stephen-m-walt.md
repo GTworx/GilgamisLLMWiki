@@ -25,3 +25,6 @@ Robert and Renée Belfer Professor of International Affairs at the Harvard Kenne
 - [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]
 - [[westphalian-world-order-end-of-history-and-great-power-realism]]
 - [[institutional-neutrality-and-academic-freedom]]
+
+## Key Works in Wiki
+- [[mearsheimer-walt-the-israel-lobby-and-us-foreign-policy]]

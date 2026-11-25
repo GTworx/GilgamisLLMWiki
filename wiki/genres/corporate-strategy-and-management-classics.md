@@ -14,6 +14,7 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[hbr-rules-for-companies-navigating-geopolitical-volatility]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
 - [[podolny-hansen-how-apple-is-organized-for-innovation]]
 - [[gooinn-turkiye-inovasyon-raporlari-longitudinal-compendium]]

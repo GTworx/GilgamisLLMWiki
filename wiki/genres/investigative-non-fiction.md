@@ -34,6 +34,8 @@ Investigative non-fiction brings the probing tools of investigative journalism i
 - [[alternative-archaeology]]
 
 ## Books in Wiki
+- [[declassified-911-investigative-dossier]]
+- [[hersh-the-killing-of-osama-bin-laden-and-diplomatic-deceptions]]
 - [[beyond-cancer-the-expanding-reach-of-cell-and-gene-therapies]] (2026) — [[stat-news-editorial]]
 - [[empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai]] (2025) — [[karen-hao]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]

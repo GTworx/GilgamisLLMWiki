@@ -41,6 +41,7 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
 
 ## Books in Wiki
+- [[hbr-rules-for-companies-navigating-geopolitical-volatility]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
 - [[komal-growth-models-market-sensing-and-disruption]]
 - [[zacharias-see-the-future-strategic-foresight-playbook]]

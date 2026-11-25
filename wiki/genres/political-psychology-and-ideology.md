@@ -14,6 +14,16 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 ---
 
 ## Books in Wiki
+- [[generation-z-global-citizenship-and-youth-wellbeing-compendium]]
+- [[gilens-murakawa-elite-cues-and-political-decision-making]]
+- [[political-fandom-and-neuromarketing-in-elections]]
+- [[political-psychology-of-prejudice-racism-and-nationalism]]
+- [[propaganda-doctrine-of-accusation-in-a-mirror]]
+- [[ray-dalio-populism-the-phenomenon]]
+- [[shepersisted-big-tech-weaponized-misogyny-moldova-report]]
+- [[trump-putin-netanyahu-erdogan-comparative-negotiation-psychometrics]]
+- [[turkish-electoral-dynamics-and-voter-alignment-compendium]]
+- [[us-presidential-election-polling-and-voter-psychology-2024]]
 - [[transparency-international-corruption-perceptions-index-2023-compendium]]
 - [[newsweek-international-november-2022-compendium]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]

@@ -16,6 +16,7 @@ Together, these works establish that effective strategic communication is never 
 ---
 
 ## Books in Wiki
+- [[propaganda-doctrine-of-accusation-in-a-mirror]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]], [[helio-fred-garcia]]
 - [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]
 - [[valuable-and-visible]] (2026) — [[vanessa-errecarte]]

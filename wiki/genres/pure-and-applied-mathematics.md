@@ -14,6 +14,9 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[physics-of-political-diffusion-and-regime-dynamics]]
+- [[rogoff-sibert-elections-and-macroeconomic-policy-cycles]]
+- [[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]
 - [[mit-technology-review-10-breakthrough-technologies-2016]]
 - [[thomson-reuters-citation-laureates-methodology]]
 - [[zycher-startup-economics-and-income-distribution]]

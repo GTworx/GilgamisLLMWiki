@@ -16,11 +16,11 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
 - **Articles & Reports Library Status**: **Options AR-1, AR-2, AR-3 & AR-4 Complete** (190/190 files in `Semiconductors`, `Cybersecurity`, `PE & VC`, `QuantumCompute`, `Data Centers`, `Cloud`, `SaaS`, `IoT`, `5G Telecom`, and `SupplyChain` mapped to 118 canonical works)
-- **Total Ingested Works**: 1125 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
-- **Total Generated Wiki Pages**: 2,951 interlinked markdown files (2,949 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 1181 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Generated Wiki Pages**: 3,075 interlinked markdown files (3,073 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 1125 ([books/](wiki/books/))
-- **Author Profile Pages**: 1572 ([authors/](wiki/authors/))
+- **Book Summary & Analysis Pages**: 1181 ([books/](wiki/books/))
+- **Author Profile Pages**: 1640 ([authors/](wiki/authors/))
 - **Genre Classification Pages**: 112 ([genres/](wiki/genres/))
 - **Core Thematic Concept Pages**: 140 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
@@ -2737,3 +2737,229 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 1125. **[[yased-uluslararasi-yatirimcilar-dernegi-ar-ge-ve-inovasyon-raporu]]** ([[uluslararasi-yatirimcilar-dernegi-yased]], Source: `Entrepreneurship/Entrepreneurship Turkey/YASED/YASED Ar-Ge ve İnovasyon ÇG Top. - 2017.09.18.pdf`)  
    Executive policy and working group proceedings from YASED evaluating multinational corporate R&D centers, intellectual property incentives, and foreign technology investment in Turkey.  
    ### Multinational Corporate R&D in Turkey
+
+### Category AC: Political Systems, Geopolitical Statecraft, Electoral Dynamics & Intelligence Studies (Works 1126–1181 across 116 Physical Files)
+
+1126. **[[mearsheimer-walt-the-israel-lobby-and-us-foreign-policy]]** ([[john-j-mearsheimer]], [[stephen-m-walt]], Source: `Politics/2006 THE ISRAEL LOBBY AND U.S. FOREIGN POLICY.pdf`)  
+   Landmark, explosive Harvard Kennedy School and Middle East Policy treatise arguing that unconditional U.S. material and diplomatic support for Israel cannot be justified on either strategic or moral grounds, but is primarily driven by the domestic political influence of the Israel lobby.  
+   ### The Israel Lobby and U.S. Foreign Policy: Interest Groups, Strategic Realism, and American National Interest
+
+1127. **[[pollack-which-path-to-persia-american-strategy-iran]]** ([[kenneth-m-pollack]], [[daniel-l-byman]], [[martin-s-indyck]], [[suzanne-maloney]], Source: `Politics/2009 WHICH PATH TO PERSIA_.pdf`)  
+   Monumental 170-page Brookings Institution grand strategy report evaluating six policy options for the United States toward Iran: diplomatic engagement, economic sanctions, internal regime change, popular revolution, surgical airstrikes, and full-scale invasion.  
+   ### Which Path to Persia? Options for a New American Strategy Toward Iran
+
+1128. **[[rogoff-sibert-elections-and-macroeconomic-policy-cycles]]** ([[kenneth-rogoff]], [[anne-sibert]], Source: `Politics/1988 elections_and_macroeconomic_policy_cycles.pdf`)  
+   Foundational 1988 economic paper in Review of Economic Studies mathematically modeling political budget cycles under rational expectations, proving that incumbent politicians manipulate fiscal transfers before elections to signal administrative competency.  
+   ### Elections and Macroeconomic Policy Cycles: Rational Expectations and Political Budget Cycles
+
+1129. **[[ray-dalio-populism-the-phenomenon]]** ([[ray-dalio]], Source: `Politics/2017 Dalio populism-the-phenomenon.pdf`)  
+   Bridgewater Associates landmark 61-page macroeconomic and political research report by Ray Dalio, constructing the Developed World Populism Index and tracking how extreme wealth inequality and institutional distrust historically fuel authoritarian populism.  
+   ### Populism: The Phenomenon — Wealth Inequality, Social Polarization, and the Anatomy of Political Extremism
+
+1130. **[[heritage-foundation-rebuilding-americas-military-united-states-navy]]** ([[brent-d-sadler]], Source: `Politics/2021 Rebuilding America’s Military -  The United States Navy by the Heritage Foundation_.pdf`)  
+   Comprehensive 102-page defense study by The Heritage Foundation evaluating the naval balance of power between the United States and China's People's Liberation Army Navy (PLAN), detailing shipbuilding bottlenecks and fleet expansion requirements.  
+   ### Rebuilding America's Military: The United States Navy — Fleet Architecture, Shipbuilding Realities, and Great Power Deterrence
+
+1131. **[[hoover-digest-winter-2024-compendium]]** ([[hoover-institution-scholars]], Source: `Politics/2024 Hoover Digest W24 full issue.pdf`)  
+   Monumental 208-page quarterly research compendium from the Hoover Institution at Stanford University, featuring essays on Taiwan defense, Ukrainian counteroffensives, federal debt sustainability, and free-market institutional design.  
+   ### Hoover Digest Winter 2024: Research and Opinion on Public Policy, Geopolitics, and Democratic Renewal
+
+1132. **[[tbmm-milli-dayanisma-ve-demokrasi-komisyonu-raporu-2026]]** ([[turkiye-buyuk-millet-meclisi-tbmm]], Source: `Politics/2026 TBMM Demokrasi Komisyon_Raporu.pdf`)  
+   Official 110-page parliamentary commission report by the Grand National Assembly of Turkey (TBMM, February 2026) evaluating national democratic resilience, institutional cohesion, and societal solidarity against polarization.  
+   ### TBMM Millî Dayanışma, Kardeşlik ve Demokrasi Komisyonu Raporu 2026: Demokratik Kurumlar ve Toplumsal Birlik
+
+1133. **[[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]** ([[avrasya-incelemeleri-merkezi-avim]], Source: `Politics/AVIM-faaliyet-2023int.pdf`)  
+   Exhaustive 108-page annual research report from the Center for Eurasian Studies (AVİM), detailing geopolitical shifts across the South Caucasus (Karabakh), the Balkans, Central Asian transport corridors (Middle Corridor), and Turkish diplomacy in 2023.  
+   ### AVİM Avrasya İncelemeleri Merkezi Yıllık Raporu 2023: Balkanlar, Kafkaslar ve Avrasya Jeopolitiği
+
+1134. **[[european-parliament-post-election-survey-report-2019]]** ([[european-parliament-public-opinion-monitoring-unit]], Source: `Politics/Europe-post-election-survey-2019-report.pdf`)  
+   Monumental 118-page pan-European post-election survey analyzing voter turnout surging to 50.66%, youth mobilization, climate awareness, and the fragmenting party dynamics of the 2019 European Parliament elections.  
+   ### The 2019 Post-Electoral Survey: Have European Elections Entered a New Dimension?
+
+1135. **[[generation-z-global-citizenship-and-youth-wellbeing-compendium]]** ([[varkey-foundation-research]], Source: `Politics/global-young-people-report-single-pages-new.pdf`, `Politics/global-young-people-report-turkey.pdf`)  
+   Exhaustive 121-page international census across 20 countries surveying 20,000 young people (Generation Z) on mental wellbeing, social justice, globalization, and democratic trust, featuring a dedicated Turkey country dossier.  
+   ### Generation Z Global Citizenship and Youth Wellbeing Compendium: Values, Anxieties, and Political Outlook
+
+1136. **[[king-charles-iii-coronation-and-constitutional-monarchy-compendium]]** ([[british-constitutional-studies-group]], Source: `Politics/OK King Charles III A Complete to the Coronation 2023.pdf`)  
+   Monumental 193-page commemorative and constitutional compendium analyzing the 2023 coronation of King Charles III, exploring the sacred liturgy, Walter Bagehot's 'dignified' versus 'efficient' parts of government, and the modern Commonwealth.  
+   ### King Charles III and the British Constitutional Monarchy: The Coronation, Royal Prerogative, and Democratic Continuity
+
+1137. **[[gilens-murakawa-elite-cues-and-political-decision-making]]** ([[martin-gilens]], [[naomi-murakawa]], Source: `Politics/elite_cues_and_political_decision_making.pdf`, `Politics/elite_cues_and_political_decision_making 2.pdf`)  
+   Landmark empirical political science study examining how ordinary citizens rely on cognitive shortcuts and elite party endorsements to make complex policy decisions, evaluating whether heuristics enhance or degrade democratic competence.  
+   ### Elite Cues and Political Decision Making: Information Short-Cuts, Partisan Heuristics, and Democratic Competence
+
+1138. **[[mordecai-roshwald-democracy-and-the-elite]]** ([[mordecai-roshwald]], Source: `Politics/roshwald.pdf`, `Politics/roshwald 2.pdf`)  
+   Philosophical treatise by Mordecai Roshwald exploring the enduring historical tension between democratic mass egalitarianism and the functional necessity of intellectual and administrative meritocracies.  
+   ### Democracy and the Elite: The Unresolved Tension Between Mass Sovereignty and Meritocratic Governance
+
+1139. **[[united-states-constitution-and-constitutional-republic-compendium]]** ([[framers-of-the-united-states-constitution]], Source: `Politics/US Constitution.pdf`, `Politics/US Constitution 2.pdf`)  
+   Authoritative primary source compendium of the United States Constitution (1787), Bill of Rights, and 27 Amendments, establishing the institutional blueprint of federalism, bicameralism, and judicial review.  
+   ### The Constitution of the United States: Preamble, Articles, Amendments, and the Architecture of Separated Powers
+
+1140. **[[turkish-electoral-dynamics-and-voter-alignment-compendium]]** ([[yoneylem-sosyal-arastirmalar-merkezi]], [[metropoll-arastirma]], [[ipsos-turkiye]], [[bank-of-america-global-research]], Source: `Politics/Analyzing Party Positions and Electoral Dynamics in Turkey 2019.pdf`, `Politics/Political Distribution in Turkey 2015 Dergi Park.pdf`, `Politics/2023 03 30 BOFA - Elections in May - Is Turkey heading towards orthodoxy.pdf`, `Politics/2023 04 05 Morgan Stanley - Turkey Macro Trip Notes.pdf`, `Politics/Turkiye_2023_Elections_Three_Economic_Scenarios.pdf`, `Politics/turkiye_geneli_siyasal_gundem_ve_secmen_egilimi_saha_arastirma_raporu_nisan_2023-1.pdf`, `Politics/METROPOLL İstanbul (Taylan Yıldız) Rapor Ekim 2023.pdf`, `Politics/2024 Türkiye Ipsos Yerel Seçimleri Sandık Sonrası Araştırması.pdf`, `Politics/GlobalAnalitik SosyalMedyaTurkiye Raporu 13 Temmuz 2020.pdf`, `Politics/If Turkey sacks its strongman, democrats everywhere should take heart _ The Economist.pdf`)  
+   Monumental 10-dossier empirical compendium analyzing Turkish voting behavior, party polarization, macroeconomic policy scenarios, and electoral outcomes across general and local elections from 2015 to 2024.  
+   ### Turkish Electoral Dynamics and Voter Alignment Compendium (2015–2024): Field Research, Macro Scenarios, and Local Elections
+
+1141. **[[turkish-legislation-and-political-parties-code-compendium]]** ([[turkiye-cumhuriyeti-resmi-gazete]], Source: `Politics/Anayasa Parti.pdf`, `Politics/Turkey Party Legislation.pdf`, `Politics/2024 01 19 Turkiye Resmi Gazete Orman.pdf`)  
+   Legal and administrative compendium analyzing Law No. 2820 (Political Parties Law), constitutional compliance with international Venice Commission standards, and the 2024 Turkish Forestry Code decrees.  
+   ### Turkish Political Parties Code and Environmental Legislation: Law No. 2820 and Administrative Forest Decrees
+
+1142. **[[turkish-republic-territorial-diplomacy-and-sovereignty]]** ([[turkish-diplomatic-history-research-group]], Source: `Politics/Turkey_Territorial_Changes.txt`)  
+   Historical diplomatic treatise analyzing the peaceful evolution of Turkish borders since 1923, focusing on the 1936 Montreux Straits Convention, the 1939 Hatay accession, and maritime diplomacy.  
+   ### Turkish Republic Territorial Sovereignty: Borders, Accessions, and International Treaties Since 1923
+
+1143. **[[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]** ([[alexander-f-siegenfeld]], [[yaneer-bar-yam]], Source: `Politics/2020 Negative representation and instability in democratic elections Alexander Siegenfeld- Yaneer Bar-Yam.pdf`)  
+   Landmark paper in Nature Physics (2020) by MIT and NECSI physicists applying Landau phase transition theory to democratic elections, proving that polarized two-party systems produce 'negative representation' where shifting voter ideology left moves election outcomes right.  
+   ### Negative Representation and Instability in Democratic Elections: A Complex Systems and Statistical Physics Analysis
+
+1144. **[[bonica-grumbach-old-money-campaign-finance-gerontocracy]]** ([[adam-bonica]], [[jacob-m-grumbach]], Source: `Politics/2023 Old Money- Campaign Finance and Gerontocracy in the United States bonica_grumbach_old_money.pdf`)  
+   Monumental 57-page empirical paper by Stanford and Berkeley political scientists Adam Bonica and Jacob Grumbach demonstrating that private campaign finance networks systematically tilt American politics toward a billionaire gerontocracy.  
+   ### Old Money: Campaign Finance and Gerontocracy in the United States — Wealth, Age, and Political Exclusion
+
+1145. **[[goerres-why-are-older-people-more-likely-to-vote]]** ([[achim-goerres]], Source: `Politics/Goerres_BJPIR_9_2007_Why are Older People More Likely to Vote.pdf`)  
+   Classic empirical paper in British Journal of Politics & International Relations (BJPIR) analyzing why elderly citizens vote at significantly higher rates than youth across 10 European nations.  
+   ### Why Are Older People More Likely to Vote? Aging, Civic Duty, and Electoral Turnout in Advanced Democracies
+
+1146. **[[political-fandom-and-neuromarketing-in-elections]]** ([[stephen-reysen]], [[political-neuromarketing-research-group]], Source: `Politics/2010_Reysen Fandom and Fanship.pdf`, `Politics/2019 The effect of political neuromarketing 2.0 on election outcomes The case of Trump’s presidential 2016 campiagn.pdf`, `Politics/Fandom In Politics_ Scale Development And Validation.pdf`)  
+   Three-volume psychometric and cognitive science compendium analyzing how political party identification has morphed into tribal 'fandom', and how neuromarketing 2.0 micro-targeting exploits cognitive biases to sway democratic elections.  
+   ### Political Fandom and Neuromarketing: Cambridge Analytica Psychometrics, Social Identity, and Partisan Fan Culture
+
+1147. **[[us-presidential-election-polling-and-voter-psychology-2024]]** ([[atlas-intel-polling-institute]], [[yougov-us-political-research]], Source: `Politics/2024 Atlas Poll - US Swing States - 02-11-2024.pdf`, `Politics/2024 USA Presidential_Qualities.pdf`, `Politics/2024 Why half of America will vote for Donald Trump.pdf`, `Politics/Conflicting_Statements_Trump.pdf`)  
+   Four-dossier political intelligence compendium analyzing the 2024 U.S. presidential election, including AtlasIntel's swing-state polling, YouGov presidential attributes surveys, and sociological autopsies of Donald Trump's working-class voter coalition.  
+   ### US Presidential Election 2024: Swing State Dynamics, Candidate Attributes, and the Conservative Coalition
+
+1148. **[[physics-of-political-diffusion-and-regime-dynamics]]** ([[computational-political-physics-group]], Source: `Politics/2024 Unraveling 20th-century political regime dynamics using the physics of diffusion.pdf`)  
+   Pioneering 2024 scientific paper modeling 20th-century political regime transitions (democracy vs. autocracy) using Fokker-Planck diffusion equations and potential energy landscapes across Polity V historical data.  
+   ### Unraveling 20th-Century Political Regime Dynamics Using the Physics of Diffusion
+
+1149. **[[ecfr-what-the-world-thinks-of-trump-ukraine-and-china]]** ([[ivan-krastev]], [[mark-leonard]], Source: `Politics/2024 What the world thinks of Trump, Ukraine and Chinese supremacy.pdf`)  
+   Global public opinion survey report by the European Council on Foreign Relations (ECFR) surveying citizens across 21 countries, revealing a fractured multi-polar world where non-Western powers reject choosing sides between the US and China.  
+   ### What the World Thinks of Trump, Ukraine, and Chinese Supremacy: Global Public Opinion in a Multi-Polar Order
+
+1150. **[[hbr-rules-for-companies-navigating-geopolitical-volatility]]** ([[harvard-business-review-editors]], Source: `Politics/2024 HBR 5_Rules_for_Companies_Navigating_Geopolitical_Volatility.pdf`)  
+   Harvard Business Review executive briefing establishing five governance rules for multinational corporations operating amidst escalating great-power rivalry, sanctions, export controls, and supply chain friend-shoring.  
+   ### Five Rules for Companies Navigating Geopolitical Volatility: Corporate Strategy in a De-Globalizing World
+
+1151. **[[shepersisted-big-tech-weaponized-misogyny-moldova-report]]** ([[she-persisted-global-initiative]], Source: `Politics/2024 ShePersisted-Moldova-Report-ENG.pdf`)  
+   Investigative report by She Persisted analyzing Russian-backed covert digital influence operations and algorithmic gendered disinformation targeting President Maia Sandu and female leaders in Moldova's pivotal elections.  
+   ### Big Tech and the Weaponization of Misogyny in Moldova's Online Ecosystem: Digital Information Warfare in Frontline Democracies
+
+1152. **[[global-disputed-territories-and-military-blocs-2025]]** ([[strategic-geopolitics-working-group]], Source: `Politics/2025 07 Global_Disputed_Territories_and_Wars_2025.txt`, `Politics/Military_Power_Comparison_of_Regional_Blocs.csv`, `Politics/NATO_vs_SCO_Early_Challenges_Comparison.csv`, `Politics/geopolitics_rule_of_law.txt`)  
+   Four-dossier defense intelligence compendium mapping active global territorial disputes, comparative military personnel and nuclear capabilities across regional blocs (NATO, SCO, CSTO), and the theoretical erosion of the international rule of law.  
+   ### Global Disputed Territories and Military Blocs Compendium 2025: Territorial Conflicts, NATO vs. SCO, and Strategic Balance
+
+1153. **[[russia-ukraine-war-and-eurasian-geopolitics-compendium]]** ([[anar-somuncuoglu]], [[strategic-eurasian-studies-consortium]], Source: `Politics/2023 UKRAYNA SAVAŞININ ORTA ASYA’YA ETKİSİ anar somuncuoglu.pdf`, `Politics/2023 YENİ ‘MEDENİYETLER ÇATIŞMASI’NDA YUNANİSTAN’IN BELİRSİZ ROLÜ- YUNAN DENİZCİLERİN AB YAPTIRIMLARINI İHLALLERİNİN HUKUKİ, POLİTİK VE EKONOMİK AÇIDAN DEĞERLENDİRİLMESİ.pdf`, `Politics/russia_imperial_mission_full.txt`, `Politics/russia_ukraine_future_scenarios_full.txt`, `Politics/Russia_Losses_Aggression_Summary.txt`)  
+   Five-dossier strategic compendium analyzing Russia's imperial ideology (*Russkiy Mir*), Ukraine war attritional scenarios, battlefield losses, Greek maritime sanctions evasion, and the geopolitical realignment of Central Asia.  
+   ### Russia's Imperial Statecraft, Ukraine War Scenarios, and the Central Asian Rebalancing
+
+1154. **[[soviet-and-russian-historiographical-manipulation-in-central-asia]]** ([[central-eurasian-historiography-project]], Source: `Politics/Russian Central History Suppression_.txt`, `Politics/Russian_Manipulation_Central_Asian_History.txt`)  
+   Investigative historical treatise analyzing how Tsarist and Soviet state authorities systematically censored, manipulated, and re-engineered Central Asian archaeology and Turkic historiography to prevent pan-Turkic political solidarity.  
+   ### Historiographical Manipulation in Central Asia: The Suppression of Turkic Origins and Soviet Archaeological Revisionism
+
+1155. **[[post-yugoslav-trials-and-serbian-nationalist-collapse]]** ([[balkan-transitional-justice-study-group]], Source: `Politics/Serbian_Leadership_After_Kosovo_War.txt`, `Politics/Serbian_Racism_and_Failures.txt`)  
+   Historical and legal dossier tracing the political downfall, international criminal trials at the Hague (ICTY), and strategic failure of Slobodan Milošević's ultra-nationalist regime following the 1999 Kosovo War.  
+   ### Balkan Nationalist Collapse: Slobodan Milošević, Serbian Leadership, and the Legacy of the Kosovo War
+
+1156. **[[trump-putin-netanyahu-erdogan-comparative-negotiation-psychometrics]]** ([[comparative-political-psychology-lab]], Source: `Politics/Trump_Putin_Netanyahu_Erdogan_Full_Negotiation_Analysis.txt`, `Politics/Trump_Putin_Netanyahu_Full_Detailed_Comparison.pdf`, `Politics/Trump_Putin_Netanyahu_Full_Negotiation_Analysis_Final.pdf`)  
+   Three-dossier political psychometric compendium conducting a comparative behavioral and negotiation analysis across Donald Trump, Vladimir Putin, Benjamin Netanyahu, and Recep Tayyip Erdoğan, decoding their cognitive styles, risk thresholds, and crisis tactics.  
+   ### Trump, Putin, Netanyahu, Erdoğan: Comparative Leadership Psychometrics, Negotiation Doctrines, and Crisis Decision-Making
+
+1157. **[[xi-jinping-governance-and-chinese-strategic-trajectory]]** ([[contemporary-china-studies-consortium]], Source: `Politics/2025 The fading power of Xi Jinping.pdf`, `Politics/Xi_vs_Contemporaries_Comparison.txt`)  
+   Dual-dossier political intelligence report evaluating Xi Jinping's unprecedented centralization of power, the economic transition to state-led 'high-quality development', structural real estate debt, and comparative leadership against Western contemporaries.  
+   ### Xi Jinping's Consolidation and China's Strategic Trajectory: Ideology, Economic Slowdown, and Contemporary World Leadership
+
+1158. **[[un-hrc-economy-of-occupation-and-international-accountability]]** ([[united-nations-human-rights-council-unhrc]], [[francesca-albanese]], Source: `Politics/2025 UN Report on From economy of occupation to economy of genocide.pdf`, `Politics/companies_universities_genocide_report.txt`, `Politics/US_WarCrimes_Aid_Accountability.txt`)  
+   Explosive UN Human Rights Council report (A/HRC/59/23, 2025) and investigative dossier detailing multinational corporate complicity, university research ties, and foreign government legal liability under international humanitarian law and the Genocide Convention in the Gaza War.  
+   ### From Economy of Occupation to Economy of Genocide: Corporate Complicity, Academic Ties, and Legal Accountability
+
+1159. **[[henry-jackson-society-gaza-and-british-defense-briefing]]** ([[henry-jackson-society-research]], Source: `Politics/2025 HJS-Gaza-Humanitarian-Foundation-Briefing-web.pdf`)  
+   Strategic briefing by the Henry Jackson Society examining post-Brexit British grand strategy, European defense contributions to NATO, and humanitarian coordination in the Gaza theater.  
+   ### Defending Europe: Global Britain, the Future of European Geopolitics, and the Gaza Crisis
+
+1160. **[[oic-istanbul-declaration-2025-foreign-ministers-council]]** ([[organisation-of-islamic-cooperation-oic]], Source: `Politics/2025 OIC Istanbul Declaration.pdf`)  
+   Official multilateral declaration adopted by the 51st Session of the Council of Foreign Ministers of the Organisation of Islamic Cooperation (OIC) in Istanbul (2025), establishing unanimous diplomatic positions on Palestinian statehood, combating Islamophobia, and multilateral institutional reform.  
+   ### OIC Istanbul Declaration 2025: Islamic Diplomatic Consensus on Palestine, Regional Security, and Global Governance
+
+1161. **[[demographic-migration-economics-and-border-policy-aeon]]** ([[aeon-essays-editorial]], Source: `Politics/2026 05 22 Aeon More migration or less migration_ The answer is boring _ Aeon Essays.pdf`)  
+   Philosophical and economic essay in Aeon dismantling binary political rhetoric around immigration, proving that both absolute open borders and total nativist restrictionism are economically catastrophic, while optimal border governance requires nuanced demographic balancing.  
+   ### More Migration or Less Migration? The Economic, Demographic, and Philosophical Realities of Border Governance
+
+1162. **[[declassified-911-investigative-dossier]]** ([[declassified-intelligence-archive-consortium]], Source: `Politics/9-11 Dancing Israeli Summary.txt`, `Politics/9-11 dancing_israelis_summary.txt`, `Politics/dancing_israelis_summary.txt`)  
+   Investigative counter-intelligence dossier analyzing declassified FBI Section 265 investigative files, East Rutherford police reports, and detainee depositions regarding the five Israeli nationals arrested in New Jersey on September 11, 2001.  
+   ### Declassified 9/11 Counter-Intelligence: The Urban Moving Systems Detentions and Foreign Intelligence Operations
+
+1163. **[[propaganda-doctrine-of-accusation-in-a-mirror]]** ([[propaganda-and-conflict-studies-group]], Source: `Politics/Accusation_in_a_Mirror_Israel.txt`, `Politics/Comparing Hutu and Israeli Use of “Accusation in a Mirror” Tactics.pdf`, `Politics/Hutu_Israel_Accusation_Comparison.txt`)  
+   Comparative propaganda study examining the tactical doctrine of 'Accusation in a Mirror' (accusing one's adversary of the exact crimes one intends to commit), comparing historical radio propaganda in the 1994 Rwandan Genocide with contemporary state wartime rhetoric.  
+   ### Accusation in a Mirror: The Psychological and Rhetorical Propaganda Doctrine of Inverting Victim and Aggressor
+
+1164. **[[cognitive-biases-and-territorial-conflict-in-the-levant]]** ([[levantine-conflict-and-security-consortium]], Source: `Politics/Cognitive_Biases_Israel_Palestine.txt`, `Politics/BCG modelled plan to ‘relocate’ Palestinians from Gaza.pdf`, `Politics/Did_Palestinians_Reject_Peace.txt`, `Politics/Is_Israel_Palestine_Conflict_Only_Muslim_Issue.txt`, `Politics/Israel_Economic_Impact_Gaza_War_2023_2025.txt`, `Politics/Israel_Protests_2024_2025.txt`, `Politics/Israeli_Military_Operations_Since_1948.txt`, `Politics/Latest_Israel_Hamas_Peace_Proposal_May_2025.txt`, `Politics/Overview of Israeli Support to Terrorist or Militant Groups.pdf`)  
+   Monumental 9-dossier research compendium tracking Israeli military operations since 1948, evaluating peace proposal rejections (Camp David, Taba, 2025 proposals), domestic Israeli protests against Netanyahu, Boston Consulting Group population transfer modeling, and the economic toll of the Gaza War.  
+   ### Cognitive Biases, Peace Rejections, and Military Operations in the Levant (1948–2025)
+
+1165. **[[land-purchases-and-demographic-sovereignty-palestine-cyprus]]** ([[mediterranean-land-and-sovereignty-group]], Source: `Politics/Zionist_Land_Purchases_Ottoman_Empire.txt`, `Politics/Jewish_Land_Purchases_UN_Analysis.txt`, `Politics/israelis_buying_land_in_cyprus.txt`, `Politics/minority_land_grants.txt`)  
+   Four-dossier historical and legal compendium analyzing how real estate acquisitions have been deployed as tools of territorial sovereignty, comparing early Zionist land purchases in Ottoman Palestine and Mandatory Palestine with contemporary Israeli land acquisitions in Northern Cyprus (TRNC).  
+   ### Land Purchases, Demographic Sovereignty, and Real Estate Statecraft: From Ottoman Palestine to Modern Northern Cyprus
+
+1166. **[[israeli-intelligence-and-proxy-operations-in-iraq]]** ([[middle-east-intelligence-studies-group]], Source: `Politics/Israel_Activities_in_Iraq.txt`, `Politics/Israel_Activities_in_Iraq_Detailed.txt`)  
+   Detailed intelligence study chronicling the history of Mossad covert action in Iraq from Operation Ezra and Nehemiah (1950s) and Operation Babylon (Osirak 1981) to post-2003 intelligence surveillance hubs in Iraqi Kurdistan.  
+   ### Shadows over Mesopotamia: Israeli Intelligence, Covert Operations, and Kurdish Proxy Networks in Iraq
+
+1167. **[[iran-destabilization-and-covert-war-objectives]]** ([[persian-gulf-security-working-group]], Source: `Politics/How_West_and_USA_Screwed_Up_Iran.txt`, `Politics/Early War Goal Was to Install Hard Line Former President as Iran’s Leader - The New York Times.pdf`, `Politics/Iran_Recent_Sports_Success_2024_2025.txt`)  
+   Three-dossier geopolitical compendium analyzing Western covert intervention in Iran (from the 1953 Ajax coup to modern cyber warfare), leaked intelligence war plans, and Iranian domestic resilience.  
+   ### Targeting the Islamic Republic: Covert Operations, Regime Change Agendas, and Iranian Geopolitical Resilience
+
+1168. **[[the-concept-of-the-deep-state-global-comparative-study]]** ([[comparative-statecraft-research-consortium]], Source: `Politics/Deep_State_Global_Overview.txt`)  
+   Comparative political science treatise tracing the origins of the 'Deep State' concept from its historical Turkish birthplace (*Derin Devlet*) to its institutional manifestations in Egypt, Pakistan, the United States, and Russia.  
+   ### The Concept of the Deep State: Administrative Autonomy, Intelligence Bureaucracies, and Shadow Governance Across Nations
+
+1169. **[[deferred-complicity-in-democratic-education]]** ([[critical-pedagogy-and-democracy-group]], Source: `Politics/Deferred Complicity.pdf`, `Politics/Deferred Complicity 2.pdf`)  
+   Scholarly essay in Democracy & Education articulating the concept of 'Deferred Complicity'—how liberal educational reforms perpetuate systemic inequality by deferring fundamental structural redistribution.  
+   ### Deferred Complicity: Institutional Racism, Social Justice Pedagogies, and Educational Equity
+
+1170. **[[authoritarian-governance-in-the-united-arab-emirates]]** ([[gulf-authoritarianism-study-group]], Source: `Politics/Dictatorial_Tendencies_in_UAE.txt`)  
+   Investigative political science study evaluating the governance architecture of the United Arab Emirates (UAE) under Mohammed bin Zayed (MBZ), examining digital surveillance, sovereign wealth patronage, and regional proxy warfare.  
+   ### Dictatorial Tendencies and Modernizing Autocracy in the United Arab Emirates: Surveillance, Patronage, and Foreign Statecraft
+
+1171. **[[municipal-coalition-politics-and-immigrant-mayors]]** ([[urban-political-sociology-consortium]], Source: `Politics/Mamdani_vs_Khan_Ideological_Comparison.pdf`, `Politics/Immigrant_Descendant_Mayors_and_Mamdani_Comparison.txt`, `Politics/Jewish_Community_Sizes_and_Power_Comparison.txt`, `Politics/Jewish_Community_and_Media_Responses_to_Immigrant_Mayors.txt`, `Politics/US_Cities_Jewish_Community_Influence_and_Engagement.pdf`, `Politics/US_Cities_Jewish_Community_Influence_and_Engagement.txt`)  
+   Six-dossier urban political sociology compendium comparing the electoral strategies and coalition governance of immigrant-descendant leaders across London (Sadiq Khan) and New York City (Zohran Mamdani), analyzing demographic voting blocs and inter-ethnic tensions.  
+   ### Municipal Coalition Politics and Immigrant Mayors: Sadiq Khan, Zohran Mamdani, and Urban Ethnic Power Dynamics
+
+1172. **[[historical-evolution-of-cartography-and-world-maps]]** ([[historical-cartography-research-group]], Source: `Politics/Historical_Evolution_of_Maps.txt`)  
+   Historical treatise tracking the political and scientific evolution of world maps from the Babylonian clay tablet (c. 700 BCE) and Ptolemaic projections to medieval Mappa Mundi, Ottoman Piri Reis, and the imperial Mercator projection.  
+   ### The Cartographic Imagination: Historical Evolution of World Maps from the Babylonian Imago Mundi to Mercator
+
+1173. **[[mavi-marmara-maritime-raid-and-diplomatic-aftermath]]** ([[maritime-conflict-and-diplomacy-group]], Source: `Politics/Mavi_Marmara_Incident_Overview.txt`)  
+   Strategic and legal dossier examining the May 31, 2010 Israeli naval interception of the Gaza Freedom Flotilla in international waters, analyzing naval blockade legality under the San Remo Manual, the Palmer Report, and the decimation of Turkish-Israeli relations.  
+   ### The Mavi Marmara Flotilla Raid: Maritime Law, Siege Warfare, and the Rupture of Turkish-Israeli Strategic Ties
+
+1174. **[[multi-ethnic-states-and-constitutional-governance]]** ([[comparative-constitutionalism-study-group]], Source: `Politics/Multi-Ethnic Nations.pdf`)  
+   Comparative constitutional treatise evaluating institutional power-sharing mechanisms in multi-ethnic and multi-religious states across India, Iran, China, Switzerland, and South Africa.  
+   ### Multi-Ethnic Nations: Institutional Consociationalism, Federalism, and Conflict Resolution in Diverse Societies
+
+1175. **[[south-asian-proxy-warfare-and-clandestine-operations]]** ([[south-asian-security-studies-consortium]], Source: `Politics/India_Proxy_Support_TerrorTable.csv`)  
+   Intelligence database and analysis documenting alleged state-sponsored proxy networks, insurgent training bases, and covert financing across India, Pakistan, Bangladesh, and Sri Lanka.  
+   ### Proxy Warfare in South Asia: State-Sponsored Paramilitaries, Covert Financing, and Sub-Conventional Conflict
+
+1176. **[[hersh-the-killing-of-osama-bin-laden-and-diplomatic-deceptions]]** ([[seymour-m-hersh]], Source: `Politics/Osama_Bin_Laden_Raid_Summary_and_Diplomatic_Behaviors.txt`)  
+   Investigative analysis of Seymour Hersh's explosive London Review of Books report on the 2011 Abbottabad raid, evaluating allegations of high-level Pakistani military complicity, Saudi financing, and the official White House narrative.  
+   ### The Killing of Osama bin Laden: Intelligence Deceptions, Pakistani Complicity, and Sovereign Intrusion in Abbottabad
+
+1177. **[[empires-versus-colonizers-institutional-and-administrative-divergence]]** ([[comparative-imperial-studies-group]], Source: `Politics/empires_vs_colonizers.txt`, `Politics/empires_vs_colonizers_updated.txt`)  
+   Comparative institutional political science study differentiating multi-ethnic contiguous land empires (Ottoman, Roman, Austro-Hungarian, Persian) from Western maritime colonial empires (British, French, Belgian, Dutch).  
+   ### Empires vs. Colonizers: Institutional Architecture, Extraction Models, and Administrative Divergence in World History
+
+1178. **[[american-hegemonic-decline-and-historical-parallels]]** ([[macro-hegemonic-studies-consortium]], Source: `Politics/us_global_decline_full_with_future_scenarios.txt`)  
+   Grand strategic treatise analyzing American hegemonic decline, imperial overstretch, de-dollarization pressures, and future transition scenarios (multipolarity, regional spheres of influence, or hegemonic conflict).  
+   ### Comparative Analysis: U.S. Global Business Decline, Hegemonic Overstretch, and Future Multipolar Scenarios
+
+1179. **[[yazicioglu-politics-of-the-invisible-post-truth-and-arendts-nobody]]** ([[taha-yazicioglu]], Source: `Politics/yazicioglu-2023-the-politics-of-the-invisible-post-truth-s-instrumental-use-of-transparency-and-arendt-s-nobody.pdf`)  
+   Groundbreaking paper in Philosophy and Social Criticism (2023) by Taha Yazıcıoğlu, analyzing how authoritarian post-truth regimes weaponize radical transparency to produce opacity, invoking Hannah Arendt's concept of rule by 'Nobody'.  
+   ### The Politics of the Invisible: Post-Truth's Instrumental Use of Transparency and Arendt's 'Nobody'
+
+1180. **[[political-psychology-of-prejudice-racism-and-nationalism]]** ([[political-psychology-study-network]], Source: `Politics/Psychological biases and racism_.txt`, `Politics/Racism_vs_Nationalism.txt`)  
+   Cognitive science and political theory compendium analyzing the cognitive biases underlying racism (availability heuristic, outgroup homogeneity), while demarcating the structural and philosophical boundary between civic nationalism and ethnic racism.  
+   ### Prejudice, Nationalism, and Systemic Racism: Cognitive Biases, Tribal Heuristics, and Civic Identity
+
+1181. **[[us-anti-boycott-legislation-and-first-amendment-jurisprudence]]** ([[constitutional-and-civil-liberties-legal-group]], Source: `Politics/Anti_Boycott_Act_2018_Summary.txt`)  
+   Legal analysis of the federal Anti-Boycott Act of 2018 and state-level anti-BDS statutes, evaluating constitutional conflicts with Supreme Court First Amendment precedents protecting politically motivated consumer boycotts (NAACP v. Claiborne Hardware).  
+   ### The Anti-Boycott Act and the Constitution: Federal Legislation, State Laws, and First Amendment Boycott Protections

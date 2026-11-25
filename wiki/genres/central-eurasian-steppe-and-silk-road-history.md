@@ -12,6 +12,7 @@ Central Eurasian Steppe and Silk Road History spans the immense belt connecting 
 ---
 
 ## Books in Wiki
+- [[soviet-and-russian-historiographical-manipulation-in-central-asia]]
 - [[mullin-genghis-khan-trade-warrior-pax-mongolica]]
 - [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]

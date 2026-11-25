@@ -14,6 +14,8 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 ---
 
 ## Books in Wiki
+- [[demographic-migration-economics-and-border-policy-aeon]]
+- [[yazicioglu-politics-of-the-invisible-post-truth-and-arendts-nobody]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]
 - [[the-scythian-empire]] (2023) — [[christopher-i-beckwith]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]

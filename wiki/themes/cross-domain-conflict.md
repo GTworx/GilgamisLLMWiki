@@ -46,3 +46,8 @@ Sweijs, Zilincik, and Osinga emphasize three critical systemic risks in cross-do
 
 - **Related Themes**: [[deterrence-and-coercion]], [[hybrid-threats-and-cyber-warfare]], [[nuclear-strategy-and-strategic-stability]], [[non-western-strategic-thought]], [[rationality-and-decision-making]]
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[security-studies]], [[international-relations]]
+
+## Books in Wiki
+- [[global-disputed-territories-and-military-blocs-2025]]
+- [[henry-jackson-society-gaza-and-british-defense-briefing]]
+- [[heritage-foundation-rebuilding-americas-military-united-states-navy]]
