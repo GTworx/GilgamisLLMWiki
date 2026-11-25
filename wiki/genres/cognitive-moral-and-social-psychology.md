@@ -14,6 +14,9 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[national-geographic-blue-zones-and-centenarian-longevity-secrets]] (2023) — [[national-geographic-society]], [[dan-buettner]]
+- [[skepticism-vs-cynicism-reforming-health-and-wellness-standards]] (2023) — [[evidence-based-wellness-consortium]]
+- [[age-friendly-cities-and-senior-living-2030-housing-policy]] (2019) — [[joost-van-hoof]], [[united-nations-economic-commission-for-europe-unece]]
 - [[intentional-attention]] (2026) — [[justin-anderson]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]

@@ -42,3 +42,7 @@ As modern conflict accelerates through algorithmic command-and-control, precisio
 - [[strategic-studies]]
 - [[security-studies]]
 - [[organizational-psychology]]
+
+- [[palanker-subretinal-photovoltaic-implant-restores-vision-in-amd]]
+
+- [[personalized-hydration-physiology-sweat-sodium-balance-in-athletes]]

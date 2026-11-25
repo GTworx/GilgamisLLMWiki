@@ -28,3 +28,8 @@ The World Health Organization (WHO) is the specialized agency of the United Nati
 - [[biotechnology-medicine-and-longevity]]
 - [[catastrophe-risk-financing-and-disaster-resilience]]
 - [[human-performance-enhancement-and-neuro-warfare]]
+
+
+## Works in Wiki
+- [[who-global-atlas-of-medical-devices-compendium]]
+- [[who-global-benchmarking-tool-for-medicines-and-health-regulators]]

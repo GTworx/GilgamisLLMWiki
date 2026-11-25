@@ -88,3 +88,17 @@
 - [[organizational-psychology]]
 - [[political-science]]
 - [[archaeological-historiography]]
+
+- [[meeker-bond-our-new-world-covid-macroeconomic-impact-compendium]]
+
+- [[enterprise-pandemic-recovery-workplace-safety-and-executive-leadership]]
+
+- [[bioprinting-decellularized-lung-ecm-bioink-organ-fabrication]]
+
+- [[in-situ-printing-biodegradable-implant-critical-bone-defect]]
+
+- [[interventional-genetics-personalized-in-vivo-crispr-gene-editing-platforms]]
+
+- [[levenson-avian-radiological-image-reading-and-pattern-recognition]]
+
+- [[radiation-oncology-biologically-effective-dose-and-eqd2-modeling]]

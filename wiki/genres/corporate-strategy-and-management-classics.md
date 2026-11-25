@@ -14,6 +14,15 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[confederation-of-indian-industry-healthcare-ecosystem-report]] (2022) — [[confederation-of-indian-industry-cii]]
+- [[american-hospital-association-fast-facts-and-us-healthcare-policy]] (2023) — [[american-hospital-association-aha]], [[us-healthcare-policy-research-group]]
+- [[oecd-health-status-and-daly-vs-qaly-health-economics-compendium]] (2023) — [[organisation-for-economic-co-operation-and-development-oecd]], [[health-economics-methodology-group]]
+- [[digital-health-executive-compensation-and-equity-benchmarks]] (2024) — [[digital-health-compensation-consortium]]
+- [[cms-medicare-medicaid-physician-fee-schedule-and-rvu-regulations]] (2025) — [[centers-for-medicare-and-medicaid-services-cms]]
+- [[global-healthcare-and-life-sciences-strategic-outlook-compendium]] (2025) — [[deloitte-center-for-health-solutions]], [[global-healthcare-strategy-consortium]]
+- [[pitchbook-healthtech-ambient-ai-scribes-and-healthcare-pe]] (2025) — [[pitchbook-emerging-tech-research]]
+- [[enterprise-pandemic-recovery-workplace-safety-and-executive-leadership]] (2020) — [[boris-groysberg]], [[forrester-research-consortium]], [[ibm-trending-insights]]
+- [[meeker-bond-our-new-world-covid-macroeconomic-impact-compendium]] (2020) — [[mary-meeker]], [[michael-cembalest]], [[citi-global-perspectives-and-solutions]]
 - [[hbr-at-100]] (2022) — [[harvard-business-review-editorial]], [[adi-ignatius]]
 - [[hbr-women-at-work-collection]] (2022) — [[harvard-business-review-editorial]], [[amy-c-edmondson]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]

@@ -14,6 +14,10 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[radiation-oncology-biologically-effective-dose-and-eqd2-modeling]] (2024) — [[radiation-oncology-physics-consortium]]
+- [[levenson-avian-radiological-image-reading-and-pattern-recognition]] (2026) — [[richard-m-levenson]], [[edward-a-wasserman]]
+- [[reik-multi-omic-rejuvenation-by-transient-reprogramming]] (2022) — [[wolf-reik]], [[diljeet-gill]]
+- [[snyder-nonlinear-dynamics-of-multi-omics-profiles-during-human-aging]] (2024) — [[michael-snyder]], [[stanford-center-for-genomics-and-personalized-medicine]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
 - [[probabilistic-artificial-intelligence]] (2025) — [[andreas-krause]], [[jonas-hubotter]]
 - [[deploying-a-modern-security-data-lake]] (2022) — [[david-baum]]
