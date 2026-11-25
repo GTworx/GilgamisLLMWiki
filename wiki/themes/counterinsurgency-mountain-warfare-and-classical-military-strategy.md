@@ -50,3 +50,13 @@ At the literary apex, [[leo-tolstoy]]'s [[hadji-murad]] exposes the human traged
 - [[pitchbook-commercial-space-launch-and-defense-tech]]
 
 - [[global-oil-and-gas-geopolitics-upstream-economics-and-flaring-analysis]]
+
+- [[us-national-defense-strategy-and-stabilizing-us-china-rivalry]]
+
+- [[ferguson-and-eiu-ukraine-war-worst-case-scenarios-and-business-impact]]
+
+- [[north-korean-soldier-battlefield-diary-and-ukraine-frontline-realities]]
+
+- [[regional-war-diplomacy-and-third-party-strategic-benefits]]
+
+- [[turkish-national-drug-report-and-cengiz-narcotics-enforcement-analysis]]

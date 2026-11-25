@@ -43,3 +43,19 @@ Coined by political theorist [[john-keane]] in [[the-life-and-death-of-democracy
 - [[comparative-democratic-history]]
 - [[political-science]]
 - [[social-choice-theory]]
+
+- [[tocqueville-democracy-in-america-complete]]
+
+- [[keane-life-and-death-of-democracy-and-monitory-institutions]]
+
+- [[ancient-mesopotamian-and-primitive-democracy-origins]]
+
+- [[topological-social-choice-and-the-non-orientable-condorcet-paradox]]
+
+- [[kalven-report-and-supreme-court-judicial-code-of-conduct]]
+
+- [[turkey-central-government-budget-and-equality-of-opportunity]]
+
+- [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]]
+
+- [[science-diplomacy-and-soft-power-statecraft-in-global-governance]]

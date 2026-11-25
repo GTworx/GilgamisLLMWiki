@@ -14,6 +14,16 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[science-diplomacy-and-soft-power-statecraft-in-global-governance]] (2022) — [[boston-science-diplomacy-consortium]], [[paul-a-berkman]]
+- [[international-law-of-economic-sanctions-and-un-convention-against-torture]] (2025) — [[united-nations-general-assembly]], [[international-law-commission]], [[michael-p-malloy]]
+- [[turkish-national-drug-report-and-cengiz-narcotics-enforcement-analysis]] (2021) — [[turkiye-uyusturucu-ve-uyusturucu-bagimliligi-izleme-merkezi-tubim]], [[mahmut-cengiz]]
+- [[felbab-brown-nexus-between-illicit-narcotics-trade-and-corruption]] (2020) — [[vanda-felbab-brown]], [[brookings-institution]], [[law-enforcement-narcotics-consortium]]
+- [[regional-war-diplomacy-and-third-party-strategic-benefits]] (2022) — [[middle-east-and-south-asia-security-consortium]]
+- [[north-korean-soldier-battlefield-diary-and-ukraine-frontline-realities]] (2025) — [[wall-street-journal-investigative-team]]
+- [[ferguson-and-eiu-ukraine-war-worst-case-scenarios-and-business-impact]] (2022) — [[niall-ferguson]], [[economist-intelligence-unit-eiu]]
+- [[uk-dcdc-character-of-future-war-to-2030]] (2024) — [[uk-ministry-of-defence-dcdc]], [[development-concepts-and-doctrine-centre]]
+- [[us-national-defense-strategy-and-stabilizing-us-china-rivalry]] (2025) — [[us-department-of-defense]], [[rand-corporation]], [[james-dobbins]], [[michael-j-mazarr]]
+- [[ancient-mesopotamian-and-primitive-democracy-origins]] (2011) — [[thorkild-jacobsen]], [[david-stasavage]], [[benjamin-r-foster]]
 - [[global-oil-and-gas-geopolitics-upstream-economics-and-flaring-analysis]] (2023) — [[international-energy-agency-iea]], [[petroleum-geopolitics-consortium]], [[russell-gold]]
 - [[bizansli-gozuyle-turkler]] (c.) — [[georges-pachymeres]]
 - [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]

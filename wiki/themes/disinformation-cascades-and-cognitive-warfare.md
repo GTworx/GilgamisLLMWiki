@@ -33,3 +33,9 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[rand-lessons-for-future-us-army-information-operations]]
 - [[the-spread-of-true-and-false-news-online]]
 - [[historical-propaganda-and-state-disinformation-techniques]]
+
+- [[keane-life-and-death-of-democracy-and-monitory-institutions]]
+
+- [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]]
+
+- [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]]

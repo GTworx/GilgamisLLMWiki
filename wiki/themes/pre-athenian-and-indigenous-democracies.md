@@ -42,3 +42,7 @@ For over two centuries, Western political historiography treated fifth-century B
 - [[archaeological-historiography]]
 - [[anatolian-civilizations]]
 - [[political-science]]
+
+- [[ancient-mesopotamian-and-primitive-democracy-origins]]
+
+- [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]]

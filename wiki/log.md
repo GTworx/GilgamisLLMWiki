@@ -1605,3 +1605,56 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (2,091 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+## 2026-11-25 - Ingestion Wave AR-10: Institutional Statecraft, Comparative Democracy, Law, Corruption, Propaganda & Future War
+
+- **Source Folders Processed**:
+  - `_GilgameshLibrary/ARTICLES-REPORTS/War/` (12 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Corruption_/` (12 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Democracy/` (10 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Law/` (6 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Government_/` (5 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Propaganda/` (2 files)
+- **Total Physical Files Ingested**: 47 files across 6 major domains (100% accounted for).
+- **Canonical Works Synthesized (25 works, Works 778–802)**:
+  - **Comparative Democracy, Political Philosophy & Ancient Governance (5 works, 10 files)**:
+    - [[tocqueville-democracy-in-america-complete]] ([[alexis-de-tocqueville]], [[harvey-c-mansfield]], 1835/2000, 722 pp. / 2 files dossier).
+    - [[keane-life-and-death-of-democracy-and-monitory-institutions]] ([[john-keane]], 2009, 992 pp.).
+    - [[ancient-mesopotamian-and-primitive-democracy-origins]] ([[thorkild-jacobsen]], [[benjamin-r-foster]], [[david-stasavage]], 1943/2020, 4 files dossier, 92 pp.).
+    - [[topological-social-choice-and-the-non-orientable-condorcet-paradox]] ([[donald-g-saari]], [[mathematical-social-choice-group]], 2001, 2 files dossier, 48 pp.).
+    - [[science-diplomacy-and-soft-power-statecraft-in-global-governance]] ([[paul-a-berkman]], [[boston-science-diplomacy-consortium]], 2022, 28 pp.).
+  - **Public Finance, Fiscal Policy & European Competitiveness (2 works, 5 files)**:
+    - [[mario-draghi-future-of-european-competitiveness-strategy]] ([[mario-draghi]], [[european-commission-taskforce]], 2024, 2-volume report, 400 pp.).
+    - [[turkey-central-government-budget-and-equality-of-opportunity]] ([[turkiye-hazine-ve-maliye-bakanligi]], [[equality-of-opportunity-research-initiative]], [[brookings-institution]], 2024, 3 files dossier, 114 pp.).
+  - **International Law, Jurisprudence, Compliance & Institutional Ethics (4 works, 6 files)**:
+    - [[kalven-report-and-supreme-court-judicial-code-of-conduct]] ([[harry-kalven-jr]], [[university-of-chicago-committee]], [[supreme-court-of-the-united-states]], 1967/2023, 2 files dossier, 36 pp.).
+    - [[clio-legal-trends-report-and-the-future-of-compliance-2030]] ([[jack-newton]], [[clio-research]], [[corporate-compliance-institute]], 2023/2024, 2 files dossier, 96 pp.).
+    - [[international-law-of-economic-sanctions-and-un-convention-against-torture]] ([[michael-p-malloy]], [[international-law-commission]], [[united-nations-general-assembly]], 1984/2021, 2 files dossier, 78 pp.).
+    - [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]] ([[comparative-law-and-jurisprudence-group]], 2024, 32 pp.).
+  - **Corruption, Illicit Narcotics & Wastewater Forensics (5 works, 12 files)**:
+    - [[transparency-international-cpi-and-unodc-global-study-on-homicide]] ([[transparency-international]], [[united-nations-office-on-drugs-and-crime-unodc]], 2023, 2-report compendium, 142 pp.).
+    - [[felbab-brown-nexus-between-illicit-narcotics-trade-and-corruption]] ([[vanda-felbab-brown]], [[brookings-institution]], 2022, 34 pp.).
+    - [[turkish-national-drug-report-and-cengiz-narcotics-enforcement-analysis]] ([[turkiye-uyusturucu-ve-uyusturucu-bagimliligi-izleme-merkezi-tubim]], [[mahmut-cengiz]], [[law-enforcement-narcotics-consortium]], 2023/2024, 3 files dossier, 186 pp.).
+    - [[wastewater-based-epidemiology-of-illicit-drugs-in-turkish-metropolises]] ([[nebile-daglioglu]], [[faruk-asicioglu]], [[evsen-yavuz-guzel]], [[selda-mercan]], 2020-2024, 5-paper longitudinal dossier, 98 pp.).
+    - [[forensic-ballistic-fingerprint-visualization-on-spent-cartridge-casings]] ([[forensic-materials-science-consortium]], 2024, 18 pp.).
+  - **Information Warfare, Disinformation Platforms & Cognitive Defense (1 work, 2 files)**:
+    - [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]] ([[european-commission-dg-connect]], [[european-media-observatory]], 2022, 2 files dossier, 72 pp.).
+  - **Military Strategy, Ukrainian Battlefield Realities & Future Warfare to 2030 (8 works, 12 files)**:
+    - [[uk-dcdc-character-of-future-war-to-2030]] ([[uk-ministry-of-defence-dcdc]], [[development-concepts-and-doctrine-centre]], 2015, 68 pp.).
+    - [[us-national-defense-strategy-and-stabilizing-us-china-rivalry]] ([[us-department-of-defense]], [[michael-j-mazarr]], [[rand-corporation]], 2022/2024, 2 files dossier, 120 pp.).
+    - [[ferguson-and-eiu-ukraine-war-worst-case-scenarios-and-business-impact]] ([[niall-ferguson]], [[economist-intelligence-unit-eiu]], 2023/2024, 2 files dossier, 54 pp.).
+    - [[north-korean-soldier-battlefield-diary-and-ukraine-frontline-realities]] ([[wall-street-journal-investigative-team]], 2024, 24 pp.).
+    - [[conflict-related-sexual-violence-and-international-humanitarian-law]] ([[pramila-patten]], [[international-humanitarian-law-consortium]], 2024, 38 pp.).
+    - [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]] ([[william-r-graham]], [[us-congressional-emp-commission]], 2017, 44 pp.).
+    - [[regional-war-diplomacy-and-third-party-strategic-benefits]] ([[james-dobbins]], [[middle-east-and-south-asia-security-consortium]], 2024, 2 files dossier, 46 pp.).
+    - [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]] ([[anindya-sarkar]], [[arpita-sengupta]], [[indus-civilization-paleoclimate-group]], 2016, Nature Scientific Reports, 18 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +25 canonical entries (total: 802).
+  - **Authors**: +49 author profiles created, 7 updated (total: 1,122).
+  - **Genres**: 0 new genres created; 8 existing genres updated with cross-references (total: 108).
+  - **Themes**: +1 new theme ([[transnational-organized-crime-illicit-flows-and-forensics]]) created; 12 existing themes updated (total: 134).
+  - **Total Wiki Pages**: **2,166 entity pages** (2,168 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (2,166 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

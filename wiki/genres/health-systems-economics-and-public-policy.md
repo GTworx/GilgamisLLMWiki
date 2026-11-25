@@ -14,6 +14,8 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 ---
 
 ## Books in Wiki
+- [[wastewater-based-epidemiology-of-illicit-drugs-in-turkish-metropolises]] (2021) — [[nebile-daglioglu]], [[faruk-asicioglu]], [[selda-mercan]], [[evsen-yavuz-guzel]]
+- [[turkey-central-government-budget-and-equality-of-opportunity]] (2025) — [[turkiye-hazine-ve-maliye-bakanligi]], [[equality-of-opportunity-research-initiative]]
 - [[global-medical-imaging-access-and-mortality-correlation-dossier]] (2026) — [[global-medical-imaging-consortium]]
 - [[pitchbook-healthtech-ambient-ai-scribes-and-healthcare-pe]] (2025) — [[pitchbook-emerging-tech-research]]
 - [[global-healthcare-and-life-sciences-strategic-outlook-compendium]] (2025) — [[deloitte-center-for-health-solutions]], [[global-healthcare-strategy-consortium]]

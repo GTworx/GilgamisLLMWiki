@@ -52,3 +52,5 @@ As modern conflict accelerates through algorithmic command-and-control, precisio
 - [[human-supervisory-control-of-heterogeneous-robot-swarms]]
 
 - [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]]
+
+- [[uk-dcdc-character-of-future-war-to-2030]]

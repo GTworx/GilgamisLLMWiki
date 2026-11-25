@@ -34,3 +34,7 @@ Through close reading of Sumerian and Akkadian cuneiform texts, including *Gilga
 - [[comparative-democratic-history]]
 - [[archaeological-historiography]]
 - [[pre-athenian-and-indigenous-democracies]]
+
+
+## Works in Wiki
+- [[ancient-mesopotamian-and-primitive-democracy-origins]]

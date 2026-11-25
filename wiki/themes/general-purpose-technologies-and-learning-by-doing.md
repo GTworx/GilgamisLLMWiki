@@ -164,3 +164,11 @@
 - [[iguanodontian-dinosaur-neural-spine-elongation-and-display-structures]]
 
 - [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]]
+
+- [[mario-draghi-future-of-european-competitiveness-strategy]]
+
+- [[forensic-ballistic-fingerprint-visualization-on-spent-cartridge-casings]]
+
+- [[clio-legal-trends-report-and-the-future-of-compliance-2030]]
+
+- [[science-diplomacy-and-soft-power-statecraft-in-global-governance]]

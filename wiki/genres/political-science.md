@@ -15,6 +15,17 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[science-diplomacy-and-soft-power-statecraft-in-global-governance]] (2022) — [[boston-science-diplomacy-consortium]], [[paul-a-berkman]]
+- [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]] (2023) — [[european-commission-dg-connect]], [[european-media-observatory]]
+- [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]] (2024) — [[comparative-law-and-jurisprudence-group]]
+- [[transparency-international-cpi-and-unodc-global-study-on-homicide]] (2021) — [[transparency-international]], [[united-nations-office-on-drugs-and-crime-unodc]]
+- [[conflict-related-sexual-violence-and-international-humanitarian-law]] (2021) — [[international-humanitarian-law-consortium]], [[pramila-patten]]
+- [[turkey-central-government-budget-and-equality-of-opportunity]] (2025) — [[turkiye-hazine-ve-maliye-bakanligi]], [[equality-of-opportunity-research-initiative]]
+- [[mario-draghi-future-of-european-competitiveness-strategy]] (2024) — [[mario-draghi]], [[european-commission-taskforce]]
+- [[kalven-report-and-supreme-court-judicial-code-of-conduct]] (2023) — [[harry-kalven-jr]], [[university-of-chicago-committee]], [[supreme-court-of-the-united-states]]
+- [[topological-social-choice-and-the-non-orientable-condorcet-paradox]] (2026) — [[mathematical-social-choice-group]], [[donald-g-saari]]
+- [[keane-life-and-death-of-democracy-and-monitory-institutions]] (2009) — [[john-keane]]
+- [[tocqueville-democracy-in-america-complete]] (1840) — [[alexis-de-tocqueville]], [[harvey-c-mansfield]]
 - [[the-evolution-of-cooperation]] (N/A) — [[robert-axelrod]], [[william-d-hamilton]]
 - [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026) — [[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]]

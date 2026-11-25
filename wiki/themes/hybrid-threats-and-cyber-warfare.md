@@ -69,3 +69,11 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 
 - **Related Themes**: [[cross-domain-conflict]], [[deterrence-and-coercion]], [[non-western-strategic-thought]], [[rationality-and-decision-making]]
 - **Related Genres**: [[security-studies]], [[strategic-studies]], [[military-science]], [[international-relations]]
+
+- [[us-national-defense-strategy-and-stabilizing-us-china-rivalry]]
+
+- [[uk-dcdc-character-of-future-war-to-2030]]
+
+- [[ferguson-and-eiu-ukraine-war-worst-case-scenarios-and-business-impact]]
+
+- [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]]

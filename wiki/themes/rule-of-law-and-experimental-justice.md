@@ -50,3 +50,23 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 - [[social-choice-theory]]
 - [[political-science]]
 - [[republican-intellectual-history]]
+
+- [[tocqueville-democracy-in-america-complete]]
+
+- [[topological-social-choice-and-the-non-orientable-condorcet-paradox]]
+
+- [[kalven-report-and-supreme-court-judicial-code-of-conduct]]
+
+- [[turkey-central-government-budget-and-equality-of-opportunity]]
+
+- [[conflict-related-sexual-violence-and-international-humanitarian-law]]
+
+- [[transparency-international-cpi-and-unodc-global-study-on-homicide]]
+
+- [[felbab-brown-nexus-between-illicit-narcotics-trade-and-corruption]]
+
+- [[clio-legal-trends-report-and-the-future-of-compliance-2030]]
+
+- [[international-law-of-economic-sanctions-and-un-convention-against-torture]]
+
+- [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]]

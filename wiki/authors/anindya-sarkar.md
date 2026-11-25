@@ -35,3 +35,7 @@ By combining bioapatite $\delta^{18}\text{O}_w$ meteoric water reconstructions w
 - [[archaeological-historiography]]
 - [[catastrophism-and-earth-history]]
 - [[adaptive-intelligence-and-organizational-resilience]]
+
+
+## Works in Wiki
+- [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]]

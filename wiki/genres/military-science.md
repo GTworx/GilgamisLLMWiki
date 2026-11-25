@@ -15,6 +15,12 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[regional-war-diplomacy-and-third-party-strategic-benefits]] (2022) — [[middle-east-and-south-asia-security-consortium]]
+- [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]] (2018) — [[us-congressional-emp-commission]], [[william-r-graham]]
+- [[north-korean-soldier-battlefield-diary-and-ukraine-frontline-realities]] (2025) — [[wall-street-journal-investigative-team]]
+- [[ferguson-and-eiu-ukraine-war-worst-case-scenarios-and-business-impact]] (2022) — [[niall-ferguson]], [[economist-intelligence-unit-eiu]]
+- [[uk-dcdc-character-of-future-war-to-2030]] (2024) — [[uk-ministry-of-defence-dcdc]], [[development-concepts-and-doctrine-centre]]
+- [[us-national-defense-strategy-and-stabilizing-us-china-rivalry]] (2025) — [[us-department-of-defense]], [[rand-corporation]], [[james-dobbins]], [[michael-j-mazarr]]
 - [[karman-project-space-leadership-and-orbital-cooperation]] (2024) — [[the-karman-project-fellowship]], [[jean-luc-chretien]]
 - [[french-red-team-defense-and-strategic-foresight-scenarios]] (2022) — [[french-red-team-defense-initiative]], [[ministere-des-armees-france]]
 - [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]

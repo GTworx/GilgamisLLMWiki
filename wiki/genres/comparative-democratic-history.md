@@ -17,6 +17,10 @@
 ---
 
 ## Books in Wiki
+- [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]] (2016) — [[anindya-sarkar]], [[arpita-sengupta]], [[indus-civilization-paleoclimate-group]]
+- [[ancient-mesopotamian-and-primitive-democracy-origins]] (2011) — [[thorkild-jacobsen]], [[david-stasavage]], [[benjamin-r-foster]]
+- [[keane-life-and-death-of-democracy-and-monitory-institutions]] (2009) — [[john-keane]]
+- [[tocqueville-democracy-in-america-complete]] (1840) — [[alexis-de-tocqueville]], [[harvey-c-mansfield]]
 - [[the-dawn-of-everything]] (2021) — [[david-graeber]], [[david-wengrow]]
 - [[us-declaration-of-independence-and-constitution-appendix]] (2013) — [[nick-ragone]]
 - [[why-nations-fail]] (2012) — [[daron-acemoglu]], [[james-a-robinson]]

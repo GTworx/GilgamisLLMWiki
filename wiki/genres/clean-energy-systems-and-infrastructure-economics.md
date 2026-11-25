@@ -14,6 +14,7 @@ Decarbonizing energy is the primary physical prerequisite for stabilizing planet
 ---
 
 ## Books in Wiki
+- [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]] (2018) — [[us-congressional-emp-commission]], [[william-r-graham]]
 - [[indoor-photovoltaics-triple-passivation-efficiency-breakthrough]] (2025) — [[advanced-photovoltaics-research-group]]
 - [[iea-and-nrel-global-electricity-and-clean-grid-2035-pathways]] (2024) — [[international-energy-agency-iea]], [[national-renewable-energy-laboratory-nrel]]
 - [[pitchbook-clean-energy-carbon-tech-and-infrastructure-funds]] (2024) — [[pitchbook-emerging-tech-research]], [[john-dreese]], [[kyle-stanford]]

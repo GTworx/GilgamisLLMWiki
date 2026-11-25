@@ -39,3 +39,7 @@ Convinced that the 700-year historical march toward the **"equality of condition
 - [[social-choice-theory]]
 - [[tyranny-of-the-majority-and-civil-associations]]
 - [[monitory-democracy-and-power-scrutiny]]
+
+
+## Works in Wiki
+- [[tocqueville-democracy-in-america-complete]]

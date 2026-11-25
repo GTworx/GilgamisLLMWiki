@@ -40,3 +40,7 @@ Keane traces democracy across three historical epochs: **Assembly Democracy** (o
 - [[political-science]]
 - [[monitory-democracy-and-power-scrutiny]]
 - [[pre-athenian-and-indigenous-democracies]]
+
+
+## Works in Wiki
+- [[keane-life-and-death-of-democracy-and-monitory-institutions]]

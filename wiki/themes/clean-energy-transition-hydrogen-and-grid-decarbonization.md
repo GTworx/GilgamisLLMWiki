@@ -16,6 +16,7 @@ True decarbonization requires matching clean energy generation with consumption 
 ---
 
 ## Representative Books in Wiki
+- [[mario-draghi-future-of-european-competitiveness-strategy]]
 - [[hydrogen-economy-transition-and-infrastructure-compendium]]
 - [[gencer-mit-sustainable-energy-systems-and-grid-emissions-series]]
 - [[mit-utility-of-the-future-electric-power-systems]]

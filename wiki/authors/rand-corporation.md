@@ -13,6 +13,7 @@ American non-profit global policy think tank created in 1948 by Douglas Aircraft
 ---
 
 ## Works in Wiki
+- [[us-national-defense-strategy-and-stabilizing-us-china-rivalry]]
 - [[rand-lessons-for-future-us-army-information-operations]] (2018) — Lessons from Others for Future U.S. Army Operations in and Through the Information Environment
 - [[rand-estimating-the-global-cost-of-cyber-risk]] (2018) — Estimating the Global Cost of Cyber Risk
 - [[rand-h4cker5-wanted-cybersecurity-labor-market]] (2014) — H4CKER5 WANTED: An Examination of the Cybersecurity Labor Market

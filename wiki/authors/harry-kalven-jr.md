@@ -28,3 +28,7 @@ Harry Kalven, Jr. (1912–1990) was a preeminent American legal scholar, profess
 - [[republican-intellectual-history]]
 - [[institutional-neutrality-and-academic-freedom]]
 - [[critique-of-academic-orthodoxy]]
+
+
+## Works in Wiki
+- [[kalven-report-and-supreme-court-judicial-code-of-conduct]]

@@ -14,6 +14,8 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[clio-legal-trends-report-and-the-future-of-compliance-2030]] (2024) — [[clio-research]], [[jack-newton]], [[corporate-compliance-institute]]
+- [[mario-draghi-future-of-european-competitiveness-strategy]] (2024) — [[mario-draghi]], [[european-commission-taskforce]]
 - [[george-orwell-jura-and-the-sociology-of-scottish-distilling]] (2022) — [[literary-geography-and-distilling-consortium]]
 - [[ge-turkiye-energy-transition-and-industrial-efficiency-handbook]] (2024) — [[canan-ozsoy]], [[general-electric-turkiye]], [[energy-efficiency-initiative]]
 - [[verdantix-smart-buildings-decarbonization-and-energy-management-roadmap]] (2023) — [[verdantix-research-consortium]], [[harry-boam]]

@@ -14,6 +14,9 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[forensic-ballistic-fingerprint-visualization-on-spent-cartridge-casings]] (2025) — [[forensic-materials-science-consortium]], [[robert-m-hill]]
+- [[topological-social-choice-and-the-non-orientable-condorcet-paradox]] (2026) — [[mathematical-social-choice-group]], [[donald-g-saari]]
+- [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]] (2016) — [[anindya-sarkar]], [[arpita-sengupta]], [[indus-civilization-paleoclimate-group]]
 - [[iguanodontian-dinosaur-neural-spine-elongation-and-display-structures]] (2025) — [[vertebrate-paleontology-consortium]], [[jeremy-a-f-lockwood]]
 - [[turkish-population-genomics-and-anatolian-ancestral-admixture]] (2021) — [[turkish-population-genomics-consortium]], [[sukru-tuzmen]], [[necat-yilmaz]]
 - [[bak-sneppen-model-punctuated-equilibrium-and-criticality-in-evolution]] (1994) — [[per-bak]], [[kim-sneppen]]

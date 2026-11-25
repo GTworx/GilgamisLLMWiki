@@ -13,6 +13,7 @@ William R. Kenan, Jr. Professor of Government Emeritus at Harvard University (b.
 ---
 
 ## Works in Wiki
+- [[tocqueville-democracy-in-america-complete]]
 - [[the-prince-machiavelli]] (1532) — The Prince
 
 ---

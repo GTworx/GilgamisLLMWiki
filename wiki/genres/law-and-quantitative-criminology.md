@@ -14,6 +14,17 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]] (2023) — [[european-commission-dg-connect]], [[european-media-observatory]]
+- [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]] (2024) — [[comparative-law-and-jurisprudence-group]]
+- [[international-law-of-economic-sanctions-and-un-convention-against-torture]] (2025) — [[united-nations-general-assembly]], [[international-law-commission]], [[michael-p-malloy]]
+- [[clio-legal-trends-report-and-the-future-of-compliance-2030]] (2024) — [[clio-research]], [[jack-newton]], [[corporate-compliance-institute]]
+- [[turkish-national-drug-report-and-cengiz-narcotics-enforcement-analysis]] (2021) — [[turkiye-uyusturucu-ve-uyusturucu-bagimliligi-izleme-merkezi-tubim]], [[mahmut-cengiz]]
+- [[wastewater-based-epidemiology-of-illicit-drugs-in-turkish-metropolises]] (2021) — [[nebile-daglioglu]], [[faruk-asicioglu]], [[selda-mercan]], [[evsen-yavuz-guzel]]
+- [[felbab-brown-nexus-between-illicit-narcotics-trade-and-corruption]] (2020) — [[vanda-felbab-brown]], [[brookings-institution]], [[law-enforcement-narcotics-consortium]]
+- [[transparency-international-cpi-and-unodc-global-study-on-homicide]] (2021) — [[transparency-international]], [[united-nations-office-on-drugs-and-crime-unodc]]
+- [[conflict-related-sexual-violence-and-international-humanitarian-law]] (2021) — [[international-humanitarian-law-consortium]], [[pramila-patten]]
+- [[forensic-ballistic-fingerprint-visualization-on-spent-cartridge-casings]] (2025) — [[forensic-materials-science-consortium]], [[robert-m-hill]]
+- [[kalven-report-and-supreme-court-judicial-code-of-conduct]] (2023) — [[harry-kalven-jr]], [[university-of-chicago-committee]], [[supreme-court-of-the-united-states]]
 - [[mandate-for-leadership-2025]] (2023) — [[paul-dans]], [[steven-groves]], [[kevin-d-roberts]]
 - [[venture-capital-and-private-equity-mms-curriculum]] (2023) — [[tushar-balkrishna-raut]]
 - [[investment-banks-hedge-funds-and-private-equity]] (2018) — [[david-p-stowell]]
