@@ -23,3 +23,7 @@ Dr. Michael Chui is a Partner at the McKinsey Global Institute (MGI). He directs
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
+

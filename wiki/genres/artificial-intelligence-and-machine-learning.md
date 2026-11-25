@@ -14,6 +14,9 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 ---
 
 ## Books in Wiki
+- [[amy-webb-future-today-institute-2024-tech-trends-report]]
+- [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
+- [[bain-technology-report-compendium-2023-2025]]
 - [[infinite-how-visionary-leaders-transform-todays-businesses-into-ai-forward-companies]] (2026) — [[brian-solis]], [[dave-wright]]
 - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[ai-2027]] (2025) — [[daniel-kokotajlo]], [[scott-alexander]], [[thomas-larsen]], [[eli-lifland]], [[romeo-dean]]
@@ -92,3 +95,5 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 - [[covert-consciousness-in-unresponsive-brain-injury-patients]]
 - [[marsh-computational-wisdom-and-artificial-phronesis]]
 - [[wef-future-of-jobs-report-2023]]
+
+## Works in this Genre

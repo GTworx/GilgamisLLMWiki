@@ -59,3 +59,7 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 - [[leadership-and-management]]
 - [[organizational-psychology]]
 - [[strategic-studies]]
+
+## Works Under this Theme
+- [[kpmg-mit-wired-frontier-technology-and-management-review]]
+

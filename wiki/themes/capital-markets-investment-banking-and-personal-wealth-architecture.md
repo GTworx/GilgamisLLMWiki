@@ -123,3 +123,7 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 - [[turkish-macroeconomic-stabilization-monetary-orthodoxy-and-foreign-capital-flows]]
 - [[united-states-federal-budget-and-fiscal-architecture-2024]]
 - [[warren-buffett-americas-growing-trade-deficit-and-import-certificates]]
+
+## Works Under this Theme
+- [[pitchbook-emerging-technology-outlook-compendium-2025]]
+

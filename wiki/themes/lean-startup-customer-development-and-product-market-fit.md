@@ -66,3 +66,7 @@ Originating in [[geoffrey-a-moore]]'s [[crossing-the-chasm]] and codified exhaus
 - [[cb-insights-the-top-20-reasons-startups-fail]]
 - [[open-innovation-playbook-and-corporate-startup-collaboration]]
 - [[y-combinator-founder-evaluation-and-interview-framework]]
+
+## Works Under this Theme
+- [[vrvana-and-project-magellan-spatial-computing-ventures]]
+

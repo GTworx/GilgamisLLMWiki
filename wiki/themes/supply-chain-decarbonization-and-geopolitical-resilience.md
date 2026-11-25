@@ -43,3 +43,9 @@ Investigates the strategic restructuring of global trade corridors and productio
 - [[energy-transition-and-storage-economics]]
 - [[semiconductor-geopolitics-and-chokepoints]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+## Works Under this Theme
+- [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
+- [[ricardo-ev-vs-ice-life-cycle-analysis-and-tesla-valuation]]
+- [[gooinn-mobility-and-aerospace-innovation-reports]]
+

@@ -29,3 +29,7 @@ Anchored by [[fuat-sezgin]] and [[eckhard-neubauer]]'s six-file multi-volume cat
 - [[comparative-religion-and-islamic-history]]
 - [[archaeological-historiography]]
 - [[innovation-and-economic-growth]]
+
+## Works Under this Theme
+- [[ibn-al-nafis-theologus-autodidactus]]
+

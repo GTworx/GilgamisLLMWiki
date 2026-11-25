@@ -37,3 +37,5 @@ In his landmark June 2024 monograph [[situational-awareness-the-decade-ahead]] (
 
 ## Works in Wiki
 - [[trammell-aschenbrenner-existential-risk-and-growth]]
+
+## Works Ingested

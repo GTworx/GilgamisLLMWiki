@@ -14,6 +14,8 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 ---
 
 ## Books in Wiki
+- [[us-surgeon-general-facing-addiction-in-america]]
+- [[kolodny-courtwright-prescription-opioid-and-heroin-crisis]]
 - [[wastewater-based-epidemiology-of-illicit-drugs-in-turkish-metropolises]] (2021) — [[nebile-daglioglu]], [[faruk-asicioglu]], [[selda-mercan]], [[evsen-yavuz-guzel]]
 - [[turkey-central-government-budget-and-equality-of-opportunity]] (2025) — [[turkiye-hazine-ve-maliye-bakanligi]], [[equality-of-opportunity-research-initiative]]
 - [[global-medical-imaging-access-and-mortality-correlation-dossier]] (2026) — [[global-medical-imaging-consortium]]
@@ -82,3 +84,5 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
 - [[cb-insights-blockchain-disrupting-healthcare-clinical-trials]]
 - [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]]
+
+## Works in this Genre

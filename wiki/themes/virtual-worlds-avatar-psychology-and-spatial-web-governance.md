@@ -59,3 +59,9 @@ in Knowledge Base
 - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
 - [[yemenici-entrepreneurship-in-metaverse-virtual-or-real]]
 - [[seaver-algorithms-as-culture-ethnography-of-systems]]
+
+## Works Under this Theme
+- [[gartner-augmented-reality-and-human-machine-interface-compendium]]
+- [[frost-sullivan-emerging-applications-and-innovations-in-ar-vr]]
+- [[vrvana-and-project-magellan-spatial-computing-ventures]]
+

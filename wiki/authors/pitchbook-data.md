@@ -37,3 +37,8 @@ Leading financial data and market research provider covering global private capi
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[venture-capital-term-sheets-and-fundraising-mechanics]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+
+## Works Ingested
+- [[pitchbook-blockchain-energy-and-infrastructure-ventures]]
+- [[pitchbook-emerging-technology-outlook-compendium-2025]]
+

@@ -14,6 +14,10 @@ The convergence of embodied foundation models, high-torque actuators, and spatia
 ---
 
 ## Books in Wiki
+- [[gartner-augmented-reality-and-human-machine-interface-compendium]]
+- [[frost-sullivan-emerging-applications-and-innovations-in-ar-vr]]
+- [[bagloee-asadi-autonomous-vehicles-transportation-policies]]
+- [[hansson-ratoff-ethics-of-autonomous-driving-and-right-to-drive]]
 - [[anthropic-what-work-can-robots-do-automation-economics]] (2026) — [[anthropic-research]]
 - [[morgan-stanley-robot-almanac-vol-3-humanoids-and-automation]] (2025) — [[morgan-stanley-research]], [[adam-jonas]]
 - [[robot-reinforcement-learning-the-indoor-training-effect]] (2025) — [[robot-learning-research-group]]
@@ -77,3 +81,5 @@ The convergence of embodied foundation models, high-torque actuators, and spatia
 - [[3d-virtual-worlds-and-metaverse-historical-evolution-and-future]]
 - [[cb-insights-big-tech-in-metaverse-meta-qualcomm-microsoft]]
 - [[damar-bibliometric-snapshot-of-metaverse-literature-and-historical-ngram]]
+
+## Works in this Genre

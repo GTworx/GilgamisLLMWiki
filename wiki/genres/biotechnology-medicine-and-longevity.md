@@ -14,6 +14,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
+- [[obryan-angelini-self-assembled-micro-organogels-for-3d-printing]]
 - [[enzymatic-deglycation-and-reversal-of-protein-chemical-aging]] (2025) — [[cellular-rejuvenation-and-biogerontology-group]], [[david-a-sinclair]]
 - [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]] (2025) — [[advanced-nanobiotechnology-consortium]], [[gang-han]], [[tian-xue]]
 - [[ancient-neural-enhancer-and-hominid-brain-evolution-with-lead-exposure]] (2025) — [[neurogenomics-and-paleoneurology-consortium]], [[genevieve-konopka]], [[david-f-gould]]
@@ -84,3 +85,5 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 - [[purvis-telling-fatty-acids-hydrothermal-vents-origin-of-life]]
 - [[science-in-2050-future-breakthroughs-shaping-our-world]]
 - [[new-scientist-international-12-march-2022-compendium]]
+
+## Works in this Genre

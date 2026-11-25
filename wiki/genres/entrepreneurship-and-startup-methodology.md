@@ -14,6 +14,8 @@ In this wiki, the genre anchors the complete Silicon Valley intellectual arc: [[
 ---
 
 ## Books in Wiki
+- [[vrvana-and-project-magellan-spatial-computing-ventures]]
+- [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
 - [[boudreau-startup-strategy-and-product-market-experimentation]]
 - [[hbs-return-to-entrepreneurship-research-monograph]]
 - [[azoulay-age-and-high-growth-entrepreneurship-nber]]
@@ -168,3 +170,5 @@ In this wiki, the genre anchors the complete Silicon Valley intellectual arc: [[
 - [[yemenici-entrepreneurship-in-metaverse-virtual-or-real]]
 - [[turkiye-game-market-longitudinal-reports-2023-2025]]
 - [[socio-economic-sufism-in-the-digital-and-modern-era]]
+
+## Works in this Genre

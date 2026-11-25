@@ -45,3 +45,7 @@ Healthcare allocation decisions are mediated by regulatory approvals and fee sch
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+## Works Under this Theme
+- [[tashjian-spiegel-virtual-reality-for-inpatient-pain-management]]
+

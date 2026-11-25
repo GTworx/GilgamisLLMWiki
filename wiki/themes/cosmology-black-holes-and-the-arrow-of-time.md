@@ -35,3 +35,7 @@ Anchored by [[stephen-hawking]]'s quartet—[[a-brief-history-of-time]], [[the-t
 - [[neuroscience-and-philosophy-of-mind]]
 - [[pure-and-applied-mathematics]]
 - [[innovation-and-economic-growth]]
+
+## Works Under this Theme
+- [[applied-physics-advanced-gravitational-propulsion]]
+

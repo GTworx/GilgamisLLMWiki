@@ -84,3 +84,7 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 - [[iran-destabilization-and-covert-war-objectives]]
 - [[israeli-intelligence-and-proxy-operations-in-iraq]]
 - [[south-asian-proxy-warfare-and-clandestine-operations]]
+
+## Works Under this Theme
+- [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
+

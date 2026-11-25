@@ -14,6 +14,7 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[rahwan-shariff-bonnefon-science-fiction-science-method]]
 - [[cb-insights-n-plus-1-trends-2017]]
 - [[cb-insights-famga-earnings-call-transcripts-nlp-analysis]]
 - [[cb-insights-tech-trends-2018-and-2020-longitudinal-compendium]]
@@ -155,3 +156,5 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 - [[kinraide-denison-strong-inference-the-way-of-science]]
 - [[hill-yin-the-pivot-penalty-in-scientific-research]]
 - [[cb-insights-12-tech-trends-to-watch-in-2022]]
+
+## Works in this Genre

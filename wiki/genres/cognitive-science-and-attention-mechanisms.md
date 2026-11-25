@@ -62,3 +62,7 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 - [[vervaeke-meaning-in-life-and-awakening-from-meaning-crisis]]
 - [[clynes-how-to-raise-a-genius-smpv]]
 - [[platt-strong-inference-methods-of-scientific-thinking]]
+
+## Works in this Genre
+- [[cummins-scherer-speech-analysis-for-depression-and-suicide-risk]]
+

@@ -61,3 +61,7 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[mindshare-culture-and-consumer-trends-2024]]
 - [[wef-the-global-risks-report-2024]]
 - [[meltwater-state-of-social-media-marketing-compendium]]
+
+## Works Under this Theme
+- [[kpmg-mit-wired-frontier-technology-and-management-review]]
+

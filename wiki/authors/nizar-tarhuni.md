@@ -23,3 +23,7 @@ Nizar Tarhuni is the Executive Vice President of Research and Market Intelligenc
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[pitchbook-emerging-technology-outlook-compendium-2025]]
+

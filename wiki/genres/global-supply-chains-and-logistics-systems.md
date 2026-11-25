@@ -53,3 +53,7 @@ Investigates the physical, geopolitical, and digital architecture of global supp
 - [[corporate-strategy-and-management-classics]]
 - [[internet-of-things-and-industrial-automation]]
 - [[saas-business-models-and-cloud-economics]]
+
+## Works in this Genre
+- [[gooinn-mobility-and-aerospace-innovation-reports]]
+

@@ -14,6 +14,7 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 ---
 
 ## Books in Wiki
+- [[pitchbook-emerging-technology-outlook-compendium-2025]]
 - [[barclays-and-blackrock-global-investment-outlooks-2025]]
 - [[citi-and-ubs-global-wealth-management-outlooks-2025]]
 - [[european-and-specialist-asset-management-outlooks-2025]]
@@ -97,3 +98,5 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 - [[purposeful-longevity-flow-and-mathematical-literacy]]
 - [[revolutionary-ambition-power-and-historical-legacy]]
 - [[service-first-branding-and-authentic-visibility]]
+
+## Works in this Genre

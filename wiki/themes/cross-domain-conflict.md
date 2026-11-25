@@ -56,3 +56,7 @@ Sweijs, Zilincik, and Osinga emphasize three critical systemic risks in cross-do
 - [[global-disputed-territories-and-military-blocs-2025]]
 - [[henry-jackson-society-gaza-and-british-defense-briefing]]
 - [[heritage-foundation-rebuilding-americas-military-united-states-navy]]
+
+## Works Under this Theme
+- [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
+

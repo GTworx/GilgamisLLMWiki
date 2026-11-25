@@ -37,3 +37,7 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 - [[artificial-intelligence-and-machine-learning]]
 - [[political-science]]
 - [[strategic-studies]]
+
+## Works Under this Theme
+- [[trammell-aschenbrenner-existential-risk-and-growth]]
+

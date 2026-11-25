@@ -57,3 +57,7 @@ As modern conflict accelerates through algorithmic command-and-control, precisio
 - [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]]
 - [[international-olympic-committee-olympic-charter-and-governance]]
 - [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]
+
+## Works Under this Theme
+- [[cummins-scherer-speech-analysis-for-depression-and-suicide-risk]]
+

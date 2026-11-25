@@ -50,3 +50,9 @@ Frontier AI development has transformed from software engineering into an indust
 - [[godel-incompleteness-ai-and-limits-of-machine-consciousness]]
 - [[marsh-computational-wisdom-and-artificial-phronesis]]
 - [[wef-future-of-jobs-report-2023]]
+
+## Works Under this Theme
+- [[amy-webb-future-today-institute-2024-tech-trends-report]]
+- [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
+- [[rahwan-shariff-bonnefon-science-fiction-science-method]]
+

@@ -12,6 +12,7 @@ Studies examining the financial ownership, operational management, hospital acqu
 ---
 
 ## Works in this Genre
+- [[tashjian-spiegel-virtual-reality-for-inpatient-pain-management]]
 - [[profits-over-patients-private-equity-in-healthcare]] (2025) — Profits Over Patients: The Harmful Effects of Private Equity on the U.S. Healthcare System
 - [[private-equity-buyouts-in-healthcare-who-wins-who-loses]] (2020) — Private Equity Buyouts in Healthcare: Who Wins, Who Loses? Academic Evidence, Biopharma Ventures, and Digital Health Metrics
 

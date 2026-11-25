@@ -23,3 +23,7 @@ Alexey Bobrick is an astrophysicist and general relativist at Lund University an
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[applied-physics-advanced-gravitational-propulsion]]
+

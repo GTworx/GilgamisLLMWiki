@@ -38,3 +38,7 @@ On the naturalistic side, [[richard-dawkins]]'s [[the-god-delusion]] treats deit
 - [[evolutionary-biology]]
 - [[neuroscience-and-philosophy-of-mind]]
 - [[anthropology-of-consciousness]]
+
+## Works Under this Theme
+- [[ibn-al-nafis-theologus-autodidactus]]
+

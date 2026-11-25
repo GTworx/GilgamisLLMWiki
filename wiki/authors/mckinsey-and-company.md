@@ -40,3 +40,7 @@ McKinsey & Company is a premier global management consulting firm advising corpo
 ## Works in Wiki
 - [[mckinsey-the-next-big-arenas-of-competition]]
 - [[mckinsey-technology-trends-outlook-compendium]]
+
+## Works Ingested
+- [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
+

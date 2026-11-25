@@ -37,3 +37,8 @@ In [[probabilistic-artificial-intelligence]] (2025), ETH Zurich professors [[and
 - [[artificial-intelligence-and-machine-learning]]
 - [[data-science-and-scientific-computing]]
 - [[game-theory]]
+
+## Works Under this Theme
+- [[kolodny-courtwright-prescription-opioid-and-heroin-crisis]]
+- [[cummins-scherer-speech-analysis-for-depression-and-suicide-risk]]
+

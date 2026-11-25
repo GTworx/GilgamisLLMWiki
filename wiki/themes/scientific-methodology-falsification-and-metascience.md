@@ -23,3 +23,7 @@ Examines the epistemological foundations, methodological rigor, and institutiona
 - [[hill-yin-the-pivot-penalty-in-scientific-research]]
 - [[new-scientist-international-12-march-2022-compendium]]
 - [[ord-the-lindy-effect-longevity-and-survivorship]]
+
+## Works Under this Theme
+- [[rahwan-shariff-bonnefon-science-fiction-science-method]]
+

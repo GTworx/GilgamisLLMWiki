@@ -48,3 +48,9 @@ This theme connects [[marco-di-maggio]]'s analysis of Bitcoin, Ethereum, DeFi Au
 - [[pwc-global-crypto-regulation-report-jurisdictions-and-stablecoins]]
 - [[sassine-blockchain-applications-in-energy-sector-microgrids]]
 - [[decentralized-identity-verification-cryptographic-patent]]
+
+## Works Under this Theme
+- [[tapscott-blockchain-revolution-education-lifelong-learning]]
+- [[ibm-blockchain-principles-force-for-good]]
+- [[gartner-enterprise-blockchain-hype-cycle-and-architecture-compendium]]
+

@@ -25,3 +25,7 @@ Professor of Philosophy at KTH Royal Institute of Technology, Stockholm (b. 1951
 - [[open-society-creative-destruction-and-epistemic-virtue]]
 - [[rationality-and-decision-making]]
 - [[probabilistic-inference-and-uncertainty-quantification]]
+
+## Works Ingested
+- [[hansson-ratoff-ethics-of-autonomous-driving-and-right-to-drive]]
+

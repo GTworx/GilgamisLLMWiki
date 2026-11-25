@@ -200,3 +200,11 @@
 - [[the-economist-2023-global-macroeconomic-and-financial-instability-compendium]]
 - [[world-bank-global-economic-prospects-and-world-development-report-2022-2024]]
 - [[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]
+
+## Works Under this Theme
+- [[frost-sullivan-emerging-applications-and-innovations-in-ar-vr]]
+- [[amy-webb-future-today-institute-2024-tech-trends-report]]
+- [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
+- [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
+- [[bagloee-asadi-autonomous-vehicles-transportation-policies]]
+

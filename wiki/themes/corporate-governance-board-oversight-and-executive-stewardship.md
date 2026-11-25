@@ -82,3 +82,8 @@ Core analytical dimensions include:
 - [[political-intuitionism-administrative-state-and-capitalist-democracy]]
 - [[rationality-and-decision-making]]
 - [[deep-work-habit-architecture-and-cognitive-systems]]
+
+## Works Under this Theme
+- [[ibm-blockchain-principles-force-for-good]]
+- [[bain-technology-report-compendium-2023-2025]]
+

@@ -23,3 +23,7 @@ Lucian of Samosata was a Hellenized Syrian rhetorician and satirist. His masterp
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[lucian-true-history]]
+

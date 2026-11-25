@@ -51,3 +51,7 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 - [[leadership-and-management]]
 - [[anthropology-of-consciousness]]
 - [[ethics-and-value-philosophy]]
+
+## Works Under this Theme
+- [[tapscott-blockchain-revolution-education-lifelong-learning]]
+

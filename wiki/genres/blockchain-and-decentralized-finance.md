@@ -14,6 +14,8 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 ---
 
 ## Books in Wiki
+- [[ibm-blockchain-principles-force-for-good]]
+- [[gartner-enterprise-blockchain-hype-cycle-and-architecture-compendium]]
 - [[digital-assets-stablecoins-and-crypto-risk-in-eurasia]]
 - [[financial-stability-board-global-regulation-and-stability-of-crypto-assets-2022]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
@@ -47,3 +49,5 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 - [[pwc-global-crypto-regulation-report-jurisdictions-and-stablecoins]]
 - [[sassine-blockchain-applications-in-energy-sector-microgrids]]
 - [[decentralized-identity-verification-cryptographic-patent]]
+
+## Works in this Genre

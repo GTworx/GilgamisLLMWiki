@@ -23,3 +23,7 @@ Tuong Huy Nguyen is a Vice President Analyst at Gartner Research specializing in
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[gartner-augmented-reality-and-human-machine-interface-compendium]]
+

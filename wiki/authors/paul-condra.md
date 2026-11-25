@@ -23,3 +23,7 @@ Paul Condra directs emerging technology research at PitchBook Data, leading equi
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[pitchbook-emerging-technology-outlook-compendium-2025]]
+

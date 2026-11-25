@@ -23,3 +23,7 @@ Frost & Sullivan is an American business consulting and market intelligence firm
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[frost-sullivan-emerging-applications-and-innovations-in-ar-vr]]
+

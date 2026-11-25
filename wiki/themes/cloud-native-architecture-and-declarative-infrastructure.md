@@ -62,3 +62,7 @@ Across the Gilgamis LLM Wiki, [[brendan-burns]], [[joe-beda]], [[kelsey-hightowe
 - [[data-science-and-scientific-computing]]
 - [[leadership-and-management]]
 - [[internet-of-things-and-edge-computing]]
+
+## Works Under this Theme
+- [[gartner-enterprise-blockchain-hype-cycle-and-architecture-compendium]]
+

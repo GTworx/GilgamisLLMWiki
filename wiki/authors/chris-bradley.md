@@ -23,3 +23,7 @@ Chris Bradley is a Senior Partner at McKinsey & Company based in Sydney and co-l
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested
+- [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
+

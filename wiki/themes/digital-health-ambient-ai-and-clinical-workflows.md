@@ -38,3 +38,9 @@ Ambient clinical AI represents a transformational productivity shock for healthc
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+## Works Under this Theme
+- [[tashjian-spiegel-virtual-reality-for-inpatient-pain-management]]
+- [[us-surgeon-general-facing-addiction-in-america]]
+- [[kolodny-courtwright-prescription-opioid-and-heroin-crisis]]
+

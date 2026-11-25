@@ -33,3 +33,9 @@ Autonomous transit dramatically reduces highway fatalities and optimizes urban t
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Under this Theme
+- [[bagloee-asadi-autonomous-vehicles-transportation-policies]]
+- [[hansson-ratoff-ethics-of-autonomous-driving-and-right-to-drive]]
+- [[gooinn-mobility-and-aerospace-innovation-reports]]
+

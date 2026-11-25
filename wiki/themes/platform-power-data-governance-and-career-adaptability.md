@@ -66,3 +66,7 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 - [[tsia-ragsdale-enterprise-technology-trends-compendium]]
 - [[global-technology-outlook-2022]]
 - [[galloway-quitting-time-labor-capital-and-career-strategy]]
+
+## Works Under this Theme
+- [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
+

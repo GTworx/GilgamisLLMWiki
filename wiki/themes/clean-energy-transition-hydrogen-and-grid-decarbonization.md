@@ -48,3 +48,8 @@ True decarbonization requires matching clean energy generation with consumption 
 - [[french-white-paper-responsible-immersive-technologies]]
 - [[gartner-maverick-research-metaverse-for-smart-cities]]
 - [[sassine-blockchain-applications-in-energy-sector-microgrids]]
+
+## Works Under this Theme
+- [[pitchbook-blockchain-energy-and-infrastructure-ventures]]
+- [[ricardo-ev-vs-ice-life-cycle-analysis-and-tesla-valuation]]
+

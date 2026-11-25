@@ -14,6 +14,7 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 ---
 
 ## Books in Wiki
+- [[lucian-true-history]]
 - [[30-french-short-stories-for-complete-beginners]] (2017) — [[frederic-bibard]]
 - [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]
 - [[tolstoy-treatise-on-muhammad]] (2011) — [[leo-tolstoy]], [[telman-khurshidoglu-aliyev]]
@@ -89,3 +90,5 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 - [[counterinsurgency-mountain-warfare-and-classical-military-strategy]]
 - [[moral-courage-nonviolent-resistance-and-transformative-biography]]
 - [[revolutionary-ambition-power-and-historical-legacy]]
+
+## Works in this Genre

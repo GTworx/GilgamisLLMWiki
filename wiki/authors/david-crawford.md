@@ -23,3 +23,5 @@ David Crawford is a Partner at Bain & Company and leader of its Global Technolog
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Ingested

@@ -25,3 +25,7 @@ Bridging planetary astronomy, space exploration, and catastrophism, this genre i
 - [[catastrophism-and-earth-history]]
 - [[younger-dryas-impact-hypothesis]]
 - [[science-in-2050-future-breakthroughs-shaping-our-world]]
+
+## Works in this Genre
+- [[applied-physics-advanced-gravitational-propulsion]]
+

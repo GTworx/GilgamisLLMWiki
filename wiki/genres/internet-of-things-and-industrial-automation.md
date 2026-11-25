@@ -59,3 +59,7 @@ Covers the hardware, software, protocols, and operational frameworks connecting 
 - [[datacenter-infrastructure-and-power-engineering]]
 - [[semiconductor-engineering-and-industrial-policy]]
 - [[global-supply-chains-and-logistics-systems]]
+
+## Works in this Genre
+- [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
+

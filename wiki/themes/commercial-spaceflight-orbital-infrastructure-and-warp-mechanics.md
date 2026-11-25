@@ -32,3 +32,7 @@ The economic threshold for orbital access has dropped by orders of magnitude, tu
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Works Under this Theme
+- [[applied-physics-advanced-gravitational-propulsion]]
+

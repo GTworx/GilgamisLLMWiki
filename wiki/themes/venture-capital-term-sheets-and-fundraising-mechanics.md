@@ -83,3 +83,8 @@ At the deal-structuring core stand [[brad-feld]] & [[jason-mendelson]]'s [[ventu
 - [[carta-state-of-us-startups-2023]]
 - [[pitchbook-and-bussgang-us-regional-venture-ecosystems-compendium]]
 - [[startups-watch-turkiye-girisim-ekosistemi-longitudinal-compendium]]
+
+## Works Under this Theme
+- [[pitchbook-blockchain-energy-and-infrastructure-ventures]]
+- [[pitchbook-emerging-technology-outlook-compendium-2025]]
+

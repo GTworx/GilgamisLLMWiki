@@ -14,6 +14,7 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
+- [[trammell-aschenbrenner-existential-risk-and-growth]]
 - [[visual-capitalist-black-swan-events-short-term-crisis]]
 - [[intertemporal-choice-and-present-bias-failures]]
 - [[wef-the-global-risks-report-2024]]
@@ -72,3 +73,5 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 - [[the-atlantic-fraudulent-science-of-success-behavioral-economics]]
 - [[cb-insights-12-tech-trends-to-watch-in-2022]]
 - [[ord-the-lindy-effect-longevity-and-survivorship]]
+
+## Works in this Genre

@@ -14,6 +14,7 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 ---
 
 ## Books in Wiki
+- [[kpmg-mit-wired-frontier-technology-and-management-review]]
 - [[turkey-media-investments-report-h1-2024]]
 - [[digital-publishing-and-blog-monetization-playbook]]
 - [[wunderman-thompson-the-future-100-2023]]
@@ -82,3 +83,5 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 - [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]]
 - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
 - [[aspen-institute-commission-on-information-disorder-report]]
+
+## Works in this Genre

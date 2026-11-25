@@ -14,6 +14,7 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Books in Wiki
+- [[tapscott-blockchain-revolution-education-lifelong-learning]]
 - [[british-academy-peer-review-challenges-in-humanities-and-social-sciences]]
 - [[massachusetts-history-and-social-science-curriculum-framework]]
 - [[the-black-experience-at-lexington-high-school-invisible-and-unheard]]
@@ -97,3 +98,5 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 - [[clynes-how-to-raise-a-genius-smpv]]
 - [[introduction-to-pseudocode-and-algorithmic-thinking]]
 - [[knill-multivariable-calculus-partial-derivatives-harvard]]
+
+## Works in this Genre

@@ -14,6 +14,7 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 ---
 
 ## Books in Wiki
+- [[ibn-al-nafis-theologus-autodidactus]]
 - [[caste-stratification-across-south-asia-and-intra-muslim-hierarchies]]
 - [[comparative-world-religions-equality-legal-symbolism-and-clothing]]
 - [[anadoluda-ilk-tapinak-gobeklitepe]] (2017) — [[ali-osman-kurt]]
@@ -81,3 +82,5 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 - [[ziklag-secretive-christian-dominionism-and-theocracy]]
 - [[ghazalian-epistemology-islamic-spiritual-psychology-and-maslow]]
 - [[socio-economic-sufism-in-the-digital-and-modern-era]]
+
+## Works in this Genre

@@ -15,6 +15,7 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
 - [[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]
 - [[iran-iraq-war-origins-and-persian-cultural-heritage]]
 - [[origins-of-the-first-world-war-and-contemporary-geopolitical-parallels]]
@@ -104,3 +105,5 @@ Within this knowledge base, military science grounds theoretical concepts of det
 
 - **Related Genres**: [[strategic-studies]], [[security-studies]], [[game-theory]]
 - **Key Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]
+
+## Works in this Genre
