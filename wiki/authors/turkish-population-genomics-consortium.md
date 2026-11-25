@@ -23,3 +23,7 @@ Turkish Population Genomics Consortium is an authoritative contributor to peer-r
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[kars-turkish-population-genomics-and-variation]]

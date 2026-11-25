@@ -29,3 +29,7 @@ For over a century, orthodox geology and archaeology were dominated by uniformit
 - [[planetary-cataclysm-and-cosmic-impacts]]
 - [[submerged-ruins-and-sea-level-rise]]
 - [[critique-of-academic-orthodoxy]]
+
+
+## Works under this Theme
+- [[paleobiology-of-dinosaur-neural-spines-and-hominin-evolution]]

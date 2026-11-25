@@ -62,3 +62,7 @@ Covers the macroeconomic, geopolitical, and corporate restructuring required for
 - [[european-commission-agricultural-outlook-and-museum-revenue-models]]
 - [[nuclear-energy-playbook-and-clean-energy-transition-finance]]
 - [[pwc-uli-emerging-trends-in-real-estate-europe-2023]]
+
+
+## Works under this Theme
+- [[un-global-sustainable-development-and-deloitte-cxo-sustainability]]

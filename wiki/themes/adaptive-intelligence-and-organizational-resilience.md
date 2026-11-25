@@ -80,3 +80,9 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 - [[organizational-psychology]]
 - [[strategic-studies]]
 - [[anthropology-of-consciousness]]
+
+
+## Works under this Theme
+- [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]
+- [[disaster-technologies-logistics-and-first-72-hours-preparedness]]
+- [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

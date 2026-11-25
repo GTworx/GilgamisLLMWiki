@@ -85,3 +85,13 @@ Analyzes financial mechanisms for hedging systemic catastrophe risk, disaster mi
 - [[disaster-risk-reduction-and-emergency-management]]
 - [[sustainability-esg-and-clean-technology]]
 - [[corporate-strategy-and-management-classics]]
+
+
+## Works under this Theme
+- [[bess-fire-safety-thermal-runaway-mitigation-and-suppression]]
+- [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]
+- [[disaster-technologies-logistics-and-first-72-hours-preparedness]]
+- [[tbdy-2018-seismic-building-code-and-structural-inspection-reform]]
+- [[afad-tamp-tarap-udsep-disaster-risk-reduction-framework]]
+- [[kandilli-dezim-istanbul-seismic-damage-estimation-and-geohazards]]
+- [[presidency-strategy-kahramanmaras-hatay-earthquakes-assessment]]

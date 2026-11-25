@@ -49,3 +49,8 @@ Uniting [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[entertainment-scie
 - [[nielseniq-spend-z-generation-z-spending-and-financial-habits]]
 - [[world-values-survey-wave-7-global-cultural-map-and-values-atlas]]
 - [[youtube-culture-and-trends-decentralized-media-and-fan-communities]]
+
+
+## Works under this Theme
+- [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]
+- [[culinary-genealogy-and-food-origins-from-barbecue-to-pizza]]

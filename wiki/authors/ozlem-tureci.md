@@ -23,3 +23,7 @@ Dr. Özlem Türeci is a German physician, cancer researcher, and Chief Medical O
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+
+## Key Works in Wiki
+- [[biontech-pfizer-bnt162b2-mrna-vaccine-and-sars-cov-2-reinfection]]

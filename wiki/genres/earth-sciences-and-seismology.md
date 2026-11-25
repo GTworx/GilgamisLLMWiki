@@ -55,3 +55,11 @@ Covers the physical dynamics of the solid Earth, tectonic plate boundaries, acti
 - [[disaster-risk-reduction-and-emergency-management]]
 - [[data-science-and-scientific-computing]]
 - [[evolutionary-biology]]
+
+
+## Works in this Genre
+- [[tbdy-2018-seismic-building-code-and-structural-inspection-reform]]
+- [[afad-tamp-tarap-udsep-disaster-risk-reduction-framework]]
+- [[kandilli-dezim-istanbul-seismic-damage-estimation-and-geohazards]]
+- [[presidency-strategy-kahramanmaras-hatay-earthquakes-assessment]]
+- [[paleobiology-of-dinosaur-neural-spines-and-hominin-evolution]]

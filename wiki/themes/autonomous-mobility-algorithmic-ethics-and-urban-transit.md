@@ -39,3 +39,8 @@ Autonomous transit dramatically reduces highway fatalities and optimizes urban t
 - [[hansson-ratoff-ethics-of-autonomous-driving-and-right-to-drive]]
 - [[gooinn-mobility-and-aerospace-innovation-reports]]
 
+
+
+## Works under this Theme
+- [[electric-bicycles-urban-micro-mobility-and-modal-shift]]
+- [[iea-global-ev-outlook-and-electric-vehicle-fleet-electrification]]

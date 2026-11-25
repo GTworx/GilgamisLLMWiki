@@ -23,3 +23,7 @@ Duccio Bonavia is an authoritative contributor to peer-reviewed scientific liter
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[grobman-preceramic-maize-and-grape-domestication-genetics]]

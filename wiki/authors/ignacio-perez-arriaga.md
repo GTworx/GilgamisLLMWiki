@@ -23,3 +23,7 @@ Ignacio Perez Arriaga is an authoritative contributor to peer-reviewed scientifi
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[mit-energy-initiative-utility-of-the-future-and-grid-modernization]]

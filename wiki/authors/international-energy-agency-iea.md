@@ -27,3 +27,7 @@ International Energy Agency IEA is an authoritative contributor to peer-reviewed
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[oil-and-gas-transitions-flaring-economics-and-energy-efficiency]]

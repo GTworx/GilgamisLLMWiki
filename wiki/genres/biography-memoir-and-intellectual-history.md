@@ -170,3 +170,7 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
 - [[political-intuitionism-administrative-state-and-capitalist-democracy]]
 - [[kleist-on-the-marionette-theatre]]
+
+
+## Works in this Genre
+- [[culinary-genealogy-and-food-origins-from-barbecue-to-pizza]]

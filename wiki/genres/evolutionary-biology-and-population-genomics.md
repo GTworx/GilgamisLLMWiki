@@ -86,3 +86,14 @@ Mapping the evolutionary lineage of human biology—from ancient non-coding neur
 - [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]]
 - [[drunken-monkey-hypothesis-and-fermentation-origins-of-feasting]]
 - [[broom-pleistocene-anthropoid-apes-australopithecus-discovery]]
+
+
+## Works in this Genre
+- [[biontech-pfizer-bnt162b2-mrna-vaccine-and-sars-cov-2-reinfection]]
+- [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
+- [[paleobiology-of-dinosaur-neural-spines-and-hominin-evolution]]
+- [[neanderthal-polymorphism-enrichment-and-autism-etiology]]
+- [[kars-turkish-population-genomics-and-variation]]
+- [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]
+- [[bak-sneppen-punctuated-equilibrium-and-criticality-in-evolution]]
+- [[grobman-preceramic-maize-and-grape-domestication-genetics]]

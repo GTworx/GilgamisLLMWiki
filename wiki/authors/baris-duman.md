@@ -28,3 +28,7 @@ Barış Duman is a structural engineer and construction safety specialist whose 
 - [[disaster-risk-reduction-and-emergency-management]]
 - [[seismic-hazard-engineering-and-building-codes]]
 - [[human-stupidity-hubris-and-epistemic-vulnerability]]
+
+
+## Key Works in Wiki
+- [[tbdy-2018-seismic-building-code-and-structural-inspection-reform]]

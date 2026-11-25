@@ -52,3 +52,10 @@ Establishing the scientific baseline, [[daan-j-a-crommelin]], [[robert-d-sindela
 ## Works Under this Theme
 - [[obryan-angelini-self-assembled-micro-organogels-for-3d-printing]]
 
+
+
+## Works under this Theme
+- [[biontech-pfizer-bnt162b2-mrna-vaccine-and-sars-cov-2-reinfection]]
+- [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
+- [[neanderthal-polymorphism-enrichment-and-autism-etiology]]
+- [[kars-turkish-population-genomics-and-variation]]

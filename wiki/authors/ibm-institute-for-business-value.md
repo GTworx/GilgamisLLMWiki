@@ -36,3 +36,7 @@ The IBM Institute for Business Value (IBV) is the business thought leadership an
 ## Works Ingested
 - [[ibm-blockchain-principles-force-for-good]]
 
+
+
+## Key Works in Wiki
+- [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

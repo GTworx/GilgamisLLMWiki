@@ -23,3 +23,7 @@ Michael Cembalest is Chairman of Market and Investment Strategy for J.P. Morgan 
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+
+## Key Works in Wiki
+- [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]

@@ -28,3 +28,7 @@ Prof. Dr. Mustafa Erdik is Emeritus Professor of Earthquake Engineering at Boğa
 - [[disaster-risk-reduction-and-emergency-management]]
 - [[seismic-hazard-engineering-and-building-codes]]
 - [[catastrophe-risk-financing-and-disaster-resilience]]
+
+
+## Key Works in Wiki
+- [[kandilli-dezim-istanbul-seismic-damage-estimation-and-geohazards]]

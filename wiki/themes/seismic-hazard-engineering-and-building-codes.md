@@ -69,3 +69,10 @@ Explores performance-based earthquake engineering, building inspection governanc
 - [[earth-sciences-and-seismology]]
 - [[disaster-risk-reduction-and-emergency-management]]
 - [[corporate-strategy-and-management-classics]]
+
+
+## Works under this Theme
+- [[tbdy-2018-seismic-building-code-and-structural-inspection-reform]]
+- [[afad-tamp-tarap-udsep-disaster-risk-reduction-framework]]
+- [[kandilli-dezim-istanbul-seismic-damage-estimation-and-geohazards]]
+- [[presidency-strategy-kahramanmaras-hatay-earthquakes-assessment]]

@@ -34,3 +34,11 @@ By optimizing crop microclimates and unlocking ancestral genetic resilience trai
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Works under this Theme
+- [[kunert-triangle-sensory-testing-and-global-food-production-gap]]
+- [[pakdemirli-turkish-agriculture-medicinal-plants-and-apiculture]]
+- [[connected-agriculture-iot-and-smart-farming-asia-pacific]]
+- [[financial-times-vertical-farming-and-future-of-agriculture]]
+- [[grobman-preceramic-maize-and-grape-domestication-genetics]]

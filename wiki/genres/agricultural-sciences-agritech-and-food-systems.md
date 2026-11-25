@@ -62,3 +62,12 @@ Agriculture accounts for 70% of planetary freshwater withdrawals and a third of 
 - [[from-cha-to-chai-etymological-history-of-tea-along-silk-road]]
 - [[craft-cocktail-formulations-mixology-chemistry-and-spirits-culture]]
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
+
+
+## Works in this Genre
+- [[culinary-genealogy-and-food-origins-from-barbecue-to-pizza]]
+- [[kunert-triangle-sensory-testing-and-global-food-production-gap]]
+- [[pakdemirli-turkish-agriculture-medicinal-plants-and-apiculture]]
+- [[connected-agriculture-iot-and-smart-farming-asia-pacific]]
+- [[financial-times-vertical-farming-and-future-of-agriculture]]
+- [[grobman-preceramic-maize-and-grape-domestication-genetics]]

@@ -44,3 +44,12 @@ In the wiki, this genre unites [[berat-albayrak]]'s [[burasi-cok-onemli-enerjide
 - [[cooperation-and-reciprocity]]
 
 ## Works in this Genre
+- [[electric-bicycles-urban-micro-mobility-and-modal-shift]]
+- [[advanced-battery-technologies-and-global-storage-forecast]]
+- [[electric-vehicle-batteries-critical-materials-and-supply-chains]]
+- [[iea-global-ev-outlook-and-electric-vehicle-fleet-electrification]]
+- [[oil-and-gas-transitions-flaring-economics-and-energy-efficiency]]
+- [[solar-energy-transition-indoor-photovoltaics-and-radiative-cooling]]
+- [[gencer-sustainable-energy-systems-analysis-and-carbon-cycles]]
+- [[mit-energy-initiative-utility-of-the-future-and-grid-modernization]]
+- [[iea-unep-hydrogen-economy-and-infrastructure-pathways]]

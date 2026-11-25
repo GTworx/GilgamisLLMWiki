@@ -23,3 +23,7 @@ Emre Gencer is an authoritative contributor to peer-reviewed scientific literatu
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[gencer-sustainable-energy-systems-analysis-and-carbon-cycles]]

@@ -70,3 +70,7 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 - [[wef-the-global-risks-report-2024]]
 - [[cognitive-models-resilience-and-integrity-compendium]]
 - [[at-kearney-gbpc-ceo-retreat-runaway-world]]
+
+
+## Works under this Theme
+- [[bak-sneppen-punctuated-equilibrium-and-criticality-in-evolution]]

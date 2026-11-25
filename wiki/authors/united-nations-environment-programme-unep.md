@@ -23,3 +23,7 @@ United Nations Environment Programme UNEP is an authoritative contributor to pee
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[iea-unep-hydrogen-economy-and-infrastructure-pathways]]

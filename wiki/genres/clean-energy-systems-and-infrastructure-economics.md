@@ -79,3 +79,20 @@ Decarbonizing energy is the primary physical prerequisite for stabilizing planet
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
 - [[gartner-maverick-research-metaverse-for-smart-cities]]
 - [[sassine-blockchain-applications-in-energy-sector-microgrids]]
+
+
+## Works in this Genre
+- [[electric-bicycles-urban-micro-mobility-and-modal-shift]]
+- [[bess-fire-safety-thermal-runaway-mitigation-and-suppression]]
+- [[advanced-battery-technologies-and-global-storage-forecast]]
+- [[electric-vehicle-batteries-critical-materials-and-supply-chains]]
+- [[iea-global-ev-outlook-and-electric-vehicle-fleet-electrification]]
+- [[smart-buildings-energy-management-and-built-environment-decarbonization]]
+- [[oil-and-gas-transitions-flaring-economics-and-energy-efficiency]]
+- [[solar-energy-transition-indoor-photovoltaics-and-radiative-cooling]]
+- [[gencer-sustainable-energy-systems-analysis-and-carbon-cycles]]
+- [[mit-energy-initiative-utility-of-the-future-and-grid-modernization]]
+- [[iea-unep-hydrogen-economy-and-infrastructure-pathways]]
+- [[disaster-technologies-logistics-and-first-72-hours-preparedness]]
+- [[un-global-sustainable-development-and-deloitte-cxo-sustainability]]
+- [[financial-times-vertical-farming-and-future-of-agriculture]]

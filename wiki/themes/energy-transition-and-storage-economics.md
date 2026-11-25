@@ -45,3 +45,14 @@ In the wiki, [[berat-albayrak]]'s [[burasi-cok-onemli-enerjiden-ekonomiye-tam-ba
 
 ## Books in Wiki
 - [[nuclear-energy-playbook-and-clean-energy-transition-finance]]
+
+
+## Works under this Theme
+- [[bess-fire-safety-thermal-runaway-mitigation-and-suppression]]
+- [[advanced-battery-technologies-and-global-storage-forecast]]
+- [[electric-vehicle-batteries-critical-materials-and-supply-chains]]
+- [[smart-buildings-energy-management-and-built-environment-decarbonization]]
+- [[solar-energy-transition-indoor-photovoltaics-and-radiative-cooling]]
+- [[gencer-sustainable-energy-systems-analysis-and-carbon-cycles]]
+- [[mit-energy-initiative-utility-of-the-future-and-grid-modernization]]
+- [[iea-unep-hydrogen-economy-and-infrastructure-pathways]]

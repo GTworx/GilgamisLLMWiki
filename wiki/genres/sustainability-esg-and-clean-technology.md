@@ -50,5 +50,10 @@ Focuses on corporate decarbonization strategies, ESG disclosure standards, green
 - [[kshetri-policy-ethical-social-environmental-considerations-web3-metaverse]]
 
 ## Works in this Genre
+- [[smart-buildings-energy-management-and-built-environment-decarbonization]]
+- [[un-global-sustainable-development-and-deloitte-cxo-sustainability]]
+- [[kunert-triangle-sensory-testing-and-global-food-production-gap]]
+- [[pakdemirli-turkish-agriculture-medicinal-plants-and-apiculture]]
+- [[connected-agriculture-iot-and-smart-farming-asia-pacific]]
 - [[ricardo-ev-vs-ice-life-cycle-analysis-and-tesla-valuation]]
 

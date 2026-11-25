@@ -23,3 +23,7 @@ Michael A Arbib is an authoritative contributor to peer-reviewed scientific lite
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+
+## Key Works in Wiki
+- [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]

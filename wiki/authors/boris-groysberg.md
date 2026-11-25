@@ -23,3 +23,7 @@ Boris Groysberg is the Richard P. Chapman Professor of Business Administration a
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+
+## Key Works in Wiki
+- [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

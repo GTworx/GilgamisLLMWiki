@@ -83,3 +83,8 @@ Civilizational cycles and catastrophic collapse represent central inquiries in d
 - [[evolutionary-biology]]
 - [[political-science]]
 - [[comparative-religion-and-islamic-history]]
+
+
+## Works under this Theme
+- [[paleobiology-of-dinosaur-neural-spines-and-hominin-evolution]]
+- [[bak-sneppen-punctuated-equilibrium-and-criticality-in-evolution]]

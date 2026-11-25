@@ -105,3 +105,13 @@ Examines institutional, logistical, and computational frameworks for mitigating 
 - [[corporate-strategy-and-management-classics]]
 - [[global-supply-chains-and-logistics-systems]]
 - [[sustainability-esg-and-clean-technology]]
+
+
+## Works in this Genre
+- [[bess-fire-safety-thermal-runaway-mitigation-and-suppression]]
+- [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]
+- [[disaster-technologies-logistics-and-first-72-hours-preparedness]]
+- [[tbdy-2018-seismic-building-code-and-structural-inspection-reform]]
+- [[afad-tamp-tarap-udsep-disaster-risk-reduction-framework]]
+- [[kandilli-dezim-istanbul-seismic-damage-estimation-and-geohazards]]
+- [[presidency-strategy-kahramanmaras-hatay-earthquakes-assessment]]

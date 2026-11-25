@@ -29,3 +29,7 @@ Verdantix is an independent research and advisory firm providing data-driven ins
 - [[corporate-strategy-and-management-classics]]
 - [[industrial-iot-edge-telemetry-and-it-ot-convergence]]
 - [[energy-transition-and-storage-economics]]
+
+
+## Key Works in Wiki
+- [[smart-buildings-energy-management-and-built-environment-decarbonization]]

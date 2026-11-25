@@ -1,0 +1,33 @@
+# Battery Energy Storage Fire Safety: Off-Gas Detection, Thermal Runaway Mitigation, and Suppression Systems
+
+## Metadata
+- **Index**: Work 1414
+- **Author(s)**: [[jyoti-gurnani]], [[justin-mcnamara]], [[martin-franke]], [[mordor-intelligence-industrial-automation-team]]
+- **Genre(s)**: [[clean-energy-systems-and-infrastructure-economics]], [[disaster-risk-reduction-and-emergency-management]]
+- **Key Themes**: [[energy-transition-and-storage-economics]], [[catastrophe-risk-financing-and-disaster-resilience]]
+
+## Summary
+Master engineering compendium on lithium-ion battery energy storage system (BESS) fire safety and thermal runaway prevention, compiling BCC Research's 279-page study on fire suppression equipment (CHM133B), Mordor Intelligence's 135-page market report, and technical guidelines on early off-gas detection and clean-agent suppression.
+
+## Analytical Overview
+As multi-megawatt battery energy storage systems (BESS) proliferate across utility grids and commercial facilities, catastrophic thermal runaway events have emerged as the premier operational risk confronting the energy storage industry. When a lithium-ion cell suffers internal short-circuiting, mechanical damage, or electrical overcharging, exothermic decomposition of the solid electrolyte interphase (SEI) layer cascades into irreversible thermal runaway, releasing toxic, highly flammable off-gases (hydrogen, carbon monoxide, methane, and vaporized organic carbonates) capable of causing catastrophic flash fires and deflagrations.
+
+This volume synthesizes definitive industrial safety engineering standards, experimental fire test datasets, and technology roadmaps to eliminate this hazard. The foundation is anchored by Jyoti Gurnani’s 279-page BCC Research treatise (Report Code CHM133B) on the *Fire Suppression Equipment and Consumables Market*, paired with Mordor Intelligence’s 135-page *Global Fire Safety Systems Market* analysis, evaluating clean agents (Novec 1230 / FK-5-1-12, FM-200), water mist injection, and condensed aerosol systems.
+
+The core technical innovation highlighted throughout the work is the paradigm shift from traditional smoke and heat detection to ultra-early electrolyte off-gas detection. Technical presentations and patent filings from Justin McNamara and the Honeywell Xtralis Li-ion Tamer team prove that lithium-ion cells vent sub-micron electrolyte solvent vapors 5 to 30 minutes before any measurable smoke, temperature rise, or voltage collapse occurs. Integrating off-gas detection into battery management systems allows automated electrical isolation and proactive suppression activation before thermal runaway propagates to adjacent cells. The volume is completed by European loss-prevention codes (Need to Know Guides RE1 & RE2) and Dryad Networks ultra-early wildfire sensor architectures.
+
+## Primary Sources
+- [No BESS 36374_02_Xtralis_Li-ion_Tamer_Infographic_IE.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/No BESS 36374_02_Xtralis_Li-ion_Tamer_Infographic_IE.pdf) — (1p, 571774KB)
+- [READ building Need to Know Guide RE1 - BESS Commercial Lithium-ion Batteries.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/READ building Need to Know Guide RE1 - BESS Commercial Lithium-ion Batteries.pdf) — (7p, 2554693KB)
+- [READ Need to Know Guide RE2 - Lithium-ion Battery Use and Storage.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/READ Need to Know Guide RE2 - Lithium-ion Battery Use and Storage.pdf) — (9p, 9112400KB)
+- [READ best Guidance-Li-Ion-Battery-Protection.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/READ best Guidance-Li-Ion-Battery-Protection.pdf) — (37p, 23358751KB)
+- [READ better Guidance-Document-on-Li-Ion-Battery-Fires-12-20-v1.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/READ better Guidance-Document-on-Li-Ion-Battery-Fires-12-20-v1.pdf) — (16p, 13933976KB)
+- [READ used GFact Xtralis Battery Fire Prevention with Advanced Detection.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/READ used GFact Xtralis Battery Fire Prevention with Advanced Detection.pdf) — (22p, 1724954KB)
+- [20221216 - Dataset of fire tests - 1 page.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/20221216 - Dataset of fire tests - 1 page.pdf) — (1p, 48568KB)
+- [20231010 - Patent Issued for Stopper - 1 page Charging Fire.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/20231010 - Patent Issued for Stopper - 1 page Charging Fire.pdf) — (2p, 94227KB)
+- [20231030 - Innovative Solutions by Honeywell - 1 page Tamer Announce.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/20231030 - Innovative Solutions by Honeywell - 1 page Tamer Announce.pdf) — (2p, 59517KB)
+- [20230724 - Mordor Intelligence - Building Fire Safety Systems Market - 135 pages.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/20230724 - Mordor Intelligence - Building Fire Safety Systems Market - 135 pages.pdf) — (135p, 2385102KB)
+- [CHM133B-2023 Fire Suppression Equipment and Consumables Market.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/CHM133B-2023 Fire Suppression Equipment and Consumables Market.pdf) — (279p, 2273160KB)
+- [CHM133B-ME.xlsx](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/CHM133B-ME.xlsx) — (0p, 335693KB)
+- [Dryad Networks WildFire Detection (Biz Model).pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/Dryad Networks WildFire Detection (Biz Model).pdf) — (4p, 133011KB)
+- [How-To-Build-A-Leading-Detection-And-Response-Engineering-Practice.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Energy/Battery including Safety/Battery Safety/How-To-Build-A-Leading-Detection-And-Response-Engineering-Practice.pdf) — (14p, 2270600KB)

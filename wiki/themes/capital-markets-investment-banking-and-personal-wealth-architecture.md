@@ -127,3 +127,8 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 ## Works Under this Theme
 - [[karabarbounis-neiman-beaudry-global-decline-of-labor-share-and-cognitive-tasks]]
 - [[pitchbook-emerging-technology-outlook-compendium-2025]]
+
+
+## Works under this Theme
+- [[oil-and-gas-transitions-flaring-economics-and-energy-efficiency]]
+- [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]

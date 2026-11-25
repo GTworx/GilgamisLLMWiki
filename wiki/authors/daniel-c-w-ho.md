@@ -28,3 +28,7 @@ Daniel C.W. Ho is a professor of building surveying and real estate at the Unive
 - [[disaster-risk-reduction-and-emergency-management]]
 - [[seismic-hazard-engineering-and-building-codes]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Key Works in Wiki
+- [[tbdy-2018-seismic-building-code-and-structural-inspection-reform]]

@@ -110,3 +110,8 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 - [[revolutionary-ambition-power-and-historical-legacy]]
 - [[rationality-and-decision-making]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Works in this Genre
+- [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]
+- [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

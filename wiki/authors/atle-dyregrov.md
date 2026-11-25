@@ -28,3 +28,7 @@ Atle Dyregrov is a Norwegian clinical psychologist, Professor Emeritus at the Ce
 - [[biotechnology-medicine-and-longevity]]
 - [[catastrophe-risk-financing-and-disaster-resilience]]
 - [[human-performance-enhancement-and-neuro-warfare]]
+
+
+## Key Works in Wiki
+- [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]

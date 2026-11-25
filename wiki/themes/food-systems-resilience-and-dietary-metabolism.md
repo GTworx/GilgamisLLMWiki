@@ -45,3 +45,12 @@ Realigning agricultural production with human nutritional guidelines is the most
 - [[anthropological-contributions-of-margaret-mead-culture-and-gender]]
 - [[drunken-monkey-hypothesis-and-fermentation-origins-of-feasting]]
 - [[craft-cocktail-formulations-mixology-chemistry-and-spirits-culture]]
+
+
+## Works under this Theme
+- [[culinary-genealogy-and-food-origins-from-barbecue-to-pizza]]
+- [[kunert-triangle-sensory-testing-and-global-food-production-gap]]
+- [[pakdemirli-turkish-agriculture-medicinal-plants-and-apiculture]]
+- [[connected-agriculture-iot-and-smart-farming-asia-pacific]]
+- [[financial-times-vertical-farming-and-future-of-agriculture]]
+- [[grobman-preceramic-maize-and-grape-domestication-genetics]]

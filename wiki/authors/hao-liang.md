@@ -28,3 +28,7 @@ Hao Liang is Associate Professor of Finance at Singapore Management University a
 - [[corporate-strategy-and-management-classics]]
 - [[catastrophe-risk-financing-and-disaster-resilience]]
 - [[human-stupidity-hubris-and-epistemic-vulnerability]]
+
+
+## Key Works in Wiki
+- [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]

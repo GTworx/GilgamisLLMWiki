@@ -33,3 +33,9 @@ The rapid synthesis and deployment of mRNA vaccines validated synthetic biology 
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+
+## Works under this Theme
+- [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]
+- [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]
+- [[biontech-pfizer-bnt162b2-mrna-vaccine-and-sars-cov-2-reinfection]]

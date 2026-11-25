@@ -48,3 +48,9 @@ In [[discovering-the-brain]], [[sandra-ackerman]] maps the *Decade of the Brain*
 - [[eagleman-vaughn-defensive-activation-theory-and-rem-sleep]]
 - [[brown-huth-gallant-higher-order-consciousness-and-cortical-semantics]]
 - [[le-merrer-kosten-george-neurobiology-of-opioid-dependence]]
+
+
+## Works under this Theme
+- [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
+- [[neanderthal-polymorphism-enrichment-and-autism-etiology]]
+- [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]
