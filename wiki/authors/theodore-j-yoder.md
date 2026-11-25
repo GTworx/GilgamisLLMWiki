@@ -28,3 +28,7 @@ Theodore J. Yoder is a Research Staff Member at IBM Quantum specializing in faul
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Key Works in Wiki
+- [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]

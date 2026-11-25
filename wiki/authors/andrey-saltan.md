@@ -28,3 +28,7 @@ Dr. Andrey Saltan is a software business researcher and academic specializing in
 - [[corporate-strategy-and-management-classics]]
 - [[saas-unit-economics-and-product-led-growth]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Key Works in Wiki
+- [[oreilly-data-intensive-saas-architecture-and-pricing-models]]

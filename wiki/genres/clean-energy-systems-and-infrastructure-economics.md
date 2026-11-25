@@ -82,6 +82,10 @@ Decarbonizing energy is the primary physical prerequisite for stabilizing planet
 
 
 ## Works in this Genre
+- [[global-supply-chain-resilience-just-transition-and-commodity-risk]]
+- [[industrial-iot-it-ot-convergence-and-ge-digital-predix]]
+- [[morgan-stanley-cbre-global-data-center-capacity-and-colocation-outlook]]
+- [[doe-lbnl-data-center-energy-consumption-and-hyperscale-efficiency]]
 - [[electric-bicycles-urban-micro-mobility-and-modal-shift]]
 - [[bess-fire-safety-thermal-runaway-mitigation-and-suppression]]
 - [[advanced-battery-technologies-and-global-storage-forecast]]

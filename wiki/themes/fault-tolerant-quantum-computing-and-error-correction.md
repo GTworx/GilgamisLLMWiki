@@ -88,3 +88,12 @@ Investigates the theoretical thresholds, algebraic code constructions, physical 
 - [[quantum-foundations-measurement-and-many-worlds]]
 - [[semiconductor-geopolitics-and-chokepoints]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Works under this Theme
+- [[quantum-ergodicity-breaking-chiroptics-and-foundations]]
+- [[post-quantum-cryptography-and-quantum-network-teleportation]]
+- [[quantum-sensing-gravity-cartography-and-biomedical-probes]]
+- [[quantum-machine-learning-chemistry-and-computational-advantage]]
+- [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]
+- [[google-quantum-supremacy-and-random-circuit-sampling]]

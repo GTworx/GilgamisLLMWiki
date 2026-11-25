@@ -39,3 +39,7 @@ In [[practical-fraud-prevention]], [[gilit-saporta]] and [[shoshana-maraney]] re
 - [[cloud-computing-and-distributed-systems]]
 - [[data-science-and-scientific-computing]]
 - [[saas-and-subscription-business-models]]
+
+
+## Works under this Theme
+- [[enterprise-cloud-architecture-digital-core-and-devsecops]]

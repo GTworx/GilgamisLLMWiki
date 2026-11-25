@@ -50,4 +50,5 @@ This discipline explores the interface between neurobiology, ethnobotany, archae
 
 
 ## Works in this Genre
+- [[quantum-phenomenology-qbism-and-macroscopic-quantum-biology]]
 - [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]

@@ -36,3 +36,8 @@ The economic threshold for orbital access has dropped by orders of magnitude, tu
 ## Works Under this Theme
 - [[applied-physics-advanced-gravitational-propulsion]]
 
+
+
+## Works under this Theme
+- [[commercial-space-launch-orbital-infrastructure-and-aerospace]]
+- [[space-based-ai-data-center-infrastructure-and-gao-assessment]]

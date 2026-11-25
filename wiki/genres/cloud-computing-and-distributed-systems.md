@@ -72,3 +72,10 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 - [[organizational-culture-and-rewilding]]
 - [[human-centered-ai-and-augmented-leadership]]
 - [[decentralized-trust-and-cryptographic-governance]]
+
+
+## Works in this Genre
+- [[ibm-institute-5g-telecom-future-and-carrier-transformation]]
+- [[industrial-iot-it-ot-convergence-and-ge-digital-predix]]
+- [[oreilly-data-intensive-saas-architecture-and-pricing-models]]
+- [[enterprise-cloud-architecture-digital-core-and-devsecops]]

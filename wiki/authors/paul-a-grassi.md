@@ -22,3 +22,7 @@ Former Senior Standards and Technology Advisor at NIST and lead author of NIST S
 - [[national-institute-of-standards-and-technology]]
 - [[center-for-internet-security]]
 - [[zero-trust-architecture-and-cryptographic-resilience]]
+
+
+## Key Works in Wiki
+- [[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]

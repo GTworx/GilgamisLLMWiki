@@ -29,3 +29,7 @@ Bank of America Global Research is the institutional equity and macroeconomic re
 - [[cloud-computing-and-distributed-systems]]
 - [[hyperscale-datacenter-power-and-thermal-engineering]]
 - [[semiconductor-geopolitics-and-chokepoints]]
+
+
+## Key Works in Wiki
+- [[doe-lbnl-data-center-energy-consumption-and-hyperscale-efficiency]]

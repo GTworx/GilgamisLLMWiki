@@ -25,3 +25,7 @@ The bicameral legislature of the federal government of the United States (Senate
 - [[semiconductor-geopolitics-and-chokepoints]]
 - [[technological-containment-and-omni-use-proliferation]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Key Works in Wiki
+- [[us-chips-and-science-act-and-national-semiconductor-strategy]]

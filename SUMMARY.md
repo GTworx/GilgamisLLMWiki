@@ -16,7 +16,7 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
 - **Articles & Reports Library Status**: **Options AR-1, AR-2, AR-3 & AR-4 Complete** (190/190 files in `Semiconductors`, `Cybersecurity`, `PE & VC`, `QuantumCompute`, `Data Centers`, `Cloud`, `SaaS`, `IoT`, `5G Telecom`, and `SupplyChain` mapped to 118 canonical works)
-- **Total Ingested Works**: 1413 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Ingested Works**: 1439 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
 - **Total Generated Wiki Pages**: 3,372 interlinked markdown files (3,370 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
 - **Book Summary & Analysis Pages**: 1320 ([books/](wiki/books/))
@@ -3915,3 +3915,111 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 1415. **[[electric-bicycles-urban-micro-mobility-and-modal-shift]]** ([[john-macarthur]], [[christopher-muhs]], [[asian-development-bank-transport-practice]], [[pwc-italy-strategy-mobility-practice]], Source: `2001 NASA Baseline eBike Testing Ultracapacitors.pdf`, `2009 Asia Dev Bank China electric-bikes.pdf`, `2013 E-bikes_in_North_America Online Survey.pdf` plus 18 additional files)  
    Monumental international compendium on electric bicycle adoption and urban micro-mobility, synthesizing 21 field studies, engineering reports, and market analyses—from NASA ultracapacitor baseline tests and the Asian Development Bank's study of China's 120-million e-bike fleet, to European State of the Nation surveys (Shimano/Velco) and comparative Dutch-Chinese modal shifts.  
    ### Electric Bicycles, Urban Micro-Mobility Transitions, and Modal Shift Decarbonization
+
+---
+
+## Category AJ: Computing, Deep Tech, Semiconductors, Quantum Systems & Infrastructure (Works 1416–1441)
+
+1416. **[[us-chips-and-science-act-and-national-semiconductor-strategy]]** ([[united-states-congress]], [[karen-m-sutter]], [[chips-program-office]], Source: `2022 US BILLS- CHIPS Act 117hr4346enr.pdf`, `2022 Summary chips-and-science-act-of-2022-section-by-section.pdf`, `2022 McKinsey the-chips-and-science-act-heres-whats-in-it.pdf` plus 4 additional files)  
+   Definitive legislative and policy treatise on the landmark CHIPS and Science Act of 2022 (Public Law 117-167), compiling the 393-page enrolled bill, section-by-section statutory analyses, CRS global market evaluations, Department of Commerce national security guardrails final rules, and the vision and strategy for the National Semiconductor Technology Center (NSTC).  
+   ### The CHIPS and Science Act of 2022: Industrial Policy, National Security Guardrails, and the NSTC
+
+1417. **[[global-semiconductor-foundries-geopolitics-and-market-dynamics]]** ([[semiconductor-industry-association-sia]], [[financial-times-tech-and-geopolitics-desk]], [[bloomberg-technology-group]], Source: `2023 Semiconductor USA SIA_State-of-Industry-Report_2023_Final_072723.pdf`, `2024 TSMC’s (2330 TT) Arizona Chip Production Yields Surpass Taiwan’s - Bloomberg.pdf`, `2023 One of Biden_s Favorite Chip Proje cts Is Facing New Delays - WSJ.pdf` plus 4 additional files)  
+   Comprehensive market intelligence and geopolitical analysis of global chip fabrication, detailing SIA industry benchmarks, TSMC's Phoenix fab yield parity milestones, Western supply chain anxieties over Chinese legacy trailing-edge fab flooding, and the transformation of Arm and Nvidia in the generative AI era.  
+   ### Global Semiconductor Foundries: TSMC Fab Yields, Geopolitical Chokepoints, and Legacy Chip Floods
+
+1418. **[[semiconductor-mes-ip-protection-and-in-sensor-computing]]** ([[johann-knechtel]], [[satwik-patnaik]], [[hrvoje-dubcek]], Source: `2019 Protect Your Chip Design Intellectual Property - An Overview.pdf`, `2024 Advanced-MES-Capabilities-for-Semiconductor-Front-End.._.pdf`, `2024 eBook_Reimagining-Semiconductor-MES.-Advanced-Fab-Capabilities-for-Agility-and-Success.pdf` plus 1 additional files)  
+   Technical and architectural compendium on advanced semiconductor manufacturing execution systems (MES), silicon design intellectual property protection against reverse engineering and hardware trojans, and breakthrough phononic metamaterials performing passive, zero-power speech classification directly inside sensors.  
+   ### Front-End Semiconductor MES, Silicon IP Security, and Phononic In-Sensor Computing
+
+1419. **[[google-quantum-supremacy-and-random-circuit-sampling]]** ([[frank-arute]], [[john-m-martinis]], [[aram-w-harrow]], [[ashley-montanaro]], Source: `Quantum supremacy using a programmable superconducting processor Nature 2019.pdf`, `Google-Quantum-AI-Presents-New-Superconducting-Quantum-Processor.pdf`, `Boundaries of quantum supremacy via random circuit sampling Quantum Information 2023.pdf` plus 5 additional files)  
+   Historic compilation documenting the experimental and theoretical milestone of quantum computational supremacy, centered on Google Quantum AI’s 53-qubit Sycamore superconducting processor, random circuit sampling (RCS) verification, computational complexity proofs, and classical tensor network simulation boundaries.  
+   ### Quantum Computational Supremacy, Superconducting Processors, and Random Circuit Sampling
+
+1420. **[[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]** ([[sergey-bravyi]], [[theodore-j-yoder]], [[earl-t-campbell]], [[frederic-t-chong]], Source: `2024 High-threshold and low-overhead fault-tolerant quantum memory_.pdf`, `2025 Tour de gross - A modular quantum computer based on bivariate bicycle codes.pdf`, `2025 Improved belief propagation is sufficient for real-time decoding of quantum memory.pdf` plus 2 additional files)  
+   Master architectural compendium on the breakthrough transition from physical qubits to logical quantum computing, featuring IBM's high-threshold, low-overhead bivariate bicycle quantum LDPC codes, real-time belief propagation decoders, modular quantum architectures (Tour de Gross), and quantum compiler stacks.  
+   ### Fault-Tolerant Quantum Error Correction: Bivariate Bicycle LDPC Codes, Real-Time BP Decoders, and Compilers
+
+1421. **[[quantum-machine-learning-chemistry-and-computational-advantage]]** ([[jacob-biamonte]], [[maria-schuld]], [[alena-i-gircha]], [[ibm-quantum-industry-solutions-team]], Source: `Quantum machine learning Nature 2017.pdf`, `Is Quantum Advantage the Right Goal for Quantum Machine Learning PRXQuantum 2022.pdf`, `Gircha et al Hybrid quantum-classical machine learning for generative chemistry and drug design Scientific Reports 2023.pdf` plus 2 additional files)  
+   Pioneering compendium on the algorithms, mathematical foundations, and industrial chemistry applications of Quantum Machine Learning (QML), combining Biamonte's foundational Nature review, Maria Schuld's rigorous critique of quantum advantage goals, hybrid variational drug design in Scientific Reports, and IBM petroleum use cases.  
+   ### Quantum Machine Learning, Hybrid Variational Algorithms, and Molecular Generative Chemistry
+
+1422. **[[quantum-sensing-gravity-cartography-and-biomedical-probes]]** ([[christian-l-degen]], [[ben-stray]], [[nabeel-aslam]], [[sophie-l-n-hermans]], Source: `Quantum sensing RevModPhys 2017.pdf`, `Quantum sensing for gravity cartography Nature 2022.pdf`, `Quantum sensors for biomedical applications Nature Reviews 2023.pdf` plus 4 additional files)  
+   Exhaustive physical review and experimental compilation on quantum sensing technologies, featuring Degen's Reviews of Modern Physics survey, cold-atom quantum gravimeters mapping subterranean urban infrastructure in Nature, NV-center diamond probes for cellular biomedicine, and deterministic non-neighbouring quantum network teleportation at QuTech.  
+   ### Quantum Sensing: Cold-Atom Gravity Cartography, Nitrogen-Vacancy Diamond Bioprobes, and Network Teleportation
+
+1423. **[[post-quantum-cryptography-and-quantum-network-teleportation]]** ([[daniel-j-bernstein]], [[tanja-lange]], [[volkan-inlek]], Source: `Post-quantum cryptography Nature 2017.pdf`, `Volkan Inlek Quantum_Info_Sci_Report 2016_.pdf`)  
+   Definitive cryptanalytic and technical treatise on the post-quantum cryptography (PQC) transition, analyzing Shor’s algorithm threat to RSA and elliptic curve cryptography (ECC), lattice-based and hash-based mathematical hardness assumptions (NIST PQC standards), and physical trapped-ion network repeaters.  
+   ### Post-Quantum Cryptography: Lattice Hardness, Shor's Threat to Asymmetric Ciphers, and National Migration
+
+1424. **[[quantum-ergodicity-breaking-chiroptics-and-foundations]]** ([[dmitry-a-abanin]], [[timothee-hoffreumon]], [[chiroptical-heterostructure-nanotechnology-group]], Source: `2022 Ergodicity Breaking Provably Robust to Arbitrary Perturbations.pdf`, `2025 Observation of constructive interference at the edge of quantum ergodicity.pdf`, `2025 Quantum theory does not need complex numbers.pdf` plus 3 additional files)  
+   Frontier physics compendium investigating non-equilibrium quantum matter, including experimental observation of constructive interference at the edge of ergodicity, mathematical proofs demonstrating that quantum mechanics can be formulated without complex numbers, and room-temperature valley-selective photon emission in Si-MoSe2 chiroptical cavities.  
+   ### Quantum Many-Body Scars, Ergodicity Breaking, Chiroptical Cavities, and Real-Number Formulations
+
+1425. **[[morgan-stanley-and-cb-insights-quantum-computing-industry-roadmap]]** ([[morgan-stanley-equity-research]], [[cb-insights-intelligence-unit]], [[accenture-technology-strategy]], Source: `2025 Morgan Stanley - Quantum Computing – How Will It Impact AI.pdf`, `CB-Insights_Big-Tech-In-Quantum-Computing.pdf`, `CB-Insights_Quantum-Computing 2019.pdf` plus 6 additional files)  
+   Authoritative corporate strategy and financial compendium on the quantum computing industry, combining Morgan Stanley’s 77-page flagship investment report *Quantum Computing: How Will It Impact AI?*, CB Insights Big Tech patent analysis, Accenture executive roadmaps, and venture capital financing trends across leading startups.  
+   ### Quantum Computing Commercialization: Morgan Stanley AI Impact Roadmaps, Big Tech Strategies, and Venture Capital
+
+1426. **[[quantum-phenomenology-qbism-and-macroscopic-quantum-biology]]** ([[christopher-a-fuchs]], [[quantum-biology-and-consciousness-collaborative]], Source: `2016 End_of_Life_Experience_Case_Study 2016.pdf`, `2016 Quantum Biology End_of_Life_Experience_Case_Study_and_a.pdf`, `epr_quantum_explained.txt` plus 2 additional files)  
+   Philosophical, epistemological, and biophysical exploration of quantum foundations, synthesizing Quantum Bayesianism (QBism), Einstein-Podolsky-Rosen (EPR) non-locality, phenomenological interpretations of quantum measurement, and empirical case studies investigating quantum coherent biological processes during end-of-life cognitive experiences.  
+   ### Quantum Foundations, Quantum Bayesianism (QBism), Non-Locality, and Macroscopic Quantum Biology
+
+1427. **[[doe-lbnl-data-center-energy-consumption-and-hyperscale-efficiency]]** ([[arman-shehabi]], [[sarah-j-smith]], [[dc-byte-research-team]], [[bank-of-america-global-research]], Source: `2024 united-states-data-center-energy-usage-report.pdf`, `2025 DC Byte Report - The Hyperscale Build Race.pdf`, `2025 Power Analyst_ Where Will Data Centers Go__.pdf` plus 3 additional files)  
+   Definitive governmental, industrial, and financial compendium on data center power consumption, compiling the Department of Energy / LBNL U.S. Data Center Energy Usage Reports, DC Byte’s 2025 hyperscale build race analysis, Bank of America supply chain primers, and Goldman Sachs utility grid demand forecasts.  
+   ### United States Data Center Energy Usage, Hyperscale Build Acceleration, and Grid Power Interconnection
+
+1428. **[[morgan-stanley-cbre-global-data-center-capacity-and-colocation-outlook]]** ([[morgan-stanley-real-estate-and-tmt-group]], [[cbre-data-center-solutions]], [[cushman-and-wakefield-data-center-advisory-group]], [[paul-healey]], Source: `2025 MStanley - Global Data Center Capacity Growth to Increase 6x_20250715.pdf`, `CBRE Global-Data-Center-Trends2023.pdf`, `CushmanWakefiledDataCenter2023.pdf` plus 8 additional files)  
+   Master commercial, financial, and engineering compendium on the global data center real estate market, featuring Morgan Stanley's 135-page report projecting a 6x capacity surge to 2030, CBRE and Cushman & Wakefield global market rankings, JLL outlooks, McKinsey investment theses, and complete facility construction guides.  
+   ### Global Data Center Capacity Growth: Morgan Stanley 6x Forecast, Colocation Dynamics, and Facility Engineering
+
+1429. **[[space-based-ai-data-center-infrastructure-and-gao-assessment]]** ([[blaise-aguera-y-arcas]], [[travis-beals]], [[united-states-government-accountability-office-gao]], Source: `2025 Towards a future space-based, highly scalable AI infrastructure system design Blaise Agüera y Arcas_,1, Travis Beals_,1, Maria Biggs_,1, Jessica V. Bloom_,1,.pdf`, `2025 TECHNOLOGY ASSESSMENT Artificial Intelligence by US Government_.pdf`)  
+   Visionary aerospace and computing systems treatise exploring the thermodynamic feasibility of space-based, gigawatt-scale orbital AI data center clusters powered by continuous solar irradiance, paired with the U.S. Government Accountability Office’s (GAO) comprehensive 2025 AI Technology Assessment.  
+   ### Space-Based AI Compute Infrastructure, Orbital Thermal Radiators, and Federal AI Technology Assessments
+
+1430. **[[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]** ([[cherilyn-e-pascoe]], [[paul-a-grassi]], [[andrew-ginter]], Source: `The NIST Cybersecurity Framework 2023 2.0 NIST.CSWP.29.ipd.pdf`, `Digital Identity Guidelines 2017 NIST.SP.800-63b.pdf`, `wp-top-20-cyberattacks.pdf` plus 2 additional files)  
+   Definitive national security and enterprise cyber governance compendium, centered on the landmark NIST Cybersecurity Framework 2.0 (CSF 2.0), NIST SP 800-63B Digital Identity Guidelines, Andrew Ginter’s Top 20 ICS Cyberattacks analysis, and cyber insurance underwriting guides.  
+   ### The NIST Cybersecurity Framework 2.0, Digital Identity Guidelines, and Industrial Control System Defense
+
+1431. **[[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]** ([[harvard-business-review-press]], [[martin-c-libicki]], [[paul-dreyer]], [[christopher-paul]], Source: `HBR Cybersecurity_.pdf`, `RAND_RR2299.pdf`, `RAND_RR430.pdf` plus 5 additional files)  
+   Master executive and strategic defense compendium combining Harvard Business Review’s 177-page manual *Cybersecurity: The Insights You Need*, RAND Corporation’s economic models on the global cost of cyber risk, RAND analyses of the cybersecurity talent labor market, and military cyber force structures.  
+   ### Cybersecurity Executive Governance, Global Cyber Risk Economics, and Military Cyber Organization
+
+1432. **[[surveillance-telecom-spy-tools-and-digital-propaganda-doctrines]]** ([[joseph-cox]], [[mit-initiative-on-the-digital-economy-ide]], [[joseph-goebbels]], Source: `2024 404 Blog Inside a Global Phone Spy Tool Monitoring Billions.pdf`, `2017 IDE Research Brief False News.pdf`, `Opinion _ How Lies Spread Online.pdf` plus 2 additional files)  
+   Chilling investigation into the mechanisms of modern digital surveillance, viral online disinformation cascades, and totalitarian psychological manipulation, combining 404 Media's exposé on commercial phone spyware tracking billions of devices with MIT research on false news cascades and historical propaganda doctrine.  
+   ### Commercial Spyware Telemetry, Online Disinformation Cascades, and Historical Propaganda Doctrines
+
+1433. **[[enterprise-cloud-architecture-digital-core-and-devsecops]]** ([[accenture-enterprise-strategy]], [[david-baum]], [[splunk-solutions-engineering]], Source: `2024 Accenture-Digital-Core-Chapter-1.pdf`, `2024 ECI_Cloud OccasionalPaper_03-2024_LY04.pdf`, `Content-WhitepaperDevSecOpsMaturityModel.pdf` plus 2 additional files)  
+   Architectural roadmap for enterprise digital transformation, featuring Accenture’s flagship report on building a modernized 'Digital Core', DevSecOps maturity frameworks, security data lake deployment on cloud data platforms (Snowflake), and Splunk API automation.  
+   ### Enterprise Cloud Architecture, Digital Core Transformation, and Security Data Lakes
+
+1434. **[[kbcm-high-alpha-saas-benchmarks-and-capital-efficiency]]** ([[keybanc-capital-markets-technology-group]], [[high-alpha-venture-studio]], [[gooinn-innovation-research]], Source: `2021-KBCM-SaaS-Survey.pdf`, `kbcm_saas_suvey_9-22-1_2.pdf`, `2024 SaaS Benchmarks Report by High Alpha.pdf` plus 4 additional files)  
+   Master financial and operational benchmarking compendium for the software-as-a-service (SaaS) industry, compiling the definitive KeyBanc Capital Markets (KBCM) SaaS Surveys, High Alpha’s 2024 and 2025 SaaS Benchmarks, GOOINN’s Turkish SaaS ecosystem reviews, and Customer Success lifecycle guides.  
+   ### SaaS Financial Benchmarks: The Rule of 40, Net Retention Economics, and Customer Success
+
+1435. **[[oreilly-data-intensive-saas-architecture-and-pricing-models]]** ([[william-waddington]], [[kevin-feasel]], [[andrey-saltan]], [[mckinsey-technology-practice]], Source: `OReilly-Report-Architecting-Data-Intensive-SaaS-Applications.pdf`, `1-s2.0-S095058492100001X-main.pdf`, `SaaS U Colorado dibieogheneovohanghaojie.pdf` plus 3 additional files)  
+   Technical and strategic compendium on modern SaaS engineering and monetization, featuring O'Reilly’s 69-page report *Architecting Data-Intensive SaaS Applications*, Andrey Saltan’s peer-reviewed pricing research, and McKinsey’s playbook on helping industrial players build recurring software businesses.  
+   ### Architecting Data-Intensive SaaS: Multi-Tenancy, Usage-Based Pricing, and Industrial Software Transformation
+
+1436. **[[wearable-computing-technologies-and-global-connected-iot-solutions]]** ([[bcc-research-advanced-materials-and-devices-group]], [[amazon-web-services-iot-practice]], [[pwc-technology-innovations-group]], Source: `BCC. Wearable Computing Technologies, Applications, and Global Markets.pdf`, `AWS IoT_Security_Best_Practices_Guide_design_v3.1.pdf`, `PwC_Products_Connected_Solutions_-_What_to_look_for_in_an_IoT_solution_eBook.pdf` plus 2 additional files)  
+   Comprehensive market, hardware, and cybersecurity compendium on wearable computing and connected IoT devices, featuring BCC Research’s 201-page global market study, AWS IoT Security Best Practices Guide, Gartner Cool Vendors, and PwC connected solutions blueprints.  
+   ### Wearable Computing Technologies, Connected IoT Ecosystems, and Edge Security Architectures
+
+1437. **[[industrial-iot-it-ot-convergence-and-ge-digital-predix]]** ([[paul-healey]], [[pierre-yves-dolbec]], [[schneider-electric-strategy-group]], [[ericsson-mobility-research]], Source: `What_is_IT_OT_Convergence_Everything_You_Need_to_Know.pdf`, `Dolbec GED at Scale.pdf`, `GE_Digital_Glossary[1].pdf` plus 3 additional files)  
+   Definitive industrial engineering and business strategy compendium on the convergence of Information Technology (IT) and Operational Technology (OT), analyzing real-time SCADA integration, GE Digital's historic quest to scale the Predix industrial OS, Schneider Electric’s EcoStruxure, and Ericsson cellular IoT data.  
+   ### Industrial IoT, IT/OT Convergence Architecture, and GE Digital's Predix at Scale
+
+1438. **[[ibm-institute-5g-telecom-future-and-carrier-transformation]]** ([[ibm-institute-for-business-value-telecommunications-group]], [[nomura-research-institute-nri-hri]], Source: `Telecom's 5G future RESEARCH INSIGHTS v2.pdf`, `Telecom's 5G future Infographic.pdf`, `Telecom's 5G future.SILE Webinar.pptx` plus 1 additional files)  
+   Strategic and technical roadmap for fifth-generation (5G) telecommunications transformation, featuring the IBM Institute for Business Value's flagship study *Telecom's 5G Future*, carrier monetization frameworks for network slicing and edge computing, and global telecom market forecasts.  
+   ### Telecom's 5G Future: Network Slicing, Open RAN Architecture, and Carrier Business Models
+
+1439. **[[anthropic-morgan-stanley-humanoids-and-swarm-robotics]]** ([[anthropic-ai-research]], [[morgan-stanley-automation-and-robotics-group]], [[susan-eustis]], [[massachusetts-robotics-cluster-consortium]], Source: `2026 09 30 What work can robots do_ Anthropic.pdf`, `2025 MorganStanley - The Robot Almanac Vol. 3 - Humanoids & Industrial Robots.pdf`, `2024 Can_a_Single_Human_Supervise_a_Swarm_of_100_Heterogeneous_Robots.pdf` plus 4 additional files)  
+   Monumental physical robotics and labor economics compendium compiling Anthropic’s 2026 labor automation study *What work can robots do?*, Morgan Stanley’s 110-page *The Robot Almanac Vol. 3: Humanoids & Industrial Robots*, peer-reviewed research on single-human supervision of 100-robot swarms, and WinterGreen’s 459-page treatise on snake robotics.  
+   ### Humanoid Robotics, Swarm Supervision, and the Labor Automation Frontier
+
+1440. **[[commercial-space-launch-orbital-infrastructure-and-aerospace]]** ([[pitchbook-aerospace-and-defense-group]], [[the-karman-project]], Source: `2024_Emerging_Space_Brief_Commercial_Space_Launch.pdf`, `2024 Q3 Launch_Report_Aerospace_Defense_Preview.pdf`, `Karman Project Fellowship Deck.pdf`)  
+   Compendium on the new space economy, detailing commercial space launch economics, private venture capital flows into orbital infrastructure, heavy-lift launch cadence, and international aerospace cooperation under the Kármán Project.  
+   ### Commercial Space Launch: Launch Economics, Orbital Manufacturing, and Aerospace Geopolitics
+
+1441. **[[global-supply-chain-resilience-just-transition-and-commodity-risk]]** ([[gooinn-innovation-research]], [[salman-shahid]], [[tusiad-and-skd-turkey]], Source: `Tedarik Zinciri Raporu 2023.pdf`, `2024 Tedarik_Zincirlerinde_Adil_Gecis_Is_Dunyas_Bilgilendirme_Raporu-2-1.pdf`, `2026 Global Commodities Market Movers Report.pdf` plus 1 additional files)  
+   Strategic and operational compendium on global supply chain reconfiguration, compiling GOOINN’s 53-page *Tedarik Zinciri Raporu*, TÜSİAD/SKD’s guide on Just Transition mandates in international supply chains, Salman Shahid’s 2026 Global Commodities Market Movers report, and high-stakes healthcare cold chain defenses.  
+   ### Global Supply Chain Resilience: Just Transition Mandates, Commodity Price Volatility, and Healthcare Cold Chains

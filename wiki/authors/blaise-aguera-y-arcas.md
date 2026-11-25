@@ -28,3 +28,7 @@ Blaise Agüera y Arcas is a Google VP and Research Fellow leading foundational i
 - [[cloud-computing-and-distributed-systems]]
 - [[hyperscale-datacenter-power-and-thermal-engineering]]
 - [[cloud-native-architecture-and-declarative-infrastructure]]
+
+
+## Key Works in Wiki
+- [[space-based-ai-data-center-infrastructure-and-gao-assessment]]

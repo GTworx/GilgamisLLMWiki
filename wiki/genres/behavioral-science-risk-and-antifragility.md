@@ -77,6 +77,7 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 - [[ord-the-lindy-effect-longevity-and-survivorship]]
 
 ## Works in this Genre
+- [[surveillance-telecom-spy-tools-and-digital-propaganda-doctrines]]
 - [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]
 - [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]
 - [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

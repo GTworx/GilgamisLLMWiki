@@ -83,3 +83,5 @@ The convergence of embodied foundation models, high-torque actuators, and spatia
 - [[damar-bibliometric-snapshot-of-metaverse-literature-and-historical-ngram]]
 
 ## Works in this Genre
+- [[anthropic-morgan-stanley-humanoids-and-swarm-robotics]]
+- [[wearable-computing-technologies-and-global-connected-iot-solutions]]

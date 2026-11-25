@@ -56,6 +56,7 @@ True decarbonization requires matching clean energy generation with consumption 
 
 
 ## Works under this Theme
+- [[doe-lbnl-data-center-energy-consumption-and-hyperscale-efficiency]]
 - [[electric-bicycles-urban-micro-mobility-and-modal-shift]]
 - [[advanced-battery-technologies-and-global-storage-forecast]]
 - [[electric-vehicle-batteries-critical-materials-and-supply-chains]]

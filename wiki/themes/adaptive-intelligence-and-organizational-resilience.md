@@ -83,6 +83,7 @@ As exponential technologies, demographic shifts, and geopolitical volatility com
 
 
 ## Works under this Theme
+- [[global-supply-chain-resilience-just-transition-and-commodity-risk]]
 - [[disaster-philanthropy-humanitarian-relief-and-volunteer-governance]]
 - [[disaster-technologies-logistics-and-first-72-hours-preparedness]]
 - [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

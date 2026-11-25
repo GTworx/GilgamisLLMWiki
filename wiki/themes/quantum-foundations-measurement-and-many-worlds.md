@@ -46,3 +46,8 @@ On the formal side, [[jochen-pade]]'s [[quantum-mechanics-for-pedestrians]] buil
 - [[neuroscience-and-philosophy-of-mind]]
 - [[anthropology-of-consciousness]]
 - [[innovation-and-economic-growth]]
+
+
+## Works under this Theme
+- [[quantum-phenomenology-qbism-and-macroscopic-quantum-biology]]
+- [[quantum-ergodicity-breaking-chiroptics-and-foundations]]

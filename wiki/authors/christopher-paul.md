@@ -24,3 +24,7 @@ Senior Social Scientist at the RAND Corporation and Professor at the Pardee RAND
 - [[martin-c-libicki]]
 - [[hybrid-threats-and-cyber-warfare]]
 - [[disinformation-cascades-and-cognitive-warfare]]
+
+
+## Key Works in Wiki
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]

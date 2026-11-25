@@ -28,3 +28,7 @@ Maria Schuld is a pioneering quantum machine learning researcher at Xanadu Quant
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Key Works in Wiki
+- [[quantum-machine-learning-chemistry-and-computational-advantage]]

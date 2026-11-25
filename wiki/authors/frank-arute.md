@@ -28,3 +28,7 @@ Frank Arute is a Senior Quantum Hardware Engineer at Google Quantum AI and the l
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Key Works in Wiki
+- [[google-quantum-supremacy-and-random-circuit-sampling]]

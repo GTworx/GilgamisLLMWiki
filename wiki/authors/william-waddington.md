@@ -31,3 +31,7 @@ In [[architecting-data-intensive-saas-applications]] (2021), Waddington and co-a
 - [[data-science-and-scientific-computing]]
 - [[cloud-native-architecture-and-declarative-infrastructure]]
 - [[iot-cyber-physical-convergence-and-edge-security]]
+
+
+## Key Works in Wiki
+- [[oreilly-data-intensive-saas-architecture-and-pricing-models]]

@@ -113,5 +113,14 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 
 
 ## Works in this Genre
+- [[global-supply-chain-resilience-just-transition-and-commodity-risk]]
+- [[ibm-institute-5g-telecom-future-and-carrier-transformation]]
+- [[kbcm-high-alpha-saas-benchmarks-and-capital-efficiency]]
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]
+- [[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]
+- [[morgan-stanley-cbre-global-data-center-capacity-and-colocation-outlook]]
+- [[morgan-stanley-and-cb-insights-quantum-computing-industry-roadmap]]
+- [[global-semiconductor-foundries-geopolitics-and-market-dynamics]]
+- [[us-chips-and-science-act-and-national-semiconductor-strategy]]
 - [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]
 - [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]

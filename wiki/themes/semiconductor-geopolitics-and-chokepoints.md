@@ -61,3 +61,10 @@ As synthesized in [[chris-miller]]'s [[chip-war-the-fight-for-the-worlds-most-cr
 - [[security-studies]]
 - [[international-relations]]
 - [[military-science]]
+
+
+## Works under this Theme
+- [[commercial-space-launch-orbital-infrastructure-and-aerospace]]
+- [[semiconductor-mes-ip-protection-and-in-sensor-computing]]
+- [[global-semiconductor-foundries-geopolitics-and-market-dynamics]]
+- [[us-chips-and-science-act-and-national-semiconductor-strategy]]

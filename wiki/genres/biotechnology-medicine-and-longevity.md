@@ -88,6 +88,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 - [[new-scientist-international-12-march-2022-compendium]]
 
 ## Works in this Genre
+- [[quantum-sensing-gravity-cartography-and-biomedical-probes]]
 - [[biontech-pfizer-bnt162b2-mrna-vaccine-and-sars-cov-2-reinfection]]
 - [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
 - [[neanderthal-polymorphism-enrichment-and-autism-etiology]]

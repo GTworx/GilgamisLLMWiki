@@ -89,3 +89,10 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 - [[ferguson-eiu-ukraine-war-scenarios-and-global-business-transformation]]
 - [[regional-war-dynamics-emp-threats-and-forensic-ballistics]]
 - [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
+
+
+## Works under this Theme
+- [[surveillance-telecom-spy-tools-and-digital-propaganda-doctrines]]
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]
+- [[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]
+- [[post-quantum-cryptography-and-quantum-network-teleportation]]

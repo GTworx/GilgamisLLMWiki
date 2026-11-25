@@ -44,3 +44,10 @@
 - [[internet-of-things-and-edge-computing]]
 - [[cybersecurity-and-digital-forensics]]
 - [[innovation-and-economic-growth]]
+
+
+## Works under this Theme
+- [[industrial-iot-it-ot-convergence-and-ge-digital-predix]]
+- [[wearable-computing-technologies-and-global-connected-iot-solutions]]
+- [[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]
+- [[semiconductor-mes-ip-protection-and-in-sensor-computing]]

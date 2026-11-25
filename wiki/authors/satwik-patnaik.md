@@ -23,3 +23,7 @@ Hardware security and computer engineering researcher at Texas A&M and NYU Tando
 - [[ozgur-sinanoglu]]
 - [[semiconductor-geopolitics-and-chokepoints]]
 - [[zero-trust-architecture-and-cryptographic-resilience]]
+
+
+## Key Works in Wiki
+- [[semiconductor-mes-ip-protection-and-in-sensor-computing]]

@@ -64,3 +64,12 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 - [[security-and-privacy-with-3d-reconstructed-human-avatars]]
 - [[interpol-metaverse-white-paper-law-enforcement-perspective]]
 - [[decentralized-identity-verification-cryptographic-patent]]
+
+
+## Works in this Genre
+- [[wearable-computing-technologies-and-global-connected-iot-solutions]]
+- [[surveillance-telecom-spy-tools-and-digital-propaganda-doctrines]]
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]
+- [[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]
+- [[post-quantum-cryptography-and-quantum-network-teleportation]]
+- [[semiconductor-mes-ip-protection-and-in-sensor-computing]]

@@ -66,3 +66,9 @@ Across the Gilgamis LLM Wiki, [[brendan-burns]], [[joe-beda]], [[kelsey-hightowe
 ## Works Under this Theme
 - [[gartner-enterprise-blockchain-hype-cycle-and-architecture-compendium]]
 
+
+
+## Works under this Theme
+- [[ibm-institute-5g-telecom-future-and-carrier-transformation]]
+- [[oreilly-data-intensive-saas-architecture-and-pricing-models]]
+- [[enterprise-cloud-architecture-digital-core-and-devsecops]]

@@ -23,3 +23,7 @@ Investigative cybersecurity reporter and co-founder of 404 Media, renowned for g
 - [[rand-corporation]]
 - [[hybrid-threats-and-cyber-warfare]]
 - [[zero-trust-architecture-and-cryptographic-resilience]]
+
+
+## Key Works in Wiki
+- [[surveillance-telecom-spy-tools-and-digital-propaganda-doctrines]]

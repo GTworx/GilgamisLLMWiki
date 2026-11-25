@@ -31,3 +31,7 @@ In [[deploying-a-modern-security-data-lake]] (2022), Baum explains how cloud-nat
 - [[data-science-and-scientific-computing]]
 - [[cloud-scale-fraud-analytics-and-security-data-lakes]]
 - [[cloud-native-architecture-and-declarative-infrastructure]]
+
+
+## Key Works in Wiki
+- [[enterprise-cloud-architecture-digital-core-and-devsecops]]

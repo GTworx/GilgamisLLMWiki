@@ -28,3 +28,7 @@ Timothée Hoffreumon is a mathematical and theoretical physicist with the Inria 
 - [[data-science-and-scientific-computing]]
 - [[quantum-foundations-measurement-and-many-worlds]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Key Works in Wiki
+- [[quantum-ergodicity-breaking-chiroptics-and-foundations]]

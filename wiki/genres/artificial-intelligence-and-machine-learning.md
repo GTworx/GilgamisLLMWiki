@@ -98,3 +98,8 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 - [[wef-future-of-jobs-report-2023]]
 
 ## Works in this Genre
+- [[anthropic-morgan-stanley-humanoids-and-swarm-robotics]]
+- [[space-based-ai-data-center-infrastructure-and-gao-assessment]]
+- [[quantum-machine-learning-chemistry-and-computational-advantage]]
+- [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]
+- [[google-quantum-supremacy-and-random-circuit-sampling]]

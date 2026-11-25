@@ -56,3 +56,15 @@ Frontier AI development has transformed from software engineering into an indust
 - [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
 - [[rahwan-shariff-bonnefon-science-fiction-science-method]]
 
+
+
+## Works under this Theme
+- [[anthropic-morgan-stanley-humanoids-and-swarm-robotics]]
+- [[space-based-ai-data-center-infrastructure-and-gao-assessment]]
+- [[morgan-stanley-cbre-global-data-center-capacity-and-colocation-outlook]]
+- [[doe-lbnl-data-center-energy-consumption-and-hyperscale-efficiency]]
+- [[morgan-stanley-and-cb-insights-quantum-computing-industry-roadmap]]
+- [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]
+- [[google-quantum-supremacy-and-random-circuit-sampling]]
+- [[global-semiconductor-foundries-geopolitics-and-market-dynamics]]
+- [[us-chips-and-science-act-and-national-semiconductor-strategy]]

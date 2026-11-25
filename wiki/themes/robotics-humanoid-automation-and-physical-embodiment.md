@@ -41,3 +41,7 @@ Physical embodiment is the ultimate frontier of artificial intelligence. When th
 - [[gartner-augmented-reality-and-human-machine-interface-compendium]]
 - [[obryan-angelini-self-assembled-micro-organogels-for-3d-printing]]
 - [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
+
+
+## Works under this Theme
+- [[anthropic-morgan-stanley-humanoids-and-swarm-robotics]]

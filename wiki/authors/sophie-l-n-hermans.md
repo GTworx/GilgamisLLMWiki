@@ -28,3 +28,7 @@ Sophie L. N. Hermans is an experimental quantum physicist at QuTech and Delft Un
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Key Works in Wiki
+- [[quantum-sensing-gravity-cartography-and-biomedical-probes]]

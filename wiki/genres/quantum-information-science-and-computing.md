@@ -99,3 +99,14 @@ Explores the theoretical foundations, physical hardware implementations, algorit
 - [[cloud-computing-and-distributed-systems]]
 - [[data-science-and-scientific-computing]]
 - [[semiconductor-engineering-and-industrial-policy]]
+
+
+## Works in this Genre
+- [[quantum-phenomenology-qbism-and-macroscopic-quantum-biology]]
+- [[morgan-stanley-and-cb-insights-quantum-computing-industry-roadmap]]
+- [[quantum-ergodicity-breaking-chiroptics-and-foundations]]
+- [[post-quantum-cryptography-and-quantum-network-teleportation]]
+- [[quantum-sensing-gravity-cartography-and-biomedical-probes]]
+- [[quantum-machine-learning-chemistry-and-computational-advantage]]
+- [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]
+- [[google-quantum-supremacy-and-random-circuit-sampling]]

@@ -28,3 +28,7 @@ Volkan Inlek is an experimental quantum information scientist who completed his 
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Key Works in Wiki
+- [[post-quantum-cryptography-and-quantum-network-teleportation]]

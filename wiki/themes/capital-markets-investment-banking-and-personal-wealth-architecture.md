@@ -130,5 +130,10 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 
 
 ## Works under this Theme
+- [[global-supply-chain-resilience-just-transition-and-commodity-risk]]
+- [[kbcm-high-alpha-saas-benchmarks-and-capital-efficiency]]
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]
+- [[morgan-stanley-cbre-global-data-center-capacity-and-colocation-outlook]]
+- [[morgan-stanley-and-cb-insights-quantum-computing-industry-roadmap]]
 - [[oil-and-gas-transitions-flaring-economics-and-energy-efficiency]]
 - [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]

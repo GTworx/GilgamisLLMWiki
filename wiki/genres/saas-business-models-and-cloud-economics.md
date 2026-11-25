@@ -67,3 +67,9 @@ Explores the commercial, operational, and architectural principles governing Sof
 - [[corporate-strategy-and-management-classics]]
 - [[private-equity-and-venture-capital]]
 - [[internet-of-things-and-industrial-automation]]
+
+
+## Works in this Genre
+- [[oreilly-data-intensive-saas-architecture-and-pricing-models]]
+- [[kbcm-high-alpha-saas-benchmarks-and-capital-efficiency]]
+- [[enterprise-cloud-architecture-digital-core-and-devsecops]]

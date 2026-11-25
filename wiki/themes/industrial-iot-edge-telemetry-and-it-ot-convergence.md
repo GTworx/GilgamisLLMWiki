@@ -56,3 +56,9 @@ Analyzes the technological and cultural bridging of enterprise Information Techn
 - [[cloud-native-architecture-and-declarative-infrastructure]]
 - [[energy-transition-and-storage-economics]]
 - [[semiconductor-geopolitics-and-chokepoints]]
+
+
+## Works under this Theme
+- [[ibm-institute-5g-telecom-future-and-carrier-transformation]]
+- [[industrial-iot-it-ot-convergence-and-ge-digital-predix]]
+- [[wearable-computing-technologies-and-global-connected-iot-solutions]]

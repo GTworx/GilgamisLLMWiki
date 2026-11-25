@@ -51,6 +51,7 @@ In [[discovering-the-brain]], [[sandra-ackerman]] maps the *Decade of the Brain*
 
 
 ## Works under this Theme
+- [[quantum-phenomenology-qbism-and-macroscopic-quantum-biology]]
 - [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
 - [[neanderthal-polymorphism-enrichment-and-autism-etiology]]
 - [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]

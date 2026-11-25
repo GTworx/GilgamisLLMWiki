@@ -33,3 +33,8 @@ Rapid launch cost deflation, commercial space industrialization, and urban air m
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+
+## Works in this Genre
+- [[commercial-space-launch-orbital-infrastructure-and-aerospace]]
+- [[space-based-ai-data-center-infrastructure-and-gao-assessment]]

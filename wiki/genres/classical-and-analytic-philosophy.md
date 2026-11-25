@@ -100,3 +100,7 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 - [[marsh-computational-wisdom-and-artificial-phronesis]]
 - [[personal-identity-time-fission-and-psychological-continuity]]
 - [[dialectic-disputation-fallacies-and-applied-ethics]]
+
+
+## Works in this Genre
+- [[quantum-ergodicity-breaking-chiroptics-and-foundations]]

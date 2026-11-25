@@ -23,3 +23,7 @@ Keyser Chair of Cybersecurity Studies at the U.S. Naval Academy and former senio
 - [[christopher-paul]]
 - [[hybrid-threats-and-cyber-warfare]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Key Works in Wiki
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]

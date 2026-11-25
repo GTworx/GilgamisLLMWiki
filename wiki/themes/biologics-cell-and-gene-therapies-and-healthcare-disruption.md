@@ -55,6 +55,8 @@ Establishing the scientific baseline, [[daan-j-a-crommelin]], [[robert-d-sindela
 
 
 ## Works under this Theme
+- [[quantum-sensing-gravity-cartography-and-biomedical-probes]]
+- [[quantum-machine-learning-chemistry-and-computational-advantage]]
 - [[biontech-pfizer-bnt162b2-mrna-vaccine-and-sars-cov-2-reinfection]]
 - [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
 - [[neanderthal-polymorphism-enrichment-and-autism-etiology]]

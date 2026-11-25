@@ -28,3 +28,7 @@ Sergey Bravyi is an IBM Fellow and world-renowned quantum information theorist a
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Key Works in Wiki
+- [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]

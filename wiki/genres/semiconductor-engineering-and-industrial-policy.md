@@ -12,6 +12,11 @@ Studies examining the physics, manufacturing execution systems, foundry economic
 ---
 
 ## Works in this Genre
+- [[commercial-space-launch-orbital-infrastructure-and-aerospace]]
+- [[doe-lbnl-data-center-energy-consumption-and-hyperscale-efficiency]]
+- [[semiconductor-mes-ip-protection-and-in-sensor-computing]]
+- [[global-semiconductor-foundries-geopolitics-and-market-dynamics]]
+- [[us-chips-and-science-act-and-national-semiconductor-strategy]]
 - [[the-chips-and-science-act-of-2022]] (2022) — The CHIPS and Science Act of 2022: Legislative Text, Section-by-Section Analysis, and National Implementation Blueprint
 - [[sia-state-of-the-industry-report-2023]] (2023) — 2023 State of the U.S. Semiconductor Industry Report
 - [[nstc-vision-and-strategy-semiconductors]] (2023) — A Vision and Strategy for the National Semiconductor Technology Center (NSTC)

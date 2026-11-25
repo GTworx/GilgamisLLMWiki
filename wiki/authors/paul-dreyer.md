@@ -23,3 +23,7 @@ Senior Mathematician at the RAND Corporation, researcher in quantitative risk an
 - [[rand-corporation]]
 - [[zero-trust-architecture-and-cryptographic-resilience]]
 - [[hybrid-threats-and-cyber-warfare]]
+
+
+## Key Works in Wiki
+- [[hbr-rand-cyber-risk-economics-and-military-cyber-doctrine]]

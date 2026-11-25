@@ -56,3 +56,8 @@ Examines the quantitative and operational metrics that govern software enterpris
 - [[cloud-native-architecture-and-declarative-infrastructure]]
 - [[general-purpose-technologies-and-learning-by-doing]]
 - [[private-debt-liquidity-and-shadow-banking]]
+
+
+## Works under this Theme
+- [[oreilly-data-intensive-saas-architecture-and-pricing-models]]
+- [[kbcm-high-alpha-saas-benchmarks-and-capital-efficiency]]

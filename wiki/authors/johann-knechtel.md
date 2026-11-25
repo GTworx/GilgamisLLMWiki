@@ -24,3 +24,7 @@ Research Scientist at New York University Abu Dhabi specializing in hardware sec
 - [[national-institute-of-standards-and-technology]]
 - [[semiconductor-geopolitics-and-chokepoints]]
 - [[zero-trust-architecture-and-cryptographic-resilience]]
+
+
+## Key Works in Wiki
+- [[semiconductor-mes-ip-protection-and-in-sensor-computing]]
