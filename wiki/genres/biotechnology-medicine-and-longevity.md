@@ -96,4 +96,16 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 
 
 ## Canonical Works
+- [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
+- [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
+- [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
+- [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]
+- [[cognitive-reserve-axa-mind-health-and-neurodegenerative-epidemiology]]
+- [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
+- [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
+- [[synthetic-biology-genome-project-write-and-dna-data-storage]]
+- [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]
+- [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]
+- [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]]
+- [[kevin-tracey-bioelectronic-medicine-inflammatory-reflex-and-vagus-nerve-stimulation]]
 - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

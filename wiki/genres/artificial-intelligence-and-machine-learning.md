@@ -103,3 +103,8 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 - [[quantum-machine-learning-chemistry-and-computational-advantage]]
 - [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]
 - [[google-quantum-supremacy-and-random-circuit-sampling]]
+
+
+## Canonical Works
+- [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
+- [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]

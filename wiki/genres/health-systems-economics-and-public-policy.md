@@ -93,6 +93,9 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 
 
 ## Canonical Works
+- [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
+- [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
+- [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
 - [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
 - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
 - [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

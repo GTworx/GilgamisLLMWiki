@@ -1,0 +1,45 @@
+# Pan-Cancer Multimodal Deep Learning, Histology, and Liquid Biopsies: Cell-Free DNA, Exosomes, and 177Lu-PSMA Theranostics
+
+## Metadata
+- **Index**: Work 1480
+- **Author(s)**: [[faisal-mahmood]], [[rebecca-l-siegel]], [[american-cancer-society]], [[grail-clinical-research-group]]
+- **Genre(s)**: [[biotechnology-medicine-and-longevity]], [[artificial-intelligence-and-machine-learning]], [[clinical-medicine-and-cardiology]]
+- **Key Themes**: [[digital-health-ambient-ai-and-clinical-workflows]], [[artificial-intelligence-scaling-compute-and-governance]]
+
+## Summary
+Master contemporary oncology, computational pathology, and liquid biopsy compendium. Features landmark research on multimodal deep learning fusing gigapixel whole-slide histology with genomic profiles for pan-cancer survival prediction, cell-free DNA (cfDNA) and exosome biology in drug resistance, GRAIL multicancer early detection trials, American Cancer Society 2024 statistics (tracking alarming surges in cancer under age 50), and 177Lu-PSMA radioligand theranostics.
+
+## Analytical Overview
+This volume gathers the cutting edge of precision oncology: computational multimodal AI diagnosis, non-invasive liquid biopsies, and targeted radioligand therapeutics.
+
+Key oncological breakthroughs:
+1. **Multimodal Deep Learning in Computational Pathology**: Compiles Faisal Mahmood’s pioneering papers on integrating gigapixel whole-slide histopathology with genomic mutations, transcriptomics, and spatial proteomic maps. Demonstrates that late-fusion multimodal neural networks significantly outperform unimodal models in predicting patient survival, therapeutic response, and tumor of unknown origin.
+2. **Liquid Biopsy, cfDNA Methylation & GRAIL**: Evaluates clinical trial protocols from GRAIL, analyzing cell-free DNA (cfDNA) fragmentation patterns and targeted methylation sequencing to detect over 50 distinct cancer types from a single tube of blood before clinical symptom onset.
+3. **Targeted Radioligand Theranostics & ACS 2024 Trends**: Analyzes the revolution in nuclear medicine brought by Lutetium-177 PSMA (*177Lu-PSMA-617*) targeting metastatic castration-resistant prostate cancer, alongside the American Cancer Society’s *Cancer Statistics 2024* warning of escalating incidence in adults under 50 (colorectal, breast, pancreas).
+
+## Primary Sources
+- [2020 Potential roles and prognostic significance of exosomes in cancer drug resistance.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2020 Potential roles and prognostic significance of exosomes in cancer drug resistance.pdf) — (15p, 2167KB)
+- [2021 Cell-Free DNA- Hope and Potential Application in Cancer.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2021 Cell-Free DNA- Hope and Potential Application in Cancer.pdf) — (13p, 684KB)
+- [2022 Pan-cancer integrative histology-genomic analysis via multimodal deep learning.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 Pan-cancer integrative histology-genomic analysis via multimodal deep learning.pdf) — (21p, 7070KB)
+- [2023 Patterns in Cancer Incidence Among People Younger Than 50 Years in the US, 2010 to 2019.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2023 Patterns in Cancer Incidence Among People Younger Than 50 Years in the US, 2010 to 2019.pdf) — (14p, 1082KB)
+- [2024 177Lu-PSMA (R)Evolution in Cancer Care- Is It Really Happening.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2024 177Lu-PSMA (R)Evolution in Cancer Care- Is It Really Happening.pdf) — (3p, 467KB)
+- [2024 CA A Cancer J Clinicians - 2024 - Siegel - Cancer statistics  2024.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2024 CA A Cancer J Clinicians - 2024 - Siegel - Cancer statistics  2024.pdf) — (38p, 2899KB)
+- [2024 Improved prostate cancer diagnosis using a modified ResNet50‑based deep learning architecture.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2024 Improved prostate cancer diagnosis using a modified ResNet50‑based deep learning architecture.pdf) — (14p, 1918KB)
+- [2024 Quantifying the advantage of multimodal data fusion for survival prediction in cancer patients.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2024 Quantifying the advantage of multimodal data fusion for survival prediction in cancer patients.pdf) — (47p, 3117KB)
+- [2025 a-Therapy and Combination Strategies to Overcome Resistance and Enhance Clinical Outcomes in Prostate Cancer.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2025 a-Therapy and Combination Strategies to Overcome Resistance and Enhance Clinical Outcomes in Prostate Cancer.pdf) — (4p, 1685KB)
+- [Dark-genome,-bright-ideas--Recent-approaches-to-ha.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Dark-genome,-bright-ideas--Recent-approaches-to-ha.pdf) — (6p, 676KB)
+- [Decoding-tumor-microenvironments-through-artificia.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Decoding-tumor-microenvironments-through-artificia.pdf) — (3p, 839KB)
+- [Grail Trial ILLUMINA_20160930_0000.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/Grail Trial ILLUMINA_20160930_0000.pdf) — (8p, 204KB)
+- [Human-and-machine--Better-at-pathology-together-_c.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Human-and-machine--Better-at-pathology-together-_c.pdf) — (3p, 711KB)
+- [Immune-suppression-in-the-tumor-draining-lymph-nod.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Immune-suppression-in-the-tumor-draining-lymph-nod.pdf) — (2p, 201KB)
+- [Increased-antibody-titers-and-reduced-seronegativi.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Increased-antibody-titers-and-reduced-seronegativi.pdf) — (2p, 203KB)
+- [Integrative-analysis-of-drug-response-and-clinical.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Integrative-analysis-of-drug-response-and-clinical.pdf) — (25p, 5339KB)
+- [Metastasis_ccell.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Metastasis_ccell.pdf) — (5p, 1022KB)
+- [Node-foretold--Cancer-cells-in-lymph-node-rewire-t.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Node-foretold--Cancer-cells-in-lymph-node-rewire-t.pdf) — (3p, 643KB)
+- [Oncogenic-collagen-I-homotrimers-from-cancer-cells.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Oncogenic-collagen-I-homotrimers-from-cancer-cells.pdf) — (27p, 8105KB)
+- [Pan-cancer-integrative-histology-genomic-analysis-.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Pan-cancer-integrative-histology-genomic-analysis-.pdf) — (21p, 7070KB)
+- [Pan-cancer-proteomic-map-of-949-human-cell-lines_2.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Pan-cancer-proteomic-map-of-949-human-cell-lines_2.pdf) — (24p, 5333KB)
+- [Precise-reconstruction-of-the-TME-using-bulk-RNA-s.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Precise-reconstruction-of-the-TME-using-bulk-RNA-s.pdf) — (33p, 8897KB)
+- [Precision-medicine-in-AML--Function-plus--omics-is.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Precision-medicine-in-AML--Function-plus--omics-is.pdf) — (3p, 681KB)
+- [The-aging-lung-microenvironment-awakens-melanoma-m.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/The-aging-lung-microenvironment-awakens-melanoma-m.pdf) — (3p, 710KB)
+- [Untangling-the-tumorigenic-role-of-homotrimeric-co.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Healthcare/Cancer/2022 08 Cell Issue on Cancer/Untangling-the-tumorigenic-role-of-homotrimeric-co.pdf) — (3p, 905KB)

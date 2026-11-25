@@ -77,3 +77,11 @@ Cardiovascular disease and oncology remain the leading global causes of mortalit
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
 - [[near-death-experiences-and-disconnected-consciousness-probes]]
 - [[covert-consciousness-in-unresponsive-brain-injury-patients]]
+
+
+## Canonical Works
+- [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
+- [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
+- [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
+- [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]
+- [[kevin-tracey-bioelectronic-medicine-inflammatory-reflex-and-vagus-nerve-stimulation]]

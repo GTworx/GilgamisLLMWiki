@@ -79,3 +79,7 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 - [[industrial-iot-it-ot-convergence-and-ge-digital-predix]]
 - [[oreilly-data-intensive-saas-architecture-and-pricing-models]]
 - [[enterprise-cloud-architecture-digital-core-and-devsecops]]
+
+
+## Canonical Works
+- [[synthetic-biology-genome-project-write-and-dna-data-storage]]

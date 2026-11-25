@@ -77,6 +77,8 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 
 
 ## Canonical Works
+- [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
+- [[synthetic-biology-genome-project-write-and-dna-data-storage]]
 - [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
 - [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
 - [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]

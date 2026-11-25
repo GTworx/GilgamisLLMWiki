@@ -71,4 +71,6 @@ Frontier AI development has transformed from software engineering into an indust
 
 
 ## Canonical Works
+- [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
+- [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]
 - [[private-equity-operating-partners-compensation-and-generative-ai]]

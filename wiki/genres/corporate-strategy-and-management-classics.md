@@ -240,6 +240,11 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 
 
 ## Canonical Works
+- [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
+- [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
+- [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]
+- [[synthetic-biology-genome-project-write-and-dna-data-storage]]
+- [[kevin-tracey-bioelectronic-medicine-inflammatory-reflex-and-vagus-nerve-stimulation]]
 - [[private-equity-operating-partners-compensation-and-generative-ai]]
 - [[stefano-caselli-private-equity-and-venture-capital-foundations]]
 - [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]

@@ -31,6 +31,10 @@ Examines the epistemological foundations, methodological rigor, and institutiona
 
 
 ## Canonical Works
+- [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
+- [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
+- [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]
+- [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]
 - [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]
 - [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]
 - [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

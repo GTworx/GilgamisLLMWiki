@@ -91,4 +91,6 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 
 
 ## Canonical Works
+- [[cognitive-reserve-axa-mind-health-and-neurodegenerative-epidemiology]]
+- [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]]
 - [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

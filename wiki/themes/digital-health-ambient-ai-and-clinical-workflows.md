@@ -46,3 +46,14 @@ Ambient clinical AI represents a transformational productivity shock for healthc
 - [[tashjian-spiegel-virtual-reality-for-inpatient-pain-management]]
 - [[us-surgeon-general-facing-addiction-in-america]]
 - [[kolodny-courtwright-prescription-opioid-and-heroin-crisis]]
+
+
+## Canonical Works
+- [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
+- [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
+- [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]
+- [[cognitive-reserve-axa-mind-health-and-neurodegenerative-epidemiology]]
+- [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
+- [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]
+- [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]]
+- [[kevin-tracey-bioelectronic-medicine-inflammatory-reflex-and-vagus-nerve-stimulation]]

@@ -73,6 +73,7 @@ Originating in [[geoffrey-a-moore]]'s [[crossing-the-chasm]] and codified exhaus
 
 
 ## Canonical Works
+- [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
 - [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]
 - [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
 - [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]

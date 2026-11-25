@@ -2094,3 +2094,21 @@ This file provides an append-only historical audit log of all book ingestions, c
   - [[private-equity-operating-partners-compensation-and-generative-ai]] (Work 1474)
 - **Entities**: 24 new authors created, 13 updated; 30 genre associations, 20 theme associations updated.
 - **Audit**: Passed with 0 broken links, 0 orphans, 0 unindexed pages across 3,852 entity pages.
+
+## 2026-11-25 23:44:41 - Sub-Wave AR-20E1 Ingestion: Healthcare, Clinical Medicine, Biotech & Digital Health (Works 1475–1486)
+- **Scope**: Ingested 231 physical files across 20 specialized collections within `Healthcare/`: `Bio Electronics Medicine` (66), `Biology` (64), `Cancer` (32), `Brain` (11), `MedTech` (11), `Precision Med` (10), `Future of Healthcare` (7), `Digital Health` (5), `_Health Entrepreneurship` (5), `Wellness` (4), `ImmunoTx CoE` (3), `Cardiology` (2), `Public Health` (2), `Robots - Healthcare` (2), `Telemedicine` (2), `China` (1), `Drug` (1), `StemCells` (1), `Voice-Based Dx` (1), `_Disease Reports` (1).
+- **Canonical Works Created**: 12 works (Works 1475–1486).
+  - [[kevin-tracey-bioelectronic-medicine-inflammatory-reflex-and-vagus-nerve-stimulation]] (Work 1475)
+  - [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]] (Work 1476)
+  - [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]] (Work 1477)
+  - [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]] (Work 1478)
+  - [[synthetic-biology-genome-project-write-and-dna-data-storage]] (Work 1479)
+  - [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]] (Work 1480)
+  - [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]] (Work 1481)
+  - [[cognitive-reserve-axa-mind-health-and-neurodegenerative-epidemiology]] (Work 1482)
+  - [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]] (Work 1483)
+  - [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]] (Work 1484)
+  - [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]] (Work 1485)
+  - [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]] (Work 1486)
+- **Entities**: 47 new authors created, 6 updated; 36 genre associations, 24 theme associations updated.
+- **Audit**: Passed with 0 broken links, 0 orphans, 0 unindexed pages across 3,911 entity pages.

@@ -214,6 +214,10 @@
 
 
 ## Canonical Works
+- [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]
+- [[synthetic-biology-genome-project-write-and-dna-data-storage]]
+- [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]]
+- [[kevin-tracey-bioelectronic-medicine-inflammatory-reflex-and-vagus-nerve-stimulation]]
 - [[private-equity-operating-partners-compensation-and-generative-ai]]
 - [[carlota-perez-technological-revolutions-and-startup-strategy]]
 - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

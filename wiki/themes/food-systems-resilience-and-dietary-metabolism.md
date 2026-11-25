@@ -57,5 +57,6 @@ Realigning agricultural production with human nutritional guidelines is the most
 
 
 ## Canonical Works
+- [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
 - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
 - [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]

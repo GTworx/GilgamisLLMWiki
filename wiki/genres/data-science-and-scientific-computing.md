@@ -159,3 +159,8 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 - [[cb-insights-12-tech-trends-to-watch-in-2022]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]
+- [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]
