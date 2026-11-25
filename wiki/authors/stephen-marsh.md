@@ -28,3 +28,4 @@ Stephen Marsh is Professor of Computer Science at Ontario Tech University and a 
 - [[data-science-and-scientific-computing]]
 - [[moral-foundations-cognitive-biases-and-interface-perception]]
 - [[synthetic-consciousness-moral-personhood-and-adaptive-pedagogy]]
+- [[marsh-computational-wisdom-and-artificial-phronesis]]

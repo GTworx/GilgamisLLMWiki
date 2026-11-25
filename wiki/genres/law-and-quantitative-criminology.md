@@ -72,3 +72,4 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 - [[pwc-global-crypto-regulation-report-jurisdictions-and-stablecoins]]
 - [[international-olympic-committee-olympic-charter-and-governance]]
 - [[art-historical-connoisseurship-and-technical-authentication-guide]]
+- [[protecting-americans-from-foreign-adversary-applications-act]]

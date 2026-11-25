@@ -159,3 +159,7 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 - [[drake-star-global-gaming-industry-ma-and-investment-report]]
 - [[global-esports-investment-and-media-rights-compendium]]
 - [[highsnobiety-bcg-luxury-3-culture-creators-and-fashion]]
+- [[murdoch-family-succession-drama-and-transnational-media-power]]
+- [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]]
+- [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
+- [[wef-future-of-jobs-report-2023]]

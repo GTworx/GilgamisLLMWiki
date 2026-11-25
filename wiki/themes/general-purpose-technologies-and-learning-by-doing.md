@@ -183,3 +183,8 @@
 - [[drake-star-global-gaming-industry-ma-and-investment-report]]
 - [[financial-times-private-equity-billion-dollar-music-catalogs]]
 - [[global-film-production-economics-and-studio-tax-incentives]]
+- [[seaver-algorithms-as-culture-ethnography-of-systems]]
+- [[murdoch-family-succession-drama-and-transnational-media-power]]
+- [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
+- [[changing-definition-and-epistemology-of-retirement]]
+- [[wef-future-of-jobs-report-2023]]

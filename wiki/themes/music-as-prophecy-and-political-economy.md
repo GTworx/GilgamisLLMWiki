@@ -32,3 +32,5 @@ Across the wiki, Attali's four networks—*Sacrificing*, *Representing*, *Repeat
 - [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]
 - [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]
 - [[financial-times-private-equity-billion-dollar-music-catalogs]]
+- [[persian-compound-verbs-and-lexicographical-structures]]
+- [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]]

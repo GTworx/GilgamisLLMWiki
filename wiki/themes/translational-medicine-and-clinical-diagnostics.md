@@ -63,3 +63,5 @@ Bridging the chasm between benchtop molecular biology and bedside clinical effic
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
 - [[cb-insights-blockchain-disrupting-healthcare-clinical-trials]]
+- [[near-death-experiences-and-disconnected-consciousness-probes]]
+- [[covert-consciousness-in-unresponsive-brain-injury-patients]]

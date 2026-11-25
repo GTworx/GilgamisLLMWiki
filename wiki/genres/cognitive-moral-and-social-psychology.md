@@ -107,3 +107,6 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 - [[yee-bailenson-proteus-effect-and-avatar-psychology]]
 - [[scientific-landscape-of-embodied-experience-in-virtual-environments]]
 - [[chin-stine-morrow-age-differences-in-information-foraging]]
+- [[comparative-cognitive-styles-politician-vs-scientist-intellect]]
+- [[ghazalian-epistemology-islamic-spiritual-psychology-and-maslow]]
+- [[changing-definition-and-epistemology-of-retirement]]

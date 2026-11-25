@@ -77,3 +77,4 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 - [[ferguson-and-eiu-ukraine-war-worst-case-scenarios-and-business-impact]]
 
 - [[electromagnetic-pulse-weapons-and-grid-vulnerability-doctrine]]
+- [[protecting-americans-from-foreign-adversary-applications-act]]

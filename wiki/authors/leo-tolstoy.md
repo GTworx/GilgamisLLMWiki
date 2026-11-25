@@ -29,3 +29,4 @@ Russian novelist, moral philosopher, and Christian anarchist (1828–1910), auth
 - [[moral-courage-nonviolent-resistance-and-transformative-biography]]
 - [[persian-sufism-skepticism-and-comparative-translation]]
 - [[universal-love-and-human-dignity]]
+- [[tolstoy-treatise-on-the-messenger-of-islam-and-prophet-muhammad]]

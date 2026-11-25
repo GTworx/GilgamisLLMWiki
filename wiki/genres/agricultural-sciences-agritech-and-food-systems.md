@@ -57,3 +57,5 @@ Agriculture accounts for 70% of planetary freshwater withdrawals and a third of 
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+- [[from-cha-to-chai-etymological-history-of-tea-along-silk-road]]
+- [[craft-cocktail-formulations-mixology-chemistry-and-spirits-culture]]

@@ -138,3 +138,4 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 - [[rationality-and-decision-making]]
 - [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]
 - [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]
+- [[protecting-americans-from-foreign-adversary-applications-act]]

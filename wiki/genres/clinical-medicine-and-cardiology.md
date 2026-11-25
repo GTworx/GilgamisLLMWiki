@@ -75,3 +75,5 @@ Cardiovascular disease and oncology remain the leading global causes of mortalit
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+- [[near-death-experiences-and-disconnected-consciousness-probes]]
+- [[covert-consciousness-in-unresponsive-brain-injury-patients]]

@@ -54,3 +54,4 @@ Synthesizes the behavioral, ethical, legal, and architectural dimensions of 3D v
 - [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]
 - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
 - [[yemenici-entrepreneurship-in-metaverse-virtual-or-real]]
+- [[seaver-algorithms-as-culture-ethnography-of-systems]]

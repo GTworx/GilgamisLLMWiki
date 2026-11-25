@@ -126,3 +126,7 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 - [[beckmann-ge-global-research-blockchain-industrial-architecture]]
 - [[hyperledger-cross-industry-distributed-ledger-frameworks]]
 - [[patent-eligibility-of-blockchain-and-emerging-technologies-post-alice]]
+- [[savelyev-bayesian-classification-of-turkic-languages]]
+- [[logic-of-turkish-and-agglutinative-syntax]]
+- [[theories-of-consciousness-gnwt-vs-iit-adversarial-testing]]
+- [[seaver-algorithms-as-culture-ethnography-of-systems]]

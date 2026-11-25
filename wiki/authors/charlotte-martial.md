@@ -28,3 +28,4 @@ Charlotte Martial is a cognitive neuroscientist, neuropsychologist, and F.R.S.-F
 - [[neuroscience-and-philosophy-of-mind]]
 - [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
 - [[theories-of-consciousness-and-adversarial-neuroscience]]
+- [[near-death-experiences-and-disconnected-consciousness-probes]]

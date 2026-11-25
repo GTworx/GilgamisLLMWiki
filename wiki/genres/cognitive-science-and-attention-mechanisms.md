@@ -58,3 +58,5 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 - [[christopoulos-ethical-framework-for-augmented-reality-in-education]]
 - [[chin-stine-morrow-age-differences-in-information-foraging]]
 - [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]
+- [[logic-of-turkish-and-agglutinative-syntax]]
+- [[vervaeke-meaning-in-life-and-awakening-from-meaning-crisis]]

@@ -124,3 +124,4 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 - [[pew-research-metaverse-in-2040-hype-hope-or-hell]]
 - [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]
 - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
+- [[dialectic-disputation-fallacies-and-applied-ethics]]

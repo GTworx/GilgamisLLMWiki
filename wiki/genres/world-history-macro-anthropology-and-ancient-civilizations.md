@@ -118,3 +118,8 @@ World History, Macro-Anthropology, and Ancient Civilizations encompasses broad-s
 - [[archaeology-and-national-identity]]
 - [[rationality-and-decision-making]]
 - [[ottoman-turkish-modernization-poetics-and-temporal-satire]]
+- [[simons-proto-sinaitic-progenitor-of-the-alphabet]]
+- [[worlds-first-written-word-gobekli-tepe-epigraphy]]
+- [[runic-script-history-and-old-turkic-epigraphy]]
+- [[celtic-and-turanian-linguistic-hypotheses-and-critique]]
+- [[jaynes-bicameral-mind-and-origin-of-consciousness]]

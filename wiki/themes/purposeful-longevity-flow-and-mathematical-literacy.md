@@ -66,3 +66,4 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 - [[organizational-psychology]]
 - [[ethics-and-value-philosophy]]
 - [[data-science-and-scientific-computing]]
+- [[changing-definition-and-epistemology-of-retirement]]

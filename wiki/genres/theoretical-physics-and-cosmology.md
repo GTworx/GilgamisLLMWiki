@@ -50,3 +50,5 @@ In this wiki, the genre encompasses [[stephen-hawking]]'s cosmological quartet (
 - [[rationality-and-decision-making]]
 - [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
 - [[evolution-of-human-consciousness]]
+- [[quantum-mindfulness-consciousness-and-orch-or]]
+- [[quantum-theology-many-worlds-and-moral-responsibility]]

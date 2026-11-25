@@ -42,3 +42,8 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[social-media-quo-vadis-algorithmic-society-and-metaverse-transition]]
 - [[impact-of-metaverse-on-digital-future-public-perceptions]]
 - [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]
+- [[ziklag-secretive-christian-dominionism-and-theocracy]]
+- [[aspen-institute-commission-on-information-disorder]]
+- [[reuters-institute-digital-news-report-2023]]
+- [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
+- [[aspen-institute-commission-on-information-disorder-report]]

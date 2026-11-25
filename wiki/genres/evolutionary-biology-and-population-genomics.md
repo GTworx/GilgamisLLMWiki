@@ -71,3 +71,9 @@ Mapping the evolutionary lineage of human biology—from ancient non-coding neur
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+- [[robbeets-transeurasian-languages-agricultural-spread-and-homeland]]
+- [[ancient-genomics-indo-european-divergence-mediterranean]]
+- [[anthropological-contributions-of-margaret-mead-culture-and-gender]]
+- [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]]
+- [[drunken-monkey-hypothesis-and-fermentation-origins-of-feasting]]
+- [[broom-pleistocene-anthropoid-apes-australopithecus-discovery]]

@@ -89,3 +89,6 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 - [[agi-trajectories-and-superalignment]]
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[global-sportstech-investment-ai-officiating-analytics]]
+- [[covert-consciousness-in-unresponsive-brain-injury-patients]]
+- [[marsh-computational-wisdom-and-artificial-phronesis]]
+- [[wef-future-of-jobs-report-2023]]

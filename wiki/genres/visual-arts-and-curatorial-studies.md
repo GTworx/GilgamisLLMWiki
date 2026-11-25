@@ -16,3 +16,4 @@ Investigates art historical movements, curatorial cataloguing, auction market dy
 ## Canonical Works in Knowledge Base
 - [[henry-butcher-southeast-asian-art-market-catalog]]
 - [[art-historical-connoisseurship-and-technical-authentication-guide]]
+- [[gell-technology-of-enchantment-and-enchantment-of-technology]]

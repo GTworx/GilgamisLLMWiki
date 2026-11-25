@@ -43,3 +43,4 @@ Within this wiki, the secular-evolutionary wing is represented by [[richard-dawk
 - [[universal-love-and-human-dignity]]
 - [[moral-courage-nonviolent-resistance-and-transformative-biography]]
 - [[evolution-of-human-consciousness]]
+- [[quantum-theology-many-worlds-and-moral-responsibility]]

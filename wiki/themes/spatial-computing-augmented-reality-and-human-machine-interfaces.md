@@ -47,3 +47,4 @@ By anchoring contextually relevant digital intelligence directly onto physical e
 - [[chin-stine-morrow-age-differences-in-information-foraging]]
 - [[cb-insights-big-tech-in-metaverse-meta-qualcomm-microsoft]]
 - [[global-sportstech-investment-ai-officiating-analytics]]
+- [[covert-consciousness-in-unresponsive-brain-injury-patients]]

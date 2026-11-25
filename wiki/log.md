@@ -1754,3 +1754,86 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (2,345 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+## 2026-11-25 - Ingestion Wave AR-12: Mind, Epistemology, Comparative Linguistics & Sacred Traditions
+
+- **Source Folders Processed**:
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Languages_/` (31 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Cognition, Conscious & Wisdom/` (14 files - 13 new + 1 previously indexed Sweller CLT target article)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Philosophy/` (9 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Anthropology_/` (9 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Religion_/` (6 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Sufism/` (5 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/News/` (5 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Literature_/` (4 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Future of Edu & Work/` (3 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Fun/` (1 file)
+- **Total Physical Files Ingested**: 87 files across 10 intellectual, linguistic, and contemplative domains (100% accounted for).
+- **Canonical Works Synthesized (52 new works, Works 871–922)**:
+  - **Comparative Eurasian Linguistics, Epigraphy & Philology (16 works, 31 files)**:
+    - [[robbeets-transeurasian-languages-agricultural-spread-and-homeland]] ([[martine-robbeets]], [[remco-bouckaert]], [[alexander-savelyev]], [[transeurasian-linguistics-consortium]], 2021, Nature, 3 files dossier).
+    - [[savelyev-bayesian-classification-of-turkic-languages]] ([[alexander-savelyev]], 2020, 25 pp.).
+    - [[ancient-genomics-indo-european-divergence-mediterranean]] ([[fulya-eylem-yediay]], [[guus-kroonen]], [[mediterranean-paleogenomics-consortium]], 2024/2025, 2 files dossier, 42 pp.).
+    - [[words-of-turkic-origin-in-classical-and-middle-mongolian]] ([[cem-aydogan]], [[turkic-and-mongolic-philology-group]], 2019, JOTS, 114 pp.).
+    - [[simons-proto-sinaitic-progenitor-of-the-alphabet]] ([[frank-simons]], 2011, Rosetta, 26 pp.).
+    - [[worlds-first-written-word-gobekli-tepe-epigraphy]] ([[archaeological-discovery-consortium]], 2019, 23 pp.).
+    - [[runic-script-history-and-old-turkic-epigraphy]] ([[old-turkic-epigraphy-and-runic-studies-group]], 2020).
+    - [[persian-loanwords-and-syntactic-morphology-in-turkish]] ([[istanbul-universitesi-dogu-dilleri-enstitusu]], [[farsca-turkce-linguistik-arastirmalari-grubu]], 2024, 4 files compendium, 400+ pp.).
+    - [[persian-compound-verbs-and-lexicographical-structures]] ([[persian-lexicography-and-applied-linguistics-group]], 2024, 3 files dataset & analysis).
+    - [[logic-of-turkish-and-agglutinative-syntax]] ([[ahmet-bican-ercilasun]], [[turkic-linguistics-and-logic-group]], 2020, 2 editions compendium).
+    - [[etymology-and-folk-etymology-in-turkish-linguistics]] ([[ahmet-bican-ercilasun]], [[tuncer-gulensoy]], [[ankara-universitesi-dtcf-turkoloji-grubu]], 2017, 4 files dossier).
+    - [[old-anatolian-turkish-morphology-and-syntax-duk-preterite]] ([[mustafa-koc]], [[turk-dili-ve-edebiyati-arastirmalari-grubu]], 2012, 2 files).
+    - [[celtic-and-turanian-linguistic-hypotheses-and-critique]] ([[kaan-arslanoglu]], [[comparative-eurasian-linguistics-critique-group]], 2014-2025, 3 files dossier).
+    - [[from-cha-to-chai-etymological-history-of-tea-along-silk-road]] ([[asian-food-study-conference-linguistics-group]], 2019).
+    - [[vulgarity-and-taboo-in-turkish-proverbs-thematic-classification]] ([[rabia-senay-kandemir]], [[akademik-dil-ve-edebiyat-grubu]], 2025, 35 pp.).
+    - [[cavusca-dialectology-and-etymological-lexicon]] ([[turk-diyalektoloji-ve-leksikografi-arastirmalari-grubu]], 2023).
+  - **Cognitive Science, Consciousness Theories & Wisdom Systems (10 works, 13 files)**:
+    - [[hoffman-conscious-realism-and-interface-theory-of-perception]] ([[donald-d-hoffman]], 2008).
+    - [[near-death-experiences-and-disconnected-consciousness-probes]] ([[charlotte-martial]], [[steven-laureys]], [[pim-van-lommel]], [[international-coma-science-consortium]], 2020/2023, 2 files dossier).
+    - [[theories-of-consciousness-gnwt-vs-iit-adversarial-testing]] ([[cogitate-consortium]], [[lucia-melloni]], [[liad-mudrik]], [[christof-koch]], [[stanislas-dehaene]], [[giulio-tononi]], 2023-2025, Nature, 2 files landmark collaboration).
+    - [[covert-consciousness-in-unresponsive-brain-injury-patients]] ([[neurotrauma-and-computer-vision-consortium]], [[nature-medicine-collaborative]], 2025, Nature Medicine).
+    - [[godel-incompleteness-ai-and-limits-of-machine-consciousness]] ([[mathematical-philosophy-and-cognitive-logic-group]], 2024).
+    - [[comparative-cognitive-styles-politician-vs-scientist-intellect]] ([[nebi-sumer]], [[bilissel-psikoloji-ve-epistemoloji-grubu]], 2023, 2 files dossier).
+    - [[jaynes-bicameral-mind-and-origin-of-consciousness]] ([[julian-jaynes-society-and-neuro-history-group]], 2021).
+    - [[marsh-computational-wisdom-and-artificial-phronesis]] ([[stephen-marsh]], [[ifip-artificial-intelligence-group]], 2016).
+    - [[vervaeke-meaning-in-life-and-awakening-from-meaning-crisis]] ([[john-vervaeke]], 2021).
+    - [[quantum-mindfulness-consciousness-and-orch-or]] ([[quantum-biology-and-contemplative-neuroscience-group]], 2022).
+  - **Philosophy, Personal Identity, Quantum Ontology & Evolutionary Anthropology (9 works, 18 files)**:
+    - [[personal-identity-time-fission-and-psychological-continuity]] ([[john-perry]], [[marya-schechtman]], 2011/2019, 2 files treatise).
+    - [[quantum-theology-many-worlds-and-moral-responsibility]] ([[emily-qureshi-hurst]], [[mark-harris]], [[science-and-theology-consortium]], 2023/2024, 2 files dossier).
+    - [[dialectic-disputation-fallacies-and-applied-ethics]] ([[applied-ethics-and-argumentation-theory-group]], 2024, 2 files).
+    - [[anthropological-contributions-of-margaret-mead-culture-and-gender]] ([[margaret-mead-anthropological-studies-group]], 2024, 3 files compendium).
+    - [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]] ([[christopher-j-bae]], [[sam-d-wood]], [[pleistocene-paleoanthropology-consortium]], 2019-2024, Nature/Nature Comms 4-study dossier).
+    - [[drunken-monkey-hypothesis-and-fermentation-origins-of-feasting]] ([[matthew-a-carrigan]], [[robert-dudley]], [[evolutionary-bioscience-group]], 2025, BioScience).
+    - [[gell-technology-of-enchantment-and-enchantment-of-technology]] ([[alfred-gell]], 1992).
+    - [[seaver-algorithms-as-culture-ethnography-of-systems]] ([[nick-seaver]], 2017).
+    - [[broom-pleistocene-anthropoid-apes-australopithecus-discovery]] ([[robert-broom]], 1938, Nature, 2 files).
+  - **Sacred Traditions, Interconfessionalism & Ghazalian Epistemology (7 works, 11 files)**:
+    - [[bektashi-christian-interconfessionalism-and-supraconfessionalism]] ([[albert-doja]], [[kyoto-bulletin-of-islamic-area-studies-group]], 2021).
+    - [[evolving-brains-emerging-gods-neurobiology-of-religion]] ([[neurobiology-and-evolutionary-theology-group]], 2022, 2 files).
+    - [[tolstoy-treatise-on-the-messenger-of-islam-and-prophet-muhammad]] ([[leo-tolstoy]], [[russian-orientalism-and-tolstoy-studies-group]], 2020).
+    - [[kaczorowski-yezidism-and-proto-indo-iranian-religion]] ([[karol-kaczorowski]], 2014, 16 pp.).
+    - [[ziklag-secretive-christian-dominionism-and-theocracy]] ([[investigative-democracy-and-theocracy-watch]], 2024).
+    - [[ghazalian-epistemology-islamic-spiritual-psychology-and-maslow]] ([[abdullahi-hassan-zaroug]], [[nur-hadi-ihsan]], [[muhammad-alif-rahmadi]], [[islamic-spiritual-psychology-group]], 1997-2022, 4 files compendium).
+    - [[socio-economic-sufism-in-the-digital-and-modern-era]] ([[al-kawakib-islamic-studies-consortium]], 2023).
+  - **Media Ecosystems, Future of Work, Publishing & Cultural Alchemy (10 works, 13 files)**:
+    - [[aspen-institute-commission-on-information-disorder-report]] ([[katie-couric]], [[chris-krebs]], [[prince-harry-duke-of-sussex]], [[aspen-institute-commission-on-information-disorder]], 2021, 80 pp.).
+    - [[reuters-institute-digital-news-report-2023]] ([[nic-newman]], [[rasmus-kleis-nielsen]], [[reuters-institute]], 2023, 160 pp.).
+    - [[protecting-americans-from-foreign-adversary-applications-act]] ([[us-house-of-representatives-committee-on-energy-and-commerce]], 2024, HR 7521, 12 pp.).
+    - [[murdoch-family-succession-drama-and-transnational-media-power]] ([[anna-nicolaou]], [[daniel-thomas]], [[alex-barker]], [[financial-times-investigative-team]], 2024).
+    - [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]] ([[time-magazine-editorial-staff]], 2022).
+    - [[divan-poetry-proverbs-and-positive-emotions]] ([[yeliz-yasak-peran]], 2018, 22 pp.).
+    - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]] ([[world-intellectual-property-organization-wipo]], 2020-2022, 3-volume longitudinal census, 99 pp.).
+    - [[changing-definition-and-epistemology-of-retirement]] ([[social-gerontology-and-retirement-studies-group]], 2024, 2 files dossier).
+    - [[wef-future-of-jobs-report-2023]] ([[world-economic-forum-centre-for-the-new-economy-and-society]], 2023, WEF, 296 pp.).
+    - [[craft-cocktail-formulations-mixology-chemistry-and-spirits-culture]] ([[spirits-culture-and-mixology-alchemical-group]], 2024).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +52 canonical entries (total: 922).
+  - **Authors**: +90 author profiles created, 7 updated (total: 1,318).
+  - **Genres**: 0 new genres created; 24 existing genres updated (total: 110).
+  - **Themes**: 0 new themes created; 18 existing themes updated (total: 137).
+  - **Total Wiki Pages**: **2,487 entity pages** (2,489 total markdown documents).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (2,487 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

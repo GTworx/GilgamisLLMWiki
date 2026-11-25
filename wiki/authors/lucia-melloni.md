@@ -28,3 +28,4 @@ Lucia Melloni is a neuroscientist and Group Leader at the Max Planck Institute f
 - [[neuroscience-and-philosophy-of-mind]]
 - [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
 - [[theories-of-consciousness-and-adversarial-neuroscience]]
+- [[theories-of-consciousness-gnwt-vs-iit-adversarial-testing]]

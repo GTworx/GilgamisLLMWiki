@@ -91,3 +91,8 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 - [[technological-containment-and-omni-use-proliferation]]
 - [[human-centered-ai-and-augmented-leadership]]
 - [[universal-love-and-human-dignity]]
+- [[hoffman-conscious-realism-and-interface-theory-of-perception]]
+- [[godel-incompleteness-ai-and-limits-of-machine-consciousness]]
+- [[marsh-computational-wisdom-and-artificial-phronesis]]
+- [[personal-identity-time-fission-and-psychological-continuity]]
+- [[dialectic-disputation-fallacies-and-applied-ethics]]
