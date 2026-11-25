@@ -14,6 +14,7 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 ---
 
 ## Books in Wiki
+- [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
 - [[demographic-migration-economics-and-border-policy-aeon]]
 - [[yazicioglu-politics-of-the-invisible-post-truth-and-arendts-nobody]]
 - [[karl-marx-and-the-actualization-of-philosophy]] (2025) — [[christoph-schuringa]]

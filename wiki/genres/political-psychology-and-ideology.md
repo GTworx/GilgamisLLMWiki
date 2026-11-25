@@ -14,6 +14,10 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 ---
 
 ## Books in Wiki
+- [[breaching-the-contract-social-contract-theory-and-online-privacy]]
+- [[financial-times-a-new-global-gender-divide-is-emerging]]
+- [[konda-and-ipsos-turkish-social-barometers-and-public-priorities]]
+- [[thomas-sowell-a-conflict-of-visions-constrained-vs-unconstrained]]
 - [[generation-z-global-citizenship-and-youth-wellbeing-compendium]]
 - [[gilens-murakawa-elite-cues-and-political-decision-making]]
 - [[political-fandom-and-neuromarketing-in-elections]]

@@ -46,3 +46,15 @@ Demonstrates that modern human biology and cognition are deep evolutionary compo
 - [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]]
 - [[broom-pleistocene-anthropoid-apes-australopithecus-discovery]]
 - [[purvis-telling-fatty-acids-hydrothermal-vents-origin-of-life]]
+
+## Books in Wiki
+- [[afet-inan-turkiye-halkinin-antropolojik-karakterleri-ve-genetik-yapisi]]
+- [[ancient-genomes-reveal-trans-eurasian-connections-huns-and-xiongnu]]
+- [[ancient-near-east-adna-time-course-sampling-and-levantine-genetics]]
+- [[canaanite-israelite-genetic-continuity-and-philistine-assimilation]]
+- [[consanguinity-marriage-genetics-and-reproductive-health]]
+- [[early-hominins-from-morocco-and-pan-african-homo-sapiens-evolution]]
+- [[eurasian-steppe-iron-age-nomads-ancestry-and-descendants]]
+- [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]
+- [[india-genetics-and-phylogenomic-reverse-colonization]]
+- [[inner-eurasia-genetic-history-of-admixture-and-pastoralist-expansions]]

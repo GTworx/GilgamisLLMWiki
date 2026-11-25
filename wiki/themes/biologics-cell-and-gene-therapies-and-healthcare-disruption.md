@@ -43,6 +43,8 @@ Establishing the scientific baseline, [[daan-j-a-crommelin]], [[robert-d-sindela
 - [[science-in-2050-future-breakthroughs-shaping-our-world]]
 
 ## Books in Wiki
+- [[benchmarking-social-sciences-sociology-economics-and-healthcare]]
+- [[consanguinity-marriage-genetics-and-reproductive-health]]
 - [[mit-technology-review-10-breakthrough-technologies-2016]]
 - [[mit-solve-annual-impact-report-2023]]
 - [[ergin-sonmez-unver-incentive-compatible-liver-exchange]]

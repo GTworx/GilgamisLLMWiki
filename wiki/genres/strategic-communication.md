@@ -16,6 +16,8 @@ Together, these works establish that effective strategic communication is never 
 ---
 
 ## Books in Wiki
+- [[caroline-jack-lexicon-of-lies-terms-for-problematic-information]]
+- [[youtube-culture-and-trends-decentralized-media-and-fan-communities]]
 - [[propaganda-doctrine-of-accusation-in-a-mirror]]
 - [[influencing-leaders]] (2026) — [[james-e-lukaszewski]], [[helio-fred-garcia]]
 - [[the-linkedin-playbook-for-employees]] (2026) — [[james-cheo]]

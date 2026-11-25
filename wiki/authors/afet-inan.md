@@ -21,3 +21,6 @@ Turkish historian, sociologist, founding member of the Turkish Historical Societ
 - [[lord-kinross]]
 - [[ali-mithat-inan]]
 - [[turhan-gurkan]]
+
+## Key Works in Wiki
+- [[afet-inan-turkiye-halkinin-antropolojik-karakterleri-ve-genetik-yapisi]]

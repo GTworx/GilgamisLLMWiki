@@ -11,6 +11,16 @@ The Eurasian steppe was not an empty wilderness separating great sedentary civil
 ---
 
 ## Books in Wiki
+- [[ancient-genomes-reveal-trans-eurasian-connections-huns-and-xiongnu]]
+- [[erdal-the-turkish-yarkand-documents-and-serindia-philology]]
+- [[eurasian-steppe-iron-age-nomads-ancestry-and-descendants]]
+- [[india-genetics-and-phylogenomic-reverse-colonization]]
+- [[inner-eurasia-genetic-history-of-admixture-and-pastoralist-expansions]]
+- [[khazar-khaganate-judaic-conversion-and-crimean-tribal-history]]
+- [[origins-of-russian-ethnicity-and-kievan-rus-ethnogenesis]]
+- [[orkhon-inscriptions-thomsen-and-ross-critical-edition]]
+- [[theophanes-confessor-chronicle-and-early-byzantine-turkic-relations]]
+- [[turkic-epic-mythology-and-cultural-symbolism-compendium]]
 - [[bizansli-gozuyle-turkler]] (c.) — [[georges-pachymeres]]
 - [[iranda-turk-kimligi]] (2026) — [[hamid-sehanegi]], [[merve-dilek-dagdelen]], [[busra-yilmaz]]
 - [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]

@@ -54,6 +54,9 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 - [[ethics-and-value-philosophy]]
 
 ## Books in Wiki
+- [[breaching-the-contract-social-contract-theory-and-online-privacy]]
+- [[turknetwork-diaspora-professional-capital-and-innovation]]
+- [[virtual-communities-egalitarianism-and-online-conflict-dynamics]]
 - [[business-insider-intelligence-the-next-big-thing-compendium]]
 - [[gartner-strategic-technology-investments-and-top-trends-compendium]]
 - [[tsia-ragsdale-enterprise-technology-trends-compendium]]

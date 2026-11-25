@@ -30,6 +30,13 @@ Archaeological historiography investigates how archaeological research is commis
 - [[rationality-and-decision-making]]
 
 ## Books in Wiki
+- [[ancient-near-east-adna-time-course-sampling-and-levantine-genetics]]
+- [[british-museum-artifacts-by-country-and-repatriation-debates]]
+- [[canaanite-israelite-genetic-continuity-and-philistine-assimilation]]
+- [[comparative-archaeology-of-ancient-israelites-and-philistines]]
+- [[homonades-and-armenia-between-rome-and-sasanians]]
+- [[morphodynamic-and-diplomatic-foundations-of-ancient-mesopotamia]]
+- [[samuel-noah-kramer-history-begins-at-sumer]]
 - [[cumhuriyet-donemi-arkeoloji-politikalari-ve-ekrem-akurgal]] (2024) — [[erdal-polat]]
 - [[how-the-world-made-the-west]] (2024) — [[josephine-quinn]]
 - [[gormedigimiz-turkiye-123-yillik-national-geographic-arsivi]] (2020) — [[kurt-and-margot-lubinski]], [[bernard-f-rogers-jr]]

@@ -11,6 +11,14 @@ The dissolution of the Ottoman Empire during the late 19th and early 20th centur
 ---
 
 ## Books in Wiki
+- [[emrah-sahin-sultans-america-ottoman-encounters]]
+- [[erdal-the-turkish-yarkand-documents-and-serindia-philology]]
+- [[hovhannes-katchaznouni-the-dashnagtzoutiun-has-nothing-to-do-anymore]]
+- [[omer-lutfi-tascioglu-historical-facts-in-turkish-armenian-relations]]
+- [[ottoman-imperial-statecraft-religious-tolerance-and-global-ties]]
+- [[theophanes-confessor-chronicle-and-early-byzantine-turkic-relations]]
+- [[trojan-origins-myth-turks-and-medieval-renaissance-genealogies]]
+- [[yucel-guclu-akcam-critique-and-armenian-studies-compendium]]
 - [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[the-truth-will-out-armenian-allegations]] (2024) — [[pulat-y-tacar]]
 - [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]

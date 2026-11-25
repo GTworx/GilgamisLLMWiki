@@ -11,6 +11,8 @@ Representing the dawn of recorded human history, this theme investigates the urb
 ---
 
 ## Books in Wiki
+- [[morphodynamic-and-diplomatic-foundations-of-ancient-mesopotamia]]
+- [[samuel-noah-kramer-history-begins-at-sumer]]
 - [[irak-bitigi-iraktaki-bilgiler-kitabi]] (2018) — [[kazim-mirsan]], [[mustafa-turgay-tufekcioglu]], [[ozden-ilteris-bulca]]
 - [[sumerlilerde-tufan-tufanda-turkler]] (2008) — [[muazzez-ilmiye-cig]]
 - [[hititler-ve-hattusa-istarin-kaleminden]] (2000) — [[muazzez-ilmiye-cig]]

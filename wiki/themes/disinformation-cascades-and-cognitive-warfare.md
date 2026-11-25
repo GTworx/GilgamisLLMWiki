@@ -49,6 +49,8 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Books in Wiki
+- [[caroline-jack-lexicon-of-lies-terms-for-problematic-information]]
+- [[validation-of-violence-terrorism-internet-and-media-propaganda]]
 - [[declassified-911-investigative-dossier]]
 - [[hersh-the-killing-of-osama-bin-laden-and-diplomatic-deceptions]]
 - [[political-fandom-and-neuromarketing-in-elections]]

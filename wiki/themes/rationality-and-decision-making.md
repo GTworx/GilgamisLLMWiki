@@ -147,6 +147,13 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 - **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[anatolian-humanism]], [[leadership-and-management]], [[organizational-psychology]], [[social-choice-theory]], [[algebraic-topology]]
 
 ## Books in Wiki
+- [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
+- [[benchmarking-social-sciences-sociology-economics-and-healthcare]]
+- [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]
+- [[thomas-sowell-a-conflict-of-visions-constrained-vs-unconstrained]]
+- [[total-fertility-rate-demographic-depopulation-and-replacement-dynamics]]
+- [[understanding-group-dynamics-and-social-systems-architecture]]
+- [[world-happiness-reports-longitudinal-social-wellbeing-compendium]]
 - [[gilens-murakawa-elite-cues-and-political-decision-making]]
 - [[rogoff-sibert-elections-and-macroeconomic-policy-cycles]]
 - [[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]

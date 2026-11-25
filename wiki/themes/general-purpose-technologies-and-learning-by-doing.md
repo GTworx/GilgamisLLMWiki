@@ -188,3 +188,6 @@
 - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
 - [[changing-definition-and-epistemology-of-retirement]]
 - [[wef-future-of-jobs-report-2023]]
+
+## Books in Wiki
+- [[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]

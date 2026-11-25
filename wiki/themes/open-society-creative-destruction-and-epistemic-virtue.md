@@ -74,6 +74,11 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
 
 ## Books in Wiki
+- [[abraham-maslow-religions-values-and-peak-experiences]]
+- [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
+- [[british-academy-peer-review-challenges-in-humanities-and-social-sciences]]
+- [[massachusetts-history-and-social-science-curriculum-framework]]
+- [[why-small-children-in-japan-ride-the-subway-alone-urban-trust]]
 - [[historical-evolution-of-cartography-and-world-maps]]
 - [[physics-of-political-diffusion-and-regime-dynamics]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]

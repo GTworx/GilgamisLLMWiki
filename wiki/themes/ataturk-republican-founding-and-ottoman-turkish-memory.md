@@ -69,3 +69,6 @@ By juxtaposing international biography (*Lord Kinross*), insider archival docume
 - [[ottoman-philology-and-literary-historiography]]
 - [[cultural-and-digital-anthropology]]
 - [[comparative-religion-and-islamic-history]]
+
+## Books in Wiki
+- [[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]

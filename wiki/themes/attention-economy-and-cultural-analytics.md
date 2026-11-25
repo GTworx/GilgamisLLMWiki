@@ -39,3 +39,13 @@ Uniting [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[entertainment-scie
 - [[strategic-communication]]
 - [[leadership-and-management]]
 - [[innovation-and-economic-growth]]
+
+## Books in Wiki
+- [[accenture-life-trends-2024-cultural-and-consumer-foresight]]
+- [[british-academy-peer-review-challenges-in-humanities-and-social-sciences]]
+- [[fifa-world-cup-cultural-and-geopolitical-history]]
+- [[financial-times-a-new-global-gender-divide-is-emerging]]
+- [[konda-and-ipsos-turkish-social-barometers-and-public-priorities]]
+- [[nielseniq-spend-z-generation-z-spending-and-financial-habits]]
+- [[world-values-survey-wave-7-global-cultural-map-and-values-atlas]]
+- [[youtube-culture-and-trends-decentralized-media-and-fan-communities]]

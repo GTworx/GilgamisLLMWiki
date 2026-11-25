@@ -15,6 +15,10 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]
+- [[iran-iraq-war-origins-and-persian-cultural-heritage]]
+- [[origins-of-the-first-world-war-and-contemporary-geopolitical-parallels]]
+- [[us-mexico-border-conflicts-and-territorial-expansion-history]]
 - [[cognitive-biases-and-territorial-conflict-in-the-levant]]
 - [[global-disputed-territories-and-military-blocs-2025]]
 - [[heritage-foundation-rebuilding-americas-military-united-states-navy]]

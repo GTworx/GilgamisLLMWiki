@@ -11,6 +11,12 @@ Civilizational cycles and catastrophic collapse represent central inquiries in d
 ---
 
 ## Books in Wiki
+- [[civilizational-thermodynamics-anti-entropy-and-proto-democracy]]
+- [[comparative-archaeology-of-ancient-israelites-and-philistines]]
+- [[early-hominins-from-morocco-and-pan-african-homo-sapiens-evolution]]
+- [[samuel-noah-kramer-history-begins-at-sumer]]
+- [[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]
+- [[total-fertility-rate-demographic-depopulation-and-replacement-dynamics]]
 - [[how-the-world-made-the-west]] (2024) — [[josephine-quinn]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]
 - [[the-scythian-empire]] (2023) — [[christopher-i-beckwith]]

@@ -14,6 +14,15 @@ Mapping the evolutionary lineage of human biology—from ancient non-coding neur
 ---
 
 ## Books in Wiki
+- [[afet-inan-turkiye-halkinin-antropolojik-karakterleri-ve-genetik-yapisi]]
+- [[ancient-genomes-reveal-trans-eurasian-connections-huns-and-xiongnu]]
+- [[ancient-near-east-adna-time-course-sampling-and-levantine-genetics]]
+- [[canaanite-israelite-genetic-continuity-and-philistine-assimilation]]
+- [[consanguinity-marriage-genetics-and-reproductive-health]]
+- [[early-hominins-from-morocco-and-pan-african-homo-sapiens-evolution]]
+- [[eurasian-steppe-iron-age-nomads-ancestry-and-descendants]]
+- [[india-genetics-and-phylogenomic-reverse-colonization]]
+- [[inner-eurasia-genetic-history-of-admixture-and-pastoralist-expansions]]
 - [[paranthropus-boisei-hand-fossils-and-early-hominin-dexterity]] (2025) — [[paleoanthropology-and-hominin-origins-group]], [[carolin-feuerriegel]]
 - [[ancient-neural-enhancer-and-hominid-brain-evolution-with-lead-exposure]] (2025) — [[neurogenomics-and-paleoneurology-consortium]], [[genevieve-konopka]], [[david-f-gould]]
 - [[evolutionary-biology-of-human-kissing-and-social-bonding]] (2025) — [[comparative-ethology-and-evolution-group]], [[matilda-brindle]]

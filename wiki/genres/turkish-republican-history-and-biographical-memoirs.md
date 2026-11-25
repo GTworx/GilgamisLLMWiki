@@ -12,6 +12,7 @@ Anchors a rich Turkish-language and comparative historical cluster spanning tent
 ---
 
 ## Books in Wiki
+- [[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]
 - [[kaplan-norton-the-balanced-scorecard-1992]]
 - [[murat-ulker-board-of-directors-governance]]
 - [[dewar-keller-malhotra-ceo-excellence-assessment]]

@@ -48,3 +48,7 @@
 - [[saas-and-subscription-business-models]]
 - [[organizational-psychology]]
 - [[cloud-computing-and-distributed-systems]]
+
+## Books in Wiki
+- [[turknetwork-diaspora-professional-capital-and-innovation]]
+- [[virtual-communities-egalitarianism-and-online-conflict-dynamics]]

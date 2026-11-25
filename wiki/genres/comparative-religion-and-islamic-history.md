@@ -14,6 +14,8 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 ---
 
 ## Books in Wiki
+- [[caste-stratification-across-south-asia-and-intra-muslim-hierarchies]]
+- [[comparative-world-religions-equality-legal-symbolism-and-clothing]]
 - [[anadoluda-ilk-tapinak-gobeklitepe]] (2017) — [[ali-osman-kurt]]
 - [[ahi-evren-ve-mevlana-mucadelesi]] (2012) — [[mikail-bayram]]
 - [[after-the-prophet-shia-sunni-split]] (2009) — [[lesley-hazleton]]

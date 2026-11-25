@@ -49,6 +49,7 @@ Arrow's Impossibility Theorem is thus revealed as a topological impossibility: *
 - [[political-science]]
 
 ## Books in Wiki
+- [[financial-times-a-new-global-gender-divide-is-emerging]]
 - [[european-parliament-post-election-survey-report-2019]]
 - [[goerres-why-are-older-people-more-likely-to-vote]]
 - [[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]

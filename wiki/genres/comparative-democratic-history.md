@@ -17,6 +17,8 @@
 ---
 
 ## Books in Wiki
+- [[civilizational-thermodynamics-anti-entropy-and-proto-democracy]]
+- [[massachusetts-history-and-social-science-curriculum-framework]]
 - [[european-parliament-post-election-survey-report-2019]]
 - [[king-charles-iii-coronation-and-constitutional-monarchy-compendium]]
 - [[mordecai-roshwald-democracy-and-the-elite]]

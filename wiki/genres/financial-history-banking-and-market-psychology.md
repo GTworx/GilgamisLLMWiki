@@ -14,6 +14,11 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[colonial-extraction-accounting-and-imperial-crimes]]
+- [[habsburg-dynasty-vienna-inner-city-and-viennese-culinary-historiography]]
+- [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]
+- [[nielseniq-spend-z-generation-z-spending-and-financial-habits]]
+- [[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]
 - [[ray-dalio-populism-the-phenomenon]]
 - [[carlota-perez-technological-revolutions-and-techno-economic-paradigms]]
 - [[carta-venture-capital-fund-performance-q1-2024]]

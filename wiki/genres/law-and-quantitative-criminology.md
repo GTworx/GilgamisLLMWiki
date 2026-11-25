@@ -14,6 +14,11 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
+- [[colonial-extraction-accounting-and-imperial-crimes]]
+- [[comparative-world-religions-equality-legal-symbolism-and-clothing]]
+- [[historical-reparations-and-indigenous-genocide-complicity]]
+- [[validation-of-violence-terrorism-internet-and-media-propaganda]]
 - [[land-purchases-and-demographic-sovereignty-palestine-cyprus]]
 - [[mavi-marmara-maritime-raid-and-diplomatic-aftermath]]
 - [[post-yugoslav-trials-and-serbian-nationalist-collapse]]

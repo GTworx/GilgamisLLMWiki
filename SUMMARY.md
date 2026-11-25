@@ -16,11 +16,11 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
 - **Articles & Reports Library Status**: **Options AR-1, AR-2, AR-3 & AR-4 Complete** (190/190 files in `Semiconductors`, `Cybersecurity`, `PE & VC`, `QuantumCompute`, `Data Centers`, `Cloud`, `SaaS`, `IoT`, `5G Telecom`, and `SupplyChain` mapped to 118 canonical works)
-- **Total Ingested Works**: 1181 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
-- **Total Generated Wiki Pages**: 3,075 interlinked markdown files (3,073 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 1248 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Generated Wiki Pages**: 3,225 interlinked markdown files (3,223 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 1181 ([books/](wiki/books/))
-- **Author Profile Pages**: 1640 ([authors/](wiki/authors/))
+- **Book Summary & Analysis Pages**: 1248 ([books/](wiki/books/))
+- **Author Profile Pages**: 1723 ([authors/](wiki/authors/))
 - **Genre Classification Pages**: 112 ([genres/](wiki/genres/))
 - **Core Thematic Concept Pages**: 140 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
@@ -2963,3 +2963,273 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 1181. **[[us-anti-boycott-legislation-and-first-amendment-jurisprudence]]** ([[constitutional-and-civil-liberties-legal-group]], Source: `Politics/Anti_Boycott_Act_2018_Summary.txt`)  
    Legal analysis of the federal Anti-Boycott Act of 2018 and state-level anti-BDS statutes, evaluating constitutional conflicts with Supreme Court First Amendment precedents protecting politically motivated consumer boycotts (NAACP v. Claiborne Hardware).  
    ### The Anti-Boycott Act and the Constitution: Federal Legislation, State Laws, and First Amendment Boycott Protections
+
+### Category AD: World & Ottoman History, Steppe Nomads, Sociology, Social Contract & Demographics (Works 1182–1248 across 159 Physical Files)
+
+1182. **[[samuel-noah-kramer-history-begins-at-sumer]]** ([[samuel-noah-kramer]], Source: `History/Kramer - History Begins at Sumer.pdf`)  
+   Foundational classic of Assyriology and Sumerology documenting thirty-nine cultural, institutional, and intellectual 'firsts' in recorded human history, from schools and legal codes to bicameral assemblies and epic literature.  
+   ### History Begins at Sumer: Thirty-Nine Firsts in Recorded History
+
+1183. **[[morphodynamic-and-diplomatic-foundations-of-ancient-mesopotamia]]** ([[near-eastern-civilizations-research-consortium]], Source: `History/2025 Morphodynamic Foundations of Sumer.pdf`, `History/International_Relations_in_Ancient_Mesop 2.docx`, `History/World_Cilivization_1_FINAL.docx`)  
+   Comprehensive interdisciplinary compendium integrating hydrodynamic modeling of the Tigris-Euphrates alluvial fan with archaic diplomatic treaties, frontier demarcations, and early inter-city statecraft in Sumer and Akkad.  
+   ### Morphodynamic Foundations of Sumer and Ancient Near Eastern Diplomacy Compendium
+
+1184. **[[comparative-archaeology-of-ancient-israelites-and-philistines]]** ([[levantine-archaeological-and-epigraphic-study-group]], Source: `History/Israelite_Archaeological_Summary_Table.csv`, `History/Israelite_Migrations_Table.csv`, `History/Israelite_vs_Contemporary_Archaeology.txt`, `History/Philistines_vs_Israelites_Archaeological_Comparison.txt`, `History/Philistines_vs_ProtoJews_States_Comparison.csv`, `History/Why_Israelites_Suffered_Exile_Hypotheses.txt`)  
+   Exhaustive comparative synthesis benchmarking archaeological visibility, ceramic chronologies, monumental architecture, state formation, and geopolitical exilic vulnerabilities between Iron Age Israelites and Sea Peoples (Philistines).  
+   ### Archaeological Evidence, State Formation, and Material Culture: Ancient Israelites versus Philistines
+
+1185. **[[ancient-near-east-adna-time-course-sampling-and-levantine-genetics]]** ([[levant-archaeogenetics-consortium]], Source: `History/2020 A Genetic History of the Near East from an aDNA Time Course Sampling Eight Points in the Past 4,000 Years.pdf`, `History/2020 paper levantine_genetic_summary.txt`)  
+   Landmark high-coverage ancient DNA time-course study sequencing human skeletal remains from eight distinct chronological periods over 4,000 years in the Near East, demonstrating long-term biological continuity alongside Bronze-to-Iron Age gene flows.  
+   ### A Genetic History of the Near East: Ancient DNA Time-Course Sampling across 4,000 Years
+
+1186. **[[eurasian-steppe-iron-age-nomads-ancestry-and-descendants]]** ([[eurasian-steppe-paleogenomics-consortium]], [[ilhami-durmus]], Source: `History/2015 Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe.pdf`, `History/1995 IlhamiDurmus İskit Askerî Gücü.pdf`)  
+   Pioneering archaeogenetic and military-historical study reconstructing the demographic origins, nomadic pastoral adaptations, military technology, and genetic legacy of the Scythians across the Eurasian steppe corridor.  
+   ### Ancestry, Demography, and Modern Descendants of Iron Age Nomads of the Eurasian Steppe
+
+1187. **[[ancient-genomes-reveal-trans-eurasian-connections-huns-and-xiongnu]]** ([[guido-alberto-gnecchi-ruscone]], [[huns-and-migration-period-historiography-group]], Source: `History/2025 gnecchi-ruscone-et-al-ancient-genomes-reveal-trans-eurasian-connections-between-the-european-huns-and-the-xiongnu-empire.pdf`, `History/2024 The_Huns_in_Scandinavia_A_new_approach_c.pdf`, `History/2018 TÜRK TARİHİNİN BİZANS KAYNAKLARI VE BYZANTINOTURCICA IŞIĞINDA AVRUPA HUNLARI.pdf`)  
+   Decisive archaeogenetic and philological breakthrough confirming direct trans-Eurasian biological, linguistic, and material connections between the East Asian Xiongnu Empire and the European Huns of the Migration Period.  
+   ### Ancient Genomes Reveal Trans-Eurasian Connections Between the European Huns and the Xiongnu Empire
+
+1188. **[[inner-eurasia-genetic-history-of-admixture-and-pastoralist-expansions]]** ([[choongwon-jeong]], [[caucasus-and-west-asian-paleogenomics-consortium]], Source: `History/2019 The genetic history of admixture across inner Eurasia.pdf`, `History/2024 Human DNA from the oldest Eneolithic cemetery in Nalchik points the spread of farming from the Caucasus to the Eastern European steppes K.V._.pdf`, `History/2024 Human DNA from the oldest Eneolithic cemetery in Nalchik points the spread of farming from the Caucasus to the Eastern European steppes.pdf`, `History/2024 Human Y chromosome haplogroup L1-M22 traces Neolithic expansion in West Asia and supports the Elamite and Dravidian connection.pdf`)  
+   Comprehensive genomic transect analyzing 763 individuals across Inner Eurasia, tracking clinal gene flows from the Caucasus to Siberia, Eneolithic migrations from Nalchik, and Neolithic Elamite-Dravidian Y-chromosome phylogeography.  
+   ### The Genetic History of Admixture Across Inner Eurasia and the Steppe Corridor
+
+1189. **[[orkhon-inscriptions-thomsen-and-ross-critical-edition]]** ([[vilhelm-thomsen]], [[sir-edward-denison-ross]], Source: `History/Turkiye_/Orkhun Inscriptions.pdf`)  
+   Foundational monument of Turkic epigraphy and historical linguistics containing the definitive decipherment and grammatical analysis of the 8th-century Göktürk inscriptions of Bilge Khagan and Kül Tegin.  
+   ### The Orkhon Inscriptions: Vilhelm Thomsen's Danish Renderings and E. Denison Ross's Critical Edition
+
+1190. **[[erdal-the-turkish-yarkand-documents-and-serindia-philology]]** ([[marcel-erdal]], [[silk-road-philology-and-serindia-study-group]], Source: `History/The_Turkish_Yarkand_documents.pdf`, `History/2025 A_comparative_study_of_the_Mahavaideha_g.pdf`, `History/2014 The_Semu_ren__in_the_Yuan_Empire.pdf`)  
+   Philological analysis of 11th-century Karakhanid legal contracts, land grants, and multilingual administrative documents from Yarkand, alongside Silk Road Buddhist text transitions and the status of Semu-ren in the Yuan Empire.  
+   ### The Turkish Yarkand Documents and Central Asian Bilingual Diplomatic Epigraphy
+
+1191. **[[turkic-epic-mythology-and-cultural-symbolism-compendium]]** ([[necati-demir]], [[comparative-turkic-folklore-and-mythology-consortium]], Source: `History/Oğuz Kağan Destanı-1463402103.pdf`, `History/2005 DEDE KORKUT HÄ°KÃYELERÄ°NDE GEÃEN âBOY BOYLADI SOY SOYLADIâ SÃZÃNÃN Ä°FÅA ETTÄ°ÄÄ° âGEÃMÄ°Åâ.pdf`, `History/2021 Dergi Park TÜRK VE İSKANDİNAV MİTOLOJİSİNDE AĞAÇ SEMBOLİZMİ.pdf`, `History/KURMACA_BIR_KUTLAMA_NARDUGAN.pdf`, `History/Tahtaci_Turkmenlerindeki_Esiti_Sozu_Hakk.pdf`, `History/Turk_Mizah_Kulturu.pdf`, `History/Turkic_States_History.txt`)  
+   Expansive 7-source compendium surveying Turkic epic cycles (Oguz Kağan, Dede Korkut oral formulas), comparative Tree of Life symbolism across Turkic and Norse pantheons, Tahtacı Turkmen rites, and folkloric critical investigations.  
+   ### Turkic Epic Traditions, Tree Symbolism, and Mythological Hermeneutics Compendium
+
+1192. **[[theophanes-confessor-chronicle-and-early-byzantine-turkic-relations]]** ([[byzantine-turkic-historiographical-study-group]], Source: `History/2013 B_ZANS KAYNA_I THEOPHANES CONFESSOR’UN KRON___NDE TÜRKLER 284-813.pdf`)  
+   Exhaustive 235-page monograph analyzing all references, ethnonyms, and diplomatic treaties concerning Turkic peoples (Huns, Avars, Göktürks, Khazars, Bulgars) in the Chronographia of Theophanes Confessor.  
+   ### The Turks in the Chronographia of Theophanes Confessor (284–813 CE): Early Byzantine-Turkic Historiography
+
+1193. **[[trojan-origins-myth-turks-and-medieval-renaissance-genealogies]]** ([[thomas-j-macmaster]], Source: `History/Turkiye_/2016 THE ORIGIN OF ORIGINS- TROJANS, TURKS AND THE BIRTH OF THE MYTH OF TROJAN ORIGINS IN THE MEDIEVAL WORLD.pdf`, `History/Troya_Turkler_Mitin_Dogusu_Ozet_Guncel.pdf`)  
+   Critical historiographical investigation into the medieval and early modern intellectual tradition tracing the genealogical origin of the Turks back to the ancient Trojans (Teucri) and its ideological use in Ottoman and European statecraft.  
+   ### The Origin of Origins: Trojans, Turks, and the Birth of the Myth of Trojan Origins in the Medieval and Renaissance World
+
+1194. **[[homonades-and-armenia-between-rome-and-sasanians]]** ([[anatolian-classical-antiquity-research-group]], Source: `History/2008 Antik ve Modern Kaynaklara Göre Torosların Savaşçı Kavmi Homonadların Yaşadığı Coğrafya.pdf`, `History/2018 Gec Antik Çağda Romalılar ve Sasaniler Arasında Ermenistan.pdf`)  
+   Monumental 432-page historical and epigraphic study examining the fierce resistance of the Homonades in the rugged Taurus mountains against Augustus's legions, alongside Late Antique Armenian border statecraft between Rome and Ctesiphon.  
+   ### Warrior Tribes of the Taurus and Armenia Between Rome and the Sasanians in Late Antiquity
+
+1195. **[[afet-inan-turkiye-halkinin-antropolojik-karakterleri-ve-genetik-yapisi]]** ([[afet-inan]], [[m-ece-kars]], [[turkish-population-genetics-consortium]], Source: `History/1940 TüRKİYE HALKİNİN ANTROPOLOJİK KARAKTERLERI ÜZERINDE BÜYÜK ANKET VE UMUMI NETİCLERİ.pdf`, `History/Turkiye_/2014 Whole genome sequencing of Turkish genomes reveals functional private alleles and impact of genetic interactions with Europe, Asia and Africa.pdf`, `History/Turkiye_/2021 the-genetic-structure-of-the-turkish-population-reveals-high-levels-of-variation-and-admixture by kars et al.pdf`, `History/Turkiye_/2021-correction-for-kars-et-al-the-genetic-structure-of-the-turkish-population-reveals-high-levels-of-variation-and.pdf`, `History/2016 Y-chromosomal analysis of Greek Cypriots reveals a primarily common pre-Ottoman paternal ancestry with Turkish Cypriots.pdf`)  
+   Historic-to-modern 5-volume compendium linking Afet İnan's landmark 1937 nationwide anthropometric survey of 64,000 individuals with state-of-the-art whole-genome sequencing (Kars et al., PNAS) and Cypriot Y-chromosomal population genomics.  
+   ### Türkiye Halkının Antropolojik Karakterleri ve Modern Türk Popülasyon Genomiği Compendium
+
+1196. **[[ottoman-imperial-statecraft-religious-tolerance-and-global-ties]]** ([[frank-ahmed]], [[ottoman-imperial-studies-working-group]], Source: `History/Turkiye_/Ottoman_Empire_Greatness.pdf`, `History/Turkiye_/Ottoman_Religious_Tolerance.pdf`, `History/Kings_Sultans_Minority_Loans_History.txt`, `History/ottomans_saudis_hashemites_british.txt`, `History/sarajevo_veil_story.txt`, `History/Turks in America by Frank Ahmed.pdf`, `History/Yürüyüş- Belgrad Ormanı _ Kapsül.pdf`, `History/2. LOZAN ANDLAŞMASI.pptx`)  
+   Comprehensive 8-source compendium surveying Ottoman administrative greatness, interfaith coexistence, sovereign credit operations with Jewish/Armenian banking houses, Arabian rivalries, and the historical diaspora of early Turks in America.  
+   ### Ottoman Imperial Governance, Financial Statecraft, and Global Diasporas Compendium
+
+1197. **[[omer-lutfi-tascioglu-historical-facts-in-turkish-armenian-relations]]** ([[omer-lutfi-tascioglu]], Source: `History/__ Armenian/Türk-Ermeni İlişkilerinde Tarihsel Gerçekler (Nobel).pdf`, `History/__ Armenian/Historical Facts in Turkish-Armenian Relations (Nobel).pdf`, `History/__ Armenian/Historische Tatsachen in der Beziehung zwischen der Türkei und Armenien (Nobel).pdf`, `History/__ Armenian/Eventos Históricos En Relaciones Turco-Armenias (2).pdf`, `History/__ Armenian/ÉVÉNEMENTS HISTORIQUES DANS LES RELATIONS TURCO-ARMÉNIENNES.pdf`, `History/__ Armenian/ИСТОРИЧЕСКИЕ ФАКТЫ В ТУРЕЦКО-АРМЯНСКИХ ОТНОШЕНИЯХ (Nobel).pdf`)  
+   Definitive multilingual 6-language edition (Turkish, English, German, Spanish, French, Russian) by Dr. Ömer Lütfi Taşcıoğlu compiling Ottoman, Russian, British, and American archival records on late Ottoman inter-communal conflicts.  
+   ### Historical Facts in Turkish-Armenian Relations: Multilingual Comparative Source Edition
+
+1198. **[[hovhannes-katchaznouni-the-dashnagtzoutiun-has-nothing-to-do-anymore]]** ([[hovhannes-katchaznouni]], Source: `History/__ Armenian/ARF_Dashnag_Manifesto.pdf`)  
+   Historic 1923 self-critical manifesto delivered by the first Prime Minister of the Independent Armenian Republic to the Dashnagtsutyun General Congress, condemning the party's disastrous illusions regarding Western imperialist support.  
+   ### The Armenian Revolutionary Federation (Dashnagtzoutiun) Has Nothing To Do Anymore: The 1923 Bucharest Manifesto
+
+1199. **[[yucel-guclu-akcam-critique-and-armenian-studies-compendium]]** ([[yucel-guclu]], [[yusuf-halacoglu]], [[ermeni-arastirmalari-enstitusu-scholars]], Source: `History/__ Armenian/16_-yucel-guclu_-a-shameful-act.pdf`, `History/__ Armenian/2012 CİNAYETİN CEZASIZ KALMASI- SOGHOMON TEHLİRİAN, ASALA VE ADALET KOMANDOLARI, 1921–1984_.pdf`, `History/__ Armenian/2020 THE EVENTS IN ZANGEZUR FROM 1918 TO 1921 AND THE TRANSFER OF ZANGEZUR TO ARMENIA_ Review of Armenian Studies #42.pdf`, `History/__ Armenian/2022 Yıldrım, Cihat. “'Yeni Adana’ Gazetesinin Haber ve Yorumlarına Göre Millî Mücadele Dönemi’nde Ermeni Faaliyetleri ve Ermeni Meselesi.” Ermeni Araştırmaları, Sayı 71 (2022)- 151-180_.pdf`, `History/__ Armenian/2023 VAN DOĞUMLU “MİLLET-İ SADIKA” ERMENİ MEMURLAR (1879 –1909)_.pdf`, `History/__ Armenian/2024 PASHINYAN’S QUEST FOR A NEW CONSTITUTION_.pdf`, `History/__ Armenian/2025 Kafkaslar ve Anadolu Bölgesinde 1915 Ermeni_Sevk ve İskânı Sonrası Türklere Yönelik_Ermeni Mezalimi ve İskânın Mukayesesi Rabia Biçici PhD Thesis.pdf`, `History/__ Armenian/2026 ALACA RAPORU False Claims by Armenian Terrorists_.pdf`, `History/__ Armenian/CUMHUR__YET __NCES__ B__TL__S___TE YABANCI OKULLAR VE M__SYONERL__K FAAL__YETLER__[#520404]-638557 (1).pdf`, `History/__ Armenian/Modern_Armenian_Advocates_Genocide_Recognition.txt`, `History/__ Armenian/Taner_Akcam_Armenian_Connections.txt`, `History/__ Armenian/İNSANLIĞA KARŞI İŞLENEN SUÇLAR VE BATI'NIN POLİTİK HUKUK ANLAYIŞI.pdf`, `History/2009 International Crimes & History THE PONTUS QUESTION- AN OVERVIEW Palabiyik & Bozkus_.pdf`)  
+   Monumental 13-source scholarly compendium examining late Ottoman Armenian civil servants, Operation Nemesis and ASALA terrorism, missionary school infiltration in Bitlis, Zangezur territorial transfers, and the Pontus question.  
+   ### Armenian Studies, Historiographical Debates, and Turkish Archival Evidences Compendium
+
+1200. **[[habsburg-dynasty-vienna-inner-city-and-viennese-culinary-historiography]]** ([[austro-hungarian-historiographical-and-urban-studies-group]], Source: `History/Austria_/Habsburg_History_Summary.txt.pdf`, `History/Austria_/Vienna_Historical_Summary.txt`, `History/Austria_/Vienna_Historical_Walking_Tour.pdf`, `History/Austria_/Vienna_Historical_Walking_Tour.txt`, `History/Austria_/Vienna_Historical_Walking_Tour.txt.pdf`, `History/Austria_/Vienna_Historical_Walking_Tour_Complete.pdf`, `History/Austria_/Vienna_Inner_City_Historical_Summary.txt.pdf`, `History/Austria_/Croissant_History.txt.pdf`, `History/Austria_/Ermeniler_Kahve_Ticareti.txt`)  
+   Exhaustive 9-source architectural, political, and culinary compendium surveying the Habsburg dynasty (1278–1918), complete urban walking tours of Vienna's Innere Stadt, and the Ottoman-Armenian origins of Viennese cafe culture.  
+   ### The Rise and Fall of the Habsburg Dynasty and Vienna Inner City Historical Topography Compendium
+
+1201. **[[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]** ([[historical-political-economy-and-divergence-research-group]], Source: `History/2026 05 22 Analysis The_Great_Divergence_Analysis_1000_1700.pdf`, `History/The Role of Immigrants, Emigrants, and Locals in the Historical Formation of European Knowledge Agglomerations 2023preprint.pdf`)  
+   Advanced economic history study analyzing the institutional, fiscal, and scientific causes of the Great Divergence between 1000 and 1700, alongside econometric modeling of immigrant scholar flows in European knowledge clusters.  
+   ### The Great Divergence: Institutional Evolution, Science, and European Knowledge Agglomerations (1000–1700)
+
+1202. **[[origins-of-the-first-world-war-and-contemporary-geopolitical-parallels]]** ([[diplomatic-history-and-great-power-security-consortium]], Source: `History/WorldWarI/World War I Start.pdf`, `History/The world order now looks like the one before the First World War.pdf`)  
+   Deep structural analysis of the diplomatic crises, alliance entanglements, and military mobilization timetables that triggered the outbreak of World War I in 1914, drawing rigorous structural parallels to contemporary geopolitical rivalries.  
+   ### The Origins of the First World War and Contemporary Multipolar Imperial Parallels
+
+1203. **[[iran-iraq-war-origins-and-persian-cultural-heritage]]** ([[middle-east-strategic-and-cultural-studies-group]], Source: `History/How_Did_Iran_Iraq_War_Start.txt`, `History/Persian_Influence_on_Western_Culture.txt`)  
+   Two-part historical study examining the operational origins and border disputes of the 1980–1988 Iran-Iraq War alongside ancient Persian cultural, philosophical, and architectural transmissions to Western civilization.  
+   ### Origins of the Iran-Iraq War and Persian Cultural Contributions to Western Civilization
+
+1204. **[[kashmir-conflict-indian-dynastic-empires-and-subcontinent-historiography]]** ([[south-asian-historiography-and-security-studies-group]], Source: `History/Kashmir_History_and_Issues.txt`, `History/indian empires.pdf`)  
+   Comprehensive historical analysis of the Kashmir dispute from its mythological and Dogra princely origins through the 1947 partition, paired with a chronological taxonomy of indigenous vs. foreign-founded empires across Indian history.  
+   ### Kashmir Conflict History, Subcontinental Imperial Dynasties, and South Asian Statecraft
+
+1205. **[[origins-of-russian-ethnicity-and-kievan-rus-ethnogenesis]]** ([[slavic-and-eurasian-ethnogenetic-study-group]], Source: `History/Origins_of_Russian_Ethnicity.txt`)  
+   In-depth historiographical analysis of the emergence of Russian ethnic identity, tracing the synthesis of East Slavic tribes, Scandinavian Varangians, Finno-Ugric substrate, and Golden Horde institutional influences.  
+   ### The Emergence of Russian Ethnic Identity, Kievan Rus', and Slavic Ethnogenesis
+
+1206. **[[us-mexico-border-conflicts-and-territorial-expansion-history]]** ([[north-american-borderlands-historical-group]], Source: `History/us_mexico_conflicts_full_history.txt`)  
+   Rigorous chronological investigation of U.S.–Mexico territorial confrontations, from early Spanish-American colonial buffer zones and the Texas Revolution (1836) through the Mexican-American War and Treaty of Guadalupe Hidalgo.  
+   ### Timeline and Historical Foundations of U.S.–Mexico Conflicts and Frontier Expansion
+
+1207. **[[historical-reparations-and-indigenous-genocide-complicity]]** ([[comparative-transitional-justice-and-human-rights-group]], Source: `History/successful_reparations.txt`, `History/unsuccessful_reparations.txt`, `History/Misrepresentation as complicity_ the genocide against indigenous.pdf`, `History/Universal Declaration of Human Rights.pdf`)  
+   Comparative 4-part legal and historical investigation evaluating successful vs. failed state reparations frameworks over the last century, alongside indigenous genocide complicity and the foundational Universal Declaration of Human Rights.  
+   ### Historical Reparations, Indigenous Genocide, and International Restitution Paradigms
+
+1208. **[[fifa-world-cup-cultural-and-geopolitical-history]]** ([[world-soccer-editorial-board]], Source: `History/World_Soccer_Presents__November_2022.pdf`)  
+   Authoritative 102-page comprehensive retrospective of every FIFA World Cup tournament from Uruguay 1930 through Qatar 2022, detailing tactical revolutions, iconic athletes, and geopolitical controversies.  
+   ### History of the FIFA World Cup: Cultural, Geopolitical, and Global Sporting Dynamics
+
+1209. **[[early-hominins-from-morocco-and-pan-african-homo-sapiens-evolution]]** ([[pan-african-paleoanthropology-consortium]], Source: `History/2026 Early hominins from Morocco basal to the Homo sapiens lineage.pdf`)  
+   Cutting-edge morphological and chronometric study analyzing ~300,000-year-old hominin cranial and dental specimens from Morocco, demonstrating pan-African polycentric origins for early Homo sapiens.  
+   ### Early Hominins from Morocco Basal to the Homo Sapiens Lineage and Pan-African Evolution
+
+1210. **[[khazar-khaganate-judaic-conversion-and-crimean-tribal-history]]** ([[khazar-and-pontic-caspian-historical-study-group]], Source: `History/2026 The_Turkic_Jewish_Khazar_State_and_the_T.pdf`, `History/Cultural_and_Tribal_History_of_Crimea.txt`, `History/Gizlenen Türk Tarihi_.pdf`)  
+   Comprehensive 3-source compendium investigating the political institutions, royal Judaic conversion, Silk Road trade dominance, and Crimean cultural-tribal history of the medieval Khazar Empire.  
+   ### The Turkic-Jewish Khazar State, Judaic Conversion, and Crimean Ethno-Tribal History Compendium
+
+1211. **[[canaanite-israelite-genetic-continuity-and-philistine-assimilation]]** ([[levantine-population-and-historical-demography-consortium]], Source: `History/Ancient_Israel_Populations_With_Assimilated_Philistines.csv`, `History/Genetic_Link_Canaanites_Jews_Palestinians.txt`, `History/Forced_Dispersions_Comparison_Table.csv`)  
+   Demographic and archaeogenetic synthesis examining Bronze Age Canaanite genetic continuity among modern Jews and Palestinians, post-Iron Age Philistine genetic assimilation, and comparative historical tables of forced population dispersions.  
+   ### Canaanite, Israelite, and Levantine Population Demography: Genetic Continuity, Philistine Assimilation, and Forced Dispersions
+
+1212. **[[civilizational-thermodynamics-anti-entropy-and-proto-democracy]]** ([[civilizational-complexity-and-macro-history-group]], Source: `History/AntiEntropy_Civilization_Complete.txt`, `History/CivilizationEmergence.txt`, `History/City_Populations_ProtoDemocracy_vs_Athens.csv`)  
+   Pioneering theoretical and quantitative treatise modeling human civilization as an anti-entropic dissipative structure, cross-referencing urban population thresholds with assemblies in Mesopotamia, Harappa, and pre-Athenian polities.  
+   ### Thermodynamics of Civilization: Anti-Entropy, Urban Settlement Scaling, and Pre-Athenian Proto-Democracy
+
+1213. **[[emrah-sahin-sultans-america-ottoman-encounters]]** ([[emrah-sahin]], Source: `History/Emrah_Sahin_April_2014_TCF_Paper_Sultans_America.pdf`)  
+   Deep archival investigation into late Ottoman perceptions of the United States, analyzing Sultan Abdülhamid II's intelligence gathering, missionary diplomacy, the 1893 Chicago World's Fair, and early transatlantic statecraft.  
+   ### Sultan's America: Lessons from Ottoman-American Encounters in the Late Nineteenth Century
+
+1214. **[[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]** ([[yusuf-cetiner]], Source: `History/Greek Invasion of Smyrna - One Hundred Years Ago The Greek Invasion IFA June 2019 Cetiner.pdf`)  
+   Centennial historical study documenting the May 15, 1919 Greek military landing in Izmir under Allied auspices, the civilian atrocities that followed, and the immediate catalyst it provided for Mustafa Kemal's national resistance.  
+   ### One Hundred Years Ago: The Greek Invasion of Smyrna and the Outbreak of the Turkish National Resistance (1919)
+
+1215. **[[colonial-extraction-accounting-and-imperial-crimes]]** ([[colonial-reparations-and-forensic-economics-consortium]], Source: `History/ColonizerDebtCalculation.txt`, `History/How to compute the “theft” (net extraction) for reparations.pdf`, `History/FranceCrimes.pdf`, `History/Global Settler Comparisons.txt`)  
+   Methodological and archival compendium formulating econometric equations to calculate net colonial surplus extraction and compound interest debt owed by colonial powers, alongside documentation of French colonial war crimes.  
+   ### Colonial Extraction Accounting, Colonizer Debt Computation, and French Imperial Crimes Compendium
+
+1216. **[[thomas-sowell-a-conflict-of-visions-constrained-vs-unconstrained]]** ([[thomas-sowell]], Source: `Sociology/A_Conflict_of_Visions_Summary_by_Thomas_Sowell.txt`)  
+   Masterwork of political sociology and intellectual history diagnosing the fundamental divide in human political conflict: the 'Constrained' (tragic) vision versus the 'Unconstrained' (utopian) vision of human nature.  
+   ### A Conflict of Visions: Ideological Origins of Political Struggles
+
+1217. **[[mckinsey-global-institute-the-social-contract-in-the-21st-century]]** ([[mckinsey-global-institute]], Source: `Sociology/MGI-The-social-contract-in-the-21st-century-Full-report-final.pdf`)  
+   Monumental 176-page empirical investigation evaluating how economic risk, pensions, healthcare costs, housing, and labor protections have shifted from governments and corporations onto individuals across 22 advanced economies.  
+   ### The Social Contract in the 21st Century: Outcomes for Individuals in Advanced Economies
+
+1218. **[[breaching-the-contract-social-contract-theory-and-online-privacy]]** ([[digital-ethics-and-information-privacy-group]], Source: `Sociology/Breaching the contract Using social contract theory to explain individuals online behavior to safeguard privacy.pdf`)  
+   Rigorous empirical study utilizing Integrative Social Contracts Theory (ISCT) to explain how perceived psychological contract breaches by social platforms trigger privacy-protective countermeasures by users.  
+   ### Breaching the Contract: Using Social Contract Theory to Explain Individuals' Online Privacy Safeguarding
+
+1219. **[[abraham-maslow-religions-values-and-peak-experiences]]** ([[abraham-h-maslow]], Source: `Sociology/Maslow Religions, Values & Peak-Experiences.pdf`)  
+   Classic 122-page monograph by Abraham Maslow arguing that peak experiences, transcendental values, and spiritual illumination are intrinsic psychological capacities of human nature rather than the exclusive monopoly of institutional religions.  
+   ### Religions, Values, and Peak-Experiences: Toward a Humanistic Psychology of the Sacred
+
+1220. **[[benzmuller-paleo-automating-godels-ontological-proof-of-god]]** ([[christoph-benzmuller]], [[bruno-woltzenlogel-paleo]], Source: `Sociology/Christoph Benzmu ̈ller and Bruno Woltzenlogel Paleo ECAI 2014 God Exists.pdf`)  
+   Breakthrough computational metaphysics paper successfully formalizing and verifying Kurt Gödel's modal ontological argument for the existence of God using automated theorem provers (LEO-II, Satallax, Isabelle/HOL).  
+   ### Automating Gödel's Ontological Proof of God's Existence with Higher-Order Automated Theorem Provers
+
+1221. **[[caroline-jack-lexicon-of-lies-terms-for-problematic-information]]** ([[caroline-jack]], Source: `Sociology/DataAndSociety_LexiconofLies.pdf`)  
+   Foundational glossary and analytical framework from Data & Society establishing precise conceptual distinctions among disinformation, misinformation, malinformation, propaganda, gaslighting, and astroturfing.  
+   ### Lexicon of Lies: Terms for Problematic Information and Historical Information Ecologies
+
+1222. **[[validation-of-violence-terrorism-internet-and-media-propaganda]]** ([[ariel-victoria-lieberman]], [[critical-conflict-and-violence-studies-group]], Source: `Sociology/Heroism Terrorism and the In-Between_ The Validation of Violenc.pdf`, `Sociology/Terrorism_the_Internet_and_Propaganda_FINAL.pdf`)  
+   Two-volume sociological and legal investigation exploring how digital networks, algorithmic radicalization, and cultural narratives legitimize extremist political violence, while analyzing Section 230 platform liabilities.  
+   ### The Validation of Violence: Heroism, Terrorism, and the Internet Propaganda Apparatus
+
+1223. **[[heidemarie-uhl-on-the-culture-of-memory-why-societies-remember]]** ([[heidemarie-uhl]], Source: `Sociology/UHL-Heidemarie_radni-materijal_engleski.pdf`)  
+   Pioneering memory studies treatise exploring why modern democratic societies institutionalize collective commemoration, examining the transition from heroic nationalist myths to victim-centered memory cultures.  
+   ### On the Culture of Memory: Why Do Societies Remember and How Historical Narratives Are Institutionalized
+
+1224. **[[british-academy-peer-review-challenges-in-humanities-and-social-sciences]]** ([[the-british-academy]], Source: `Sociology/2007 Peer-review-challenges-for-humanities-social-sciences.pdf`)  
+   Authoritative 61-page report evaluating the efficacy, fairness, cognitive biases, and systemic burdens of peer review in academic publishing and research grant allocation across the humanities and social sciences.  
+   ### Peer Review: The Challenges for the Humanities and Social Sciences
+
+1225. **[[massachusetts-history-and-social-science-curriculum-framework]]** ([[massachusetts-department-of-elementary-and-secondary-education]], Source: `Sociology/Massachusetts Education item2-public-comment-draft.pdf`)  
+   Comprehensive 199-page public policy curriculum architecture designing pedagogical standards from pre-kindergarten to Grade 12 for world history, US constitutional governance, geography, economics, and civic agency.  
+   ### Massachusetts History and Social Science Curriculum Framework: Democratic Literacy and Civic Agency
+
+1226. **[[the-black-experience-at-lexington-high-school-invisible-and-unheard]]** ([[lexington-black-student-and-alumni-diversity-task-force]], Source: `Sociology/Invisible and Unheard The Black Experience at Lexington High School.pdf`)  
+   Qualitative sociological investigation into the educational, psychological, and social experiences of Black students in an elite, high-performing Massachusetts suburban public high school.  
+   ### Invisible and Unheard: The Black Experience at Lexington High School and Suburban Racial Dynamics
+
+1227. **[[caste-stratification-across-south-asia-and-intra-muslim-hierarchies]]** ([[south-asian-sociological-and-caste-studies-forum]], Source: `Sociology/Castes in South Asias.pdf`)  
+   Critical sociological study analyzing how caste stratification operates across non-Hindu religious communities in South Asia, with specific focus on Ashraf, Ajlaf, and Arzal social divisions among Muslims in India and Pakistan.  
+   ### Castes in South Asia: Socio-Religious Stratification, Biradari Systems, and Intra-Muslim Hierarchies
+
+1228. **[[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]** ([[jon-k-maner]], [[leah-krubitzer]], Source: `Sociology/Kenrick & Maner Soc Issues PR 2010 When Adaptations Go Awry.pdf`, `Sociology/Krubitzer Neuron 2007 The Magnificinet Comporomise-Cortical Field Evolution.pdf`)  
+   Two-volume neuro-evolutionary synthesis linking the adaptive functional architecture of human social anxiety and social exclusion monitoring to mammalian neocortical field expansion and phenotypic plasticity.  
+   ### When Adaptations Go Awry: Functional and Dysfunctional Social Anxiety and Cortical Field Evolution
+
+1229. **[[understanding-group-dynamics-and-social-systems-architecture]]** ([[organizational-psychology-and-systems-research-group]], Source: `Sociology/Understanding Group Dynamics and Systems Book Chapter.pdf`)  
+   Comprehensive academic treatise on the psychological and structural mechanics of small group dynamics, covert role assignments, socio-technical systemic feedback, and team performance.  
+   ### Understanding Group Dynamics, Socio-Technical Systems, and Interpersonal Role Architecture
+
+1230. **[[virtual-communities-egalitarianism-and-online-conflict-dynamics]]** ([[digital-sociology-and-open-collaboration-group]], Source: `Sociology/Virtual Communities as Egalitarian Societies_ Why Contributions M.pdf`, `Sociology/Virtual Community Conflicts_Bezerra_Hirata 2011.pdf`)  
+   Monumental 155-page dual-volume sociological dissertation investigating why individuals voluntarily contribute knowledge to peer-production networks without monetary compensation, alongside empirical modeling of virtual community flame wars and moderation conflicts.  
+   ### Virtual Communities as Egalitarian Societies: Contribution Motivations and Online Conflict Architecture
+
+1231. **[[youtube-culture-and-trends-decentralized-media-and-fan-communities]]** ([[youtube-culture-and-trends-team]], Source: `Sociology/YouTube_Culture__Trends_Report_2023.pdf`)  
+   Data-rich 2023 benchmark analyzing how rapid technological shifts, short-form algorithmic loops, AI video production, and decentralized fan communities redefine global media consumption.  
+   ### YouTube Culture & Trends Report: How Technological Disruption Reshapes Digital Creation and Fandom
+
+1232. **[[comparative-world-religions-equality-legal-symbolism-and-clothing]]** ([[comparative-religious-law-and-jurisprudence-study-group]], Source: `Sociology/ReligionComparison.pdf`, `Sociology/religion_equality.txt`, `Sociology/Religious symbols and clothing (dini sembol ve kıyafetler).pdf`)  
+   Three-part comparative treatise benchmarking Abrahamic and Dharmic faiths in terms of spiritual equality and social justice, combined with Turkish Ministry of Justice translations of European jurisprudence on religious symbols.  
+   ### Comparative World Religions: Theological Equality, Religious Symbols, and Legal Jurisprudence
+
+1233. **[[benchmarking-social-sciences-sociology-economics-and-healthcare]]** ([[quantitative-social-science-and-development-economics-group]], Source: `Sociology/Benchmarking Sociology_.txt`, `Sociology/Benchmarking Economics- India.txt`, `Sociology/Benchmarking Healthcare- India.txt`)  
+   Three-part quantitative monograph detailing how to construct rigorous benchmarking frameworks in sociology, development economics, and healthcare systems, using post-2024 India as a central case study.  
+   ### Benchmarking Social Sciences: Quantitative Metrics in Sociology, Development Economics, and Indian Healthcare
+
+1234. **[[world-happiness-reports-longitudinal-social-wellbeing-compendium]]** ([[john-f-helliwell]], [[richard-layard]], [[jeffrey-d-sachs]], Source: `Sociology/World Happiness Report 2023.pdf`, `Society_/2025 World Happiness Report.pdf`)  
+   Monumental 426-page two-volume global benchmark (2023 and 2025 editions) evaluating subjective life evaluations, pro-social behavior, social trust, and institutional benevolence across 140+ countries.  
+   ### World Happiness Report: Longitudinal Social Trust, Benevolence, and Well-Being Compendium (2023–2025)
+
+1235. **[[world-values-survey-wave-7-global-cultural-map-and-values-atlas]]** ([[world-values-survey-association]], Source: `Society_/World Values Survey Results_By_Country_2017-2022_v6.0.0.pdf`)  
+   Historic 969-page master dataset of World Values Survey Wave 7 (2017–2022) covering 80+ countries, documenting longitudinal shifts between Traditional vs. Secular-Rational values and Survival vs. Self-Expression values.  
+   ### World Values Survey Wave 7 (2017–2022): Global Cultural Map, Cross-National Value Orientations, and Dataset
+
+1236. **[[consanguinity-marriage-genetics-and-reproductive-health]]** ([[hanan-hamamy]], Source: `Society_/2009 Consanguinity marriage and reproductive health among Arabs.pdf`, `Society_/2011 Consanguineous marriages, pearls and perils- Geneva International Consanguinity Workshop Report.pdf`)  
+   Authoritative two-volume epidemiological synthesis and WHO Geneva Workshop report detailing the genetic, reproductive, and socioeconomic dimensions of first-cousin and endogamous marriages.  
+   ### Consanguinity, Endogamous Marriage, and Reproductive Health: Clinical Genetics and Social Demography
+
+1237. **[[guilbeault-topological-measures-for-complex-contagions-in-networks]]** ([[douglas-guilbeault]], Source: `Society_/s41467-021-24704-6.pdf`)  
+   Breakthrough Nature Communications paper establishing mathematically rigorous topological metrics to predict the diffusion of complex contagions (behaviors requiring multiple social reinforcements) across networks.  
+   ### Topological Measures for Identifying and Predicting the Spread of Complex Contagions in Social Networks
+
+1238. **[[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]** ([[cognitive-and-behavioral-decision-science-group]], Source: `Society_/bayesian_gender_bias_analysis.pdf`, `Society_/gender_bias_analysis.txt`, `Society_/selection_bias_parallels.txt`, `Society_/three_behavioral_subgroups_analysis.txt`)  
+   Four-part mathematical modeling suite applying Bayesian probability and population sorting equations to reveal how small upstream perceptual biases create massive downstream visibility skews across comedy, cuisine, art, and leadership.  
+   ### Bayesian Analysis of Talent Visibility: Cognitive Modeling of Gender and Selection Biases in High-Skill Domains
+
+1239. **[[financial-times-a-new-global-gender-divide-is-emerging]]** ([[john-burn-murdoch]], Source: `Society_/2024 FT A new global gender divide is emerging.pdf`)  
+   Landmark Financial Times statistical investigation documenting an unprecedented ideological polarization along gender lines among Gen Z adults across South Korea, the United States, Germany, the UK, and Poland.  
+   ### A New Global Gender Divide Is Emerging: Political Divergence Among Generation Z and Young Adults
+
+1240. **[[total-fertility-rate-demographic-depopulation-and-replacement-dynamics]]** ([[global-demography-and-population-studies-working-group]], Source: `Society_/total_fertility_rate.pdf`)  
+   Methodological demographic guide defining Total Fertility Rate (TFR), calculating cohort and period measures, and modeling the fiscal and civilizational consequences of sub-replacement fertility (TFR < 2.1).  
+   ### Total Fertility Rate: Demographic Methodologies, Replacement Thresholds, and Global Depopulation Projections
+
+1241. **[[why-small-children-in-japan-ride-the-subway-alone-urban-trust]]** ([[comparative-urban-sociology-and-childhood-independence-group]], Source: `Society_/Why do small children in Japan ride the subway alone_.pdf`)  
+   In-depth ethnographic and urban sociological study examining why Japanese first-graders safely navigate Tokyo's dense subway networks alone, analyzing collective social responsibility, low crime rates, and transit design.  
+   ### Why Small Children in Japan Ride the Subway Alone: Urban Infrastructure, Collective Stewardship, and Social Trust
+
+1242. **[[india-genetics-and-phylogenomic-reverse-colonization]]** ([[south-asian-archaeogenomics-consortium]], Source: `Society_/India Genetics History.pdf`, `Society_/Phylogenomics reveals a gene flow history of reverse colonization 2023.pdf`)  
+   Two-part high-resolution paleogenomic investigation analyzing human dispersal through the Indian corridor and proving prehistoric reverse gene flow from South Asia back into Western Eurasia.  
+   ### Genetic History of the Indian Subcontinent: Phylogenomics and the Demography of Reverse Colonization
+
+1243. **[[british-museum-artifacts-by-country-and-repatriation-debates]]** ([[museum-provenance-and-cultural-heritage-group]], Source: `Society_/British_Museum_Artifacts_By_Country.txt`)  
+   Comprehensive catalog and provenance survey detailing the geographic origins, acquisition circumstances, and international legal restitution claims for the British Museum's 8 million artifacts.  
+   ### British Museum Artifacts by Country of Origin: Provenance, Imperial Acquisition, and Repatriation Jurisprudence
+
+1244. **[[accenture-life-trends-2024-cultural-and-consumer-foresight]]** ([[accenture-song]], Source: `Society_/Accenture-Life-Trends-2024-Report.pdf`)  
+   Influential 65-page foresight report tracking five macro cultural trends: customer obsession decay, the generative AI talent divide, the homogenization of mass culture, and changing consumer priorities.  
+   ### Accenture Life Trends 2024: De-Centering Customers, Mediated Intimacy, and Emerging Cultural Shifts
+
+1245. **[[nielseniq-spend-z-generation-z-spending-and-financial-habits]]** ([[nielseniq-consumer-intelligence]], Source: `Society_/2024 NIQ_SpendZ-Report-_LINKS.pdf`)  
+   Quantitative demographic and retail benchmark charting Generation Z's $12 trillion lifetime purchasing power, budget prioritization, brand loyalty erosion, and financial habits.  
+   ### Spend Z: How Generation Z's Financial Realities and Spending Patterns Reshape Global Commerce
+
+1246. **[[konda-and-ipsos-turkish-social-barometers-and-public-priorities]]** ([[konda-arastirma-ve-danismanlik]], [[ipsos-turkiye-research-institute]], Source: `Society_/2024 Mart İstanbuluAnlamak barometre151.pdf`, `Sociology/IPSOS-Full-Report_9212022-1.pdf`)  
+   Dual-volume quantitative sociological barometer synthesizing KONDA's March 2024 field report on urban life in Istanbul with IPSOS's 73-page priority report on Turkish economic anxieties and social cohesion.  
+   ### Turkish Sociological Barometers: KONDA Istanbul Living Realities and IPSOS Public Priorities Compendium
+
+1247. **[[turknetwork-diaspora-professional-capital-and-innovation]]** ([[turknetwork-global-talent-collaborative]], Source: `Society_/2024 01 TurkNetwork.pdf`)  
+   Expansive 82-page organizational directory and strategic analysis mapping high-skilled Turkish diaspora networks, venture capital syndicates, and technological cross-border collaboration.  
+   ### TurkNetwork: Turkish Global Professional Diaspora, Brain Circulation, and Innovation Networks
+
+1248. **[[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]** ([[ali-yilmaz]], [[semra-gunay-ergun]], Source: `Society_/Turkiye/TÜRKİYE’DE ŞEHİR ASAYİŞ SUÇLARI- DAĞILIŞ VE BAŞLICAÖZELLİKLERİ ali yilmaz.pdf`)  
+   Pioneering spatial criminology and GIS spatial analysis studying the geographical distribution, urban density correlations, and socioeconomic determinants of public order crimes across 81 provinces in Turkey.  
+   ### Türkiye’de Şehir Asayiş Suçları: Coğrafi Dağılış, Mekânsal Analiz ve Kriminolojik Özellikler

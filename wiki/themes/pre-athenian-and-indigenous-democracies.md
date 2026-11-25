@@ -70,3 +70,6 @@ For over two centuries, Western political historiography treated fifth-century B
 - [[evolving-brains-emerging-gods-neurobiology-of-religion]]
 - [[kaczorowski-yezidism-and-proto-indo-iranian-religion]]
 - [[divan-poetry-proverbs-and-positive-emotions]]
+
+## Books in Wiki
+- [[civilizational-thermodynamics-anti-entropy-and-proto-democracy]]

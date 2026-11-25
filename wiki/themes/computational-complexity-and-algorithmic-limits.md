@@ -9,4 +9,7 @@ Investigates the theoretical boundaries of computational tractability, algorithm
 - [[duan-mao-breaking-sorting-barrier-directed-sssp]]
 
 ## Books in Wiki
+- [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
+- [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
+- [[guilbeault-topological-measures-for-complex-contagions-in-networks]]
 - [[physics-of-political-diffusion-and-regime-dynamics]]

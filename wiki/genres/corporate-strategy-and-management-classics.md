@@ -14,6 +14,10 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[accenture-life-trends-2024-cultural-and-consumer-foresight]]
+- [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]
+- [[turknetwork-diaspora-professional-capital-and-innovation]]
+- [[understanding-group-dynamics-and-social-systems-architecture]]
 - [[hbr-rules-for-companies-navigating-geopolitical-volatility]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
 - [[podolny-hansen-how-apple-is-organized-for-innovation]]

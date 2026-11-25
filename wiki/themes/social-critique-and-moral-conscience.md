@@ -84,6 +84,17 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 - [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]
 
 ## Books in Wiki
+- [[abraham-maslow-religions-values-and-peak-experiences]]
+- [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
+- [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
+- [[british-museum-artifacts-by-country-and-repatriation-debates]]
+- [[caste-stratification-across-south-asia-and-intra-muslim-hierarchies]]
+- [[colonial-extraction-accounting-and-imperial-crimes]]
+- [[comparative-world-religions-equality-legal-symbolism-and-clothing]]
+- [[historical-reparations-and-indigenous-genocide-complicity]]
+- [[konda-and-ipsos-turkish-social-barometers-and-public-priorities]]
+- [[the-black-experience-at-lexington-high-school-invisible-and-unheard]]
+- [[world-happiness-reports-longitudinal-social-wellbeing-compendium]]
 - [[bonica-grumbach-old-money-campaign-finance-gerontocracy]]
 - [[cognitive-biases-and-territorial-conflict-in-the-levant]]
 - [[deferred-complicity-in-democratic-education]]

@@ -12,6 +12,9 @@ Turkology and Comparative Eurasian Philology investigates the linguistic origins
 ---
 
 ## Books in Wiki
+- [[erdal-the-turkish-yarkand-documents-and-serindia-philology]]
+- [[orkhon-inscriptions-thomsen-and-ross-critical-edition]]
+- [[turkic-epic-mythology-and-cultural-symbolism-compendium]]
 - [[iranda-turk-kimligi]] (2026) — [[hamid-sehanegi]], [[merve-dilek-dagdelen]], [[busra-yilmaz]]
 - [[tarih-turklerle-baslar-bilinmeyen-turk-tarihi]] (2021) — [[kazim-mirsan]]
 - [[irak-bitigi-iraktaki-bilgiler-kitabi]] (2018) — [[kazim-mirsan]], [[mustafa-turgay-tufekcioglu]], [[ozden-ilteris-bulca]]

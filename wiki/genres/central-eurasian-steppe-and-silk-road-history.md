@@ -12,6 +12,14 @@ Central Eurasian Steppe and Silk Road History spans the immense belt connecting 
 ---
 
 ## Books in Wiki
+- [[ancient-genomes-reveal-trans-eurasian-connections-huns-and-xiongnu]]
+- [[erdal-the-turkish-yarkand-documents-and-serindia-philology]]
+- [[eurasian-steppe-iron-age-nomads-ancestry-and-descendants]]
+- [[inner-eurasia-genetic-history-of-admixture-and-pastoralist-expansions]]
+- [[khazar-khaganate-judaic-conversion-and-crimean-tribal-history]]
+- [[origins-of-russian-ethnicity-and-kievan-rus-ethnogenesis]]
+- [[orkhon-inscriptions-thomsen-and-ross-critical-edition]]
+- [[theophanes-confessor-chronicle-and-early-byzantine-turkic-relations]]
 - [[soviet-and-russian-historiographical-manipulation-in-central-asia]]
 - [[mullin-genghis-khan-trade-warrior-pax-mongolica]]
 - [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]

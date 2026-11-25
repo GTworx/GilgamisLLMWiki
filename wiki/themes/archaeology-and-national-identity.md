@@ -32,3 +32,18 @@ Archaeology is rarely a detached academic pursuit; it frequently operates as an 
 - [[archaeological-historiography]]
 - [[anatolian-humanism]]
 - [[rationality-and-decision-making]]
+
+## Books in Wiki
+- [[afet-inan-turkiye-halkinin-antropolojik-karakterleri-ve-genetik-yapisi]]
+- [[ancient-near-east-adna-time-course-sampling-and-levantine-genetics]]
+- [[british-museum-artifacts-by-country-and-repatriation-debates]]
+- [[canaanite-israelite-genetic-continuity-and-philistine-assimilation]]
+- [[comparative-archaeology-of-ancient-israelites-and-philistines]]
+- [[heidemarie-uhl-on-the-culture-of-memory-why-societies-remember]]
+- [[homonades-and-armenia-between-rome-and-sasanians]]
+- [[khazar-khaganate-judaic-conversion-and-crimean-tribal-history]]
+- [[omer-lutfi-tascioglu-historical-facts-in-turkish-armenian-relations]]
+- [[origins-of-russian-ethnicity-and-kievan-rus-ethnogenesis]]
+- [[orkhon-inscriptions-thomsen-and-ross-critical-edition]]
+- [[trojan-origins-myth-turks-and-medieval-renaissance-genealogies]]
+- [[turkic-epic-mythology-and-cultural-symbolism-compendium]]

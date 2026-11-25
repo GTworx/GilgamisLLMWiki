@@ -72,6 +72,8 @@ Coined by political theorist [[john-keane]] in [[the-life-and-death-of-democracy
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Books in Wiki
+- [[historical-reparations-and-indigenous-genocide-complicity]]
+- [[massachusetts-history-and-social-science-curriculum-framework]]
 - [[declassified-911-investigative-dossier]]
 - [[hersh-the-killing-of-osama-bin-laden-and-diplomatic-deceptions]]
 - [[shepersisted-big-tech-weaponized-misogyny-moldova-report]]

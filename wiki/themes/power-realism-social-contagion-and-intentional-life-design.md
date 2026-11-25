@@ -68,3 +68,6 @@ Starting from [[niccolo-machiavelli]]'s [[the-prince-machiavelli]] and expanded 
 - [[consultative-sales-and-commercial-teaching]]
 - [[political-science]]
 - [[world-classics-and-comparative-literature]]
+
+## Books in Wiki
+- [[guilbeault-topological-measures-for-complex-contagions-in-networks]]

@@ -14,6 +14,11 @@ Analyzes the paradigm shift in luxury consumption, street-culture credibility, c
 - **Cultural Credibility & Creative Capital**: How next-generation luxury shifts from legacy heritage exclusivity to creator-driven cultural authenticity.
 
 ## Canonical Works
+- [[accenture-life-trends-2024-cultural-and-consumer-foresight]]
+- [[fifa-world-cup-cultural-and-geopolitical-history]]
+- [[habsburg-dynasty-vienna-inner-city-and-viennese-culinary-historiography]]
+- [[nielseniq-spend-z-generation-z-spending-and-financial-habits]]
+- [[youtube-culture-and-trends-decentralized-media-and-fan-communities]]
 - [[wunderman-thompson-the-future-100-2023]]
 - [[influencer-marketing-guide-compendium-2026]]
 in Knowledge Base

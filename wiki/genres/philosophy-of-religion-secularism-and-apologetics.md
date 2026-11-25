@@ -14,6 +14,7 @@ Within this wiki, the secular-evolutionary wing is represented by [[richard-dawk
 ---
 
 ## Books in Wiki
+- [[abraham-maslow-religions-values-and-peak-experiences]]
 - [[atheism-all-that-matters]] (2014) — [[dylan-evans]]
 - [[law-of-attraction-secret-power]] (2014) — [[jenny-loveless]]
 - [[richard-dawkins-god-delusion-bloch]] (2014) — [[pawel-bloch]]

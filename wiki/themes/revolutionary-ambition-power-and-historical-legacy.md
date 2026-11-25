@@ -61,6 +61,8 @@
 - [[ethics-and-value-philosophy]]
 
 ## Books in Wiki
+- [[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]
+- [[hovhannes-katchaznouni-the-dashnagtzoutiun-has-nothing-to-do-anymore]]
 - [[american-hegemonic-decline-and-historical-parallels]]
 - [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
 - [[empires-versus-colonizers-institutional-and-administrative-divergence]]

@@ -49,6 +49,16 @@ On the universalist-liberal pole, [[francis-fukuyama]]'s [[the-end-of-history-an
 - [[comparative-democratic-history]]
 
 ## Books in Wiki
+- [[colonial-extraction-accounting-and-imperial-crimes]]
+- [[emrah-sahin-sultans-america-ottoman-encounters]]
+- [[habsburg-dynasty-vienna-inner-city-and-viennese-culinary-historiography]]
+- [[homonades-and-armenia-between-rome-and-sasanians]]
+- [[iran-iraq-war-origins-and-persian-cultural-heritage]]
+- [[kashmir-conflict-indian-dynastic-empires-and-subcontinent-historiography]]
+- [[morphodynamic-and-diplomatic-foundations-of-ancient-mesopotamia]]
+- [[origins-of-the-first-world-war-and-contemporary-geopolitical-parallels]]
+- [[ottoman-imperial-statecraft-religious-tolerance-and-global-ties]]
+- [[us-mexico-border-conflicts-and-territorial-expansion-history]]
 - [[american-hegemonic-decline-and-historical-parallels]]
 - [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
 - [[cognitive-biases-and-territorial-conflict-in-the-levant]]

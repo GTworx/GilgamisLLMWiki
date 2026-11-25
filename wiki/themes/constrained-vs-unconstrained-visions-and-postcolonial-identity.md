@@ -37,3 +37,8 @@ In [[a-conflict-of-visions-ideological-origins-of-political-struggles]], [[thoma
 - [[postcolonial-and-diaspora-studies]]
 - [[investigative-non-fiction]]
 - [[poetry-and-poetics]]
+
+## Books in Wiki
+- [[caste-stratification-across-south-asia-and-intra-muslim-hierarchies]]
+- [[the-black-experience-at-lexington-high-school-invisible-and-unheard]]
+- [[thomas-sowell-a-conflict-of-visions-constrained-vs-unconstrained]]

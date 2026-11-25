@@ -14,6 +14,12 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[abraham-maslow-religions-values-and-peak-experiences]]
+- [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
+- [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]
+- [[guilbeault-topological-measures-for-complex-contagions-in-networks]]
+- [[understanding-group-dynamics-and-social-systems-architecture]]
+- [[world-happiness-reports-longitudinal-social-wellbeing-compendium]]
 - [[political-fandom-and-neuromarketing-in-elections]]
 - [[political-psychology-of-prejudice-racism-and-nationalism]]
 - [[evolutionary-anthropology-of-cooking-meat-and-fetal-life-definitions]] (2024) — [[richard-wrangham]], [[bioethics-and-evolutionary-anthropology-consortium]]

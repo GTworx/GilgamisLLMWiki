@@ -30,6 +30,7 @@ Republican intellectual history investigates the philosophical and institutional
 - [[anatolian-civilizations]]
 
 ## Books in Wiki
+- [[afet-inan-turkiye-halkinin-antropolojik-karakterleri-ve-genetik-yapisi]]
 - [[king-charles-iii-coronation-and-constitutional-monarchy-compendium]]
 - [[tbmm-milli-dayanisma-ve-demokrasi-komisyonu-raporu-2026]]
 - [[turkish-republic-territorial-diplomacy-and-sovereignty]]

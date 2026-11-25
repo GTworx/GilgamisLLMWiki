@@ -14,6 +14,7 @@ In his personal favorite among his own works, [[a-conflict-of-visions-ideologica
 ---
 
 ## Books in Wiki
+- [[thomas-sowell-a-conflict-of-visions-constrained-vs-unconstrained]]
 - [[a-conflict-of-visions-ideological-origins-of-political-struggles]] (2007)
 
 ---

@@ -14,6 +14,7 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]
 - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]
 - [[a-brief-history-of-artificial-intelligence-what-it-is-where-we-are-and-where-we-are-going]] (2020) — [[michael-wooldridge]]
 - [[the-case-against-reality]] (2019) — [[donald-d-hoffman]]

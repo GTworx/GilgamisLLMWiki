@@ -55,3 +55,6 @@ This rewilding framework converges directly with [[amy-c-edmondson]]'s work on *
 - [[trusted-strategic-advisors-and-influence]]
 - [[organizational-psychology]]
 - [[leadership-and-management]]
+
+## Books in Wiki
+- [[understanding-group-dynamics-and-social-systems-architecture]]

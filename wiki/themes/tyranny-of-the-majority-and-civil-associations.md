@@ -51,3 +51,9 @@ Across political sociology, constitutional law, and mathematical social choice t
 - [[comparative-democratic-history]]
 - [[political-science]]
 - [[social-choice-theory]]
+
+## Books in Wiki
+- [[breaching-the-contract-social-contract-theory-and-online-privacy]]
+- [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]
+- [[why-small-children-in-japan-ride-the-subway-alone-urban-trust]]
+- [[world-values-survey-wave-7-global-cultural-map-and-values-atlas]]

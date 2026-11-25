@@ -14,6 +14,13 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
+- [[benchmarking-social-sciences-sociology-economics-and-healthcare]]
+- [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
+- [[guilbeault-topological-measures-for-complex-contagions-in-networks]]
+- [[total-fertility-rate-demographic-depopulation-and-replacement-dynamics]]
+- [[world-happiness-reports-longitudinal-social-wellbeing-compendium]]
+- [[world-values-survey-wave-7-global-cultural-map-and-values-atlas]]
 - [[physics-of-political-diffusion-and-regime-dynamics]]
 - [[rogoff-sibert-elections-and-macroeconomic-policy-cycles]]
 - [[siegenfeld-bar-yam-negative-representation-in-democratic-elections]]

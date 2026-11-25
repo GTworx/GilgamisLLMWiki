@@ -12,6 +12,15 @@ Spanning from the eleventh-century arrival of the Seljuk Turks in Anatolia to th
 ---
 
 ## Books in Wiki
+- [[ancient-genomes-reveal-trans-eurasian-connections-huns-and-xiongnu]]
+- [[emrah-sahin-sultans-america-ottoman-encounters]]
+- [[hovhannes-katchaznouni-the-dashnagtzoutiun-has-nothing-to-do-anymore]]
+- [[khazar-khaganate-judaic-conversion-and-crimean-tribal-history]]
+- [[omer-lutfi-tascioglu-historical-facts-in-turkish-armenian-relations]]
+- [[ottoman-imperial-statecraft-religious-tolerance-and-global-ties]]
+- [[theophanes-confessor-chronicle-and-early-byzantine-turkic-relations]]
+- [[trojan-origins-myth-turks-and-medieval-renaissance-genealogies]]
+- [[yucel-guclu-akcam-critique-and-armenian-studies-compendium]]
 - [[bizansli-gozuyle-turkler]] (c.) — [[georges-pachymeres]]
 - [[homer-troy-and-the-turks]] (2017) — [[wendy-m-k-shaw]]
 - [[the-ottoman-empire-kenneth-harl]] (2017) — [[kenneth-w-harl]]

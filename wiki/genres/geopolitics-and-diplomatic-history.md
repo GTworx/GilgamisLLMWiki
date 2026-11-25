@@ -14,6 +14,14 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[emrah-sahin-sultans-america-ottoman-encounters]]
+- [[hovhannes-katchaznouni-the-dashnagtzoutiun-has-nothing-to-do-anymore]]
+- [[kashmir-conflict-indian-dynastic-empires-and-subcontinent-historiography]]
+- [[omer-lutfi-tascioglu-historical-facts-in-turkish-armenian-relations]]
+- [[origins-of-the-first-world-war-and-contemporary-geopolitical-parallels]]
+- [[ottoman-imperial-statecraft-religious-tolerance-and-global-ties]]
+- [[us-mexico-border-conflicts-and-territorial-expansion-history]]
+- [[yucel-guclu-akcam-critique-and-armenian-studies-compendium]]
 - [[american-hegemonic-decline-and-historical-parallels]]
 - [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
 - [[ecfr-what-the-world-thinks-of-trump-ukraine-and-china]]

@@ -61,6 +61,7 @@ Starting from the constitutional baseline compiled by [[nick-ragone]] in [[us-de
 - [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]
 
 ## Books in Wiki
+- [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]
 - [[authoritarian-governance-in-the-united-arab-emirates]]
 - [[bonica-grumbach-old-money-campaign-finance-gerontocracy]]
 - [[deferred-complicity-in-democratic-education]]
