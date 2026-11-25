@@ -14,6 +14,7 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[global-oil-and-gas-geopolitics-upstream-economics-and-flaring-analysis]] (2023) — [[international-energy-agency-iea]], [[petroleum-geopolitics-consortium]], [[russell-gold]]
 - [[bizansli-gozuyle-turkler]] (c.) — [[georges-pachymeres]]
 - [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[iranda-turk-kimligi]] (2026) — [[hamid-sehanegi]], [[merve-dilek-dagdelen]], [[busra-yilmaz]]

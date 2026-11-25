@@ -16,6 +16,7 @@ Autonomous transit dramatically reduces highway fatalities and optimizes urban t
 ---
 
 ## Representative Books in Wiki
+- [[gencer-mit-sustainable-energy-systems-and-grid-emissions-series]]
 - [[autonomous-vehicles-challenges-opportunities-and-future]]
 - [[philosophy-and-ethics-of-autonomous-vehicles-and-the-right-to-drive]]
 - [[turkish-automotive-and-smart-mobility-ecosystem-report]]

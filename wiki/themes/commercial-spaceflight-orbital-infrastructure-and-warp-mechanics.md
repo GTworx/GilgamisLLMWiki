@@ -16,6 +16,7 @@ The economic threshold for orbital access has dropped by orders of magnitude, tu
 ---
 
 ## Representative Books in Wiki
+- [[space-based-solar-power-and-coherent-wireless-power-transfer]]
 - [[pitchbook-commercial-space-launch-and-defense-tech]]
 - [[karman-project-space-leadership-and-orbital-cooperation]]
 - [[gooinn-aviation-and-aerospace-report-evtol-and-uam]]

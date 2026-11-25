@@ -14,6 +14,13 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[george-orwell-jura-and-the-sociology-of-scottish-distilling]] (2022) — [[literary-geography-and-distilling-consortium]]
+- [[ge-turkiye-energy-transition-and-industrial-efficiency-handbook]] (2024) — [[canan-ozsoy]], [[general-electric-turkiye]], [[energy-efficiency-initiative]]
+- [[verdantix-smart-buildings-decarbonization-and-energy-management-roadmap]] (2023) — [[verdantix-research-consortium]], [[harry-boam]]
+- [[us-inflation-reduction-act-renewable-energy-policy-guidebook]] (2023) — [[us-department-of-energy]], [[white-house-clean-energy-team]]
+- [[pitchbook-clean-energy-carbon-tech-and-infrastructure-funds]] (2024) — [[pitchbook-emerging-tech-research]], [[john-dreese]], [[kyle-stanford]]
+- [[navigant-energy-cloud-transformation-and-utility-disruption]] (2017) — [[navigant-research]], [[gartner-research]], [[mackinnon-lawrence]]
+- [[mit-utility-of-the-future-electric-power-systems]] (2016) — [[mit-energy-initiative]], [[ignacio-perez-arriaga]], [[christopher-knittel]]
 - [[gooinn-aviation-and-aerospace-report-evtol-and-uam]] (2025) — [[gooinn-innovation-consulting]], [[aviation-strategy-consortium]]
 - [[pitchbook-commercial-space-launch-and-defense-tech]] (2024) — [[pitchbook-emerging-tech-research]], [[andres-perez]]
 - [[turkish-automotive-and-smart-mobility-ecosystem-report]] (2024) — [[otomotiv-sanayii-dernegi-osd]], [[gooinn-innovation-consulting]]

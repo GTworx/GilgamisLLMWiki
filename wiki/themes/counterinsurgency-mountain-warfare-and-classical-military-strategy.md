@@ -48,3 +48,5 @@ At the literary apex, [[leo-tolstoy]]'s [[hadji-murad]] exposes the human traged
 - [[philosophical-fiction]]
 
 - [[pitchbook-commercial-space-launch-and-defense-tech]]
+
+- [[global-oil-and-gas-geopolitics-upstream-economics-and-flaring-analysis]]

@@ -11,6 +11,16 @@ Covers the macroeconomic, geopolitical, and corporate restructuring required for
 ---
 
 ## Representative Books in Wiki
+- [[global-gap-between-national-food-production-and-dietary-guidelines]]
+- [[utz-certified-sustainable-agriculture-standards-and-metrics]]
+- [[ge-turkiye-energy-transition-and-industrial-efficiency-handbook]]
+- [[verdantix-smart-buildings-decarbonization-and-energy-management-roadmap]]
+- [[us-inflation-reduction-act-renewable-energy-policy-guidebook]]
+- [[rethink-energy-battery-forecast-and-statistical-review-of-world-energy]]
+- [[pitchbook-clean-energy-carbon-tech-and-infrastructure-funds]]
+- [[iea-and-nrel-global-electricity-and-clean-grid-2035-pathways]]
+- [[daytime-radiative-cooling-metamaterials-and-passive-thermal-management]]
+- [[hydrogen-economy-transition-and-infrastructure-compendium]]
 - [[noaa-us-billion-dollar-weather-and-climate-disasters-risk-mapping]]
 - [[founders-forum-climate-tech-landscape-and-innovations]]
 - [[financial-times-china-accelerating-green-energy-transition]]

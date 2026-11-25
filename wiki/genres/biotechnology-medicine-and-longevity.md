@@ -14,6 +14,11 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
+- [[enzymatic-deglycation-and-reversal-of-protein-chemical-aging]] (2025) — [[cellular-rejuvenation-and-biogerontology-group]], [[david-a-sinclair]]
+- [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]] (2025) — [[advanced-nanobiotechnology-consortium]], [[gang-han]], [[tian-xue]]
+- [[ancient-neural-enhancer-and-hominid-brain-evolution-with-lead-exposure]] (2025) — [[neurogenomics-and-paleoneurology-consortium]], [[genevieve-konopka]], [[david-f-gould]]
+- [[african-population-genetics-of-autism-spectrum-disorder]] (2024) — [[african-neurogenomics-collaborative]], [[kirsten-a-donald]]
+- [[neanderthal-polymorphisms-and-autism-spectrum-genetics]] (2024) — [[molecular-psychiatry-and-genomics-consortium]], [[clemens-m-gross]]
 - [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]] (1270) — [[ibn-al-nafis]]
 - [[lumbar-disc-herniation-treatment-modalities-clinical-comparison-matrix]] (2024) — [[spine-surgery-and-orthopedic-rehabilitation-consortium]]
 - [[national-geographic-blue-zones-and-centenarian-longevity-secrets]] (2023) — [[national-geographic-society]], [[dan-buettner]]

@@ -16,6 +16,7 @@ Aging is increasingly conceptualized not as an inevitable chronological decay, b
 ---
 
 ## Representative Books in Wiki
+- [[enzymatic-deglycation-and-reversal-of-protein-chemical-aging]]
 - [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]]
 - [[snyder-nonlinear-dynamics-of-multi-omics-profiles-during-human-aging]]
 - [[reik-multi-omic-rejuvenation-by-transient-reprogramming]]

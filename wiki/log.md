@@ -1543,3 +1543,65 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (1,962 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+## [2026-11-25] - Wave AR-9 Ingestion: Planetary Systems — Clean Energy, AgriTech, Food & Bioeconomy (38 Canonical Works, 71 Physical Files)
+- **Scope & Sources**:
+  - Ingested 4 folder collections from `_GilgameshLibrary/ARTICLES-REPORTS/`:
+    - `Energy` (34 files)
+    - `Agriculture` (12 files)
+    - `Food` (7 files)
+    - `Biology` (18 files)
+    - Total: **71 physical files**, synthesized into **38 canonical works** (Works 740–777).
+- **Canonical Works Synthesized**:
+  - **Clean Energy Systems, Hydrogen & Power Grid Architecture (14 works, 34 files)**:
+    - [[hydrogen-economy-transition-and-infrastructure-compendium]] ([[international-energy-agency-iea]], [[united-nations-environment-programme-unep]], [[ulf-bossel]], 2023, 5-treatise compendium, 480 pp.).
+    - [[gencer-mit-sustainable-energy-systems-and-grid-emissions-series]] ([[emre-gencer]], [[mit-energy-initiative]], 2020, 4-paper series [PNAS, Applied Energy], 68 pp.).
+    - [[mit-utility-of-the-future-electric-power-systems]] ([[mit-energy-initiative]], [[ignacio-perez-arriaga]], [[christopher-knittel]], 2016, 376 pp.).
+    - [[navigant-energy-cloud-transformation-and-utility-disruption]] ([[navigant-research]], [[gartner-research]], [[mackinnon-lawrence]], 2017, 2-report compendium, 44 pp.).
+    - [[daytime-radiative-cooling-metamaterials-and-passive-thermal-management]] ([[yao-zhai]], [[yaohua-ma]], [[ronggui-yang]], [[xiaobo-yin]], 2017, Science, 12 pp.).
+    - [[iea-and-nrel-global-electricity-and-clean-grid-2035-pathways]] ([[international-energy-agency-iea]], [[national-renewable-energy-laboratory-nrel]], 2024, 2-volume compendium, 382 pp.).
+    - [[pitchbook-clean-energy-carbon-tech-and-infrastructure-funds]] ([[pitchbook-emerging-tech-research]], [[john-dreese]], [[kyle-stanford]], 2024, 3-report compendium, 92 pp.).
+    - [[rethink-energy-battery-forecast-and-statistical-review-of-world-energy]] ([[rethink-energy-consortium]], [[energy-institute]], [[peter-hazel]], 2023, 2-volume compendium, 124 pp.).
+    - [[us-inflation-reduction-act-renewable-energy-policy-guidebook]] ([[us-department-of-energy]], [[white-house-clean-energy-team]], 2023, 182 pp.).
+    - [[verdantix-smart-buildings-decarbonization-and-energy-management-roadmap]] ([[verdantix-research-consortium]], [[harry-boam]], 2023, 3-report dossier, 120 pp.).
+    - [[space-based-solar-power-and-coherent-wireless-power-transfer]] ([[caltech-space-solar-power-project]], [[ali-hajimiri]], [[harry-a-atwater]], 2024, 28 pp.).
+    - [[indoor-photovoltaics-triple-passivation-efficiency-breakthrough]] ([[advanced-photovoltaics-research-group]], 2025, 14 pp.).
+    - [[global-oil-and-gas-geopolitics-upstream-economics-and-flaring-analysis]] ([[international-energy-agency-iea]], [[petroleum-geopolitics-consortium]], [[russell-gold]], 2023, 6-document dossier, 180 pp.).
+    - [[ge-turkiye-energy-transition-and-industrial-efficiency-handbook]] ([[canan-ozsoy]], [[general-electric-turkiye]], [[energy-efficiency-initiative]], 2024, 2-volume manual, 56 pp.).
+  - **Agricultural Sciences, AgriTech & Crop Genomics (8 works, 12 files)**:
+    - [[grobman-peruvian-preceramic-maize-domestication]] ([[alexander-grobman]], [[tom-d-dillehay]], [[duccio-bonavia]], 2011, PNAS, 8 pp.).
+    - [[vertical-farming-and-controlled-environment-agriculture-frontier]] ([[financial-times-investigative-team]], [[emiko-terazono]], 2023, 2-report series, 22 pp.).
+    - [[iot-and-smart-agriculture-in-the-asia-pacific-region]] ([[asia-pacific-agricultural-consortium]], [[telecom-and-iot-research-group]], 2021, 2-volume compendium, 64 pp.).
+    - [[turkish-agricultural-modernization-and-medicinal-aromatic-plants]] ([[bekir-pakdemirli]], [[tarim-ve-orman-bakanligi]], [[tarimsal-ekonomi-enstitusu]], 2021, 3-report dossier, 86 pp.).
+    - [[grapevine-domestication-genomics-and-history-of-wine]] ([[yang-dong]], [[wei-chen]], [[science-archeogenomics-consortium]], 2023, Science, 16 pp.).
+    - [[sunflower-phototropism-and-circadian-botany]] ([[botanical-and-circadian-biology-group]], [[stacey-harmer]], 2022, 14 pp.).
+    - [[anatolian-honeybee-genetics-and-apiculture-biodiversity]] ([[anatolian-apiculture-and-genetics-consortium]], [[irfan-kandemir]], 2023, 12 pp.).
+    - [[utz-certified-sustainable-agriculture-standards-and-metrics]] ([[utz-certified-consortium]], [[rainforest-alliance]], 2013, 48 pp.).
+  - **Sensory Food Science, Global Nutrition & Food Culture (4 works, 7 files)**:
+    - [[sensory-food-science-triangle-testing-methodology]] ([[food-sensory-science-group]], [[per-b-brockhoff]], 2019, 16 pp.).
+    - [[global-gap-between-national-food-production-and-dietary-guidelines]] ([[global-food-systems-consortium]], [[kristin-krishna]], 2025, 28 pp.).
+    - [[cultural-history-and-culinary-evolution-of-american-and-global-fast-food]] ([[culinary-history-consortium]], [[john-t-edge]], 2023, 4-study compendium, 44 pp.).
+    - [[george-orwell-jura-and-the-sociology-of-scottish-distilling]] ([[literary-geography-and-distilling-consortium]], 2022, 28 pp.).
+  - **Evolutionary Biology, Population Genomics & Bioengineering (12 works, 18 files)**:
+    - [[bak-sneppen-model-punctuated-equilibrium-and-criticality-in-evolution]] ([[per-bak]], [[kim-sneppen]], 1994, Physical Review Letters, 18 pp.).
+    - [[arbib-monkey-mirror-neurons-to-human-language-neurolinguistics]] ([[michael-a-arbib]], 2005, 44 pp.).
+    - [[turkish-population-genomics-and-anatolian-ancestral-admixture]] ([[turkish-population-genomics-consortium]], [[sukru-tuzmen]], [[necat-yilmaz]], 2021, 18 pp.).
+    - [[neanderthal-polymorphisms-and-autism-spectrum-genetics]] ([[molecular-psychiatry-and-genomics-consortium]], [[clemens-m-gross]], 2024, Molecular Psychiatry, 14 pp.).
+    - [[african-population-genetics-of-autism-spectrum-disorder]] ([[african-neurogenomics-collaborative]], [[kirsten-a-donald]], 2024, 18 pp.).
+    - [[paranthropus-boisei-hand-fossils-and-early-hominin-dexterity]] ([[paleoanthropology-and-hominin-origins-group]], [[carolin-feuerriegel]], 2025, 24 pp.).
+    - [[ancient-neural-enhancer-and-hominid-brain-evolution-with-lead-exposure]] ([[neurogenomics-and-paleoneurology-consortium]], [[genevieve-konopka]], [[david-f-gould]], 2025, 2-study dossier, 32 pp.).
+    - [[evolutionary-biology-of-human-kissing-and-social-bonding]] ([[comparative-ethology-and-evolution-group]], [[matilda-brindle]], 2025, 18 pp.).
+    - [[iguanodontian-dinosaur-neural-spine-elongation-and-display-structures]] ([[vertebrate-paleontology-consortium]], [[jeremy-a-f-lockwood]], 2025, 36 pp.).
+    - [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]] ([[advanced-nanobiotechnology-consortium]], [[gang-han]], [[tian-xue]], 2025, 33 pp.).
+    - [[enzymatic-deglycation-and-reversal-of-protein-chemical-aging]] ([[cellular-rejuvenation-and-biogerontology-group]], [[david-a-sinclair]], 2025, 2-study compendium, 38 pp.).
+    - [[evolutionary-anthropology-of-cooking-meat-and-fetal-life-definitions]] ([[richard-wrangham]], [[bioethics-and-evolutionary-anthropology-consortium]], 2024, 3-part dossier, 22 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +38 canonical entries (total: 777).
+  - **Authors**: +84 author profiles created, 2 updated (total: 1,073).
+  - **Genres**: +3 new genres ([[clean-energy-systems-and-infrastructure-economics]], [[agricultural-sciences-agritech-and-food-systems]], [[evolutionary-biology-and-population-genomics]]) created; 8 existing genres updated (total: 108).
+  - **Themes**: +4 new themes ([[clean-energy-transition-hydrogen-and-grid-decarbonization]], [[agritech-controlled-environment-farming-and-crop-genomics]], [[evolutionary-genomics-hominin-admixture-and-neurogenetics]], [[food-systems-resilience-and-dietary-metabolism]]) created; 9 existing themes updated (total: 133).
+  - **Total Wiki Pages**: **2,091 entity pages** (2,093 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (2,091 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

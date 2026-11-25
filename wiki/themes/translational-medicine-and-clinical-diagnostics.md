@@ -16,6 +16,10 @@ Bridging the chasm between benchtop molecular biology and bedside clinical effic
 ---
 
 ## Representative Books in Wiki
+- [[enzymatic-deglycation-and-reversal-of-protein-chemical-aging]]
+- [[ancient-neural-enhancer-and-hominid-brain-evolution-with-lead-exposure]]
+- [[african-population-genetics-of-autism-spectrum-disorder]]
+- [[neanderthal-polymorphisms-and-autism-spectrum-genetics]]
 - [[pontone-cardiac-computed-tomography-and-myocardial-perfusion-compendium]]
 - [[bray-globocan-global-cancer-statistics-estimates]]
 - [[newman-toker-diagnostic-errors-and-autopsy-discrepancies-in-medicine]]

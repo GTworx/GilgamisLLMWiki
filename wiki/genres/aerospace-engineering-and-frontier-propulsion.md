@@ -14,6 +14,7 @@ Rapid launch cost deflation, commercial space industrialization, and urban air m
 ---
 
 ## Books in Wiki
+- [[space-based-solar-power-and-coherent-wireless-power-transfer]] (2024) — [[caltech-space-solar-power-project]], [[ali-hajimiri]], [[harry-a-atwater]]
 - [[gooinn-aviation-and-aerospace-report-evtol-and-uam]] (2025) — [[gooinn-innovation-consulting]], [[aviation-strategy-consortium]]
 - [[pitchbook-commercial-space-launch-and-defense-tech]] (2024) — [[pitchbook-emerging-tech-research]], [[andres-perez]]
 - [[karman-project-space-leadership-and-orbital-cooperation]] (2024) — [[the-karman-project-fellowship]], [[jean-luc-chretien]]

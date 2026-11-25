@@ -13,6 +13,7 @@ PitchBook Emerging Tech Research is the research division of Morningstar's Pitch
 ---
 
 ## Works in Wiki
+- [[pitchbook-clean-energy-carbon-tech-and-infrastructure-funds]]
 - [[pitchbook-technology-outlook-trilogy-2025]]
 - [[pitchbook-commercial-space-launch-and-defense-tech]]
 - [[pitchbook-healthtech-ambient-ai-scribes-and-healthcare-pe]]

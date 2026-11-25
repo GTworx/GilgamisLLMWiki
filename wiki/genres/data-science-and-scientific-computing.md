@@ -14,6 +14,13 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[iguanodontian-dinosaur-neural-spine-elongation-and-display-structures]] (2025) — [[vertebrate-paleontology-consortium]], [[jeremy-a-f-lockwood]]
+- [[turkish-population-genomics-and-anatolian-ancestral-admixture]] (2021) — [[turkish-population-genomics-consortium]], [[sukru-tuzmen]], [[necat-yilmaz]]
+- [[bak-sneppen-model-punctuated-equilibrium-and-criticality-in-evolution]] (1994) — [[per-bak]], [[kim-sneppen]]
+- [[sensory-food-science-triangle-testing-methodology]] (2019) — [[food-sensory-science-group]], [[per-b-brockhoff]]
+- [[indoor-photovoltaics-triple-passivation-efficiency-breakthrough]] (2025) — [[advanced-photovoltaics-research-group]]
+- [[daytime-radiative-cooling-metamaterials-and-passive-thermal-management]] (2017) — [[yao-zhai]], [[yaohua-ma]], [[ronggui-yang]], [[xiaobo-yin]]
+- [[gencer-mit-sustainable-energy-systems-and-grid-emissions-series]] (2020) — [[emre-gencer]], [[mit-energy-initiative]]
 - [[applied-physics-physical-warp-drives-and-anti-gravity-mechanics]] (2022) — [[applied-physics-think-tank]], [[gianni-martire]], [[alexey-bobrick]]
 - [[autonomous-vehicles-challenges-opportunities-and-future]] (2016) — [[transportation-and-autonomous-systems-consortium]], [[daniel-j-fagnant]]
 - [[snake-robot-kinematics-and-hyper-redundant-locomotion]] (2015) — [[bio-inspired-robotics-consortium]], [[pal-liljeback]]

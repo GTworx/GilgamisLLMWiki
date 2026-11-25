@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 ---
 
 ## Books in Wiki
+- [[iot-and-smart-agriculture-in-the-asia-pacific-region]] (2021) — [[asia-pacific-agricultural-consortium]], [[telecom-and-iot-research-group]]
 - [[kpmg-global-tech-report-enterprise-transformation]] (2023) — [[kpmg-international-research]]
 - [[future-internet-and-artificial-intelligence-architecture]] (2018) — [[future-internet-research-group]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]

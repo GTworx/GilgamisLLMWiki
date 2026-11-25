@@ -144,3 +144,23 @@
 - [[karman-project-space-leadership-and-orbital-cooperation]]
 
 - [[applied-physics-physical-warp-drives-and-anti-gravity-mechanics]]
+
+- [[navigant-energy-cloud-transformation-and-utility-disruption]]
+
+- [[indoor-photovoltaics-triple-passivation-efficiency-breakthrough]]
+
+- [[iot-and-smart-agriculture-in-the-asia-pacific-region]]
+
+- [[sensory-food-science-triangle-testing-methodology]]
+
+- [[cultural-history-and-culinary-evolution-of-american-and-global-fast-food]]
+
+- [[george-orwell-jura-and-the-sociology-of-scottish-distilling]]
+
+- [[arbib-monkey-mirror-neurons-to-human-language-neurolinguistics]]
+
+- [[paranthropus-boisei-hand-fossils-and-early-hominin-dexterity]]
+
+- [[iguanodontian-dinosaur-neural-spine-elongation-and-display-structures]]
+
+- [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]]

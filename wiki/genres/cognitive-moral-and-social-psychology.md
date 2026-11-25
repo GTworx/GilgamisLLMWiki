@@ -14,6 +14,11 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[evolutionary-anthropology-of-cooking-meat-and-fetal-life-definitions]] (2024) — [[richard-wrangham]], [[bioethics-and-evolutionary-anthropology-consortium]]
+- [[evolutionary-biology-of-human-kissing-and-social-bonding]] (2025) — [[comparative-ethology-and-evolution-group]], [[matilda-brindle]]
+- [[paranthropus-boisei-hand-fossils-and-early-hominin-dexterity]] (2025) — [[paleoanthropology-and-hominin-origins-group]], [[carolin-feuerriegel]]
+- [[arbib-monkey-mirror-neurons-to-human-language-neurolinguistics]] (2005) — [[michael-a-arbib]]
+- [[cultural-history-and-culinary-evolution-of-american-and-global-fast-food]] (2023) — [[culinary-history-consortium]], [[john-t-edge]]
 - [[philosophy-and-ethics-of-autonomous-vehicles-and-the-right-to-drive]] (2022) — [[alexander-hevelke]], [[julian-nida-rumelin]], [[johannes-himmelreich]]
 - [[human-supervisory-control-of-heterogeneous-robot-swarms]] (2024) — [[swarm-robotics-and-hsi-consortium]], [[michael-a-goodrich]]
 - [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]] (1270) — [[ibn-al-nafis]]
