@@ -83,3 +83,4 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 - [[rationality-and-decision-making]]
 - [[metaphysics-of-quality-and-global-ethics]]
 - [[institutional-neutrality-and-academic-freedom]]
+- [[metaverse-in-education-taxonomic-definition-and-pedagogy]]

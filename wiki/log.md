@@ -1658,3 +1658,99 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (2,166 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+## 2026-11-25 - Ingestion Wave AR-11: Spatial Web, Metaverse Architecture, Web3, Esports & Digital Culture
+
+- **Source Folders Processed**:
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/` (70 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Blockchain/` (19 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/eSports/` (7 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/SportsTech/` (5 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Music/` (4 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Art/` (3 files)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Movies/` (1 file)
+  - `_GilgameshLibrary/ARTICLES-REPORTS/Fashion/` (1 file)
+- **Total Physical Files Ingested**: 110 files across 8 cultural, technological, and economic domains (100% accounted for).
+- **Canonical Works Synthesized (68 works, Works 803–870)**:
+  - **Metaverse Architecture, Avatar Psychology & Immersive Ethics (40 works, 70 files)**:
+    - [[bourke-networked-immersive-environments-and-early-metaverse-architecture]] ([[paul-bourke]], 2003, 11 pp. / 2 files).
+    - [[messinger-3d-social-virtual-worlds-research-agenda]] ([[paul-r-messinger]], [[eleni-stroulia]], [[kelly-lyons]], 2009, DSS, 2 files).
+    - [[leenes-privacy-regulation-and-identity-protection-in-the-metaverse]] ([[ronald-e-leenes]], [[tilburg-institute-for-law-and-technology]], 2008-2009, 4 files compendium).
+    - [[yee-bailenson-proteus-effect-and-avatar-psychology]] ([[nick-yee]], [[jeremy-n-bailenson]], [[nicolas-ducheneaut]], 2009, Comms Research, 2 files).
+    - [[chesney-griefing-deviance-and-crime-in-second-life]] ([[thomas-chesney]], [[shaun-lawson]], 2009, Info Systems Journal, 2 files).
+    - [[dangers-behind-technological-progress-in-virtual-realities]] ([[spatial-media-and-cyber-ethics-group]], 2012, 2 files).
+    - [[metaverse-museum-exhibitions-and-iot-deployment-architecture]] ([[cultural-informatics-and-museum-tech-group]], 2016, 2 files).
+    - [[virtue-ethics-and-human-computer-interaction-design]] ([[acm-sigchi-ethics-consortium]], 2017, ACM CHI, 2 files).
+    - [[pluriverse-and-a-world-of-many-worlds-decolonial-ontologies]] ([[marisol-de-la-cadena]], [[mario-blaser]], [[charlotte-higgins]], 2018/2020, 3 files dossier).
+    - [[the-social-metaverse-battle-for-privacy-and-surveillance]] ([[cyber-privacy-and-surveillance-group]], 2018, 2 files).
+    - [[philosophy-of-human-computer-interaction-postphenomenology]] ([[christian-su]], [[victor-kaptelinin]], [[jeffrey-bardzell]], [[shaowen-bardzell]], [[jed-brubaker]], 2019, ACM CHI).
+    - [[social-media-quo-vadis-algorithmic-society-and-metaverse-transition]] ([[digital-media-futures-consortium]], 2020, 2 files).
+    - [[heller-watching-androids-dream-of-electric-sheep-biometric-xr-law]] ([[brittan-heller]], 2020, Vanderbilt J. Ent. & Tech. Law, 52 pp. / 2 files).
+    - [[slater-sanchez-vives-ethics-of-realism-in-virtual-and-augmented-reality]] ([[mel-slater]], [[maria-v-sanchez-vives]], 2020, Frontiers in VR, 2 files).
+    - [[facebook-meta-rebrand-and-corporate-metaverse-enclosure]] ([[tech-monopoly-and-platform-governance-consortium]], 2021, 2 files).
+    - [[christopoulos-ethical-framework-for-augmented-reality-in-education]] ([[athanasios-christopoulos]], [[marcell-szabo]], 2021, Computers, 2 files).
+    - [[reed-smith-metaverse-entertainment-and-intellectual-property-guide]] ([[reed-smith-llp-media-and-technology-practice]], 2021, 2 files).
+    - [[all-one-needs-to-know-about-metaverse-technological-foundations]] ([[lik-hang-lee]], [[tristan-braud]], [[pan-hui]], 2021, IEEE, 2 files).
+    - [[metaverse-security-and-privacy-threat-vectors-and-defenses]] ([[information-security-and-cryptography-group]], 2021, 2 files).
+    - [[metaverse-in-education-taxonomic-definition-and-pedagogy]] ([[educational-informatics-and-mdpi-encyclopedia-group]], 2022, Encyclopedia, 2 files).
+    - [[scientific-landscape-of-embodied-experience-in-virtual-environments]] ([[ji-hyun-lee]], [[sung-ah-park]], 2022, Buildings, 2 files).
+    - [[impact-of-metaverse-on-digital-future-public-perceptions]] ([[computational-social-science-and-surveys-group]], 2022, 2 files).
+    - [[a-metaverse-taxonomy-components-applications-and-challenges]] ([[ieee-access-metaverse-research-team]], 2022, IEEE Access, 43 pp. / 2 files).
+    - [[kshetri-policy-ethical-social-environmental-considerations-web3-metaverse]] ([[nir-kshetri]], 2022, IEEE IT Professional).
+    - [[security-and-privacy-with-3d-reconstructed-human-avatars]] ([[icest-biometric-vision-consortium]], 2022, ICEST, 2 files).
+    - [[xr-metaverse-governance-ieee-global-initiative-report]] ([[ieee-global-initiative-on-ethics-of-extended-reality]], 2022, IEEE SA, 31 pp. / 2 files).
+    - [[french-white-paper-responsible-immersive-technologies]] ([[french-responsible-immersive-technologies-consortium]], 2023, French National White Paper, 96 pp.).
+    - [[interpol-metaverse-white-paper-law-enforcement-perspective]] ([[interpol-innovation-centre]], 2024, INTERPOL, 28 pp.).
+    - [[3d-virtual-worlds-and-metaverse-historical-evolution-and-future]] ([[electrical-engineering-and-computer-science-monograph-group]], 2013, 39 pp.).
+    - [[chin-stine-morrow-age-differences-in-information-foraging]] ([[jessie-chin]], [[brennan-r-payne]], [[elizabeth-a-l-stine-morrow]], 2015).
+    - [[bcc-research-global-metaverse-market-size-and-forecast-2027]] ([[bcc-publishing-staff]], 2023, BCC Research, 282 pp.).
+    - [[cb-insights-big-tech-in-metaverse-meta-qualcomm-microsoft]] ([[cb-insights-research]], 2022, 60 pp.).
+    - [[damar-bibliometric-snapshot-of-metaverse-literature-and-historical-ngram]] ([[muhammet-damar]], 2021, J. Metaverse, 3 files dossier).
+    - [[dwivedi-metaverse-beyond-the-hype-multidisciplinary-perspectives]] ([[yogesh-k-dwivedi]], [[nir-kshetri]], [[international-information-management-consortium]], 2022, IJIM, 55 pp.).
+    - [[gartner-maverick-research-metaverse-for-smart-cities]] ([[gartner-research]], 2022, 13 pp.).
+    - [[rosenblat-reality-check-human-rights-in-immersive-web]] ([[mariana-olaizola-rosenblat]], 2023, NYU Stern CBHR, 28 pp.).
+    - [[pew-research-metaverse-in-2040-hype-hope-or-hell]] ([[janna-anderson]], [[lee-rainie]], [[pew-research-center]], 2022, 204 pp.).
+    - [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]] ([[huseyin-serpil]], [[levent-karaca]], 2023, J. Metaverse).
+    - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]] ([[penal-ethics-and-carceral-studies-group]], 2023, 2-version monograph).
+    - [[yemenici-entrepreneurship-in-metaverse-virtual-or-real]] ([[adnan-deniz-yemenici]], 2022, J. Metaverse).
+  - **Blockchain, Distributed Ledgers & Cryptographic Governance (12 works, 19 files)**:
+    - [[holland-stjepandic-blockchain-in-additive-manufacturing-and-3d-printing-ip]] ([[martin-holland]], [[josip-stjepandic]], [[3d-token-consortium]], 2018, 4 files dossier, 56 pp.).
+    - [[blockchain-emerging-tech-roundtable-and-strategic-architecture]] ([[blockchain-executive-strategy-group]], 2016, 3 files dossier).
+    - [[cb-insights-blockchain-disrupting-healthcare-clinical-trials]] ([[cb-insights-research]], 2019, 27 pp.).
+    - [[deloitte-global-blockchain-survey-gets-down-to-business]] ([[deloitte-insights-blockchain-team]], 2019, 52 pp.).
+    - [[shin-forbes-investors-guide-to-bitcoin-and-crypto-assets]] ([[laura-shin]], 2017, Forbes, 7 pp.).
+    - [[gartner-enterprise-blockchain-potential-cool-vendors-toolkit]] ([[gartner-research]], 2017, 3 files dossier).
+    - [[beckmann-ge-global-research-blockchain-industrial-architecture]] ([[ben-beckmann]], [[ge-global-research]], 2017, 9 pp.).
+    - [[hyperledger-cross-industry-distributed-ledger-frameworks]] ([[linux-foundation-hyperledger-consortium]], 2018, 33 pp.).
+    - [[patent-eligibility-of-blockchain-and-emerging-technologies-post-alice]] ([[seton-hall-law-review-group]], 2019, 29 pp.).
+    - [[pwc-global-crypto-regulation-report-jurisdictions-and-stablecoins]] ([[pwc-global-legal-and-tax-network]], 2023, 69 pp.).
+    - [[sassine-blockchain-applications-in-energy-sector-microgrids]] ([[georges-sassine]], 2017, 47 pp.).
+    - [[decentralized-identity-verification-cryptographic-patent]] ([[cryptographic-intellectual-property-inventors]], 2018, US Patent Specification, 52 pp.).
+  - **Esports Economics, Gaming Ecosystems & SportsTech (7 works, 12 files)**:
+    - [[drake-star-global-gaming-industry-ma-and-investment-report]] ([[michael-metzger]], [[drake-star-partners]], 2024, 24 pp.).
+    - [[turkiye-game-market-longitudinal-reports-2023-2025]] ([[gaming-in-turkey-agency]], [[ozan-aydemir]], 2023-2025, 2-volume census, 715 pp.).
+    - [[global-esports-investment-and-media-rights-compendium]] ([[stephens-inc-research]], [[haywood-securities]], [[omdia-ovum-research]], 2019-2020, 4 files compendium, 87 pp.).
+    - [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]] ([[istanbul-gelisim-universitesi-besyo-faculty]], 2021, 104 pp.).
+    - [[international-olympic-committee-olympic-charter-and-governance]] ([[international-olympic-committee]], 2023, 113 pp.).
+    - [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]] ([[snb-capital-equity-research]], 2024, 17 pp.).
+    - [[global-sportstech-investment-ai-officiating-analytics]] ([[drake-star-partners]], [[sports-analytics-and-ai-consortium]], 2023, 2 files dossier, 25 pp.).
+  - **Music, Visual Arts, Film Economics & Luxury Culture (9 works, 9 files)**:
+    - [[akpolat-istanbul-concert-and-live-music-industry-post-pandemic]] ([[baris-akpolat]], [[kapsul-bulten]], 2024, 8 pp.).
+    - [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]] ([[media-geopolitics-and-cultural-studies-group]], 2024).
+    - [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]] ([[mehmet-ali-sanlikol]], 2018, 5 pp.).
+    - [[financial-times-private-equity-billion-dollar-music-catalogs]] ([[anna-nicolaou]], [[eric-platt]], [[financial-times-investigative-team]], 2023).
+    - [[dincer-temporal-poetics-ziya-osman-saba-gecen-zaman]] ([[ozlem-dincer]], 2022, 14 pp.).
+    - [[henry-butcher-southeast-asian-art-market-catalog]] ([[henry-butcher-art-auctioneers]], 2025, 284 pp.).
+    - [[art-historical-connoisseurship-and-technical-authentication-guide]] ([[fine-art-connoisseurship-and-forensics-group]], 2024).
+    - [[global-film-production-economics-and-studio-tax-incentives]] ([[film-economics-and-entertainment-finance-group]], 2024).
+    - [[highsnobiety-bcg-luxury-3-culture-creators-and-fashion]] ([[highsnobiety-editorial-team]], [[boston-consulting-group-luxury-practice]], 2023, 63 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +68 canonical entries (total: 870).
+  - **Authors**: +106 author profiles created, 3 updated (total: 1,228).
+  - **Genres**: +2 new genres ([[sports-science-athletic-training-and-mega-event-governance]], [[visual-arts-and-curatorial-studies]]) created; 22 existing genres updated (total: 110).
+  - **Themes**: +3 new themes ([[virtual-worlds-avatar-psychology-and-spatial-web-governance]], [[esports-video-game-market-dynamics-and-interactive-media]], [[luxury-fashion-cultural-capital-and-creative-industries]]) created; 17 existing themes updated (total: 137).
+  - **Total Wiki Pages**: **2,345 entity pages** (2,347 total markdown documents).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (2,345 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

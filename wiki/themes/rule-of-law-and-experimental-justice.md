@@ -70,3 +70,6 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 - [[international-law-of-economic-sanctions-and-un-convention-against-torture]]
 
 - [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]]
+- [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
+- [[patent-eligibility-of-blockchain-and-emerging-technologies-post-alice]]
+- [[international-olympic-committee-olympic-charter-and-governance]]

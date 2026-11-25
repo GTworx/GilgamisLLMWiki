@@ -25,3 +25,6 @@ In the Gilgamis LLM Wiki, this genre is anchored by [[jacques-attali]]'s [[noise
 - [[music-as-prophecy-and-political-economy]]
 - [[critique-of-academic-orthodoxy]]
 - [[social-critique-and-moral-conscience]]
+- [[akpolat-istanbul-concert-and-live-music-industry-post-pandemic]]
+- [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]
+- [[dincer-temporal-poetics-ziya-osman-saba-gecen-zaman]]

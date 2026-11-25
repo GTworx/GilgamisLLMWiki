@@ -170,3 +170,11 @@ In the wiki, political science provides the analytical framework for institution
 
 - **Related Genres**: [[international-relations]], [[game-theory]], [[strategic-studies]], [[social-choice-theory]], [[algebraic-topology]]
 - **Key Themes**: [[cooperation-and-reciprocity]], [[rationality-and-decision-making]], [[shadow-of-the-future]], [[topological-social-choice-and-preference-cycles]]
+- [[chesney-griefing-deviance-and-crime-in-second-life]]
+- [[social-media-quo-vadis-algorithmic-society-and-metaverse-transition]]
+- [[facebook-meta-rebrand-and-corporate-metaverse-enclosure]]
+- [[impact-of-metaverse-on-digital-future-public-perceptions]]
+- [[kshetri-policy-ethical-social-environmental-considerations-web3-metaverse]]
+- [[french-white-paper-responsible-immersive-technologies]]
+- [[dwivedi-metaverse-beyond-the-hype-multidisciplinary-perspectives]]
+- [[pew-research-metaverse-in-2040-hype-hope-or-hell]]

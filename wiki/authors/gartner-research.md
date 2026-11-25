@@ -38,3 +38,5 @@ Gartner is the world's leading research and advisory company, providing executiv
 - [[navigant-energy-cloud-transformation-and-utility-disruption]]
 - [[nsf-future-of-manufacturing-and-manufacturing-execution-systems]]
 - [[gartner-augmented-reality-wearables-and-hmi-compendium]]
+- [[gartner-maverick-research-metaverse-for-smart-cities]]
+- [[gartner-enterprise-blockchain-potential-cool-vendors-toolkit]]

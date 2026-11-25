@@ -34,3 +34,7 @@ Transnational organized crime operates as an illicit parallel state capitalizing
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-10 Ingestion).*
+- [[chesney-griefing-deviance-and-crime-in-second-life]]
+- [[interpol-metaverse-white-paper-law-enforcement-perspective]]
+- [[pwc-global-crypto-regulation-report-jurisdictions-and-stablecoins]]
+- [[art-historical-connoisseurship-and-technical-authentication-guide]]

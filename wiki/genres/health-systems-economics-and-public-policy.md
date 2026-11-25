@@ -80,3 +80,5 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+- [[cb-insights-blockchain-disrupting-healthcare-clinical-trials]]
+- [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]]

@@ -104,3 +104,6 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 - [[attention-economy-and-cultural-analytics]]
 - [[technological-containment-and-omni-use-proliferation]]
 - [[human-centered-ai-and-augmented-leadership]]
+- [[yee-bailenson-proteus-effect-and-avatar-psychology]]
+- [[scientific-landscape-of-embodied-experience-in-virtual-environments]]
+- [[chin-stine-morrow-age-differences-in-information-foraging]]

@@ -54,3 +54,6 @@ As modern conflict accelerates through algorithmic command-and-control, precisio
 - [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]]
 
 - [[uk-dcdc-character-of-future-war-to-2030]]
+- [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]]
+- [[international-olympic-committee-olympic-charter-and-governance]]
+- [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]

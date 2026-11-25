@@ -59,3 +59,7 @@ Coined by political theorist [[john-keane]] in [[the-life-and-death-of-democracy
 - [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]]
 
 - [[science-diplomacy-and-soft-power-statecraft-in-global-governance]]
+- [[facebook-meta-rebrand-and-corporate-metaverse-enclosure]]
+- [[rosenblat-reality-check-human-rights-in-immersive-web]]
+- [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]
+- [[akpolat-istanbul-concert-and-live-music-industry-post-pandemic]]

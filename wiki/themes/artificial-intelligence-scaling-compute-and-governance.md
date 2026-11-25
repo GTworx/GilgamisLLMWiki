@@ -46,3 +46,4 @@ Frontier AI development has transformed from software engineering into an indust
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+- [[global-sportstech-investment-ai-officiating-analytics]]

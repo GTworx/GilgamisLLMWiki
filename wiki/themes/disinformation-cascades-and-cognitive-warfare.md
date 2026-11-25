@@ -39,3 +39,6 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]]
 
 - [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]]
+- [[social-media-quo-vadis-algorithmic-society-and-metaverse-transition]]
+- [[impact-of-metaverse-on-digital-future-public-perceptions]]
+- [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]

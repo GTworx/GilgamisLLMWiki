@@ -46,3 +46,4 @@ For over two centuries, Western political historiography treated fifth-century B
 - [[ancient-mesopotamian-and-primitive-democracy-origins]]
 
 - [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]]
+- [[pluriverse-and-a-world-of-many-worlds-decolonial-ontologies]]

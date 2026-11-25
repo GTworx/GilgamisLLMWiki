@@ -44,3 +44,7 @@ True decarbonization requires matching clean energy generation with consumption 
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+- [[kshetri-policy-ethical-social-environmental-considerations-web3-metaverse]]
+- [[french-white-paper-responsible-immersive-technologies]]
+- [[gartner-maverick-research-metaverse-for-smart-cities]]
+- [[sassine-blockchain-applications-in-energy-sector-microgrids]]

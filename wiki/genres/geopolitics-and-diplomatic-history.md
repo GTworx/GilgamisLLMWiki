@@ -136,3 +136,5 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 - [[tyranny-of-the-majority-and-civil-associations]]
 - [[institutional-neutrality-and-academic-freedom]]
 - [[rationality-and-decision-making]]
+- [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]
+- [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]

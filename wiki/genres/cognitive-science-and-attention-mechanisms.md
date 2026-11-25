@@ -55,3 +55,6 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 - [[cognitive-moral-and-social-psychology]]
 - [[data-science-and-scientific-computing]]
 - [[evolutionary-psychology-and-behavioral-ecology]]
+- [[christopoulos-ethical-framework-for-augmented-reality-in-education]]
+- [[chin-stine-morrow-age-differences-in-information-foraging]]
+- [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]

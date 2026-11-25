@@ -59,3 +59,5 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 - [[human-centered-ai-and-augmented-leadership]]
 - [[archaeology-and-national-identity]]
 - [[asik-and-minstrel-tradition]]
+- [[pluriverse-and-a-world-of-many-worlds-decolonial-ontologies]]
+- [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]

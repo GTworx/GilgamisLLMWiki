@@ -30,3 +30,20 @@ By anchoring contextually relevant digital intelligence directly onto physical e
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+- [[bourke-networked-immersive-environments-and-early-metaverse-architecture]]
+- [[messinger-3d-social-virtual-worlds-research-agenda]]
+- [[yee-bailenson-proteus-effect-and-avatar-psychology]]
+- [[metaverse-museum-exhibitions-and-iot-deployment-architecture]]
+- [[virtue-ethics-and-human-computer-interaction-design]]
+- [[philosophy-of-human-computer-interaction-postphenomenology]]
+- [[slater-sanchez-vives-ethics-of-realism-in-virtual-and-augmented-reality]]
+- [[christopoulos-ethical-framework-for-augmented-reality-in-education]]
+- [[all-one-needs-to-know-about-metaverse-technological-foundations]]
+- [[metaverse-in-education-taxonomic-definition-and-pedagogy]]
+- [[scientific-landscape-of-embodied-experience-in-virtual-environments]]
+- [[a-metaverse-taxonomy-components-applications-and-challenges]]
+- [[xr-metaverse-governance-ieee-global-initiative-report]]
+- [[3d-virtual-worlds-and-metaverse-historical-evolution-and-future]]
+- [[chin-stine-morrow-age-differences-in-information-foraging]]
+- [[cb-insights-big-tech-in-metaverse-meta-qualcomm-microsoft]]
+- [[global-sportstech-investment-ai-officiating-analytics]]

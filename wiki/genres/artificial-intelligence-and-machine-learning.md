@@ -88,3 +88,4 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 - [[human-centered-ai-and-augmented-leadership]]
 - [[agi-trajectories-and-superalignment]]
 - [[adaptive-intelligence-and-organizational-resilience]]
+- [[global-sportstech-investment-ai-officiating-analytics]]

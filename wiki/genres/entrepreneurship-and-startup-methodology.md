@@ -130,3 +130,5 @@ In this wiki, the genre anchors the complete Silicon Valley intellectual arc: [[
 - [[recurring-revenue-customer-success-and-retention-mechanics]]
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[cooperation-and-reciprocity]]
+- [[yemenici-entrepreneurship-in-metaverse-virtual-or-real]]
+- [[turkiye-game-market-longitudinal-reports-2023-2025]]

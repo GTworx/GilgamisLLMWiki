@@ -25,3 +25,5 @@ Disciplines analyzing valuation methodologies, capital structure optimization, l
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
 - [[bocconi-private-equity-and-venture-capital-course]]
 - [[the-impact-of-private-equity-academic-survey]]
+- [[financial-times-private-equity-billion-dollar-music-catalogs]]
+- [[global-film-production-economics-and-studio-tax-incentives]]

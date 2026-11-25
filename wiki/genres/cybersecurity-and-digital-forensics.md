@@ -60,3 +60,7 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[rationality-and-decision-making]]
 - [[human-centered-ai-and-augmented-leadership]]
+- [[metaverse-security-and-privacy-threat-vectors-and-defenses]]
+- [[security-and-privacy-with-3d-reconstructed-human-avatars]]
+- [[interpol-metaverse-white-paper-law-enforcement-perspective]]
+- [[decentralized-identity-verification-cryptographic-patent]]

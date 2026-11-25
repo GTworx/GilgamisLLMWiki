@@ -47,3 +47,4 @@ Focuses on corporate decarbonization strategies, ESG disclosure standards, green
 - [[corporate-strategy-and-management-classics]]
 - [[saas-business-models-and-cloud-economics]]
 - [[disaster-risk-reduction-and-emergency-management]]
+- [[kshetri-policy-ethical-social-environmental-considerations-web3-metaverse]]

@@ -75,3 +75,5 @@ Decarbonizing energy is the primary physical prerequisite for stabilizing planet
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+- [[gartner-maverick-research-metaverse-for-smart-cities]]
+- [[sassine-blockchain-applications-in-energy-sector-microgrids]]

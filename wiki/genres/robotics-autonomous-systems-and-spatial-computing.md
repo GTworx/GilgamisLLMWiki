@@ -57,3 +57,23 @@ The convergence of embodied foundation models, high-torque actuators, and spatia
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+- [[bourke-networked-immersive-environments-and-early-metaverse-architecture]]
+- [[messinger-3d-social-virtual-worlds-research-agenda]]
+- [[leenes-privacy-regulation-and-identity-protection-in-the-metaverse]]
+- [[yee-bailenson-proteus-effect-and-avatar-psychology]]
+- [[dangers-behind-technological-progress-in-virtual-realities]]
+- [[metaverse-museum-exhibitions-and-iot-deployment-architecture]]
+- [[the-social-metaverse-battle-for-privacy-and-surveillance]]
+- [[heller-watching-androids-dream-of-electric-sheep-biometric-xr-law]]
+- [[slater-sanchez-vives-ethics-of-realism-in-virtual-and-augmented-reality]]
+- [[christopoulos-ethical-framework-for-augmented-reality-in-education]]
+- [[all-one-needs-to-know-about-metaverse-technological-foundations]]
+- [[metaverse-security-and-privacy-threat-vectors-and-defenses]]
+- [[metaverse-in-education-taxonomic-definition-and-pedagogy]]
+- [[scientific-landscape-of-embodied-experience-in-virtual-environments]]
+- [[a-metaverse-taxonomy-components-applications-and-challenges]]
+- [[security-and-privacy-with-3d-reconstructed-human-avatars]]
+- [[xr-metaverse-governance-ieee-global-initiative-report]]
+- [[3d-virtual-worlds-and-metaverse-historical-evolution-and-future]]
+- [[cb-insights-big-tech-in-metaverse-meta-qualcomm-microsoft]]
+- [[damar-bibliometric-snapshot-of-metaverse-literature-and-historical-ngram]]

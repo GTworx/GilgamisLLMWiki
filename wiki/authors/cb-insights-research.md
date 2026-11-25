@@ -31,3 +31,5 @@ In [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018), CB Insights
 - [[cloud-computing-and-distributed-systems]]
 - [[biologics-cell-and-gene-therapies-and-healthcare-disruption]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+- [[cb-insights-big-tech-in-metaverse-meta-qualcomm-microsoft]]
+- [[cb-insights-blockchain-disrupting-healthcare-clinical-trials]]

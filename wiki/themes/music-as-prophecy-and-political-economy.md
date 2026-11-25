@@ -28,3 +28,7 @@ Across the wiki, Attali's four networks—*Sacrificing*, *Representing*, *Repeat
 - [[philosophy-and-poetics-of-music]]
 - [[political-science]]
 - [[social-choice-theory]]
+- [[akpolat-istanbul-concert-and-live-music-industry-post-pandemic]]
+- [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]
+- [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]
+- [[financial-times-private-equity-billion-dollar-music-catalogs]]

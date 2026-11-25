@@ -57,3 +57,4 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 - [[critique-of-academic-orthodoxy]]
 - [[social-critique-and-moral-conscience]]
 - [[fanaticism-and-human-sacrifice]]
+- [[dincer-temporal-poetics-ziya-osman-saba-gecen-zaman]]

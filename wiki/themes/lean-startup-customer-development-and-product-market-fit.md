@@ -55,3 +55,6 @@ Originating in [[geoffrey-a-moore]]'s [[crossing-the-chasm]] and codified exhaus
 - [[innovation-and-economic-growth]]
 - [[biography-memoir-and-intellectual-history]]
 - [[leadership-and-management]]
+- [[yemenici-entrepreneurship-in-metaverse-virtual-or-real]]
+- [[shin-forbes-investors-guide-to-bitcoin-and-crypto-assets]]
+- [[turkiye-game-market-longitudinal-reports-2023-2025]]

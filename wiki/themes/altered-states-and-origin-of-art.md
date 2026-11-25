@@ -26,3 +26,8 @@ In *Supernatural*, Graham Hancock explores the "Great Leap Forward" of the Upper
 - [[anthropology-of-consciousness]]
 - [[evolution-of-human-consciousness]]
 - [[historical-fiction]]
+- [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]
+- [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]
+- [[dincer-temporal-poetics-ziya-osman-saba-gecen-zaman]]
+- [[henry-butcher-southeast-asian-art-market-catalog]]
+- [[art-historical-connoisseurship-and-technical-authentication-guide]]
