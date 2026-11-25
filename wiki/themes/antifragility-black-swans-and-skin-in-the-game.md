@@ -36,3 +36,6 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 - [[stoic-philosophy-and-practical-ethics]]
 - [[financial-history-banking-and-market-psychology]]
 - [[personal-finance-investing-and-capital-markets]]
+- [[ord-the-lindy-effect-longevity-and-survivorship]]
+- [[new-scientist-international-12-march-2022-compendium]]
+- [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]

@@ -81,3 +81,6 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
 - [[rationality-and-decision-making]]
+- [[purvis-telling-fatty-acids-hydrothermal-vents-origin-of-life]]
+- [[science-in-2050-future-breakthroughs-shaping-our-world]]
+- [[new-scientist-international-12-march-2022-compendium]]

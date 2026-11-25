@@ -37,3 +37,8 @@
 - [[ethics-and-value-philosophy]]
 - [[world-classics-and-comparative-literature]]
 - [[educational-technology-and-disruptive-pedagogy]]
+- [[bloom-the-2-sigma-problem-group-instruction-tutoring]]
+- [[tegv-2024-entegre-faaliyet-raporu]]
+- [[aydemir-wef-future-of-work-and-skills-architecture]]
+- [[cb-insights-12-tech-trends-to-watch-in-2022]]
+- [[oesterheld-demski-conitzer-open-source-game-theory]]

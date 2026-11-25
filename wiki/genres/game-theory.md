@@ -69,3 +69,5 @@ In this wiki, game theory serves as a fundamental analytical bridge connecting m
 
 - **Related Genres**: [[strategic-studies]], [[political-science]], [[evolutionary-biology]], [[security-studies]], [[social-choice-theory]], [[algebraic-topology]]
 - **Key Themes**: [[cooperation-and-reciprocity]], [[shadow-of-the-future]], [[evolution-of-strategies]], [[rationality-and-decision-making]], [[topological-social-choice-and-preference-cycles]]
+- [[oesterheld-demski-conitzer-open-source-game-theory]]
+- [[ferguson-optimal-stopping-and-finite-horizon-problems]]

@@ -71,3 +71,6 @@ Connects Daniel Kahneman's dual-system architecture (*Thinking, Fast and Slow*) 
 - [[vervaeke-meaning-in-life-and-awakening-from-meaning-crisis]]
 - [[quantum-mindfulness-consciousness-and-orch-or]]
 - [[ghazalian-epistemology-islamic-spiritual-psychology-and-maslow]]
+- [[aydemir-wef-future-of-work-and-skills-architecture]]
+- [[introduction-to-pseudocode-and-algorithmic-thinking]]
+- [[knill-multivariable-calculus-partial-derivatives-harvard]]

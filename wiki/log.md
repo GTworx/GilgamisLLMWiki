@@ -1837,3 +1837,19 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (2,487 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+## [2026-11-25] - Wave AR-13: Hard Sciences, Quantitative Foundations, Educational Systems & Game Theory
+- **Source Folders Ingested**: `Education` (16 files), `Math Physics_` (9 files), `Science` (9 files), `Game Theory & Probability_` (6 files).
+- **Physical Files Accounted For**: 40 physical files synthesized into 36 canonical works (Works 923–958).
+  *(Note: `Psychology_` [40 files] and `Neuroscience_` [12 files] were already fully ingested in Wave AR-6A / Category S [Works 601–666]).*
+- **Entities Created**:
+  - **Books**: 36 new works (`wiki/books/`, Works 923–958; Total books: 958).
+  - **Authors**: 58 new author profiles created (`wiki/authors/`), 3 updated (Total authors: 1,376).
+  - **Genres**: 1 new genre (`higher-education-policy-and-academic-governance`), 7 existing updated (Total genres: 111).
+  - **Themes**: 2 new themes (`computational-complexity-and-algorithmic-limits`, `scientific-methodology-falsification-and-metascience`), 10 existing updated (Total themes: 139).
+- **Key Milestones**:
+  - Educational systems and pedagogy: Bloom's 2-Sigma Problem, TEGV 2024 Integrated Report, Akcigit & Özcan-Tok Turkish Science Report 2020, Kalven Report on Institutional Neutrality, Village Institutes (Köy Enstitüleri), Bush Institute US University Innovation Impact Report, YKS student existential analysis.
+  - Quantitative and computational foundations: Karp's 21 NP-complete problems, breaking the sorting barrier for Directed SSSP (Duan-Mao 2025), Haruhi shortest superpattern bound proof, Octonions and Standard Model particle physics, Knill's Harvard multivariable calculus, Schwartz's paper Möbius band Halpern-Weaver proof, Steinhardt's Cyclic Universe.
+  - Metascience and prebiotic chemistry: Platt's Strong Inference (1964) & Kinraide-Denison (2020), Purvis-Telling hydrothermal vent fatty acid origin-of-life proof (Nature 2024), Behavioral economics fraud unmasking (Data Colada / Atlantic), The Pivot Penalty in research (Nature 2025), Yablonovitch gigaton agricultural carbon burial.
+  - Game theory and probability: Open-source game theory & program equilibrium (Oesterheld-Demski-Conitzer), Ferguson's Optimal Stopping and Secretary Problem 37% rule, Ord's mathematical formalization of the Lindy Effect.
+- **Verification**: `ollama_agent.py audit` reports 0 broken links, 0 orphans, 0 unindexed pages across 2,584 entity pages.

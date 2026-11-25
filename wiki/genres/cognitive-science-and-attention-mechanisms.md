@@ -60,3 +60,5 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 - [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]
 - [[logic-of-turkish-and-agglutinative-syntax]]
 - [[vervaeke-meaning-in-life-and-awakening-from-meaning-crisis]]
+- [[clynes-how-to-raise-a-genius-smpv]]
+- [[platt-strong-inference-methods-of-scientific-thinking]]

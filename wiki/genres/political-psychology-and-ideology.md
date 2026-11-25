@@ -36,3 +36,5 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 - [[intelligence-oversight-foreign-lobbying-and-executive-statecraft]]
 - [[constrained-vs-unconstrained-visions-and-postcolonial-identity]]
 - [[rationality-and-decision-making]]
+- [[kalven-report-university-role-political-social-action]]
+- [[kurt-yuksekogretimin-yonetiminde-mutevelli-heyetleri]]

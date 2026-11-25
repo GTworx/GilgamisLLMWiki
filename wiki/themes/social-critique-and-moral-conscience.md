@@ -77,3 +77,8 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 
 - **Related Themes**: [[universal-love-and-human-dignity]], [[asik-and-minstrel-tradition]], [[rationality-and-decision-making]], [[non-western-strategic-thought]]
 - **Related Genres**: [[turkish-folk-literature]], [[anatolian-humanism]], [[political-science]], [[security-studies]]
+- [[tegv-2024-entegre-faaliyet-raporu]]
+- [[yildiz-tozlu-koy-enstitulerinin-ideolojik-yapisi]]
+- [[karadag-yucel-turkiye-universite-memnuniyet-arastirmasi-tuma-2023]]
+- [[yuksel-yks-higher-education-institutions-exam-meaning]]
+- [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]

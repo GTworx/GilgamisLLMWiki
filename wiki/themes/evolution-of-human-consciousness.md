@@ -53,3 +53,5 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 - [[anthropology-of-consciousness]]
 - [[organizational-psychology]]
 - [[evolutionary-biology]]
+- [[kleist-on-the-marionette-theatre]]
+- [[parallelism-quantum-classical-physics-and-biological-evolution]]

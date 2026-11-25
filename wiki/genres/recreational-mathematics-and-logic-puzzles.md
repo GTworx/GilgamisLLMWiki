@@ -41,3 +41,6 @@ This genre brings together golden-age and historical anthologies—[[henry-ernes
 - [[probabilistic-inference-and-uncertainty-quantification]]
 - [[student-centric-and-blended-learning]]
 - [[rationality-and-decision-making]]
+- [[houston-pantone-shortest-superpattern-haruhi-problem]]
+- [[schwartz-the-optimal-paper-moebius-band]]
+- [[ferguson-who-solved-the-secretary-problem]]

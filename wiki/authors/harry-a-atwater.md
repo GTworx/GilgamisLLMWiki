@@ -23,3 +23,6 @@ Harry A Atwater is an authoritative contributor to peer-reviewed scientific lite
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
+
+## Key Works in Wiki
+- [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]

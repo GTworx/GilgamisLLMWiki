@@ -110,3 +110,5 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 - [[comparative-cognitive-styles-politician-vs-scientist-intellect]]
 - [[ghazalian-epistemology-islamic-spiritual-psychology-and-maslow]]
 - [[changing-definition-and-epistemology-of-retirement]]
+- [[yuksel-yks-higher-education-institutions-exam-meaning]]
+- [[the-atlantic-fraudulent-science-of-success-behavioral-economics]]

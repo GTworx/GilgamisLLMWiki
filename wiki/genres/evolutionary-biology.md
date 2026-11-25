@@ -48,3 +48,6 @@ In this wiki, evolutionary biology provides the ecological foundation for strate
 
 - **Related Genres**: [[game-theory]], [[political-science]]
 - **Key Themes**: [[evolution-of-strategies]], [[cooperation-and-reciprocity]], [[shadow-of-the-future]]
+- [[parallelism-quantum-classical-physics-and-biological-evolution]]
+- [[kinraide-denison-strong-inference-the-way-of-science]]
+- [[purvis-telling-fatty-acids-hydrothermal-vents-origin-of-life]]

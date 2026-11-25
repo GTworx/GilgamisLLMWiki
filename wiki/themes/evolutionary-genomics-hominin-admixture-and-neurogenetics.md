@@ -45,3 +45,4 @@ Demonstrates that modern human biology and cognition are deep evolutionary compo
 - [[ancient-genomics-indo-european-divergence-mediterranean]]
 - [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]]
 - [[broom-pleistocene-anthropoid-apes-australopithecus-discovery]]
+- [[purvis-telling-fatty-acids-hydrothermal-vents-origin-of-life]]

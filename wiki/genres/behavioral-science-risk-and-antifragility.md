@@ -63,3 +63,6 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 - [[attention-economy-and-cultural-analytics]]
 - [[evolution-of-human-consciousness]]
 - [[consultative-questioning-and-constructive-tension]]
+- [[the-atlantic-fraudulent-science-of-success-behavioral-economics]]
+- [[cb-insights-12-tech-trends-to-watch-in-2022]]
+- [[ord-the-lindy-effect-longevity-and-survivorship]]

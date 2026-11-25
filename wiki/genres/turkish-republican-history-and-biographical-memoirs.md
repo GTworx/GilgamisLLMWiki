@@ -112,3 +112,5 @@ Anchors a rich Turkish-language and comparative historical cluster spanning tent
 - [[monitory-democracy-and-power-scrutiny]]
 - [[orientalism-postcolonial-discourse-and-cultural-satire]]
 - [[digital-materiality-nomadic-heritage-and-anthropological-holism]]
+- [[yildiz-tozlu-koy-enstitulerinin-ideolojik-yapisi]]
+- [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]

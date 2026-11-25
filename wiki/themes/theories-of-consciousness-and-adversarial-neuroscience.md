@@ -61,3 +61,7 @@ Investigates competing empirical and philosophical accounts of subjective consci
 - [[cognitive-science-and-attention-mechanisms]]
 - [[evolutionary-biology]]
 - [[biotechnology-medicine-and-longevity]]
+- [[kleist-on-the-marionette-theatre]]
+- [[parallelism-quantum-classical-physics-and-biological-evolution]]
+- [[quantum-foundations-classical-correspondence-and-decoherence]]
+- [[steinhardt-the-cyclic-theory-of-the-universe]]

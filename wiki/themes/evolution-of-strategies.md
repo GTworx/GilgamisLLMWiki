@@ -56,3 +56,6 @@ In corporate and institutional leadership, strategic evolution requires actively
 
 - **Related Themes**: [[cooperation-and-reciprocity]], [[tit-for-tat]], [[shadow-of-the-future]], [[deterrence-and-coercion]], [[rationality-and-decision-making]], [[adaptive-intelligence-and-organizational-resilience]], [[trusted-strategic-advisors-and-influence]]
 - **Related Genres**: [[game-theory]], [[evolutionary-biology]], [[strategic-studies]], [[political-science]], [[leadership-and-management]]
+- [[oesterheld-demski-conitzer-open-source-game-theory]]
+- [[ferguson-optimal-stopping-and-finite-horizon-problems]]
+- [[ferguson-who-solved-the-secretary-problem]]

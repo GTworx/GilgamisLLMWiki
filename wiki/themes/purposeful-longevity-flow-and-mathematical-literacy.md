@@ -67,3 +67,5 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 - [[ethics-and-value-philosophy]]
 - [[data-science-and-scientific-computing]]
 - [[changing-definition-and-epistemology-of-retirement]]
+- [[bloom-the-2-sigma-problem-group-instruction-tutoring]]
+- [[clynes-how-to-raise-a-genius-smpv]]
