@@ -102,3 +102,45 @@
 - [[levenson-avian-radiological-image-reading-and-pattern-recognition]]
 
 - [[radiation-oncology-biologically-effective-dose-and-eqd2-modeling]]
+
+- [[epoch-ai-rising-costs-of-training-frontier-ai-models]]
+
+- [[openai-infrastructure-economics-and-american-ai-blueprint]]
+
+- [[trammell-aschenbrenner-existential-risk-and-growth]]
+
+- [[ai-history-timeline-and-enterprise-adoption-barriers]]
+
+- [[mckinsey-technology-trends-outlook-compendium]]
+
+- [[mckinsey-the-next-big-arenas-of-competition]]
+
+- [[bain-technology-report-compendium-2023-2025]]
+
+- [[mit-technology-review-10-breakthrough-technologies-2024]]
+
+- [[pitchbook-technology-outlook-trilogy-2025]]
+
+- [[kpmg-global-tech-report-enterprise-transformation]]
+
+- [[mit-sloan-and-wired-uk-frontier-digital-operating-models]]
+
+- [[gartner-augmented-reality-wearables-and-hmi-compendium]]
+
+- [[vrvana-and-enterprise-augmented-reality-hardware-systems]]
+
+- [[morgan-stanley-robot-almanac-vol-3-humanoids-and-automation]]
+
+- [[frost-sullivan-industrial-sensing-and-massachusetts-robotics-cluster]]
+
+- [[frost-sullivan-vision-2030-the-factory-of-the-future]]
+
+- [[nsf-future-of-manufacturing-and-manufacturing-execution-systems]]
+
+- [[autonomous-vehicles-challenges-opportunities-and-future]]
+
+- [[turkish-automotive-and-smart-mobility-ecosystem-report]]
+
+- [[karman-project-space-leadership-and-orbital-cooperation]]
+
+- [[applied-physics-physical-warp-drives-and-anti-gravity-mechanics]]

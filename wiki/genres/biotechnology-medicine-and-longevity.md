@@ -14,6 +14,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
+- [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]] (1270) — [[ibn-al-nafis]]
 - [[lumbar-disc-herniation-treatment-modalities-clinical-comparison-matrix]] (2024) — [[spine-surgery-and-orthopedic-rehabilitation-consortium]]
 - [[national-geographic-blue-zones-and-centenarian-longevity-secrets]] (2023) — [[national-geographic-society]], [[dan-buettner]]
 - [[lung-cancer-and-interstitial-lung-disease-comorbidities]] (2018) — [[pulmonary-oncology-research-group]]

@@ -30,3 +30,7 @@ Morgan Stanley Research is the institutional research arm of Morgan Stanley, del
 - [[energy-policy-and-clean-tech-economics]]
 - [[hyperscale-datacenter-power-and-thermal-engineering]]
 - [[energy-transition-and-storage-economics]]
+
+
+## Works in Wiki
+- [[morgan-stanley-robot-almanac-vol-3-humanoids-and-automation]]

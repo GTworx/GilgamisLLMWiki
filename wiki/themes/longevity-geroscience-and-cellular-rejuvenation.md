@@ -16,6 +16,7 @@ Aging is increasingly conceptualized not as an inevitable chronological decay, b
 ---
 
 ## Representative Books in Wiki
+- [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]]
 - [[snyder-nonlinear-dynamics-of-multi-omics-profiles-during-human-aging]]
 - [[reik-multi-omic-rejuvenation-by-transient-reprogramming]]
 - [[age-friendly-cities-and-senior-living-2030-housing-policy]]

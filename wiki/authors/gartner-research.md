@@ -32,3 +32,8 @@ Gartner is the world's leading research and advisory company, providing executiv
 - [[corporate-strategy-and-management-classics]]
 - [[industrial-iot-edge-telemetry-and-it-ot-convergence]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Works in Wiki
+- [[nsf-future-of-manufacturing-and-manufacturing-execution-systems]]
+- [[gartner-augmented-reality-wearables-and-hmi-compendium]]

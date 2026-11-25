@@ -35,3 +35,8 @@ McKinsey & Company is a premier global management consulting firm advising corpo
 - [[corporate-strategy-and-management-classics]]
 - [[hyperscale-datacenter-power-and-thermal-engineering]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Works in Wiki
+- [[mckinsey-the-next-big-arenas-of-competition]]
+- [[mckinsey-technology-trends-outlook-compendium]]

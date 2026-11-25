@@ -16,6 +16,8 @@ Ambient clinical AI represents a transformational productivity shock for healthc
 ---
 
 ## Representative Books in Wiki
+- [[future-internet-and-artificial-intelligence-architecture]]
+- [[bytedance-tiktok-recommendation-algorithm-architecture]]
 - [[pontone-cardiac-computed-tomography-and-myocardial-perfusion-compendium]]
 - [[who-global-atlas-of-medical-devices-compendium]]
 - [[pitchbook-healthtech-ambient-ai-scribes-and-healthcare-pe]]

@@ -15,6 +15,8 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[karman-project-space-leadership-and-orbital-cooperation]] (2024) — [[the-karman-project-fellowship]], [[jean-luc-chretien]]
+- [[french-red-team-defense-and-strategic-foresight-scenarios]] (2022) — [[french-red-team-defense-initiative]], [[ministere-des-armees-france]]
 - [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]
 - [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]

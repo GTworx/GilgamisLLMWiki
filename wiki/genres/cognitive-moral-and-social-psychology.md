@@ -14,6 +14,12 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[philosophy-and-ethics-of-autonomous-vehicles-and-the-right-to-drive]] (2022) — [[alexander-hevelke]], [[julian-nida-rumelin]], [[johannes-himmelreich]]
+- [[human-supervisory-control-of-heterogeneous-robot-swarms]] (2024) — [[swarm-robotics-and-hsi-consortium]], [[michael-a-goodrich]]
+- [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]] (1270) — [[ibn-al-nafis]]
+- [[lucian-true-history-proto-science-fiction]] (170) — [[lucian-of-samosata]]
+- [[nature-science-fiction-science-method-technological-forecasting]] (2025) — [[nature-editorial-consortium]]
+- [[trammell-aschenbrenner-existential-risk-and-growth]] (2025) — [[philip-trammell]], [[leopold-aschenbrenner]]
 - [[national-geographic-blue-zones-and-centenarian-longevity-secrets]] (2023) — [[national-geographic-society]], [[dan-buettner]]
 - [[skepticism-vs-cynicism-reforming-health-and-wellness-standards]] (2023) — [[evidence-based-wellness-consortium]]
 - [[age-friendly-cities-and-senior-living-2030-housing-policy]] (2019) — [[joost-van-hoof]], [[united-nations-economic-commission-for-europe-unece]]

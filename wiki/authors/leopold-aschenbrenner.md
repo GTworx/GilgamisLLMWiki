@@ -33,3 +33,7 @@ In his landmark June 2024 monograph [[situational-awareness-the-decade-ahead]] (
 - [[agi-trajectories-and-superalignment]]
 - [[semiconductor-geopolitics-and-chokepoints]]
 - [[energy-transition-and-storage-economics]]
+
+
+## Works in Wiki
+- [[trammell-aschenbrenner-existential-risk-and-growth]]

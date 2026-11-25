@@ -1478,3 +1478,68 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Rebuilt master index `wiki/index.md` (1,867 entity pages).
   - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
   - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.
+
+## [2026-11-25] - Option AR-8A Ingestion: Frontier Tech, AI, Robotics & Spatial AR (34 Canonical Works, 58 Physical Files)
+- **Scope & Sources**:
+  - Ingested 9 folder collections from `_GilgameshLibrary/ARTICLES-REPORTS/`:
+    - `Technology_` (21 files)
+    - `Augmented Reality` (11 files)
+    - `AI` (7 files)
+    - `Robotics` (7 files)
+    - `Automative` (4 files)
+    - `Manufacturing & Robotics` (3 files)
+    - `Space` (3 files)
+    - `Aerospace_` (1 file)
+    - `Anti-gravity` (1 file)
+    - Total: **58 physical files**, synthesized cleanly into **34 canonical works**.
+- **Canonical Works Synthesized**:
+  - **Frontier AI Infrastructure, Scaling Laws & Compute Economics (6 works, 8 files)**:
+    - [[epoch-ai-rising-costs-of-training-frontier-ai-models]] ([[epoch-ai-research-consortium]], [[tamay-besiroglu]], 2024, 18 pp.).
+    - [[openai-infrastructure-economics-and-american-ai-blueprint]] ([[openai-research]], [[sam-altman]], 2025, 2-report compendium, 48 pp.).
+    - [[trammell-aschenbrenner-existential-risk-and-growth]] ([[philip-trammell]], [[leopold-aschenbrenner]], 2025, 42 pp.).
+    - [[bytedance-tiktok-recommendation-algorithm-architecture]] ([[bytedance-systems-architecture-group]], 2021, 14 pp.).
+    - [[ai-history-timeline-and-enterprise-adoption-barriers]] ([[enterprise-ai-research-consortium]], 2024, 2-part dossier, 26 pp.).
+    - [[future-internet-and-artificial-intelligence-architecture]] ([[future-internet-research-group]], 2018, MDPI Future Internet, 18 pp.).
+  - **General Technology Outlooks, Macro Arenas & Venture Horizons (9 works, 20 files)**:
+    - [[mckinsey-technology-trends-outlook-compendium]] ([[mckinsey-and-company]], [[lareina-yee]], [[michael-chui]], 2025, 4-year longitudinal series [2022–2025], 5 files, 416 pp.).
+    - [[mckinsey-the-next-big-arenas-of-competition]] ([[mckinsey-and-company]], [[chris-bradley]], [[sven-smit]], 2024, 213 pp.).
+    - [[bain-technology-report-compendium-2023-2025]] ([[bain-and-company]], [[david-crawford]], [[anne-hoecker]], 2025, 2-volume compendium, 161 pp.).
+    - [[mit-technology-review-10-breakthrough-technologies-2024]] ([[mit-technology-review-editors]], [[matthew-hopkins]], 2024, 2-report dossier, 200 pp.).
+    - [[pitchbook-technology-outlook-trilogy-2025]] ([[pitchbook-emerging-tech-research]], [[nizar-tarhuni]], [[paul-condra]], 2025, 3-volume trilogy [Consumer, Enterprise, Industrial], 57 pp.).
+    - [[kpmg-global-tech-report-enterprise-transformation]] ([[kpmg-international-research]], 2023, 48 pp.).
+    - [[mit-sloan-and-wired-uk-frontier-digital-operating-models]] ([[mit-sloan-management-review]], [[wired-uk-editorial]], 2023, 2-volume compendium, 212 pp.).
+    - [[nature-science-fiction-science-method-technological-forecasting]] ([[nature-editorial-consortium]], 2025, Nature, 29 pp.).
+    - [[french-red-team-defense-and-strategic-foresight-scenarios]] ([[french-red-team-defense-initiative]], [[ministere-des-armees-france]], 2022, 2-part defense dossier, 36 pp.).
+  - **Augmented Reality, Human-Machine Interface & Classical Proto-Sci-Fi (4 works, 11 files)**:
+    - [[gartner-augmented-reality-wearables-and-hmi-compendium]] ([[gartner-research]], [[tuong-huy-nguyen]], 2023, 6-report compendium, 128 pp.).
+    - [[vrvana-and-enterprise-augmented-reality-hardware-systems]] ([[vrvana-engineering-team]], [[enterprise-ar-consortium]], 2020, 3-report hardware dossier, 72 pp.).
+    - [[lucian-true-history-proto-science-fiction]] ([[lucian-of-samosata]], c. 170 AD, Verae Historiae, 46 pp.).
+    - [[ibn-al-nafis-theologus-autodidactus-philosophical-cosmology]] ([[ibn-al-nafis]], c. 1270 AD, Al-Risalah al-Kamiliyyah, 112 pp.).
+  - **Robotics, Swarms, Humanoids & Sim-to-Real RL (8 works, 10 files)**:
+    - [[morgan-stanley-robot-almanac-vol-3-humanoids-and-automation]] ([[morgan-stanley-research]], [[adam-jonas]], 2025, Robot Almanac Vol. 3, 96 pp.).
+    - [[anthropic-what-work-can-robots-do-automation-economics]] ([[anthropic-research]], 2026, 42 pp.).
+    - [[human-supervisory-control-of-heterogeneous-robot-swarms]] ([[swarm-robotics-and-hsi-consortium]], [[michael-a-goodrich]], 2024, 12 pp.).
+    - [[robot-reinforcement-learning-the-indoor-training-effect]] ([[robot-learning-research-group]], 2025, 18 pp.).
+    - [[frost-sullivan-industrial-sensing-and-massachusetts-robotics-cluster]] ([[frost-and-sullivan]], [[massrobotics-consortium]], 2017, 2-study compendium, 82 pp.).
+    - [[snake-robot-kinematics-and-hyper-redundant-locomotion]] ([[bio-inspired-robotics-consortium]], [[pal-liljeback]], 2015, 68 pp.).
+    - [[frost-sullivan-vision-2030-the-factory-of-the-future]] ([[frost-and-sullivan-manufacturing-leadership-council]], 2016, 20 pp.).
+    - [[nsf-future-of-manufacturing-and-manufacturing-execution-systems]] ([[national-science-foundation-nsf]], [[gartner-research]], 2024, 2-report compendium, 54 pp.).
+  - **Autonomous Mobility, Sensor Fusion & Driving Ethics (3 works, 5 files)**:
+    - [[autonomous-vehicles-challenges-opportunities-and-future]] ([[transportation-and-autonomous-systems-consortium]], [[daniel-j-fagnant]], 2016, Journal of Modern Transportation, 16 pp.).
+    - [[philosophy-and-ethics-of-autonomous-vehicles-and-the-right-to-drive]] ([[alexander-hevelke]], [[julian-nida-rumelin]], [[johannes-himmelreich]], 2022, 2-part Philosophy & Technology treatise, 38 pp.).
+    - [[turkish-automotive-and-smart-mobility-ecosystem-report]] ([[otomotiv-sanayii-dernegi-osd]], [[gooinn-innovation-consulting]], 2024, 2-report compendium [OSD & GOOINN], 128 pp.).
+  - **Commercial Space Launch, Aerospace & Advanced Metric Propulsion (4 works, 4 files)**:
+    - [[pitchbook-commercial-space-launch-and-defense-tech]] ([[pitchbook-emerging-tech-research]], [[andres-perez]], 2024, 2-brief compendium, 32 pp.).
+    - [[karman-project-space-leadership-and-orbital-cooperation]] ([[the-karman-project-fellowship]], [[jean-luc-chretien]], 2024, 28 pp.).
+    - [[gooinn-aviation-and-aerospace-report-evtol-and-uam]] ([[gooinn-innovation-consulting]], [[aviation-strategy-consortium]], 2025, 54 pp.).
+    - [[applied-physics-physical-warp-drives-and-anti-gravity-mechanics]] ([[applied-physics-think-tank]], [[gianni-martire]], [[alexey-bobrick]], 2022, 12 pp.).
+- **Entity Metrics & Graph Updates**:
+  - **Books/Works**: +34 canonical entries (total: 739).
+  - **Authors**: +54 author profiles created, 6 updated (total: 989).
+  - **Genres**: +2 new genres ([[robotics-autonomous-systems-and-spatial-computing]], [[aerospace-engineering-and-frontier-propulsion]]) created; 6 existing genres updated (total: 105).
+  - **Themes**: +5 new themes ([[artificial-intelligence-scaling-compute-and-governance]], [[robotics-humanoid-automation-and-physical-embodiment]], [[spatial-computing-augmented-reality-and-human-machine-interfaces]], [[autonomous-mobility-algorithmic-ethics-and-urban-transit]], [[commercial-spaceflight-orbital-infrastructure-and-warp-mechanics]]) created; 7 existing themes updated (total: 129).
+  - **Total Wiki Pages**: **1,962 entity pages** (1,964 total markdown files).
+- **Verification**:
+  - Rebuilt master index `wiki/index.md` (1,962 entity pages).
+  - Recompiled visual dashboards (`index.html`, `dashboard.html`, `wiki/index.html`, `wiki/dashboard_data.json`).
+  - Passed `ollama_agent.py audit` with **0 broken links, 0 orphan pages, and 0 unindexed pages**.

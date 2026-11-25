@@ -28,3 +28,7 @@ The Nature Editorial Consortium encompasses the editors and contributing scienti
 - [[data-science-and-scientific-computing]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[quantum-foundations-measurement-and-many-worlds]]
+
+
+## Works in Wiki
+- [[nature-science-fiction-science-method-technological-forecasting]]
