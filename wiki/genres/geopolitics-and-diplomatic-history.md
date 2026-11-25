@@ -14,6 +14,7 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[eiu-regional-economic-outlooks-2025-compendium]]
 - [[post-soviet-economic-transition-and-russian-debt-crisis-compendium]]
 - [[ray-dalio-great-powers-index-national-trajectories-and-power-rankings]]
 - [[restructuring-the-global-trading-system-and-post-dollar-architecture]]

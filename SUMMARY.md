@@ -16,11 +16,11 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
 - **Articles & Reports Library Status**: **Options AR-1, AR-2, AR-3 & AR-4 Complete** (190/190 files in `Semiconductors`, `Cybersecurity`, `PE & VC`, `QuantumCompute`, `Data Centers`, `Cloud`, `SaaS`, `IoT`, `5G Telecom`, and `SupplyChain` mapped to 118 canonical works)
-- **Total Ingested Works**: 1296 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
-- **Total Generated Wiki Pages**: 3,322 interlinked markdown files (3,320 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 1320 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Generated Wiki Pages**: 3,372 interlinked markdown files (3,370 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 1296 ([books/](wiki/books/))
-- **Author Profile Pages**: 1772 ([authors/](wiki/authors/))
+- **Book Summary & Analysis Pages**: 1320 ([books/](wiki/books/))
+- **Author Profile Pages**: 1798 ([authors/](wiki/authors/))
 - **Genre Classification Pages**: 112 ([genres/](wiki/genres/))
 - **Core Thematic Concept Pages**: 140 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
@@ -3427,3 +3427,101 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 1296. **[[turkish-corporate-compensation-executive-remuneration-and-wage-benchmarks-compendium]]** ([[mercer-korn-ferry-and-wtw-human-capital-consortium]], Source: `Econ/Turkey/2023 Mercer Türkiye Ücret Araştırması Sunumu (1).pdf`, `Econ/Turkey/Korn Ferry Ücret ve Yan Haklar Artış Tahminleri Güncelleme Raporu Kasım 2023.pdf`, `Econ/Turkey/WTW 2023 Eylül Ücret Artışı Araştırma Raporu_.pdf`, `Econ/Turkey/Salary_Survey_TR_v2_1.pdf`, `Econ/2023 Reed - Salary guide 2023 - Turkey.pdf`)  
    Monumental 5-source corporate human capital benchmark compiling proprietary compensation data across hundreds of multinational and domestic firms in Turkey, evaluating mid-year salary adjustments, FX-indexed perks, and wage inflation.  
    ### Turkish Corporate Compensation, Executive Remuneration, and Wage Inflation Benchmarks Compendium (2023–2024)
+
+### Category AF: Global Asset Management, Private Equity, Capital Markets & Real Estate (Works 1297–1320 across 91 Physical Files)
+
+1297. **[[berman-knight-financial-intelligence-managers-guide]]** ([[karen-berman]], [[joe-knight]], Source: `Finance & Investment_/HBR PRESS KAREN BERMAN; JOE KNIGHT— “Financial Intelligence__  A Manager’s Guide To Knowing What The Numbers Really Mean (2nd rev. ed. 01Feb2013).pdf`, `Finance & Investment_/Financial Statements School.pdf`, `Finance & Investment_/2025 Mental_Models_Analytical_Frameworks_And_Decision_Tools.pdf`)  
+   Masterwork of practical executive financial literacy published by Harvard Business Review Press, teaching non-financial managers how to decode income statements, balance sheets, and cash flow dynamics, and recognize executive accounting estimates and biases.  
+   ### Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean
+
+1298. **[[jim-reid-the-ultimate-guide-to-long-term-investing]]** ([[jim-reid]], Source: `Finance & Investment_/2025 DB - Jim Reid - The Ultimate Guide to Long-Term Investing_20251027.pdf`, `Finance & Investment_/2025 Gold IGWT-Chartbook.pdf`, `Finance & Investment_/2025 ING - Commodities Outlook 2025 (december 2024).pdf`)  
+   Epic 172-page long-term asset management compendium led by Deutsche Bank's Jim Reid, evaluating multi-century returns across equities, bonds, gold, and commodities from the 18th century to 2025.  
+   ### The Ultimate Guide to Long-Term Investing: Multi-Century Asset Returns and Inflation Cycles
+
+1299. **[[thinking-ahead-institute-worlds-largest-500-asset-managers]]** ([[thinking-ahead-institute]], Source: `Finance & Investment_/2023 The world’s largest 500 asset managers Thinking Ahead Institute_.pdf`)  
+   Authoritative 57-page benchmark tracking $113 trillion in assets under management across the world's top 500 institutional asset managers, detailing market concentration among the top 20 titans (BlackRock, Vanguard, Fidelity).  
+   ### The World's Largest 500 Asset Managers: Institutional Assets Under Management and Industry Concentration
+
+1300. **[[sifma-capital-markets-factbook-2024]]** ([[securities-industry-and-financial-markets-association-sifma]], Source: `Finance & Investment_/2024-SIFMA-Capital-Markets-Factbook.pdf`)  
+   Definitive 119-page statistical reference manual on global capital markets, providing comprehensive multi-decade data on US Treasury auctions, corporate bond issuance, mortgage-backed securities, IPOs, and secondary market trading volumes.  
+   ### SIFMA Capital Markets Factbook: Global Securities Markets, Debt Issuance, and Equity Underwriting
+
+1301. **[[jpmorgan-wealth-and-asset-management-outlook-2025]]** ([[j-p-morgan-global-wealth-management]], Source: `Finance & Investment_/2025 J.P.Morgan - Outlook 2025. Building on Strength.pdf`, `Finance & Investment_/2025 08 14 JPM.pdf`)  
+   Flagship 94-page 2025 global market outlook from J.P. Morgan evaluating the resilience of corporate earnings, AI capex ROI, Federal Reserve interest rate normalization, and strategic allocations across equities, alternatives, and fixed income.  
+   ### JPMorgan Outlook 2025: Building on Strength — Global Macro Strategy, Corporate Earnings, and Capital Markets
+
+1302. **[[goldman-sachs-global-economic-and-asset-management-outlook-2025]]** ([[goldman-sachs-global-investment-research]], Source: `Finance & Investment_/2025 GS - Asset Management Outlook 2025.pdf`, `Finance & Investment_/2025 Goldman Sachs - Euro Area Outlook 2025.pdf`, `Finance & Investment_/2025 Goldman_Sachs_2025_US_Economic_Outlook_New_Policies,_Similar_Pat.pdf`)  
+   Comprehensive 69-page institutional macroeconomic compendium from Goldman Sachs evaluating the US economic trajectory under proposed tariff and tax policies alongside European growth stagnation and ECB rate cuts.  
+   ### Goldman Sachs: 2025 Global Economic, US Policy, and Euro Area Macro Strategy Compendium
+
+1303. **[[morgan-stanley-2026-global-strategy-outlook-year-of-risk-reboot]]** ([[morgan-stanley-research]], Source: `Finance & Investment_/2025 11 24 MS - 2026 Global Strategy Outlook The Year of Risk Reboot_20251116.pdf`)  
+   Monumental 91-page cross-asset flagship report from Morgan Stanley diagnosing 'The Year of Risk Reboot', analyzing valuation multiples, AI monetization timelines, and market rotation beyond mega-cap tech.  
+   ### Morgan Stanley: 2026 Global Strategy Outlook — The Year of Risk Reboot and Portfolio Allocation
+
+1304. **[[citi-and-ubs-global-wealth-management-outlooks-2025]]** ([[citi-global-wealth-investments]], [[ubs-global-wealth-management-chief-investment-office]], Source: `Finance & Investment_/2025 Citi_Wealth Outlook_2025.pdf`, `Finance & Investment_/2025 UBS_Year Ahead_2025.pdf`, `Finance & Investment_/2025 UBS House View November 2025 SF.pptx`, `Finance & Investment_/2025 Bias_free investing UBS Jan 2025.pptx`)  
+   Expansive 152-page wealth management compendium from Citi and UBS examining behavioral biases in investor decision-making, thematic investments in longevity and AI infrastructure, and multi-asset wealth preservation.  
+   ### Citi and UBS Global Wealth Outlooks (2025): De-biasing Portfolios and Positioning for Structural Shifts
+
+1305. **[[barclays-and-blackrock-global-investment-outlooks-2025]]** ([[blackrock-investment-institute]], [[barclays-investment-bank-research]], Source: `Finance & Investment_/2025 Barclays - Outlook 2025.pdf`, `Finance & Investment_/Barclays - U.S. Equity Insights 1Q25 Earnings Learnings- Strong start to a weak year_20250522.pdf`, `Finance & Investment_/2025 BII - Global outlook 2025.pdf`)  
+   Three-volume institutional strategy compendium synthesizing BlackRock's 'mega-forces' framework (AI, demographic divergence, geopolitical fragmentation) with Barclays' granular earnings analysis across S&P 500 sectors.  
+   ### Barclays and BlackRock Investment Institute: 2025 Global Market Outlooks and US Corporate Earnings
+
+1306. **[[european-and-specialist-asset-management-outlooks-2025]]** ([[european-and-institutional-asset-management-consortium]], Source: `Finance & Investment_/2025 Cambridge Associates - Outlook 2025.pdf`, `Finance & Investment_/2025 Robeco - 2025 outlook. This is not a landing (november 2024).pdf`, `Finance & Investment_/2025 UniCredit_The Compass 2025_December.pdf`, `Finance & Investment_/2025 MetLife - Global Qutlook 2025 (october 2024).pdf`, `Finance & Investment_/2025 Janus Henderson - Investment Outlook 2025.pdf`, `Finance & Investment_/2025 State_Street_Global_Market_Outlook_2025_Finding_the_Right_Path.pdf`, `Finance & Investment_/2024 HSBC_PB_Investment_Outlook_Q1_2025_1732430259.pdf`, `Finance & Investment_/2025 June HSBC IWPB Investment Monthly_Jun25.pdf`)  
+   Expansive 7-report institutional strategy package synthesizing asset allocation recommendations from leading European and institutional endowment managers for navigating a 'no-landing' macro environment.  
+   ### European and Specialist Asset Management Outlooks 2025: Cambridge Associates, Robeco, UniCredit, MetLife and Janus Henderson
+
+1307. **[[oecd-economic-outlook-december-2024-global-growth-projections]]** ([[organisation-for-economic-co-operation-and-development]], Source: `Finance & Investment_/2025 OECD - Economic Outlook (december 2024).pdf`)  
+   Monumental 270-page macroeconomic flagship publication from the OECD providing country-by-country forecasts across 38 member states and major emerging economies, analyzing disinflation and fiscal consolidation pressures.  
+   ### OECD Economic Outlook (December 2024): Turning the Corner — Navigating Fiscal Consolidation and Structural Reforms
+
+1308. **[[eiu-regional-economic-outlooks-2025-compendium]]** ([[economist-intelligence-unit]], Source: `Finance & Investment_/2025 EIU - North America outlook 2025.pdf`, `Finance & Investment_/2025 EIU - Europe outlook 2025.pdf`, `Finance & Investment_/2025 EIU - Asia outlook 2025.pdf`, `Finance & Investment_/2025 EIU - Latin America outlook 2025.pdf`, `Finance & Investment_/2025 EIU - Middle East outlook 2025.pdf`, `Finance & Investment_/2025 EIU - Africa outlook 2025.pdf`)  
+   Comprehensive 6-volume continental survey from the Economist Intelligence Unit detailing macroeconomic growth, inflation, currency risks, and geopolitical flashpoints across all major world regions for 2025.  
+   ### EIU Regional Economic Outlooks 2025 Compendium: North America, Europe, Asia, Latin America, Middle East and Africa
+
+1309. **[[global-private-markets-and-private-equity-outlook-compendium-2024-2025]]** ([[global-private-equity-and-alternatives-research-group]], Source: `Finance & Investment_/2024 Global Private Markets Outlook.pdf`, `Finance & Investment_/2024 global-private-markets-outlook-ex-summ.pdf`, `Finance & Investment_/2024-private-markets-outlook-stamped-1cd88888-b1a5-4f47-b307-b47d658cacc5.pdf`, `Finance & Investment_/2025 global-private-markets-report-2025-private-equity-emerging-from-the-fog-v2.pdf`, `Finance & Investment_/2025 Private capital investment predictions for 2025.pdf`, `Finance & Investment_/2025_Allocator_Solutions_Private_Market_Opportunities.pdf`, `Finance & Investment_/2025_US_Private_Equity_Outlook_Midyear_Update_19529.pdf`, `Finance & Investment_/2029_Private_Market_Horizons_19168.pdf`, `Finance & Investment_/Private_Markets_Guide.pdf`, `Finance & Investment_/private_vs_public_markets_trends.pdf`)  
+   Monumental 10-report private markets intelligence compendium tracking private capital fundraising, the exit liquidity freeze, DPI (Distributed to Paid-In Capital) pressures, and secondary market growth.  
+   ### Global Private Markets Outlook: Private Equity Capital Dynamics, Exit Liquidity, and Allocator Solutions (2024–2025)
+
+1310. **[[pitchbook-private-market-benchmarks-and-middle-market-reports]]** ([[pitchbook-institutional-research]], Source: `Finance & Investment_/2024_Q3_Global_Fund_Performance_Report_with_preliminary_Q4_2024_data_19210.pdf`, `Finance & Investment_/2025 Q4_2024_PitchBook_Analyst_Note_Numbers_Mean_Nothing_Without_Benchmarking.pdf`, `Finance & Investment_/2025 The venture capital benchmark report.pdf`, `Finance & Investment_/Q3_2023_Global_Private_Market_Fundraising_Report.pdf`, `Finance & Investment_/Q3_2023_US_PE_Middle_Market_Report.pdf`, `Finance & Investment_/Q3_2023_US_PE_Middle_Market_Report_Summary_XLS.xlsx`, `Finance & Investment_/2025_Q1_Medtech_VC_and_PE_Trends_19471.pdf`)  
+   Authoritative 7-volume PitchBook benchmarking compendium providing empirical horizon IRRs, PME (Public Market Equivalent) metrics, middle-market buyout leverage multiples, and medtech investment trends.  
+   ### PitchBook Private Market Performance Benchmarks and US Middle Market Reports (2023–2025)
+
+1311. **[[sp-global-and-iosco-private-credit-and-debt-risk-compendium]]** ([[s-p-global-ratings]], [[international-organization-of-securities-commissions-iosco]], Source: `Finance & Investment_/2025 S_P_Global_Global_Credit_Outlook_2025_Promise_And_Peril_4_decemb.pdf`, `Finance & Investment_/IOSC Thematic Analysis Emerging Risks in  Private Finance 2023.pdf`, `Finance & Investment_/Blackstone_ROI_Analysis_Full.pdf`, `Finance & Investment_/Yoost_PrivateEquity Seminar_PEI Media's Private Equity - A Brief Overview_318.pdf`)  
+   Critical 110-page regulatory and credit analysis from S&P Global and IOSCO investigating the explosive expansion of direct lending ($1.7T private debt), opaque valuations, leverage layering, and corporate default risks.  
+   ### S&P Global and IOSCO: Global Credit Outlook and Systemic Risks in Private Finance (2023–2025)
+
+1312. **[[the-economist-and-brookings-global-pension-and-retirement-crisis]]** ([[j-mark-iwry]], [[william-g-gale]], Source: `Finance & Investment_/2022 The Economist Can you afford to retire.pdf`, `Finance & Investment_/2024 01 22_US Retirement RSP_IwryJohnGale_Secure20.pdf`)  
+   Dual-volume retirement policy analysis from The Economist and the Brookings Institution evaluating global public pension insolvency, the death of defined-benefit plans, and legislative reforms under the US SECURE 2.0 Act.  
+   ### Can You Afford to Retire? Global Pension Depletion, Demographics, and the US SECURE 2.0 Act
+
+1313. **[[cb-insights-and-gooinn-global-and-turkish-fintech-compendium]]** ([[cb-insights-intelligence]], [[turkiye-fintek-ekosistemi-arastirma-grubu]], Source: `Finance & Investment_/CB-Insights_Fintech-Report-Q2-2022.pdf`, `Finance & Investment_/2024 GOOINN Fintech Raporu.pdf`, `Finance & Investment_/2024 turkiye-fintek-ekosistemi-durum-raporu-2023_240424_215549.pdf`)  
+   Comprehensive 278-page global and Turkish fintech benchmark examining post-2022 venture funding corrections, neobank unit economics, open banking API expansion, and digital payment regulation.  
+   ### Global and Turkish Fintech Ecosystem Compendium: Venture Funding, Neobanks, and Embedded Finance (2022–2024)
+
+1314. **[[digital-assets-stablecoins-and-crypto-risk-in-eurasia]]** ([[dbs-bank-macro-and-digital-currency-strategy]], [[rise-and-freedom-finance-digital-asset-research]], Source: `Finance & Investment_/2025 10 DBS Age of Stablecoins insights_weekly.pdf`, `Finance & Investment_/2025 Crypto-Assert-Risk-2025-Coincub.pdf`, `Finance & Investment_/2025 RISE,_Freedom_Digital_assets_in_Central_Asia_and_the_Caucasus_no.pdf`)  
+   Three-volume digital currency investigation analyzing fiat-backed stablecoins as alternative global cross-border settlement rails (DBS Bank), crypto-asset risk indexes (Coincub), and digital asset adoption across Central Asia and the Caucasus.  
+   ### The Age of Stablecoins, Digital Asset Risk, and Blockchain Adoption in Central Asia and the Caucasus
+
+1315. **[[nuclear-energy-playbook-and-clean-energy-transition-finance]]** ([[clean-energy-and-nuclear-investment-strategy-group]], Source: `Finance & Investment_/Clean Energy_ Nuclear_ The Nuclear Playbook for Energy Transition.pdf`, `Finance & Investment_/Americas Clean Energy_ Nuclear_ Trump is reported to sign nuclear executive order(1).pdf`, `Finance & Investment_/2024 Q3 AI_ML_Public_Comp_Sheet_and_Valuation_Guide_Preview.pdf`)  
+   Authoritative 76-page energy finance playbook analyzing the nuclear power renaissance driven by datacenter AI power demands, small modular reactor (SMR) commercialization, and US clean energy executive orders.  
+   ### The Nuclear Playbook for Energy Transition: Baseload Power, Small Modular Reactors (SMRs), and Executive Policy
+
+1316. **[[european-commission-agricultural-outlook-and-museum-revenue-models]]** ([[european-commission-directorate-general-for-agriculture-and-rural-development]], Source: `Finance & Investment_/2025 European Commission - EU agricultural outlook 2024-2035.pdf`, `Finance & Investment_/Museum_Revenue_Sharing_Summary.txt`)  
+   Flagship 82-page European Commission agricultural projections through 2035 analyzing crop yields, livestock transitions under Green Deal climate regulations, and consumer dietary shifts, paired with cultural institution revenue-sharing structures.  
+   ### European Union Agricultural Outlook (2024–2035) and Cultural Institution Revenue Sharing Frameworks
+
+1317. **[[quantum-finance-market-complexity-and-midyear-2025-market-review]]** ([[global-institutional-strategy-and-quant-analytics-group]], Source: `Finance & Investment_/Expanded_Market_Quantum_Finance_Complexity.txt`, `Finance & Investment_/MIDYEAR_20250520_1800.pdf`, `Finance & Investment_/MIDYEAR_20250520_1837.pdf`, `Finance & Investment_/MIDYEAR_20250520_1900.pdf`, `Finance & Investment_/MIDYEAR_20250521_0330.pdf`, `Finance & Investment_/2025 October 27 Briefcase full pack.pdf`, `Finance & Investment_/2025 Global Strategy Paper_ Investing in Everything, Everywhere, All at Once(3).pdf`, `Finance & Investment_/BCA - If 2025 = 2000, Here’s How The Year Unfolds.pdf`, `Finance & Investment_/2025 BCAlpha The Biggest Macro Event in Decades.pdf`, `Finance & Investment_/BARRON'S (USA)— Vol.CII #09__ ✿Ukraine Shock ✿Global Economy Braces For Upheaval ✿Rattles Markets But Benefits Oil Producers ✿Strengthens Brazil & Other Emerging Markets ✿Crypto After The Crisis (28Feb2022).pdf`, `Finance & Investment_/Asset Class Performance Nov 2023.JPG`, `Finance & Investment_/a-look-under-the-hood.pdf`, `Finance & Investment_/equity-market-outlook.pdf`, `Finance & Investment_/Emerging market equities_en_1639292.pdf`, `Finance & Investment_/Global Forecast_en_1639409.pdf`, `Finance & Investment_/2025 International Economic Outlook.pdf`)  
+   Monumental 16-file market analysis dossier combining theoretical proofs that market prediction is PSPACE-hard with over 400 pages of midyear 2025 cross-asset performance charts, BCA Research cycle analogues, and global emerging market equity forecasts.  
+   ### Quantum Finance Complexity, Bounded Market Computability, and Midyear 2025 Global Market Reviews
+
+1318. **[[jpmorgan-turkey-equity-strategy-and-high-hopes-rebound]]** ([[jpmorgan-emerging-markets-equity-research]], Source: `Finance & Investment_/JPM_T_rkiye__High_Hopes__2024-01-11_4589700.pdf`)  
+   Detailed 35-page equity research report from J.P. Morgan initiating an overweight stance on Turkish equities and private commercial banks, projecting dramatic net interest margin recovery and valuation multiple re-ratings under monetary orthodoxy.  
+   ### J.P. Morgan: Turkey Equity Strategy and Banking Sector Re-Rating — High Hopes for Disinflation and Orthodoxy
+
+1319. **[[turkiye-enflasyon-altinda-reel-servet-koruma-modeli-ve-ozel-sermaye]]** ([[turkish-wealth-preservation-and-construction-economics-group]], Source: `Finance & Investment_/2025 Türkiye_Enflasyon_Altında_Reel_Servet_Modeli__1_Y_l_.csv`, `Finance & Investment_/Thomson-Reuters-Private-equity-in-Turkey-market-and-regulatory-overview-2020.pdf`, `Finance & Investment_/Türkiye_İnşaat_Sektör_Raporu_2023_3.pdf`)  
+   Three-part quantitative wealth preservation study modeling decile-by-decile real portfolio returns under 60%+ inflation across cash, gold, FX, equities, and housing, combined with Thomson Reuters private equity legal guides and national construction sector analytics.  
+   ### Türkiye Enflasyon Altında Reel Servet Modeli, Özel Sermaye Regülasyonu ve İnşaat Sektörü Raporu
+
+1320. **[[pwc-uli-emerging-trends-in-real-estate-europe-2023]]** ([[pwc-and-urban-land-institute]], Source: `Real Estate/Emerging Trends in Real Estate Europe 2023 Report.pdf`)  
+   Landmark 86-page annual benchmark from PwC and ULI surveying European real estate markets, detailing property asset repricing amidst higher borrowing costs, ESG retrofit mandates, and city investment rankings (London, Paris, Berlin, Madrid).  
+   ### Emerging Trends in Real Estate Europe 2023: Finding Balance Amidst Rising Rates and Energy Transitions

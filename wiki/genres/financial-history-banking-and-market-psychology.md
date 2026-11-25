@@ -14,6 +14,10 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[digital-assets-stablecoins-and-crypto-risk-in-eurasia]]
+- [[jim-reid-the-ultimate-guide-to-long-term-investing]]
+- [[sifma-capital-markets-factbook-2024]]
+- [[sp-global-and-iosco-private-credit-and-debt-risk-compendium]]
 - [[acalin-ball-did-the-us-really-grow-out-of-its-world-war-ii-debt]]
 - [[ben-bernanke-review-into-the-bank-of-england-forecasting]]
 - [[china-autocracy-macroeconomic-rebalancing-and-industrial-overcapacity]]

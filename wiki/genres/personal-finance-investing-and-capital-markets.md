@@ -14,6 +14,18 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 ---
 
 ## Books in Wiki
+- [[barclays-and-blackrock-global-investment-outlooks-2025]]
+- [[citi-and-ubs-global-wealth-management-outlooks-2025]]
+- [[european-and-specialist-asset-management-outlooks-2025]]
+- [[global-private-markets-and-private-equity-outlook-compendium-2024-2025]]
+- [[jim-reid-the-ultimate-guide-to-long-term-investing]]
+- [[jpmorgan-turkey-equity-strategy-and-high-hopes-rebound]]
+- [[jpmorgan-wealth-and-asset-management-outlook-2025]]
+- [[morgan-stanley-2026-global-strategy-outlook-year-of-risk-reboot]]
+- [[quantum-finance-market-complexity-and-midyear-2025-market-review]]
+- [[the-economist-and-brookings-global-pension-and-retirement-crisis]]
+- [[thinking-ahead-institute-worlds-largest-500-asset-managers]]
+- [[turkiye-enflasyon-altinda-reel-servet-koruma-modeli-ve-ozel-sermaye]]
 - [[global-investment-bank-macro-outlook-and-market-strategy-compendium-2024-2025]]
 - [[global-rates-trading-and-covid-financial-market-disconnect]]
 - [[howard-marks-oaktree-capital-memos-on-cycles-and-market-psychology]]

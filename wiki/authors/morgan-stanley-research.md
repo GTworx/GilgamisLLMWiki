@@ -12,6 +12,7 @@ Morgan Stanley Research is the institutional research arm of Morgan Stanley, del
 ---
 
 ## Books in Wiki
+- [[morgan-stanley-2026-global-strategy-outlook-year-of-risk-reboot]]
 - [[morgan-stanley-global-data-center-capacity-growth-to-increase-6x]]
 - [[morgan-stanley-quantum-computing-how-will-it-impact-ai]]
 

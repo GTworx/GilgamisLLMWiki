@@ -24,3 +24,6 @@ CFO, co-founder of the Business Literacy Institute, and financial educator who c
 - [[conrad-carlberg]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
 - [[rationality-and-decision-making]]
+
+## Key Works in Wiki
+- [[berman-knight-financial-intelligence-managers-guide]]

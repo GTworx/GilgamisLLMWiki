@@ -14,6 +14,7 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 ---
 
 ## Books in Wiki
+- [[berman-knight-financial-intelligence-managers-guide]]
 - [[accenture-life-trends-2024-cultural-and-consumer-foresight]]
 - [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]
 - [[turknetwork-diaspora-professional-capital-and-innovation]]

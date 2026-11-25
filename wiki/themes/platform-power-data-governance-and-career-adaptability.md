@@ -54,6 +54,8 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 - [[ethics-and-value-philosophy]]
 
 ## Books in Wiki
+- [[cb-insights-and-gooinn-global-and-turkish-fintech-compendium]]
+- [[digital-assets-stablecoins-and-crypto-risk-in-eurasia]]
 - [[autor-new-frontiers-origins-and-content-of-new-work]]
 - [[oecd-digital-economy-outlook-2024-ai-and-infrastructure]]
 - [[breaching-the-contract-social-contract-theory-and-online-privacy]]

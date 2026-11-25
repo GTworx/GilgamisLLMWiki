@@ -14,6 +14,8 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[pitchbook-private-market-benchmarks-and-middle-market-reports]]
+- [[quantum-finance-market-complexity-and-midyear-2025-market-review]]
 - [[cesar-hidalgo-economic-complexity-index-optimization]]
 - [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
 - [[global-demographic-kinship-projections-and-macroeconomic-baby-busts]]

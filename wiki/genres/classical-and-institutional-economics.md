@@ -14,6 +14,11 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 ---
 
 ## Books in Wiki
+- [[eiu-regional-economic-outlooks-2025-compendium]]
+- [[european-commission-agricultural-outlook-and-museum-revenue-models]]
+- [[goldman-sachs-global-economic-and-asset-management-outlook-2025]]
+- [[oecd-economic-outlook-december-2024-global-growth-projections]]
+- [[the-economist-and-brookings-global-pension-and-retirement-crisis]]
 - [[acalin-ball-did-the-us-really-grow-out-of-its-world-war-ii-debt]]
 - [[atlantic-council-freedom-and-prosperity-equation]]
 - [[autor-new-frontiers-origins-and-content-of-new-work]]

@@ -14,6 +14,7 @@ Agriculture accounts for 70% of planetary freshwater withdrawals and a third of 
 ---
 
 ## Books in Wiki
+- [[european-commission-agricultural-outlook-and-museum-revenue-models]]
 - [[fao-turkey-wheat-production-and-agricultural-innovation]]
 - [[global-gap-between-national-food-production-and-dietary-guidelines]] (2025) — [[global-food-systems-consortium]], [[kristin-krishna]]
 - [[vertical-farming-and-controlled-environment-agriculture-frontier]] (2023) — [[financial-times-investigative-team]], [[emiko-terazono]]

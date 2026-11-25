@@ -9,6 +9,7 @@ Investigates the theoretical boundaries of computational tractability, algorithm
 - [[duan-mao-breaking-sorting-barrier-directed-sssp]]
 
 ## Books in Wiki
+- [[quantum-finance-market-complexity-and-midyear-2025-market-review]]
 - [[cesar-hidalgo-economic-complexity-index-optimization]]
 - [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
 - [[self-organized-criticality-and-sudden-volatility-eruptions-in-financial-markets]]

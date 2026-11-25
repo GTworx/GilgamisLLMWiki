@@ -14,6 +14,7 @@ In the wiki, this genre unites [[berat-albayrak]]'s [[burasi-cok-onemli-enerjide
 ---
 
 ## Books in Wiki
+- [[nuclear-energy-playbook-and-clean-energy-transition-finance]]
 - [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]] (2023) — [[oliver-schmidt]], [[iain-staffell]]
 - [[burasi-cok-onemli-enerjiden-ekonomiye-tam-bagimsiz-turkiye]] (2022) — [[berat-albayrak]]
 - [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility]] (2022) — [[kwo-young]], [[gary-marchant]], [[colin-murphy]], [[alexander-kolpakov]]

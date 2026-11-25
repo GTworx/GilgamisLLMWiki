@@ -49,6 +49,8 @@ On the universalist-liberal pole, [[francis-fukuyama]]'s [[the-end-of-history-an
 - [[comparative-democratic-history]]
 
 ## Books in Wiki
+- [[eiu-regional-economic-outlooks-2025-compendium]]
+- [[goldman-sachs-global-economic-and-asset-management-outlook-2025]]
 - [[china-autocracy-macroeconomic-rebalancing-and-industrial-overcapacity]]
 - [[eiu-economist-intelligence-unit-geo-economic-and-industry-outlooks-compendium]]
 - [[global-business-and-geopolitical-journalism-compendium-2023-2024]]

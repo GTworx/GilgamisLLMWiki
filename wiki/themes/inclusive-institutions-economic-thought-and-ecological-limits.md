@@ -57,6 +57,11 @@ Starting from [[adam-smith]]'s [[the-wealth-of-nations]] and narrated across gen
 - [[financial-history-banking-and-market-psychology]]
 
 ## Books in Wiki
+- [[eiu-regional-economic-outlooks-2025-compendium]]
+- [[european-commission-agricultural-outlook-and-museum-revenue-models]]
+- [[oecd-economic-outlook-december-2024-global-growth-projections]]
+- [[the-economist-and-brookings-global-pension-and-retirement-crisis]]
+- [[turkiye-enflasyon-altinda-reel-servet-koruma-modeli-ve-ozel-sermaye]]
 - [[ai-funded-universal-basic-income-and-technological-unemployment]]
 - [[atlantic-council-freedom-and-prosperity-equation]]
 - [[baumol-productivity-growth-convergence-and-welfare]]

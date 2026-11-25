@@ -42,3 +42,6 @@ In the wiki, [[berat-albayrak]]'s [[burasi-cok-onemli-enerjiden-ekonomiye-tam-ba
 - [[strategic-studies]]
 - [[innovation-and-economic-growth]]
 - [[public-policy-and-urban-mobility]]
+
+## Books in Wiki
+- [[nuclear-energy-playbook-and-clean-energy-transition-finance]]

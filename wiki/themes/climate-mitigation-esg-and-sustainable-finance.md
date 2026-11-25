@@ -57,3 +57,8 @@ Covers the macroeconomic, geopolitical, and corporate restructuring required for
 - [[sustainability-esg-and-clean-technology]]
 - [[corporate-strategy-and-management-classics]]
 - [[disaster-risk-reduction-and-emergency-management]]
+
+## Books in Wiki
+- [[european-commission-agricultural-outlook-and-museum-revenue-models]]
+- [[nuclear-energy-playbook-and-clean-energy-transition-finance]]
+- [[pwc-uli-emerging-trends-in-real-estate-europe-2023]]

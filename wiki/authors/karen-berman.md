@@ -24,3 +24,6 @@ Founder and CEO of the Business Literacy Institute (PhD), specializing in execut
 - [[conrad-carlberg]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
 - [[rationality-and-decision-making]]
+
+## Key Works in Wiki
+- [[berman-knight-financial-intelligence-managers-guide]]

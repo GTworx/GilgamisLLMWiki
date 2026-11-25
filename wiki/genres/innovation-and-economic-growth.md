@@ -14,6 +14,7 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[cb-insights-and-gooinn-global-and-turkish-fintech-compendium]]
 - [[ai-funded-universal-basic-income-and-technological-unemployment]]
 - [[autor-new-frontiers-origins-and-content-of-new-work]]
 - [[baumol-productivity-growth-convergence-and-welfare]]

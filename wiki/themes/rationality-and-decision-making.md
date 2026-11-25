@@ -147,6 +147,8 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 - **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[anatolian-humanism]], [[leadership-and-management]], [[organizational-psychology]], [[social-choice-theory]], [[algebraic-topology]]
 
 ## Books in Wiki
+- [[berman-knight-financial-intelligence-managers-guide]]
+- [[citi-and-ubs-global-wealth-management-outlooks-2025]]
 - [[ben-bernanke-review-into-the-bank-of-england-forecasting]]
 - [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
 - [[fraser-cato-economic-freedom-of-the-world-2024]]

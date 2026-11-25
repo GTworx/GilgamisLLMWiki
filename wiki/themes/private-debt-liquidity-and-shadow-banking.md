@@ -34,6 +34,16 @@ However, prolonged elevated base rates introduce acute challenges: compressed in
 - [[private-equity-vs-classical-capitalism-and-qe-leverage]]
 
 ## Books in Wiki
+- [[digital-assets-stablecoins-and-crypto-risk-in-eurasia]]
+- [[european-and-specialist-asset-management-outlooks-2025]]
+- [[global-private-markets-and-private-equity-outlook-compendium-2024-2025]]
+- [[jpmorgan-turkey-equity-strategy-and-high-hopes-rebound]]
+- [[jpmorgan-wealth-and-asset-management-outlook-2025]]
+- [[oecd-economic-outlook-december-2024-global-growth-projections]]
+- [[pitchbook-private-market-benchmarks-and-middle-market-reports]]
+- [[sifma-capital-markets-factbook-2024]]
+- [[sp-global-and-iosco-private-credit-and-debt-risk-compendium]]
+- [[thinking-ahead-institute-worlds-largest-500-asset-managers]]
 - [[acalin-ball-did-the-us-really-grow-out-of-its-world-war-ii-debt]]
 - [[ben-bernanke-review-into-the-bank-of-england-forecasting]]
 - [[financial-stability-board-global-regulation-and-stability-of-crypto-assets-2022]]

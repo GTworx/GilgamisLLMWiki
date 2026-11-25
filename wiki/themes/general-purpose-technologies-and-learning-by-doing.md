@@ -190,6 +190,8 @@
 - [[wef-future-of-jobs-report-2023]]
 
 ## Books in Wiki
+- [[barclays-and-blackrock-global-investment-outlooks-2025]]
+- [[cb-insights-and-gooinn-global-and-turkish-fintech-compendium]]
 - [[ai-funded-universal-basic-income-and-technological-unemployment]]
 - [[autor-new-frontiers-origins-and-content-of-new-work]]
 - [[baumol-productivity-growth-convergence-and-welfare]]
