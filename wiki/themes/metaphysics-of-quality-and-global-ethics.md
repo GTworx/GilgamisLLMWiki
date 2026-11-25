@@ -39,4 +39,6 @@ In [[zen-and-the-art-of-motorcycle-maintenance]], [[robert-m-pirsig]] demonstrat
 
 
 ## Canonical Works
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]
 - [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]

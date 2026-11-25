@@ -97,3 +97,8 @@ Mapping the evolutionary lineage of human biology—from ancient non-coding neur
 - [[arbib-monkey-action-recognition-to-human-language-neurolinguistics]]
 - [[bak-sneppen-punctuated-equilibrium-and-criticality-in-evolution]]
 - [[grobman-preceramic-maize-and-grape-domestication-genetics]]
+
+
+## Canonical Works
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]
+- [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]

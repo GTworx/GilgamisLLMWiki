@@ -54,3 +54,8 @@ Realigning agricultural production with human nutritional guidelines is the most
 - [[connected-agriculture-iot-and-smart-farming-asia-pacific]]
 - [[financial-times-vertical-farming-and-future-of-agriculture]]
 - [[grobman-preceramic-maize-and-grape-domestication-genetics]]
+
+
+## Canonical Works
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]

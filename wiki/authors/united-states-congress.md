@@ -28,4 +28,5 @@ The bicameral legislature of the federal government of the United States (Senate
 
 
 ## Key Works in Wiki
+- [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[us-chips-and-science-act-and-national-semiconductor-strategy]]

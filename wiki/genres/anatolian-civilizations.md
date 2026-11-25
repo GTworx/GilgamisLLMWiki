@@ -53,3 +53,7 @@ Anatolia represents one of the dense epicenters of human civilization, from the 
 - [[kuran-incil-ve-tevratin-sumerdeki-kokeni]] (1995) — [[muazzez-ilmiye-cig]]
 - [[zaman-tuneli-ile-gecmiste-sumere-yolculuk]] (1993) — [[muazzez-ilmiye-cig]]
 - [[yorukler]] (1991) — [[mehmet-eroz]]
+
+
+## Canonical Works
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]

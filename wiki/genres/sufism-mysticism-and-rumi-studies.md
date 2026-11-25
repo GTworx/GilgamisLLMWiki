@@ -49,3 +49,7 @@ In this wiki, the genre revolves around an extraordinary seven-work [[jalal-al-d
 - [[persian-sufism-skepticism-and-comparative-translation]]
 - [[universal-love-and-human-dignity]]
 - [[social-critique-and-moral-conscience]]
+
+
+## Canonical Works
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]

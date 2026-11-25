@@ -2062,3 +2062,19 @@ This file provides an append-only historical audit log of all book ingestions, c
   - [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]] (Work 1454)
 - **Entities**: 25 new authors created, 25 updated; 39 genre associations, 26 theme associations updated.
 - **Audit**: Passed with 0 broken links, 0 orphans, 0 unindexed pages across 3,790 entity pages.
+
+## 2026-11-25 23:32:32 - Wave AR-20C Ingestion: Mind, Language, Philosophy, Law & Statecraft (Works 1455–1464)
+- **Scope**: Ingested 109 physical files across 17 library collections: `Languages_` (31), `Cognition, Conscious & Wisdom` (14), `Philosophy` (9), `Anthropology_` (9), `Law` (6), `Religion_` (6), `Government_` (5), `Sufism` (5), `News` (5), `Aging` (5), `Literature_` (4), `Future of Edu & Work` (3), `Propaganda` (2), `History` (2), `Psychology_` (1), `Biology` (1), `Fun` (1).
+- **Canonical Works Created**: 10 works (Works 1455–1464).
+  - [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]] (Work 1455)
+  - [[turkic-philology-morphological-systems-and-persian-etymological-interchange]] (Work 1456)
+  - [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]] (Work 1457)
+  - [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]] (Work 1458)
+  - [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]] (Work 1459)
+  - [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]] (Work 1460)
+  - [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]] (Work 1461)
+  - [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]] (Work 1462)
+  - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]] (Work 1463)
+  - [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]] (Work 1464)
+- **Entities**: 18 new authors created, 24 updated; 30 genre associations, 20 theme associations updated.
+- **Audit**: Passed with 0 broken links, 0 orphans, 0 unindexed pages across 3,818 entity pages.

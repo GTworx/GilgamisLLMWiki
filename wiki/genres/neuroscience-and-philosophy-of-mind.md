@@ -88,3 +88,7 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 - [[evolving-brains-emerging-gods-neurobiology-of-religion]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

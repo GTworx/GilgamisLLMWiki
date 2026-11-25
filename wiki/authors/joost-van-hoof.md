@@ -23,3 +23,7 @@ Joost van Hoof is Professor of Urban Ageing at The Hague University of Applied S
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+
+## Key Works in Wiki
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

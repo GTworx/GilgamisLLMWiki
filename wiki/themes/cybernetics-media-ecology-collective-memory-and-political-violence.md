@@ -59,3 +59,7 @@
 - [[caroline-jack-lexicon-of-lies-terms-for-problematic-information]]
 - [[heidemarie-uhl-on-the-culture-of-memory-why-societies-remember]]
 - [[yucel-guclu-akcam-critique-and-armenian-studies-compendium]]
+
+
+## Canonical Works
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

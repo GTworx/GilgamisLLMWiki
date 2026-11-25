@@ -31,4 +31,6 @@ Examines the epistemological foundations, methodological rigor, and institutiona
 
 
 ## Canonical Works
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]
+- [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]
 - [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

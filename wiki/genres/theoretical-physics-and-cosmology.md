@@ -59,3 +59,7 @@ In this wiki, the genre encompasses [[stephen-hawking]]'s cosmological quartet (
 - [[platt-strong-inference-methods-of-scientific-thinking]]
 - [[new-scientist-international-12-march-2022-compendium]]
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
+
+
+## Canonical Works
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]

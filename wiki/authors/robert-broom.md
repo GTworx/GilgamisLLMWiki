@@ -15,3 +15,7 @@ Historic Scottish-South African paleontologist who discovered adult Australopith
 
 ## Canonical Works in Knowledge Base
 - [[broom-pleistocene-anthropoid-apes-australopithecus-discovery]]
+
+
+## Key Works in Wiki
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]

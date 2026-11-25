@@ -53,5 +53,8 @@
 
 
 ## Canonical Works
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]
 - [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]
 - [[metaverse-applications-in-smart-cities-education-and-digital-twins]]

@@ -23,3 +23,7 @@ Michael Snyder is the Stanford W. Ascherman Professor and Chair of the Departmen
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+
+## Key Works in Wiki
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

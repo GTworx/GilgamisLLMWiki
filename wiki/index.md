@@ -4,16 +4,16 @@
 **Local Ollama (`qwen3.8`) Engine**: [.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py](../.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)  
 **Interactive Dashboard**: [index.html](../index.html)  
 **Operations Log**: [wiki/log.md](log.md)  
-**Total Ingested Works**: 1452 Books  
-**Total Authors**: 2086 Authors  
+**Total Ingested Works**: 1462 Books  
+**Total Authors**: 2104 Authors  
 **Total Genres**: 112 Genres  
 **Total Thematic Syntheses**: 144 Themes  
-**Total Wiki Entity Pages**: 3794 Pages  
+**Total Wiki Entity Pages**: 3822 Pages  
 **Last updated**: 2026-11-24
 
 ---
 
-## 1. Books & Monograph Syntheses (1452)
+## 1. Books & Monograph Syntheses (1462)
 
 - [[100-math-brainteasers]]
 - [[1177-bc-the-year-civilization-collapsed]]
@@ -274,6 +274,7 @@
 - [[coaching-for-leadership]]
 - [[coates-how-many-eggs-in-a-venture-capitalists-dozen]]
 - [[cocuklarda-travmanin-yaralarini-sarmak]]
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]
 - [[cognitive-biases-and-territorial-conflict-in-the-levant]]
 - [[cognitive-models-resilience-and-integrity-compendium]]
 - [[colonial-extraction-accounting-and-imperial-crimes]]
@@ -526,6 +527,7 @@
 - [[global-medical-imaging-access-and-mortality-correlation-dossier]]
 - [[global-oil-and-gas-geopolitics-upstream-economics-and-flaring-analysis]]
 - [[global-private-markets-and-private-equity-outlook-compendium-2024-2025]]
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]
 - [[global-rates-trading-and-covid-financial-market-disconnect]]
 - [[global-semiconductor-foundries-geopolitics-and-market-dynamics]]
 - [[global-sportstech-investment-ai-officiating-analytics]]
@@ -661,6 +663,7 @@
 - [[international-building-safety-inspection-and-regulatory-reforms]]
 - [[international-law-of-economic-sanctions-and-un-convention-against-torture]]
 - [[international-olympic-committee-olympic-charter-and-governance]]
+- [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[internet-of-things-from-hype-to-reality]]
 - [[interpol-metaverse-white-paper-law-enforcement-perspective]]
 - [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]
@@ -686,6 +689,7 @@
 - [[is-hayatimdan-kesitler-ve-genclere-tavsiyeler]]
 - [[islam-oncesi-kurt-tarihi]]
 - [[islamda-bilim-ve-teknik-science-and-technology-in-islam]]
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]
 - [[israeli-intelligence-and-proxy-operations-in-iraq]]
 - [[itif-innovation-orchards-producing-startups-of-the-future]]
 - [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
@@ -845,6 +849,7 @@
 - [[molla-nasreddin-the-magazine-that-wouldve-couldve-shouldve]]
 - [[monetizing-energy-storage-a-toolkit-to-assess-future-cost-and-value]]
 - [[mongrel-nation-colonization-in-reverse]]
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]
 - [[mordecai-roshwald-democracy-and-the-elite]]
 - [[morgan-stanley-2026-global-strategy-outlook-year-of-risk-reboot]]
 - [[morgan-stanley-and-cb-insights-quantum-computing-industry-roadmap]]
@@ -858,6 +863,7 @@
 - [[muller-improved-belief-propagation-for-real-time-decoding-of-quantum-memory]]
 - [[mullin-genghis-khan-trade-warrior-pax-mongolica]]
 - [[multi-ethnic-states-and-constitutional-governance]]
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
 - [[municipal-coalition-politics-and-immigrant-mayors]]
 - [[murat-ulker-board-of-directors-governance]]
 - [[murdoch-family-succession-drama-and-transnational-media-power]]
@@ -945,6 +951,7 @@
 - [[persian-loanwords-and-syntactic-morphology-in-turkish]]
 - [[persian-pop-ballads-and-folk-lyric-compendium]]
 - [[personal-finance-and-investing-all-in-one-for-dummies]]
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]
 - [[personal-identity-time-fission-and-psychological-continuity]]
 - [[personality-traits-and-behavioral-patterns-on-social-media]]
 - [[personalized-hydration-physiology-sweat-sodium-balance-in-athletes]]
@@ -974,6 +981,7 @@
 - [[plato-complete-works]]
 - [[platt-strong-inference-methods-of-scientific-thinking]]
 - [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]]
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]
 - [[pluriverse-and-a-world-of-many-worlds-decolonial-ontologies]]
 - [[plutocracy-to-progressivism-mckinley-assassination-and-gilded-age-trusts]]
 - [[podolny-hansen-how-apple-is-organized-for-innovation]]
@@ -1307,6 +1315,7 @@
 - [[total-fertility-rate-demographic-depopulation-and-replacement-dynamics]]
 - [[trammell-aschenbrenner-existential-risk-and-growth]]
 - [[transcaucasia-and-ararat]]
+- [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]
 - [[transparency-international-and-unodc-global-corruption-and-homicide]]
 - [[transparency-international-corruption-perceptions-index-2023-compendium]]
 - [[transparency-international-cpi-and-unodc-global-study-on-homicide]]
@@ -1329,6 +1338,7 @@
 - [[turkey-media-investments-report-h1-2024]]
 - [[turkey-technology-transfer-offices-and-ecosystem-report]]
 - [[turkic-epic-mythology-and-cultural-symbolism-compendium]]
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]
 - [[turkic-world-senate-analysis-2026]]
 - [[turkish-agricultural-modernization-and-medicinal-aromatic-plants]]
 - [[turkish-automotive-and-smart-mobility-ecosystem-report]]
@@ -1470,7 +1480,7 @@
 
 ---
 
-## 2. Authors & Intellectual Contributors (2086)
+## 2. Authors & Intellectual Contributors (2104)
 
 - [[10eqs]]
 - [[1qbit-technologies]]
@@ -1481,6 +1491,7 @@
 - [[abhishek-kumar]]
 - [[abraham-h-maslow]]
 - [[abram-demski]]
+- [[abu-hamid-al-ghazali]]
 - [[accel-partners]]
 - [[accenture-enterprise-strategy]]
 - [[accenture-song]]
@@ -1541,6 +1552,7 @@
 - [[alexander-osterwalder]]
 - [[alexander-savelyev]]
 - [[alexander-zlokapa]]
+- [[alexandre-popovic]]
 - [[alexey-arbatov]]
 - [[alexey-bobrick]]
 - [[alexis-de-tocqueville]]
@@ -1657,6 +1669,7 @@
 - [[bcc-research-advanced-materials-and-devices-group]]
 - [[bcc-research-advanced-materials-group]]
 - [[bcc-research-advanced-transportation-division]]
+- [[bediuzzaman-said-nursi]]
 - [[behavioral-economics-strategy-lab]]
 - [[bekir-pakdemirli]]
 - [[ben-beckmann]]
@@ -1770,6 +1783,7 @@
 - [[cevre-sehircilik-ve-iklim-degisikligi-bakanligi]]
 - [[chaartaar-ensemble]]
 - [[chad-meley]]
+- [[chao-ning]]
 - [[charalampos-christopoulos]]
 - [[charles-a-holloway]]
 - [[charles-duhigg]]
@@ -1816,6 +1830,7 @@
 - [[clifford-t-bekar]]
 - [[climate-tech-venture-consortium]]
 - [[clinical-nutrition-researchers]]
+- [[clio-legal-trends-research]]
 - [[clio-research]]
 - [[clm-research-and-advice]]
 - [[cloud-security-alliance]]
@@ -1915,6 +1930,7 @@
 - [[david-gorman]]
 - [[david-graeber]]
 - [[david-h-cropley]]
+- [[david-lewis]]
 - [[david-m-eagleman]]
 - [[david-mclellan]]
 - [[david-o-robinson]]
@@ -2074,6 +2090,7 @@
 - [[european-and-institutional-asset-management-consortium]]
 - [[european-association-of-cardiovascular-imaging-eacvi]]
 - [[european-cloud-initiative]]
+- [[european-commission]]
 - [[european-commission-dg-connect]]
 - [[european-commission-directorate-general-for-agriculture-and-rural-development]]
 - [[european-commission-taskforce]]
@@ -2093,6 +2110,7 @@
 - [[farid-ud-din-attar]]
 - [[farsca-turkce-linguistik-arastirmalari-grubu]]
 - [[faruk-asicioglu]]
+- [[faruk-kadri-timurtas]]
 - [[fatih-birol]]
 - [[fatma-deniz]]
 - [[federal-emergency-management-agency-fema]]
@@ -2158,6 +2176,7 @@
 - [[funmilayo-ebun-rotimi]]
 - [[future-internet-research-group]]
 - [[future-today-institute]]
+- [[gabor-karman]]
 - [[gaming-in-turkey-advisory]]
 - [[gaming-in-turkey-agency]]
 - [[gang-han]]
@@ -2332,6 +2351,7 @@
 - [[insani-lojistik-arastirma-grubu]]
 - [[institutional-private-equity-consortium]]
 - [[international-agency-for-research-on-cancer-iarc]]
+- [[international-bar-association]]
 - [[international-coma-science-consortium]]
 - [[international-energy-agency-iea]]
 - [[international-financial-and-investigative-press-consortium]]
@@ -2442,6 +2462,7 @@
 - [[johann-knechtel]]
 - [[johannes-friedrich]]
 - [[johannes-himmelreich]]
+- [[johannes-krause]]
 - [[john-a-tracy]]
 - [[john-anthony-west]]
 - [[john-bolton]]
@@ -2652,6 +2673,7 @@
 - [[marco-di-maggio]]
 - [[marcus-aurelius]]
 - [[margaret-g-hermann]]
+- [[margaret-mead]]
 - [[margaret-mead-anthropological-studies-group]]
 - [[maria-schuld]]
 - [[maria-v-sanchez-vives]]
@@ -2671,6 +2693,7 @@
 - [[mark-harris]]
 - [[mark-leonard]]
 - [[mark-leslie]]
+- [[mark-simons]]
 - [[marko-sarstedt]]
 - [[markus-ludwig]]
 - [[marsha-e-ackermann]]
@@ -3051,6 +3074,7 @@
 - [[research-policy-editorial]]
 - [[rethink-energy-consortium]]
 - [[reuters-institute]]
+- [[reuters-institute-for-the-study-of-journalism]]
 - [[reynold-a-nicholson]]
 - [[ricardo-inc]]
 - [[richard-brown]]
@@ -3090,6 +3114,7 @@
 - [[robert-skrob]]
 - [[robin-abrahams]]
 - [[robin-campbell]]
+- [[robin-dunbar]]
 - [[robin-houston]]
 - [[robot-learning-research-group]]
 - [[rod-a-martin]]
@@ -3268,6 +3293,7 @@
 - [[tadeusz-sulimirski]]
 - [[taha-yazicioglu]]
 - [[tahl-raz]]
+- [[talat-tekin]]
 - [[tali-sharot]]
 - [[tamay-besiroglu]]
 - [[tamim-ansary]]
@@ -3362,6 +3388,7 @@
 - [[tuncer-gulensoy]]
 - [[tuong-huy-nguyen]]
 - [[turhan-gurkan]]
+- [[turk-dil-kurumu-tdk]]
 - [[turk-dili-ve-edebiyati-arastirmalari-grubu]]
 - [[turk-diyalektoloji-ve-leksikografi-arastirmalari-grubu]]
 - [[turk-edebiyati-ve-sanat-arastirmalari]]
@@ -3521,6 +3548,7 @@
 - [[world-bank-and-nomura-china-economic-teams]]
 - [[world-economic-forum-centre-for-the-new-economy-and-society]]
 - [[world-economic-forum-global-risk-network]]
+- [[world-economic-forum-wef]]
 - [[world-health-organization-who]]
 - [[world-intellectual-property-organization-wipo]]
 - [[world-soccer-editorial-board]]

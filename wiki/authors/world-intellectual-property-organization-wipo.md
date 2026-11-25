@@ -17,4 +17,5 @@ Geneva-based global forum for intellectual property services, policy, and compre
 - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
 
 ## Key Works in Wiki
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]
 - [[wipo-luiss-world-intangible-investment-highlights-2024]]

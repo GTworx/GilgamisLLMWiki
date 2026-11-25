@@ -59,3 +59,7 @@ Spanning from the eleventh-century arrival of the Seljuk Turks in Anatolia to th
 - [[byzantine-seljuk-ottoman-frontier-and-imperial-transition]]
 - [[ataturk-republican-founding-and-ottoman-turkish-memory]]
 - [[late-ottoman-conflict-palestine-zionism-and-contested-memory]]
+
+
+## Canonical Works
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]

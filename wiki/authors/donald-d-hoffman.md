@@ -31,3 +31,7 @@ Professor of Cognitive Sciences at UC Irvine (b. 1955), co-formulator of the Fit
 - [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
 - [[evolution-of-human-consciousness]]
 - [[hoffman-conscious-realism-and-interface-theory-of-perception]]
+
+
+## Key Works in Wiki
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

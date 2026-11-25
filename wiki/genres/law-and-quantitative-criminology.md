@@ -90,4 +90,5 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 
 
 ## Canonical Works
+- [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

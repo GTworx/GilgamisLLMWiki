@@ -104,3 +104,7 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 
 ## Works in this Genre
 - [[quantum-ergodicity-breaking-chiroptics-and-foundations]]
+
+
+## Canonical Works
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]

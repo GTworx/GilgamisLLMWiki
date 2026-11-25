@@ -214,5 +214,6 @@
 
 
 ## Canonical Works
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
 - [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]
 - [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

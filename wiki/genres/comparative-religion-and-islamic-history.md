@@ -84,3 +84,7 @@ Across the corpus, this genre connects [[muazzez-ilmiye-cig]]'s Sumerian-Abraham
 - [[socio-economic-sufism-in-the-digital-and-modern-era]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]

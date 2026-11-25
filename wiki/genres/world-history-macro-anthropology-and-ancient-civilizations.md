@@ -147,3 +147,9 @@ World History, Macro-Anthropology, and Ancient Civilizations encompasses broad-s
 - [[runic-script-history-and-old-turkic-epigraphy]]
 - [[celtic-and-turanian-linguistic-hypotheses-and-critique]]
 - [[jaynes-bicameral-mind-and-origin-of-consciousness]]
+
+
+## Canonical Works
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]
+- [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]

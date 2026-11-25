@@ -128,5 +128,6 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 
 
 ## Canonical Works
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]
 - [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
 - [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

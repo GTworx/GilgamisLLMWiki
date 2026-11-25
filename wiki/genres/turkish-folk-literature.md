@@ -44,3 +44,7 @@ Characterized by transparent vernacular Turkish rather than ornate court idioms,
 
 - **Related Genres**: [[anatolian-humanism]], [[poetry-and-poetics]], [[political-science]]
 - **Key Themes**: [[asik-and-minstrel-tradition]], [[universal-love-and-human-dignity]], [[social-critique-and-moral-conscience]], [[non-western-strategic-thought]]
+
+
+## Canonical Works
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]

@@ -124,3 +124,7 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 - [[us-chips-and-science-act-and-national-semiconductor-strategy]]
 - [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]
 - [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]
+
+
+## Canonical Works
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

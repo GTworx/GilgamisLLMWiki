@@ -15,3 +15,7 @@ Paleoanthropologist at the University of Hawaii at Manoa; leading authority on L
 
 ## Canonical Works in Knowledge Base
 - [[pleistocene-hominin-evolution-and-archaic-admixture-in-eurasia]]
+
+
+## Key Works in Wiki
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]

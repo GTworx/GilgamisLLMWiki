@@ -114,3 +114,9 @@ The Eurasian steppe was not an empty wilderness separating great sedentary civil
 
 ## Works under this Theme
 - [[kars-turkish-population-genomics-and-variation]]
+
+
+## Canonical Works
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]
+- [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]

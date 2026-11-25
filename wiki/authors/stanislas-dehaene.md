@@ -15,3 +15,7 @@ Director of the Cognitive Neuroimaging Unit at INSERM-CEA; leading architect of 
 
 ## Canonical Works in Knowledge Base
 - [[theories-of-consciousness-gnwt-vs-iit-adversarial-testing]]
+
+
+## Key Works in Wiki
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

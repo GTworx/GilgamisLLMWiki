@@ -16,3 +16,7 @@ Former President of the Turkish Language Association (TDK); foremost living scho
 ## Canonical Works in Knowledge Base
 - [[logic-of-turkish-and-agglutinative-syntax]]
 - [[etymology-and-folk-etymology-in-turkish-linguistics]]
+
+
+## Key Works in Wiki
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]

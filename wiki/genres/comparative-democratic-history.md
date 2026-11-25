@@ -80,3 +80,7 @@
 - [[institutional-neutrality-and-academic-freedom]]
 - [[topological-social-choice-and-preference-cycles]]
 - [[critique-of-academic-orthodoxy]]
+
+
+## Canonical Works
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

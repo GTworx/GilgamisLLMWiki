@@ -122,3 +122,7 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 - [[changing-definition-and-epistemology-of-retirement]]
 - [[yuksel-yks-higher-education-institutions-exam-meaning]]
 - [[the-atlantic-fraudulent-science-of-success-behavioral-economics]]
+
+
+## Canonical Works
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]

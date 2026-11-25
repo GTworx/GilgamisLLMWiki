@@ -82,3 +82,7 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 - [[citi-jpmorgan-macroeconomic-impacts-and-low-touch-economy]]
 - [[workplace-resilience-beyond-the-lockdown-and-cognitive-leadership]]
 - [[bak-sneppen-punctuated-equilibrium-and-criticality-in-evolution]]
+
+
+## Canonical Works
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

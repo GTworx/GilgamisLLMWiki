@@ -118,6 +118,7 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 
 
 ## Canonical Works
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]
 - [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
 - [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]
 - [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

@@ -188,3 +188,7 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 - [[marketing-transformation-in-the-age-of-personalization]]
 - [[court-the-consumer-decision-journey-mckinsey-2009]]
 - [[meltwater-state-of-social-media-marketing-compendium]]
+
+
+## Canonical Works
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

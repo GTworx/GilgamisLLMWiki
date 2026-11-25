@@ -15,3 +15,7 @@ Researcher at Pembroke College, Oxford, specializing in the philosophical and th
 
 ## Canonical Works in Knowledge Base
 - [[quantum-theology-many-worlds-and-moral-responsibility]]
+
+
+## Key Works in Wiki
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]

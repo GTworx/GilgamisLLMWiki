@@ -15,3 +15,7 @@ Director of the Science, Technology, and Society Program at Tufts University; pi
 
 ## Canonical Works in Knowledge Base
 - [[seaver-algorithms-as-culture-ethnography-of-systems]]
+
+
+## Key Works in Wiki
+- [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]

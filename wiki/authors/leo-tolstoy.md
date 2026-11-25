@@ -30,3 +30,7 @@ Russian novelist, moral philosopher, and Christian anarchist (1828–1910), auth
 - [[persian-sufism-skepticism-and-comparative-translation]]
 - [[universal-love-and-human-dignity]]
 - [[tolstoy-treatise-on-the-messenger-of-islam-and-prophet-muhammad]]
+
+
+## Key Works in Wiki
+- [[islamic-psychology-sufi-maslowian-hierarchies-and-bektashi-interconfessionalism]]

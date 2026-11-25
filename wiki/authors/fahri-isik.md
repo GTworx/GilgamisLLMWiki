@@ -22,3 +22,7 @@ Prof. Dr., eminent Turkish classical archaeologist, excavator of Patara, and pio
 - [[muazzez-ilmiye-cig]]
 - [[wendy-m-k-shaw]]
 - [[ali-osman-kurt]]
+
+
+## Key Works in Wiki
+- [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]]

@@ -15,3 +15,7 @@ Distinguished philosopher at Stanford University; renowned authority on personal
 
 ## Canonical Works in Knowledge Base
 - [[personal-identity-time-fission-and-psychological-continuity]]
+
+
+## Key Works in Wiki
+- [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]

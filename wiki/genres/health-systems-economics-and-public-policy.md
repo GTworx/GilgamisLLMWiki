@@ -93,4 +93,5 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 
 
 ## Canonical Works
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
 - [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

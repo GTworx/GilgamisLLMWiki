@@ -67,3 +67,8 @@ Turkology and Comparative Eurasian Philology investigates the linguistic origins
 - [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]]
 - [[archaeology-and-national-identity]]
 - [[panturkism-modernization-and-national-awakening]]
+
+
+## Canonical Works
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]
+- [[transeurasian-and-indo-european-comparative-philology-and-agricultural-dispersal]]

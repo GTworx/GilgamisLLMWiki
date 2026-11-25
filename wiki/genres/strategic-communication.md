@@ -58,3 +58,7 @@ Together, these works establish that effective strategic communication is never 
 - [[rationality-and-decision-making]]
 - [[cooperation-and-reciprocity]]
 - [[evolution-of-strategies]]
+
+
+## Canonical Works
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

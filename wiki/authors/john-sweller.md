@@ -28,3 +28,7 @@ John Sweller is Emeritus Professor of Educational Psychology at the University o
 - [[cognitive-moral-and-social-psychology]]
 - [[general-purpose-technologies-and-learning-by-doing]]
 - [[deep-work-habit-architecture-and-cognitive-systems]]
+
+
+## Key Works in Wiki
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

@@ -15,3 +15,7 @@ Founding developer of Integrated Information Theory (IIT) at the University of W
 
 ## Canonical Works in Knowledge Base
 - [[theories-of-consciousness-gnwt-vs-iit-adversarial-testing]]
+
+
+## Key Works in Wiki
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

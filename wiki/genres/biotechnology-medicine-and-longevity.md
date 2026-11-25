@@ -93,3 +93,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 - [[cellular-reprogramming-protein-deglycation-and-upconversion-optics]]
 - [[neanderthal-polymorphism-enrichment-and-autism-etiology]]
 - [[kars-turkish-population-genomics-and-variation]]
+
+
+## Canonical Works
+- [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

@@ -28,3 +28,7 @@ Julian Jaynes (1920–1997) was an American psychologist and lecturer at Princet
 - [[neuroscience-and-philosophy-of-mind]]
 - [[neurobiology-of-consciousness-and-non-algorithmic-mind]]
 - [[evolution-of-human-consciousness]]
+
+
+## Key Works in Wiki
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]

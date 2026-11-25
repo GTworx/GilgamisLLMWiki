@@ -23,3 +23,7 @@ Mario Draghi is an authoritative scholar, institutional body, or policy leader c
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-10 Ingestion).*
+
+
+## Key Works in Wiki
+- [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

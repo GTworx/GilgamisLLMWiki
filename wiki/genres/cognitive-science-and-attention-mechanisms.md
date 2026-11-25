@@ -69,4 +69,5 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 
 
 ## Canonical Works
+- [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]
 - [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]

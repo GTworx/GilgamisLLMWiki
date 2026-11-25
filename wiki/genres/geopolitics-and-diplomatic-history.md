@@ -169,4 +169,5 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 
 
 ## Canonical Works
+- [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]

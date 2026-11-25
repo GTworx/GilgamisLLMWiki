@@ -55,3 +55,7 @@ In this wiki, the field spans primary Ottoman-script print ([[tevfik-fikret]]'s 
 - [[universal-love-and-human-dignity]]
 - [[student-centric-and-blended-learning]]
 - [[social-critique-and-moral-conscience]]
+
+
+## Canonical Works
+- [[turkic-philology-morphological-systems-and-persian-etymological-interchange]]

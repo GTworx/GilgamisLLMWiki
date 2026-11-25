@@ -39,4 +39,5 @@ Featured in [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility
 
 
 ## Canonical Works
+- [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[metaverse-applications-in-smart-cities-education-and-digital-twins]]
