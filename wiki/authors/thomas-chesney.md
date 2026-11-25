@@ -15,3 +15,7 @@ Researches behavior in online social networks, deviance and griefing in virtual 
 
 ## Canonical Works in Knowledge Base
 - [[chesney-griefing-deviance-and-crime-in-second-life]]
+
+
+## Key Works in Wiki
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]

@@ -13,7 +13,8 @@ Investigates art historical movements, curatorial cataloguing, auction market dy
 - Systematic connoisseurship, pigment analysis, and auction cataloguing standards.
 - Quantitative economic multiplier analysis for sovereign host infrastructure.
 
-## Canonical Works in Knowledge Base
+## Canonical Works
+- [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]] in Knowledge Base
 - [[henry-butcher-southeast-asian-art-market-catalog]]
 - [[art-historical-connoisseurship-and-technical-authentication-guide]]
 - [[gell-technology-of-enchantment-and-enchantment-of-technology]]

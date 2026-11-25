@@ -36,3 +36,7 @@ In [[zen-and-the-art-of-motorcycle-maintenance]], [[robert-m-pirsig]] demonstrat
 - [[leadership-and-management]]
 - [[international-relations]]
 - [[educational-technology-and-disruptive-pedagogy]]
+
+
+## Canonical Works
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]

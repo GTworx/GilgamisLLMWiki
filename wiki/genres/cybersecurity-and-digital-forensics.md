@@ -73,3 +73,7 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 - [[nist-cybersecurity-framework-2-0-and-digital-identity-standards]]
 - [[post-quantum-cryptography-and-quantum-network-teleportation]]
 - [[semiconductor-mes-ip-protection-and-in-sensor-computing]]
+
+
+## Canonical Works
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

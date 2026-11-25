@@ -14,6 +14,7 @@ Interdisciplinary domain examining human biomechanics, periodized physiological 
 - Quantitative economic multiplier analysis for sovereign host infrastructure.
 
 ## Canonical Works
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]
 - [[brady-nohria-the-art-of-leading-teammates]]
 in Knowledge Base
 - [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]]

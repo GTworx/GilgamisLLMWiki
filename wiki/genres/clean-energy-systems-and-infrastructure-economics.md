@@ -100,3 +100,7 @@ Decarbonizing energy is the primary physical prerequisite for stabilizing planet
 - [[disaster-technologies-logistics-and-first-72-hours-preparedness]]
 - [[un-global-sustainable-development-and-deloitte-cxo-sustainability]]
 - [[financial-times-vertical-farming-and-future-of-agriculture]]
+
+
+## Canonical Works
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

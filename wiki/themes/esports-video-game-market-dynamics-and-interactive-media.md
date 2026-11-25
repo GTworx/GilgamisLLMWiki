@@ -14,6 +14,8 @@ Investigates the financial structures, audience demographics, franchise leagues,
 - **Cultural Credibility & Creative Capital**: How next-generation luxury shifts from legacy heritage exclusivity to creator-driven cultural authenticity.
 
 ## Canonical Works
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]
+- [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]
 - [[turkey-media-investments-report-h1-2024]]
 in Knowledge Base
 - [[drake-star-global-gaming-industry-ma-and-investment-report]]

@@ -67,3 +67,7 @@ Within the wiki, [[william-collins-donahue]]'s [[the-end-of-modernism-elias-cane
 - [[cavusca-dialectology-and-etymological-lexicon]]
 - [[tolstoy-treatise-on-the-messenger-of-islam-and-prophet-muhammad]]
 - [[divan-poetry-proverbs-and-positive-emotions]]
+
+
+## Canonical Works
+- [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]]

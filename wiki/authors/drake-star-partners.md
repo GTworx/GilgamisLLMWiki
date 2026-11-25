@@ -16,3 +16,8 @@ Premier international investment bank specializing in M&A and corporate finance 
 ## Canonical Works in Knowledge Base
 - [[drake-star-global-gaming-industry-ma-and-investment-report]]
 - [[global-sportstech-investment-ai-officiating-analytics]]
+
+
+## Key Works in Wiki
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]
+- [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]

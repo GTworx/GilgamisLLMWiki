@@ -125,3 +125,8 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 - [[serpil-karaca-metaverse-or-meta-awareness-philosophical-consciousness]]
 - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
 - [[dialectic-disputation-fallacies-and-applied-ethics]]
+
+
+## Canonical Works
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

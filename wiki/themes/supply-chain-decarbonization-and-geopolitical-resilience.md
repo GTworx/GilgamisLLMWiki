@@ -49,3 +49,7 @@ Investigates the strategic restructuring of global trade corridors and productio
 - [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
 - [[ricardo-ev-vs-ice-life-cycle-analysis-and-tesla-valuation]]
 - [[gooinn-mobility-and-aerospace-innovation-reports]]
+
+
+## Canonical Works
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

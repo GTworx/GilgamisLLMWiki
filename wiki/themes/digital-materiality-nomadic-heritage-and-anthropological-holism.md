@@ -50,3 +50,8 @@
 - [[evolutionary-biology]]
 - [[public-policy-and-urban-mobility]]
 - [[republican-intellectual-history]]
+
+
+## Canonical Works
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]

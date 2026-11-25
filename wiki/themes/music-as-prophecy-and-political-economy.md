@@ -34,3 +34,8 @@ Across the wiki, Attali's four networks—*Sacrificing*, *Representing*, *Repeat
 - [[financial-times-private-equity-billion-dollar-music-catalogs]]
 - [[persian-compound-verbs-and-lexicographical-structures]]
 - [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]]
+
+
+## Canonical Works
+- [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]]
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]

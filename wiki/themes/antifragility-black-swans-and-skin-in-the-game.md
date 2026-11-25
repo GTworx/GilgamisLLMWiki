@@ -74,3 +74,7 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 
 ## Works under this Theme
 - [[bak-sneppen-punctuated-equilibrium-and-criticality-in-evolution]]
+
+
+## Canonical Works
+- [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

@@ -44,3 +44,7 @@ Key dimensions of the genre include:
 - [[rationality-and-decision-making]]
 - [[deep-work-habit-architecture-and-cognitive-systems]]
 - [[virtual-worlds-avatar-psychology-and-spatial-web-governance]]
+
+
+## Canonical Works
+- [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]

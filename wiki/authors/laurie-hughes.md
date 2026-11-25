@@ -15,3 +15,7 @@ Researches artificial intelligence implementation, digital disruption, and emerg
 
 ## Canonical Works in Knowledge Base
 - [[dwivedi-metaverse-beyond-the-hype-multidisciplinary-perspectives]]
+
+
+## Key Works in Wiki
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

@@ -15,3 +15,7 @@ Lausanne-based global non-governmental organization administering the Olympic Ga
 
 ## Canonical Works in Knowledge Base
 - [[international-olympic-committee-olympic-charter-and-governance]]
+
+
+## Key Works in Wiki
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]

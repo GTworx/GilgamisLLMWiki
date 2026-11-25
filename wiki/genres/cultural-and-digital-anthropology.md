@@ -115,3 +115,9 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 - [[kaczorowski-yezidism-and-proto-indo-iranian-religion]]
 - [[divan-poetry-proverbs-and-positive-emotions]]
 - [[craft-cocktail-formulations-mixology-chemistry-and-spirits-culture]]
+
+
+## Canonical Works
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

@@ -16,3 +16,7 @@ Scholar at the University of North Carolina at Greensboro researching the enviro
 ## Canonical Works in Knowledge Base
 - [[kshetri-policy-ethical-social-environmental-considerations-web3-metaverse]]
 - [[dwivedi-metaverse-beyond-the-hype-multidisciplinary-perspectives]]
+
+
+## Key Works in Wiki
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

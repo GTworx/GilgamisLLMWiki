@@ -53,3 +53,7 @@ In *Supernatural*, Graham Hancock explores the "Great Leap Forward" of the Upper
 - [[ghazalian-epistemology-islamic-spiritual-psychology-and-maslow]]
 - [[divan-poetry-proverbs-and-positive-emotions]]
 - [[craft-cocktail-formulations-mixology-chemistry-and-spirits-culture]]
+
+
+## Canonical Works
+- [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]]

@@ -237,3 +237,10 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 - [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]]
 - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
 - [[wef-future-of-jobs-report-2023]]
+
+
+## Canonical Works
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]
+- [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

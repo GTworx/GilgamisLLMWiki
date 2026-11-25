@@ -15,3 +15,7 @@ Grammy-nominated composer and professor at New England Conservatory synthesizing
 
 ## Canonical Works in Knowledge Base
 - [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]
+
+
+## Key Works in Wiki
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]

@@ -44,3 +44,7 @@ McKinsey & Company is a premier global management consulting firm advising corpo
 ## Works Ingested
 - [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
 
+
+
+## Key Works in Wiki
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

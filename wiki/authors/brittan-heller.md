@@ -15,3 +15,7 @@ Specializes in immersive technology regulation, biometric privacy, content moder
 
 ## Canonical Works in Knowledge Base
 - [[heller-watching-androids-dream-of-electric-sheep-biometric-xr-law]]
+
+
+## Key Works in Wiki
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

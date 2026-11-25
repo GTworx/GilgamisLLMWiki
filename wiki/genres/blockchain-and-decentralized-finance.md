@@ -51,3 +51,8 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 - [[decentralized-identity-verification-cryptographic-patent]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

@@ -1,0 +1,39 @@
+# Metaverse Beyond the Hype: Academic Taxonomies, Multidisciplinary Research Agendas, and Bibliometric Architectures
+
+## Metadata
+- **Index**: Work 1443
+- **Author(s)**: [[yogesh-k-dwivedi]], [[nir-kshetri]], [[laurie-hughes]], [[ramazan-damar]], [[aras-bozkurt]]
+- **Genre(s)**: [[cultural-and-digital-anthropology]], [[robotics-autonomous-systems-and-spatial-computing]], [[educational-technology-and-disruptive-pedagogy]]
+- **Key Themes**: [[virtual-worlds-avatar-psychology-and-spatial-web-governance]], [[scientific-methodology-falsification-and-metascience]]
+
+## Summary
+Authoritative scholarly and bibliometric compendium examining the ontological, technological, and socio-economic definitions of the Metaverse. Centered around Dwivedi et al.'s landmark International Journal of Information Management treatise alongside systematic bibliometric reviews and early 2003 ARPANET/immersive environment architecture papers, the volume deconstructs the metaverse into interoperable layer models, sensory immersiveness, multi-agent virtual economies, and meta-awareness.
+
+## Analytical Overview
+This volume synthesizes the rigorous academic literature defining the ontological, technical, and structural dimensions of the Metaverse, cutting through speculative industry narratives. At its core is Dwivedi et al.’s seminal 2022 treatise in the *International Journal of Information Management*—*Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy*—which convenes dozens of leading international scholars across computer science, economics, law, and sociology.
+
+Key analytical components include:
+1. **Ontological Lineage and Architectural Evolution**: Traces the technological trajectory from early 2003 self-configuring networked immersive environments and IEEE standards through to modern multi-layered virtual architectures combining XR hardware, real-time physics engines, edge cloud networking, and decentralized identity.
+2. **Bibliometric Mapping and Scientometrics**: Analyzes Damar’s bibliometric snapshot and related citation mapping spanning 1990–2022 (supplemented by Google Ngram longitudinal studies), tracing the term's evolution from Neal Stephenson’s *Snow Crash* (1992) to its contemporary academic institutionalization.
+3. **MetaSocieties, MetaEconomics, and MetaManagement**: Evaluates conceptual frameworks for virtual enterprises, algorithmic city management, decentralized autonomous organizations (DAOs), and what Serpil & Karaca formalize as 'Meta-Awareness'—the cognitive and philosophical boundary between physical presence and synthetic immersion.
+
+## Primary Sources
+- [Dwivedi J Info Management 2022 Metaverse beyond the hype - Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Dwivedi J Info Management 2022 Metaverse beyond the hype - Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy.pdf) — (55p, 5008.2KB)
+- [3D Virtual Worlds and the Metaverse_ Current Status and Future.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/3D Virtual Worlds and the Metaverse_ Current Status and Future.pdf) — (39p, 560.0KB)
+- [2003 TECH The Metaverse - A networked collection of inexpensive, self-configuring, immersive environments.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2003 TECH The Metaverse - A networked collection of inexpensive, self-configuring, immersive environments.pdf) — (11p, 1449.6KB)
+- [The Metaverse - A networked collection of inexpensive, self-configuring, immersive environments.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/The Metaverse - A networked collection of inexpensive, self-configuring, immersive environments.pdf) — (11p, 1449.6KB)
+- [2021 PROBLEM All One Needs to Know about Metaverse J Latex Class Files 2.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2021 PROBLEM All One Needs to Know about Metaverse J Latex Class Files 2.pdf) — (66p, 30339.5KB)
+- [2021 PROBLEM All One Needs to Know about Metaverse J Latex Class Files.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2021 PROBLEM All One Needs to Know about Metaverse J Latex Class Files.pdf) — (66p, 30339.5KB)
+- [2022 PROBLEM A_Metaverse_Taxonomy_Components_Applications_and_Open_Challenges 2.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2022 PROBLEM A_Metaverse_Taxonomy_Components_Applications_and_Open_Challenges 2.pdf) — (43p, 31588.3KB)
+- [2022 PROBLEM A_Metaverse_Taxonomy_Components_Applications_and_Open_Challenges.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2022 PROBLEM A_Metaverse_Taxonomy_Components_Applications_and_Open_Challenges.pdf) — (43p, 31588.3KB)
+- [2022 DEFINITION Impact_of_the_Metaverse_on_the_Digital_Future_Peoples_Perspective 2.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2022 DEFINITION Impact_of_the_Metaverse_on_the_Digital_Future_Peoples_Perspective 2.pdf) — (6p, 4230.3KB)
+- [2022 DEFINITION Impact_of_the_Metaverse_on_the_Digital_Future_Peoples_Perspective.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/2022 DEFINITION Impact_of_the_Metaverse_on_the_Digital_Future_Peoples_Perspective.pdf) — (6p, 4230.3KB)
+- [Definition Metaverse encyclopedia-02-00031-v2.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Definition Metaverse encyclopedia-02-00031-v2.pdf) — (12p, 592.5KB)
+- [Damar J Metaverse 2021 Metaverse Shape of Your Life for Future_ A bibliometric snapshot.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Damar J Metaverse 2021 Metaverse Shape of Your Life for Future_ A bibliometric snapshot.pdf) — (8p, 4668.3KB)
+- [Serpil & Karaca J Metaverse 2023 The Metaverse or Meta-Awareness.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Serpil & Karaca J Metaverse 2023 The Metaverse or Meta-Awareness.pdf) — (8p, 906.6KB)
+- [Yemenici J Metaverse 2022 Entrepreneurship in The World of Metaverse- Virtual or Real.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Yemenici J Metaverse 2022 Entrepreneurship in The World of Metaverse- Virtual or Real.pdf) — (12p, 403.5KB)
+- [MetaSocieties_in_Metaverse_MetaEconomics_and_MetaManagement_for_MetaEnterprises_and_MetaCities.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Business Economics_/MetaSocieties_in_Metaverse_MetaEconomics_and_MetaManagement_for_MetaEnterprises_and_MetaCities.pdf) — (6p, 548.0KB)
+- [Keynote_Speaker_Metaverse_from_Fiction_to_Reality_and_the_Research_Behind_It.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Overview_/Keynote_Speaker_Metaverse_from_Fiction_to_Reality_and_the_Research_Behind_It.pdf) — (1p, 223.1KB)
+- [Keynote_Speaker_The_Hitchhikers_Guide_to_the_Metaverse.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/Overview_/Keynote_Speaker_The_Hitchhikers_Guide_to_the_Metaverse.pdf) — (1p, 140.7KB)
+- [GoogleNgram1990-2021.PNG](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/GoogleNgram1990-2021.PNG) — (0p, 113.2KB)
+- [document.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Metaverse_/document.pdf) — (9p, 4358.6KB)

@@ -32,3 +32,7 @@ Accenture Strategy & Technology Consulting advises global enterprise executives 
 - [[corporate-strategy-and-management-classics]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Key Works in Wiki
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

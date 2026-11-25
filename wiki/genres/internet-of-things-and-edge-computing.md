@@ -28,3 +28,7 @@ In this wiki, the genre pairs Cisco engineers [[ammar-rayes]] and [[samer-salam]
 - [[decentralized-trust-and-cryptographic-governance]]
 - [[hybrid-threats-and-cyber-warfare]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+
+
+## Canonical Works
+- [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]

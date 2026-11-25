@@ -107,3 +107,7 @@ Within the Gilgamis LLM Wiki, this genre stages a rigorous multi-perspective syn
 - [[metaphysics-of-quality-and-global-ethics]]
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[cooperation-and-reciprocity]]
+
+
+## Canonical Works
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]

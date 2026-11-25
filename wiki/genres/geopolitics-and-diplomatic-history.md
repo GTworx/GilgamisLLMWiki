@@ -166,3 +166,7 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 - [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]
 - [[eurovision-song-contest-sponsorship-and-geopolitical-soft-power]]
 - [[protecting-americans-from-foreign-adversary-applications-act]]
+
+
+## Canonical Works
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]

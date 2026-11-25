@@ -66,3 +66,7 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 ## Works in this Genre
 - [[baumeister-napolitano-bad-is-stronger-than-good-and-conspiracy-insulation]]
 - [[cummins-scherer-speech-analysis-for-depression-and-suicide-risk]]
+
+
+## Canonical Works
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]

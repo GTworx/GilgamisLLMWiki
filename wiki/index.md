@@ -4,16 +4,16 @@
 **Local Ollama (`qwen3.8`) Engine**: [.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py](../.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)  
 **Interactive Dashboard**: [index.html](../index.html)  
 **Operations Log**: [wiki/log.md](log.md)  
-**Total Ingested Works**: 1439 Books  
-**Total Authors**: 2061 Authors  
+**Total Ingested Works**: 1452 Books  
+**Total Authors**: 2086 Authors  
 **Total Genres**: 112 Genres  
-**Total Thematic Syntheses**: 140 Themes  
-**Total Wiki Entity Pages**: 3752 Pages  
+**Total Thematic Syntheses**: 144 Themes  
+**Total Wiki Entity Pages**: 3794 Pages  
 **Last updated**: 2026-11-24
 
 ---
 
-## 1. Books & Monograph Syntheses (1439)
+## 1. Books & Monograph Syntheses (1452)
 
 - [[100-math-brainteasers]]
 - [[1177-bc-the-year-civilization-collapsed]]
@@ -121,9 +121,11 @@
 - [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]
 - [[atheism-all-that-matters]]
 - [[atlantic-council-freedom-and-prosperity-equation]]
+- [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]
 - [[authoritarian-governance-in-the-united-arab-emirates]]
 - [[autonomous-vehicles-challenges-opportunities-and-future]]
 - [[autor-new-frontiers-origins-and-content-of-new-work]]
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]
 - [[avim-avrasya-incelemeleri-merkezi-faaliyet-raporu-2023]]
 - [[avrupa-ve-biz]]
 - [[aws-iot-security-best-practices-guide]]
@@ -298,6 +300,7 @@
 - [[crossing-the-chasm]]
 - [[crossroads-of-civilization-a-history-of-central-asia]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]]
+- [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]
 - [[crypto-philanthropy-and-blockchain-forensics-annual-report]]
 - [[culinary-genealogy-and-food-origins-from-barbecue-to-pizza]]
 - [[cultural-history-and-culinary-evolution-of-american-and-global-fast-food]]
@@ -360,6 +363,7 @@
 - [[drunken-monkey-hypothesis-and-fermentation-origins-of-feasting]]
 - [[duan-mao-breaking-sorting-barrier-directed-sssp]]
 - [[dwivedi-metaverse-beyond-the-hype-multidisciplinary-perspectives]]
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]
 - [[dyadic-conflict-dynamics-both-partners-negative-emotion-drives-aggression]]
 - [[eagleman-defensive-activation-theory-of-rem-sleep]]
 - [[eagleman-vaughn-defensive-activation-theory-and-rem-sleep]]
@@ -387,6 +391,7 @@
 - [[endeavor-insight-unicorn-founder-career-pathways]]
 - [[entelektuelin-kutsal-kitabi-biyografiler]]
 - [[entelektuelin-kutsal-kitabi-modern-kultur]]
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]
 - [[enterprise-cloud-architecture-digital-core-and-devsecops]]
 - [[enterprise-cloud-for-dummies-nutanix-special-edition]]
 - [[enterprise-devops-monitoring-capabilities-for-saas]]
@@ -403,6 +408,7 @@
 - [[ermenilerin-kaleminden-kurtlesen-ermeniler]]
 - [[erspc-european-study-of-prostate-cancer-screening-mortality-and-overdiagnosis]]
 - [[esik-toplumsal-cinsiyet-esitligi-bakis-acisindan-6-subat-depremleri]]
+- [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]
 - [[ethics-in-higher-education-values-driven-leaders-for-the-future]]
 - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
 - [[etohum-startup-turkey-ecosystem-compendium]]
@@ -657,6 +663,7 @@
 - [[international-olympic-committee-olympic-charter-and-governance]]
 - [[internet-of-things-from-hype-to-reality]]
 - [[interpol-metaverse-white-paper-law-enforcement-perspective]]
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]
 - [[intertemporal-choice-and-present-bias-failures]]
 - [[interventional-genetics-personalized-in-vivo-crispr-gene-editing-platforms]]
 - [[introduction-to-artificial-intelligence]]
@@ -801,6 +808,7 @@
 - [[mckinsey-building-an-industrial-saas-software-business]]
 - [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]
 - [[mckinsey-investing-in-the-rising-data-center-economy]]
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]
 - [[mckinsey-technology-trends-outlook-compendium]]
 - [[mckinsey-the-next-big-arenas-of-competition]]
 - [[mckinsey-what-is-quantum-computing]]
@@ -815,6 +823,8 @@
 - [[meltdown-credit-suisse]]
 - [[meltwater-state-of-social-media-marketing-compendium]]
 - [[messinger-3d-social-virtual-worlds-research-agenda]]
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
 - [[metaverse-in-education-taxonomic-definition-and-pedagogy]]
 - [[metaverse-museum-exhibitions-and-iot-deployment-architecture]]
 - [[metaverse-security-and-privacy-threat-vectors-and-defenses]]
@@ -852,6 +862,7 @@
 - [[murat-ulker-board-of-directors-governance]]
 - [[murdoch-family-succession-drama-and-transnational-media-power]]
 - [[murdock-tsai-kukushkin-multisensory-gamma-stimulation-and-cellular-memory]]
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]
 - [[nagle-chronic-procrastination-neurobiology-and-behavioral-architecture]]
 - [[napoleon-a-biography]]
 - [[napolitano-conspiracy-theories-and-evidential-self-insulation]]
@@ -1115,6 +1126,7 @@
 - [[space-based-solar-power-and-coherent-wireless-power-transfer]]
 - [[spin-selling]]
 - [[spirituality-in-the-land-of-the-noble-reviews]]
+- [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]
 - [[start-with-why]]
 - [[starting-and-running-a-coaching-business]]
 - [[startup-genome-global-startup-ecosystem-reports-compendium]]
@@ -1394,6 +1406,7 @@
 - [[vices-of-the-mind]]
 - [[virtual-communities-egalitarianism-and-online-conflict-dynamics]]
 - [[virtue-ethics-and-human-computer-interaction-design]]
+- [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]]
 - [[visual-capitalist-black-swan-events-short-term-crisis]]
 - [[volkan-chosen-trauma-and-terrorism-the-victim-narrative]]
 - [[volunteerism-in-crisis-accounting-and-collaboration-strategies]]
@@ -1457,7 +1470,7 @@
 
 ---
 
-## 2. Authors & Intellectual Contributors (2061)
+## 2. Authors & Intellectual Contributors (2086)
 
 - [[10eqs]]
 - [[1qbit-technologies]]
@@ -1587,6 +1600,7 @@
 - [[applied-physics-inc]]
 - [[applied-physics-think-tank]]
 - [[aram-w-harrow]]
+- [[aras-bozkurt]]
 - [[arash-fathi]]
 - [[arcadia-computational-psychology]]
 - [[archaeological-discovery-consortium]]
@@ -1678,6 +1692,7 @@
 - [[bob-dorf]]
 - [[bogazici-universitesi-kandilli-rasathanesi]]
 - [[boris-groysberg]]
+- [[boston-consulting-group]]
 - [[boston-consulting-group-luxury-practice]]
 - [[boston-science-diplomacy-consortium]]
 - [[botanical-and-circadian-biology-group]]
@@ -1755,6 +1770,7 @@
 - [[cevre-sehircilik-ve-iklim-degisikligi-bakanligi]]
 - [[chaartaar-ensemble]]
 - [[chad-meley]]
+- [[charalampos-christopoulos]]
 - [[charles-a-holloway]]
 - [[charles-duhigg]]
 - [[charlotte-higgins]]
@@ -1937,6 +1953,7 @@
 - [[diane-mulcahy]]
 - [[didier-anzieu]]
 - [[diego-alburez-gutierrez]]
+- [[digital-curation-institute]]
 - [[digital-ethics-and-information-privacy-group]]
 - [[digital-health-compensation-consortium]]
 - [[digital-media-futures-consortium]]
@@ -2091,6 +2108,7 @@
 - [[financial-times-editorial-board]]
 - [[financial-times-editorial-consortium]]
 - [[financial-times-energy-and-agriculture-group]]
+- [[financial-times-investigations]]
 - [[financial-times-investigative-team]]
 - [[financial-times-tech-and-geopolitics-desk]]
 - [[fine-art-connoisseurship-and-forensics-group]]
@@ -2100,6 +2118,7 @@
 - [[florentina-nitu]]
 - [[food-and-agriculture-organization-fao]]
 - [[food-sensory-science-group]]
+- [[forbes-financial-intelligence]]
 - [[forensic-materials-science-consortium]]
 - [[forrester-research]]
 - [[forrester-research-consortium]]
@@ -2139,6 +2158,7 @@
 - [[funmilayo-ebun-rotimi]]
 - [[future-internet-research-group]]
 - [[future-today-institute]]
+- [[gaming-in-turkey-advisory]]
 - [[gaming-in-turkey-agency]]
 - [[gang-han]]
 - [[garret-j-etgen]]
@@ -2254,6 +2274,7 @@
 - [[henry-reeve]]
 - [[high-alpha-venture-studio]]
 - [[high-alpha-ventures]]
+- [[highsnobiety-cultural-insights]]
 - [[highsnobiety-editorial-team]]
 - [[hikmet-kivilcimli]]
 - [[historical-archive-editorial]]
@@ -2301,6 +2322,7 @@
 - [[ilber-ortayli]]
 - [[ilhami-durmus]]
 - [[imam-al-ghazali]]
+- [[immersive-tech-intelligence-group]]
 - [[india-deep-tech-consortium]]
 - [[indus-civilization-paleoclimate-group]]
 - [[industrial-cybersecurity-alliance]]
@@ -2408,6 +2430,7 @@
 - [[jim-collins]]
 - [[jim-mattis]]
 - [[jim-reid]]
+- [[jin-kook-lee]]
 - [[jiu-hwa-lo-upshur]]
 - [[jll-research]]
 - [[jo-hands]]
@@ -2472,6 +2495,7 @@
 - [[jostein-gaarder]]
 - [[joy-trinquet]]
 - [[joyce-kay-avila]]
+- [[jpmorgan-chase-thought-leadership]]
 - [[jpmorgan-emerging-markets-equity-research]]
 - [[jpmorgan-emerging-markets-research]]
 - [[judith-hurwitz]]
@@ -2493,6 +2517,7 @@
 - [[kamran-niaz]]
 - [[kandilli-observatory-and-earthquake-research-institute]]
 - [[kapsul-bulten]]
+- [[kapsul-kultur-arastirmalari]]
 - [[karen-berman]]
 - [[karen-dillon]]
 - [[karen-hao]]
@@ -2710,6 +2735,7 @@
 - [[mercer-korn-ferry-and-wtw-human-capital-consortium]]
 - [[merve-dilek-dagdelen]]
 - [[mesut-aydiner]]
+- [[meta-platforms-research]]
 - [[metabolic-oncology-consortium]]
 - [[metropoll-arastirma]]
 - [[michael-a-arbib]]
@@ -2856,6 +2882,7 @@
 - [[nuria-marti-gutierrez]]
 - [[nuriye-atabey]]
 - [[nvidia-corporation]]
+- [[nyu-center-for-business-and-human-rights]]
 - [[obiora-ike]]
 - [[octave-operational-excellence-group]]
 - [[octave-plancherel]]
@@ -3004,6 +3031,7 @@
 - [[rakesh-agrawal]]
 - [[ralph-r-roberts]]
 - [[ramana-nanda]]
+- [[ramazan-damar]]
 - [[ramiz-asker]]
 - [[ran-duan]]
 - [[rand-corporation]]
@@ -3013,6 +3041,7 @@
 - [[ray-valdes]]
 - [[recai-tekoglu]]
 - [[recep-ahishali]]
+- [[reed-smith-global-regulatory-group]]
 - [[reed-smith-llp-media-and-technology-practice]]
 - [[reid-hoffman]]
 - [[reklamcilar-dernegi]]
@@ -3069,6 +3098,7 @@
 - [[roger-roberts]]
 - [[romeo-dean]]
 - [[ronald-e-leenes]]
+- [[ronald-leenes]]
 - [[ronggui-yang]]
 - [[ronghuai-huang]]
 - [[ronit-kark]]
@@ -3106,6 +3136,7 @@
 - [[saturnino-l-salas]]
 - [[satwik-patnaik]]
 - [[satyabrata-sahu]]
+- [[saudi-ministry-of-sport]]
 - [[saudi-venture-capital-company-svc]]
 - [[savas-kilic]]
 - [[schneider-electric]]
@@ -3141,6 +3172,7 @@
 - [[sezen-sungur-saral]]
 - [[shahin-najafi]]
 - [[shams-i-tabrizi]]
+- [[shannon-vallor]]
 - [[shaowen-bardzell]]
 - [[shaun-lawson]]
 - [[she-persisted-global-initiative]]
@@ -3168,11 +3200,13 @@
 - [[society-to-improve-diagnosis-in-medicine]]
 - [[sophie-l-n-hermans]]
 - [[soroush-vosoughi]]
+- [[sothebys-institute-of-art]]
 - [[south-asian-archaeogenomics-consortium]]
 - [[south-asian-historiography-and-security-studies-group]]
 - [[south-asian-security-studies-consortium]]
 - [[south-asian-sociological-and-caste-studies-forum]]
 - [[sp-global-commodity-insights]]
+- [[spatial-computing-research-consortium]]
 - [[spatial-media-and-cyber-ethics-group]]
 - [[specialist-risk-group]]
 - [[spine-surgery-and-orthopedic-rehabilitation-consortium]]
@@ -3264,6 +3298,7 @@
 - [[the-giving-block-editorial]]
 - [[the-karman-project]]
 - [[the-karman-project-fellowship]]
+- [[the-linux-foundation-hyperledger]]
 - [[the-wall-street-journal-editorial-board]]
 - [[the-world-bank-group]]
 - [[the-world-bank-infrastructure-and-transport-practice-group]]
@@ -3329,10 +3364,13 @@
 - [[turhan-gurkan]]
 - [[turk-dili-ve-edebiyati-arastirmalari-grubu]]
 - [[turk-diyalektoloji-ve-leksikografi-arastirmalari-grubu]]
+- [[turk-edebiyati-ve-sanat-arastirmalari]]
 - [[turk-kizilay]]
 - [[turk-sanayicileri-ve-is-insanlari-dernegi-tusiad]]
 - [[turk-tabipleri-birligi-ttb]]
 - [[turker-kurt]]
+- [[turkey-game-developers-association]]
+- [[turkey-traditional-sports-federation]]
 - [[turkic-and-mongolic-philology-group]]
 - [[turkic-linguistics-and-logic-group]]
 - [[turkic-world-policy-analysts]]
@@ -3640,7 +3678,7 @@
 
 ---
 
-## 4. Thematic Concepts & Conceptual Clusters (140)
+## 4. Thematic Concepts & Conceptual Clusters (144)
 
 - [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]
 - [[adaptive-intelligence-and-organizational-resilience]]
@@ -3664,8 +3702,10 @@
 - [[clash-of-civilizations]]
 - [[clean-energy-transition-hydrogen-and-grid-decarbonization]]
 - [[climate-mitigation-esg-and-sustainable-finance]]
+- [[cloud-computing-and-distributed-systems]]
 - [[cloud-native-architecture-and-declarative-infrastructure]]
 - [[cloud-scale-fraud-analytics-and-security-data-lakes]]
+- [[cognitive-moral-and-social-psychology]]
 - [[commercial-spaceflight-orbital-infrastructure-and-warp-mechanics]]
 - [[computational-complexity-and-algorithmic-limits]]
 - [[constrained-vs-unconstrained-visions-and-postcolonial-identity]]
@@ -3687,6 +3727,7 @@
 - [[disruptive-innovation-blitzscaling-and-founder-resilience]]
 - [[enduring-greatness-empowered-product-teams-and-open-source-ecosystems]]
 - [[energy-transition-and-storage-economics]]
+- [[entrepreneurship-and-startup-methodology]]
 - [[esports-video-game-market-dynamics-and-interactive-media]]
 - [[eurasian-steppe-nomads-silk-road-and-ethnogenesis]]
 - [[evolution-of-human-consciousness]]
@@ -3698,6 +3739,7 @@
 - [[food-systems-resilience-and-dietary-metabolism]]
 - [[gene-centric-evolution-and-memetics]]
 - [[general-purpose-technologies-and-learning-by-doing]]
+- [[geopolitics-and-diplomatic-history]]
 - [[health-economics-reimbursement-and-regulatory-governance]]
 - [[hermetic-tradition-and-secret-societies]]
 - [[human-centered-ai-and-augmented-leadership]]

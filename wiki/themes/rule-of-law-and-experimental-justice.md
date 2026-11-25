@@ -73,3 +73,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 - [[ethics-of-innovative-carceral-metaverse-path-to-incarceration]]
 - [[patent-eligibility-of-blockchain-and-emerging-technologies-post-alice]]
 - [[international-olympic-committee-olympic-charter-and-governance]]
+
+
+## Canonical Works
+- [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

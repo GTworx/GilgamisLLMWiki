@@ -101,3 +101,8 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 - [[knill-multivariable-calculus-partial-derivatives-harvard]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

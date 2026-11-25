@@ -14,6 +14,13 @@ Synthesizes the behavioral, ethical, legal, and architectural dimensions of 3D v
 - **Cultural Credibility & Creative Capital**: How next-generation luxury shifts from legacy heritage exclusivity to creator-driven cultural authenticity.
 
 ## Canonical Works
+- [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]
 - [[mindshare-culture-and-consumer-trends-2024]]
 - [[gooinn-turkey-e-commerce-report-2024]]
 - [[remote-work-nonverbal-communication-and-virtual-meetings]]

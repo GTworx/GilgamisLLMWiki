@@ -28,3 +28,7 @@ In the Gilgamis LLM Wiki, this genre is anchored by [[jacques-attali]]'s [[noise
 - [[akpolat-istanbul-concert-and-live-music-industry-post-pandemic]]
 - [[sanlikol-bi-musicality-and-ottoman-jazz-synthesis]]
 - [[dincer-temporal-poetics-ziya-osman-saba-gecen-zaman]]
+
+
+## Canonical Works
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]

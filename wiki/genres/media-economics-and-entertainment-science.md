@@ -85,3 +85,10 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]]
+- [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]
+- [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

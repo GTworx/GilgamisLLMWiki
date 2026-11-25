@@ -45,3 +45,7 @@ Studies examining the physics, manufacturing execution systems, foundry economic
 - [[semiconductor-geopolitics-foundry-yields-and-mercantilism]]
 - [[arm-v9-architecture-and-ai-compute-subsystems]]
 - [[amd-advanced-datacenter-architecture-and-sovereign-ai]]
+
+
+## Canonical Works
+- [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]

@@ -28,3 +28,7 @@ Examines the epistemological foundations, methodological rigor, and institutiona
 - [[livson-prokopenko-non-orientable-topology-of-condorcets-paradox]]
 - [[candia-hidalgo-decay-of-collective-memory-and-research-space]]
 - [[rahwan-shariff-bonnefon-science-fiction-science-method]]
+
+
+## Canonical Works
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

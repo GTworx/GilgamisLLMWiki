@@ -78,3 +78,7 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 - [[rationality-and-decision-making]]
 - [[inclusive-institutions-economic-thought-and-ecological-limits]]
 - [[social-critique-and-moral-conscience]]
+
+
+## Canonical Works
+- [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

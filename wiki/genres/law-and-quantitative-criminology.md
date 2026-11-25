@@ -87,3 +87,7 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 - [[international-olympic-committee-olympic-charter-and-governance]]
 - [[art-historical-connoisseurship-and-technical-authentication-guide]]
 - [[protecting-americans-from-foreign-adversary-applications-act]]
+
+
+## Canonical Works
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

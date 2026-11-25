@@ -15,3 +15,7 @@ Leading scholar in activity theory, postphenomenological HCI, and mediated perce
 
 ## Canonical Works in Knowledge Base
 - [[philosophy-of-human-computer-interaction-postphenomenology]]
+
+
+## Key Works in Wiki
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]

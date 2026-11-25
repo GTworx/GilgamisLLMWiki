@@ -15,3 +15,7 @@ Delivers quantitative industry surveys, C-suite benchmarks, and operational impl
 
 ## Canonical Works in Knowledge Base
 - [[deloitte-global-blockchain-survey-gets-down-to-business]]
+
+
+## Key Works in Wiki
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

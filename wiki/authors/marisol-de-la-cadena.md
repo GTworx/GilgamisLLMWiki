@@ -15,3 +15,7 @@ Anthropologist at UC Davis pioneering decolonial ethnography, indigenous cosmopo
 
 ## Canonical Works in Knowledge Base
 - [[pluriverse-and-a-world-of-many-worlds-decolonial-ontologies]]
+
+
+## Key Works in Wiki
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]

@@ -15,3 +15,7 @@ Head of Emerging Technologies Research at Swansea University; prominent scholar 
 
 ## Canonical Works in Knowledge Base
 - [[dwivedi-metaverse-beyond-the-hype-multidisciplinary-perspectives]]
+
+
+## Key Works in Wiki
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

@@ -85,3 +85,12 @@ The convergence of embodied foundation models, high-torque actuators, and spatia
 ## Works in this Genre
 - [[anthropic-morgan-stanley-humanoids-and-swarm-robotics]]
 - [[wearable-computing-technologies-and-global-connected-iot-solutions]]
+
+
+## Canonical Works
+- [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]
+- [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

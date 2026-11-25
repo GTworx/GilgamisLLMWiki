@@ -36,3 +36,7 @@ Featured in [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility
 - [[energy-transition-and-storage-economics]]
 - [[rationality-and-decision-making]]
 - [[cooperation-and-reciprocity]]
+
+
+## Canonical Works
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]

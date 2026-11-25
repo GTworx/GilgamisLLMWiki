@@ -15,3 +15,7 @@ Investigates social interaction patterns in virtual worlds, online multiplayer g
 
 ## Canonical Works in Knowledge Base
 - [[yee-bailenson-proteus-effect-and-avatar-psychology]]
+
+
+## Key Works in Wiki
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]

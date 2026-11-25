@@ -211,3 +211,8 @@
 - [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
 - [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
 - [[bagloee-asadi-autonomous-vehicles-transportation-policies]]
+
+
+## Canonical Works
+- [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]
+- [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]

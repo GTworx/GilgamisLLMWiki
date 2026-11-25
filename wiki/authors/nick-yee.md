@@ -15,3 +15,7 @@ Pioneered the empirical study of the 'Proteus Effect' and gamer motivation profi
 
 ## Canonical Works in Knowledge Base
 - [[yee-bailenson-proteus-effect-and-avatar-psychology]]
+
+
+## Key Works in Wiki
+- [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]

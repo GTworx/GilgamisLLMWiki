@@ -15,3 +15,7 @@ Vice President for Large-Scale Renewables at NYSERDA; expert on energy transitio
 
 ## Canonical Works in Knowledge Base
 - [[sassine-blockchain-applications-in-energy-sector-microgrids]]
+
+
+## Key Works in Wiki
+- [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

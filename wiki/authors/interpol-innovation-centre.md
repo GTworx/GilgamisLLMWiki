@@ -15,3 +15,7 @@ Singapore-based research hub of INTERPOL pioneering law enforcement operational 
 
 ## Canonical Works in Knowledge Base
 - [[interpol-metaverse-white-paper-law-enforcement-perspective]]
+
+
+## Key Works in Wiki
+- [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

@@ -17,3 +17,7 @@ Engaging quantitative datasets, qualitative institutional case studies, and rigo
 ## Works Ingested
 - [[kpmg-mit-wired-frontier-technology-and-management-review]]
 
+
+
+## Key Works in Wiki
+- [[metaverse-applications-in-smart-cities-education-and-digital-twins]]

@@ -15,3 +15,7 @@ Co-Director of the Event Lab at the University of Barcelona; world-renowned pion
 
 ## Canonical Works in Knowledge Base
 - [[slater-sanchez-vives-ethics-of-realism-in-virtual-and-augmented-reality]]
+
+
+## Key Works in Wiki
+- [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
