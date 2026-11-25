@@ -77,4 +77,8 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 
 
 ## Canonical Works
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
+- [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
+- [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]
+- [[stefano-caselli-private-equity-and-venture-capital-foundations]]
 - [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

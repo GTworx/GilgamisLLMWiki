@@ -4,4 +4,5 @@
 Technology Development Foundation of Turkey, established in 1991 through a public-private partnership with the World Bank, driving industrial innovation, technology commercialization, and fund-of-funds architecture.
 
 ## Key Works in Wiki
+- [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
 - [[ttgv-fon-modeli-ve-technoscape-stratejisi]]

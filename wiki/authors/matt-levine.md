@@ -25,4 +25,5 @@ Author of Bloomberg Opinion's *Money Stuff*, former investment banker at Goldman
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
 
 ## Key Works in Wiki
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
 - [[levine-texas-tempts-tesla-and-musk-pay-package]]

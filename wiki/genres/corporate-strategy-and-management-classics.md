@@ -240,6 +240,11 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 
 
 ## Canonical Works
+- [[private-equity-operating-partners-compensation-and-generative-ai]]
+- [[stefano-caselli-private-equity-and-venture-capital-foundations]]
+- [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
+- [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]]
+- [[carlota-perez-technological-revolutions-and-startup-strategy]]
 - [[sportstech-olympic-charter-and-saudi-2034-world-cup-geopolitics]]
 - [[esports-and-gaming-market-dynamics-drake-star-and-turkiye-game-industry]]
 - [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

@@ -68,3 +68,7 @@ Frontier AI development has transformed from software engineering into an indust
 - [[google-quantum-supremacy-and-random-circuit-sampling]]
 - [[global-semiconductor-foundries-geopolitics-and-market-dynamics]]
 - [[us-chips-and-science-act-and-national-semiconductor-strategy]]
+
+
+## Canonical Works
+- [[private-equity-operating-partners-compensation-and-generative-ai]]

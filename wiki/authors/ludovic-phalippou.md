@@ -24,3 +24,7 @@ Professor of Financial Economics at Saïd Business School, University of Oxford,
 - [[morten-sorensen]]
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+
+
+## Key Works in Wiki
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]

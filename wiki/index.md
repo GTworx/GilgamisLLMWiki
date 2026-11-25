@@ -4,16 +4,16 @@
 **Local Ollama (`qwen3.8`) Engine**: [.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py](../.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)  
 **Interactive Dashboard**: [index.html](../index.html)  
 **Operations Log**: [wiki/log.md](log.md)  
-**Total Ingested Works**: 1462 Books  
-**Total Authors**: 2104 Authors  
+**Total Ingested Works**: 1472 Books  
+**Total Authors**: 2128 Authors  
 **Total Genres**: 112 Genres  
-**Total Thematic Syntheses**: 144 Themes  
-**Total Wiki Entity Pages**: 3822 Pages  
+**Total Thematic Syntheses**: 147 Themes  
+**Total Wiki Entity Pages**: 3859 Pages  
 **Last updated**: 2026-11-24
 
 ---
 
-## 1. Books & Monograph Syntheses (1462)
+## 1. Books & Monograph Syntheses (1472)
 
 - [[100-math-brainteasers]]
 - [[1177-bc-the-year-civilization-collapsed]]
@@ -216,6 +216,7 @@
 - [[candia-hidalgo-decay-of-collective-memory-and-research-space]]
 - [[capitalism-socialism-and-democracy]]
 - [[capstone-partners-testing-inspection-and-certification-ma-report]]
+- [[carlota-perez-technological-revolutions-and-startup-strategy]]
 - [[carlota-perez-technological-revolutions-and-techno-economic-paradigms]]
 - [[caroline-jack-lexicon-of-lies-terms-for-problematic-information]]
 - [[carta-state-of-us-startups-2023]]
@@ -618,6 +619,7 @@
 - [[how-will-you-measure-your-life]]
 - [[howard-marks-oaktree-capital-memos-on-cycles-and-market-psychology]]
 - [[hsbc-ivb-vc-term-sheet-guide-2025]]
+- [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]
 - [[human-supervisory-control-of-heterogeneous-robot-swarms]]
 - [[humphrey-husband-evolutionary-psychology-of-suicide-and-death-language]]
 - [[humphrey-the-lure-of-death-suicide-and-human-evolution]]
@@ -976,6 +978,9 @@
 - [[pitchbook-quantitative-perspectives-private-capital-cycle]]
 - [[pitchbook-technology-outlook-trilogy-2025]]
 - [[pitchbook-us-and-european-private-equity-outlook]]
+- [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]
+- [[pitchbook-us-venture-clusters-austin-boston-chicago-and-silicon-valley]]
+- [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
 - [[pitchbook-venture-capital-market-outlook-and-benchmarks]]
 - [[pivot-alan-zimmerman]]
 - [[plato-complete-works]]
@@ -998,7 +1003,9 @@
 - [[presidency-strategy-kahramanmaras-hatay-earthquakes-assessment]]
 - [[private-equity-and-the-public-good]]
 - [[private-equity-buyouts-in-healthcare-who-wins-who-loses]]
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
 - [[private-equity-in-401k-retirement-plans]]
+- [[private-equity-operating-partners-compensation-and-generative-ai]]
 - [[private-equity-operating-partners-compensation-and-value-creation]]
 - [[private-equity-vs-classical-capitalism-and-qe-leverage]]
 - [[probabilistic-artificial-intelligence]]
@@ -1138,8 +1145,11 @@
 - [[start-with-why]]
 - [[starting-and-running-a-coaching-business]]
 - [[startup-genome-global-startup-ecosystem-reports-compendium]]
+- [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]]
 - [[startups-watch-turkiye-girisim-ekosistemi-longitudinal-compendium]]
+- [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
 - [[state-of-it-asset-management-2022]]
+- [[stefano-caselli-private-equity-and-venture-capital-foundations]]
 - [[steinhardt-the-cyclic-theory-of-the-universe]]
 - [[stephen-ergodicity-breaking-robust-to-arbitrary-perturbations]]
 - [[stock-investing-for-dummies]]
@@ -1480,9 +1490,10 @@
 
 ---
 
-## 2. Authors & Intellectual Contributors (2104)
+## 2. Authors & Intellectual Contributors (2128)
 
 - [[10eqs]]
+- [[1776-global-incubator-network]]
 - [[1qbit-technologies]]
 - [[3d-token-consortium]]
 - [[a-a-long]]
@@ -1573,6 +1584,7 @@
 - [[amazon-web-services-iot-practice]]
 - [[american-hospital-association-aha]]
 - [[american-political-economy-and-progressive-era-group]]
+- [[americans-for-financial-reform-afref]]
 - [[amir-mahan]]
 - [[ammar-rayes]]
 - [[amy-c-edmondson]]
@@ -1703,6 +1715,7 @@
 - [[bloomberg-news]]
 - [[bloomberg-technology-group]]
 - [[bob-dorf]]
+- [[bocconi-university-sda]]
 - [[bogazici-universitesi-kandilli-rasathanesi]]
 - [[boris-groysberg]]
 - [[boston-consulting-group]]
@@ -1749,6 +1762,7 @@
 - [[canan-m-ozsoy]]
 - [[canan-ozsoy]]
 - [[cancer-immunology-consortium]]
+- [[capstone-partners]]
 - [[capstone-partners-research]]
 - [[carlo-m-cipolla]]
 - [[carlota-perez]]
@@ -1759,6 +1773,7 @@
 - [[carolyn-kousky]]
 - [[carolyn-stein]]
 - [[carrie-s-mongle]]
+- [[carta-equity-research]]
 - [[carta-research]]
 - [[caspar-oesterheld]]
 - [[catalant-technologies]]
@@ -1776,6 +1791,7 @@
 - [[cemal-granda]]
 - [[cemal-sureya]]
 - [[cemil-yucel]]
+- [[center-for-economic-and-policy-research-cepr]]
 - [[center-for-internet-security]]
 - [[centers-for-medicare-and-medicaid-services-cms]]
 - [[central-eurasian-historiography-project]]
@@ -2096,6 +2112,7 @@
 - [[european-commission-taskforce]]
 - [[european-media-observatory]]
 - [[european-parliament-public-opinion-monitoring-unit]]
+- [[european-private-equity-and-venture-capital-association]]
 - [[european-security-corpus]]
 - [[evidence-based-wellness-consortium]]
 - [[evliya-celebi]]
@@ -2105,6 +2122,7 @@
 - [[executive-communication-institute]]
 - [[executive-resilience-consortium]]
 - [[exponential-leadership-collaborative]]
+- [[ey-turkey-strategy-and-ma]]
 - [[eyup-akman]]
 - [[fahri-isik]]
 - [[farid-ud-din-attar]]
@@ -2232,6 +2250,7 @@
 - [[gooinn-innovation]]
 - [[gooinn-innovation-consulting]]
 - [[gooinn-innovation-research]]
+- [[gooinn-inovasyon-arastirmalari]]
 - [[gozde-kara]]
 - [[graham-allison]]
 - [[graham-hancock]]
@@ -2280,6 +2299,7 @@
 - [[hector-garcia]]
 - [[heidemarie-uhl]]
 - [[heidrick-and-struggles]]
+- [[heidrick-and-struggles-pe-practice]]
 - [[heinrich-von-kleist]]
 - [[helio-fred-garcia]]
 - [[henrietta-m-batson]]
@@ -2349,6 +2369,7 @@
 - [[information-security-and-cryptography-group]]
 - [[information-technology-and-innovation-foundation-itif]]
 - [[insani-lojistik-arastirma-grubu]]
+- [[institutional-limited-partners-association-ilpa]]
 - [[institutional-private-equity-consortium]]
 - [[international-agency-for-research-on-cancer-iarc]]
 - [[international-bar-association]]
@@ -2568,6 +2589,7 @@
 - [[kent-d-lee]]
 - [[kerri-oneill]]
 - [[kersey-graves]]
+- [[kevin-boudreau]]
 - [[kevin-d-roberts]]
 - [[kevin-feasel]]
 - [[kevin-gabbard]]
@@ -2846,6 +2868,7 @@
 - [[national-renewable-energy-laboratory-nrel]]
 - [[national-science-foundation]]
 - [[national-science-foundation-nsf]]
+- [[national-venture-capital-association-nvca]]
 - [[nature-biotechnology-researchers]]
 - [[nature-editorial-consortium]]
 - [[nature-food-research-collaborative]]
@@ -2926,6 +2949,7 @@
 - [[open-innovation-research-consortium]]
 - [[openai-research]]
 - [[openssf-and-linux-foundation]]
+- [[operating-partner-alliance]]
 - [[opus-faveo-innovation-group]]
 - [[oreilly-editorial-consortium]]
 - [[organisation-for-economic-co-operation-and-development]]
@@ -3007,6 +3031,9 @@
 - [[pitchbook-data]]
 - [[pitchbook-emerging-tech-research]]
 - [[pitchbook-institutional-research]]
+- [[pitchbook-institutional-research-group]]
+- [[pitchbook-private-equity-practice]]
+- [[pitchbook-venture-capital-practice]]
 - [[plato]]
 - [[pleistocene-paleoanthropology-consortium]]
 - [[political-neuromarketing-research-group]]
@@ -3017,6 +3044,7 @@
 - [[pragmatic-coders]]
 - [[pramila-patten]]
 - [[pranjal-barman]]
+- [[preqin-global-private-debt-group]]
 - [[presh-talwalkar]]
 - [[presidency-strategy-and-budget-directorate-sbb]]
 - [[prima-clinical-study-group]]
@@ -3185,6 +3213,7 @@
 - [[semra-oguz]]
 - [[seneca]]
 - [[sente-ventures]]
+- [[seraf-compass-angel-research]]
 - [[serdar-erkan]]
 - [[sergey-bravyi]]
 - [[sergio-boixo]]
@@ -3242,10 +3271,13 @@
 - [[stacey-harmer]]
 - [[stanford-center-for-genomics-and-personalized-medicine]]
 - [[stanford-graduate-school-of-business]]
+- [[stanford-us-asia-tech-center]]
 - [[stanislas-dehaene]]
 - [[startup-genome-fintech-consortium]]
 - [[startup-genome-research]]
+- [[startup-genome-research-network]]
 - [[startups-watch]]
+- [[startups-watch-turkey]]
 - [[stat-news-editorial]]
 - [[stefan-scherer]]
 - [[stefan-soesanto]]
@@ -3431,7 +3463,9 @@
 - [[tushar-balkrishna-raut]]
 - [[tusiad-and-skd-turkey]]
 - [[tusiad-and-un-global-compact]]
+- [[tusiad-girisimcilik-yuvarlak-masasi]]
 - [[tyler-yamazaki]]
+- [[ubi-global]]
 - [[ubi-global-research]]
 - [[ubs-global-research]]
 - [[ubs-global-wealth-management-chief-investment-office]]
@@ -3706,7 +3740,7 @@
 
 ---
 
-## 4. Thematic Concepts & Conceptual Clusters (144)
+## 4. Thematic Concepts & Conceptual Clusters (147)
 
 - [[abrahamic-origins-sectarian-schism-and-iranian-mesopotamian-continuity]]
 - [[adaptive-intelligence-and-organizational-resilience]]
@@ -3739,7 +3773,9 @@
 - [[constrained-vs-unconstrained-visions-and-postcolonial-identity]]
 - [[consultative-questioning-and-constructive-tension]]
 - [[cooperation-and-reciprocity]]
+- [[corporate-finance-and-investment-banking]]
 - [[corporate-governance-board-oversight-and-executive-stewardship]]
+- [[corporate-strategy-and-management-classics]]
 - [[cosmology-black-holes-and-the-arrow-of-time]]
 - [[counterinsurgency-mountain-warfare-and-classical-military-strategy]]
 - [[critical-infrastructure-vulnerability-and-aging-dams]]
@@ -3764,6 +3800,7 @@
 - [[evolutionary-naturalism-new-atheism-and-theistic-apologetics]]
 - [[fanaticism-and-human-sacrifice]]
 - [[fault-tolerant-quantum-computing-and-error-correction]]
+- [[financial-history-banking-and-market-psychology]]
 - [[food-systems-resilience-and-dietary-metabolism]]
 - [[gene-centric-evolution-and-memetics]]
 - [[general-purpose-technologies-and-learning-by-doing]]

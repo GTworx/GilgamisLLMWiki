@@ -110,4 +110,13 @@ Within the Gilgamis LLM Wiki, this genre stages a rigorous multi-perspective syn
 
 
 ## Canonical Works
+- [[private-equity-operating-partners-compensation-and-generative-ai]]
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
+- [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]
+- [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
+- [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]
+- [[stefano-caselli-private-equity-and-venture-capital-foundations]]
+- [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
+- [[pitchbook-us-venture-clusters-austin-boston-chicago-and-silicon-valley]]
+- [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]]
 - [[music-industry-economics-private-equity-catalogs-and-bi-musicality]]

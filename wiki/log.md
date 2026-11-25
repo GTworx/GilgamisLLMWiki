@@ -2078,3 +2078,19 @@ This file provides an append-only historical audit log of all book ingestions, c
   - [[global-publishing-economics-anatolian-civilization-and-transylvanian-diplomacy]] (Work 1464)
 - **Entities**: 18 new authors created, 24 updated; 30 genre associations, 20 theme associations updated.
 - **Audit**: Passed with 0 broken links, 0 orphans, 0 unindexed pages across 3,818 entity pages.
+
+## 2026-11-25 23:35:33 - Wave AR-20D Ingestion: Private Equity, Venture Capital & Entrepreneurship (Works 1465–1474)
+- **Scope**: Ingested 125 physical files across 5 library collections: `Entrepreneurship` (62), `PE & VC` (52), `Innovation_` (9), `Business` (1), `Leadership` (1).
+- **Canonical Works Created**: 10 works (Works 1465–1474).
+  - [[carlota-perez-technological-revolutions-and-startup-strategy]] (Work 1465)
+  - [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]] (Work 1466)
+  - [[pitchbook-us-venture-clusters-austin-boston-chicago-and-silicon-valley]] (Work 1467)
+  - [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]] (Work 1468)
+  - [[stefano-caselli-private-equity-and-venture-capital-foundations]] (Work 1469)
+  - [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]] (Work 1470)
+  - [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]] (Work 1471)
+  - [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]] (Work 1472)
+  - [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]] (Work 1473)
+  - [[private-equity-operating-partners-compensation-and-generative-ai]] (Work 1474)
+- **Entities**: 24 new authors created, 13 updated; 30 genre associations, 20 theme associations updated.
+- **Audit**: Passed with 0 broken links, 0 orphans, 0 unindexed pages across 3,852 entity pages.

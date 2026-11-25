@@ -52,3 +52,11 @@ Disciplines analyzing valuation methodologies, capital structure optimization, l
 - [[turkish-corporate-compensation-executive-remuneration-and-wage-benchmarks-compendium]]
 - [[turkish-industrial-capacity-manufacturing-statistics-and-business-demography-2023]]
 - [[united-states-federal-budget-and-fiscal-architecture-2024]]
+
+
+## Canonical Works
+- [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]
+- [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
+- [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]
+- [[stefano-caselli-private-equity-and-venture-capital-foundations]]
+- [[pitchbook-us-venture-clusters-austin-boston-chicago-and-silicon-valley]]

@@ -86,3 +86,7 @@ Unites Silicon Valley executive coaching (*Trillion Dollar Coach*, *The Great CE
 - [[tactical-empathy-persuasion-principles-and-rhetorical-mastery]]
 - [[lean-startup-customer-development-and-product-market-fit]]
 - [[consultative-questioning-and-constructive-tension]]
+
+
+## Canonical Works
+- [[private-equity-operating-partners-compensation-and-generative-ai]]

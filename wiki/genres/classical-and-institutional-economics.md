@@ -127,4 +127,5 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 
 
 ## Canonical Works
+- [[carlota-perez-technological-revolutions-and-startup-strategy]]
 - [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

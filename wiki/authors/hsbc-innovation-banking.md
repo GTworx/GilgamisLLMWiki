@@ -23,3 +23,7 @@ Specialized commercial banking and venture finance division of HSBC (integrating
 - [[venture-capital-analyst-corpus]]
 - [[venture-capital-term-sheets-and-fundraising-mechanics]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+
+
+## Key Works in Wiki
+- [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]

@@ -41,3 +41,7 @@ In [[disrupting-class-how-disruptive-innovation-will-change-the-way-the-world-le
 - [[general-purpose-technologies-and-learning-by-doing]]
 - [[adaptive-intelligence-and-organizational-resilience]]
 - [[organizational-culture-and-rewilding]]
+
+
+## Key Works in Wiki
+- [[carlota-perez-technological-revolutions-and-startup-strategy]]

@@ -27,4 +27,5 @@ General Partner at Flybridge Capital Partners, Senior Lecturer at Harvard Busine
 - [[disruptive-innovation-blitzscaling-and-founder-resilience]]
 
 ## Key Works in Wiki
+- [[pitchbook-us-venture-clusters-austin-boston-chicago-and-silicon-valley]]
 - [[pitchbook-and-bussgang-us-regional-venture-ecosystems-compendium]]

@@ -173,3 +173,12 @@ In this wiki, the genre anchors the complete Silicon Valley intellectual arc: [[
 - [[socio-economic-sufism-in-the-digital-and-modern-era]]
 
 ## Works in this Genre
+
+
+## Canonical Works
+- [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]
+- [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
+- [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
+- [[pitchbook-us-venture-clusters-austin-boston-chicago-and-silicon-valley]]
+- [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]]
+- [[carlota-perez-technological-revolutions-and-startup-strategy]]

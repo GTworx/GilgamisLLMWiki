@@ -191,4 +191,6 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 
 
 ## Canonical Works
+- [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
+- [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]]
 - [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

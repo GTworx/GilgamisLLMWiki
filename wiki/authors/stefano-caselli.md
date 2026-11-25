@@ -25,3 +25,7 @@ Dean of SDA Bocconi School of Management and Professor of Banking and Finance at
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[venture-capital-term-sheets-and-fundraising-mechanics]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+
+
+## Key Works in Wiki
+- [[stefano-caselli-private-equity-and-venture-capital-foundations]]

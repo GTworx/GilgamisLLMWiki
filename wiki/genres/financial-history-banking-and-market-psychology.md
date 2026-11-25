@@ -81,4 +81,6 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 
 
 ## Canonical Works
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
+- [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]
 - [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

@@ -93,5 +93,6 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 
 
 ## Canonical Works
+- [[private-equity-critiques-irr-delusions-and-healthcare-buyouts]]
 - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]
 - [[crypto-asset-markets-pwc-global-regulation-and-healthcare-disruption]]

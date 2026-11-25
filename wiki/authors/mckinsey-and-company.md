@@ -47,4 +47,5 @@ McKinsey & Company is a premier global management consulting firm advising corpo
 
 
 ## Key Works in Wiki
+- [[private-equity-operating-partners-compensation-and-generative-ai]]
 - [[mckinsey-jpmorgan-metaverse-value-creation-and-enterprise-roadmaps]]
