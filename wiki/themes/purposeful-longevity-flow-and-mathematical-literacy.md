@@ -69,3 +69,6 @@ In [[ikigai-the-japanese-secret-to-a-long-and-happy-life]], [[hector-garcia]] an
 - [[changing-definition-and-epistemology-of-retirement]]
 - [[bloom-the-2-sigma-problem-group-instruction-tutoring]]
 - [[clynes-how-to-raise-a-genius-smpv]]
+
+## Books in Wiki
+- [[kultgen-habits-and-execution-mechanics-get-things-done]]

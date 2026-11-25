@@ -65,3 +65,6 @@ Investigates competing empirical and philosophical accounts of subjective consci
 - [[parallelism-quantum-classical-physics-and-biological-evolution]]
 - [[quantum-foundations-classical-correspondence-and-decoherence]]
 - [[steinhardt-the-cyclic-theory-of-the-universe]]
+
+## Books in Wiki
+- [[zak-the-neuroscience-of-trust-hbr-2017]]

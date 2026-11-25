@@ -23,3 +23,6 @@ Author of Bloomberg Opinion's *Money Stuff*, former investment banker at Goldman
 - [[ludovic-phalippou]]
 - [[private-equity-value-creation-leverage-and-systemic-risk]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+
+## Key Works in Wiki
+- [[levine-texas-tempts-tesla-and-musk-pay-package]]

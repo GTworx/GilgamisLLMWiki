@@ -14,6 +14,18 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[kilts-center-marketing-science-chicago-booth-review]]
+- [[iot-analytics-what-ceos-are-talking-about-2024]]
+- [[benkler-coases-penguin-commons-based-peer-production]]
+- [[cb-insights-book-of-strategy-maps-2023]]
+- [[kara-germany-industry-4-0-and-technological-transformation]]
+- [[allison-great-tech-rivalry-china-vs-us]]
+- [[hbr-the-year-in-tech-2024]]
+- [[mit-accelerating-digital-transformation-report]]
+- [[green-hand-mckinsey-diversity-matters-revisited-2024]]
+- [[exponential-leadership-principles-singularity]]
+- [[marketing-transformation-in-the-age-of-personalization]]
+- [[meltwater-state-of-social-media-marketing-compendium]]
 - [[forensic-ballistic-fingerprint-visualization-on-spent-cartridge-casings]] (2025) — [[forensic-materials-science-consortium]], [[robert-m-hill]]
 - [[topological-social-choice-and-the-non-orientable-condorcet-paradox]] (2026) — [[mathematical-social-choice-group]], [[donald-g-saari]]
 - [[harappan-civilization-climate-collapse-and-bioapatite-paleoclimatology]] (2016) — [[anindya-sarkar]], [[arpita-sengupta]], [[indus-civilization-paleoclimate-group]]

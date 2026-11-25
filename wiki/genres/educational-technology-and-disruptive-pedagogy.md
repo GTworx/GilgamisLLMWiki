@@ -14,6 +14,7 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Books in Wiki
+- [[lahey-the-gift-of-failure-and-learning-autonomy]]
 - [[co-intelligence-living-and-working-with-ai]] (2024) — [[ethan-mollick]]
 - [[cocuklarda-travmanin-yaralarini-sarmak]] (2023) — [[peter-a-levine]], [[maggie-kline]], [[katerina-honzikova]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]

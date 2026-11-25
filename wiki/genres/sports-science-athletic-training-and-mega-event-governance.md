@@ -13,7 +13,9 @@ Interdisciplinary domain examining human biomechanics, periodized physiological 
 - Systematic connoisseurship, pigment analysis, and auction cataloguing standards.
 - Quantitative economic multiplier analysis for sovereign host infrastructure.
 
-## Canonical Works in Knowledge Base
+## Canonical Works
+- [[brady-nohria-the-art-of-leading-teammates]]
+in Knowledge Base
 - [[gelisim-wrestling-pedagogy-biomechanics-and-traditional-training]]
 - [[international-olympic-committee-olympic-charter-and-governance]]
 - [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]

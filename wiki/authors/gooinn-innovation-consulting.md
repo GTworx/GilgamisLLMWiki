@@ -26,3 +26,6 @@ GOOINN is an international corporate innovation and venture-building consultancy
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Key Works in Wiki
+- [[gooinn-turkey-e-commerce-report-2024]]

@@ -14,6 +14,18 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[levine-texas-tempts-tesla-and-musk-pay-package]]
+- [[nielseniq-zmd-turkey-retail-and-fmcg-trends-2024]]
+- [[barrons-top-wealth-management-teams-report]]
+- [[visual-capitalist-black-swan-events-short-term-crisis]]
+- [[bloomberg-businessweek-march-13-2023-compendium]]
+- [[financial-times-europe-june-11-2022-compendium]]
+- [[global-fintech-ecosystem-report-2020]]
+- [[motley-fool-the-7-absolute-best-stocks-compendium]]
+- [[guex-swiss-banking-secrecy-law-origins]]
+- [[bain-current-state-of-global-ma-2023-2024]]
+- [[wall-street-journal-june-11-2022-compendium]]
+- [[fox-trust-games-and-banking-career-selection]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[la-saga-des-rothschild]] (2017) — [[tristan-gaston-breton]]
 - [[fooled-by-randomness]] (2001) — [[nassim-nicholas-taleb]]

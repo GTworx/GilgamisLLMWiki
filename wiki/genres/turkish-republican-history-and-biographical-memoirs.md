@@ -12,6 +12,10 @@ Anchors a rich Turkish-language and comparative historical cluster spanning tent
 ---
 
 ## Books in Wiki
+- [[kaplan-norton-the-balanced-scorecard-1992]]
+- [[murat-ulker-board-of-directors-governance]]
+- [[dewar-keller-malhotra-ceo-excellence-assessment]]
+- [[saral-hezarfen-celebi-and-robin-hood-leadership-transformation]]
 - [[benim-pencerem]] (2022) — [[burak-dalgin]]
 - [[canakkale-zafer-yolunda]] (2022) — [[bugra-atasayar]], [[burcu-alver]]
 - [[bir-omur-nasil-yasanir]] (2019) — [[ilber-ortayli]], [[yenal-bilgici]]

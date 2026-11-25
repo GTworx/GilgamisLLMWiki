@@ -47,3 +47,7 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[reuters-institute-digital-news-report-2023]]
 - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
 - [[aspen-institute-commission-on-information-disorder-report]]
+
+## Books in Wiki
+- [[wef-the-global-risks-report-2024]]
+- [[meltwater-state-of-social-media-marketing-compendium]]

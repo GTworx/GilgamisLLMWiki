@@ -14,6 +14,8 @@ This genre links [[j-eric-oliver]] & [[thomas-j-wood]]'s empirical study of Amer
 ---
 
 ## Books in Wiki
+- [[transparency-international-corruption-perceptions-index-2023-compendium]]
+- [[newsweek-international-november-2022-compendium]]
 - [[vices-of-the-mind]] (2019) — [[quassim-cassam]]
 - [[enchanted-america]] (2018) — [[j-eric-oliver]], [[thomas-j-wood]]
 - [[the-righteous-mind]] (2012) — [[jonathan-haidt]]

@@ -48,3 +48,7 @@ Following the 9/11 attacks, a widespread consensus emerged among security analys
 
 - **Related Themes**: [[deterrence-and-coercion]], [[hybrid-threats-and-cyber-warfare]], [[cross-domain-conflict]], [[rationality-and-decision-making]]
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[security-studies]], [[international-relations]]
+
+## Books in Wiki
+- [[newsweek-international-november-2022-compendium]]
+- [[oas-the-economics-of-drug-trafficking-in-the-americas]]

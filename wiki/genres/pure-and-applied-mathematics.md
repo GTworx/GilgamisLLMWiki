@@ -14,6 +14,8 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[ergin-sonmez-unver-incentive-compatible-liver-exchange]]
+- [[bhattacharya-parkinsons-model-of-management]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]
 - [[introduction-to-formal-philosophy]] (2018) — [[sven-ove-hansson]], [[vincent-f-hendricks]]
 - [[quantum-mechanics-for-pedestrians]] (2018) — [[jochen-pade]]

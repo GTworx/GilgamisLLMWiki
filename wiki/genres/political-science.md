@@ -15,6 +15,11 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[allison-great-tech-rivalry-china-vs-us]]
+- [[newsweek-international-november-2022-compendium]]
+- [[wef-the-global-risks-report-2024]]
+- [[oas-the-economics-of-drug-trafficking-in-the-americas]]
+- [[at-kearney-gbpc-ceo-retreat-runaway-world]]
 - [[science-diplomacy-and-soft-power-statecraft-in-global-governance]] (2022) — [[boston-science-diplomacy-consortium]], [[paul-a-berkman]]
 - [[eu-code-of-practice-on-disinformation-and-digital-platform-accountability]] (2023) — [[european-commission-dg-connect]], [[european-media-observatory]]
 - [[evolution-of-legal-systems-and-tiktok-comparative-regulatory-law]] (2024) — [[comparative-law-and-jurisprudence-group]]

@@ -23,3 +23,6 @@ MIT Sloan Management Review is a peer-reviewed academic management journal publi
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Key Works in Wiki
+- [[mit-accelerating-digital-transformation-report]]

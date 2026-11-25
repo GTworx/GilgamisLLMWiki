@@ -4,7 +4,7 @@
 **Publication Year**: 2012 (HarperBusiness / HarperCollins, New York)
 **Genre(s)**: [[leadership-and-management]], [[corporate-strategy-and-management-classics]], [[ethics-and-value-philosophy]]
 **Key Themes**: [[power-realism-social-contagion-and-intentional-life-design]], [[purposeful-longevity-flow-and-mathematical-literacy]], [[social-critique-and-moral-conscience]]
-**Source**: `BOOKS/EQ, Negotiation, Influence/How Will You Measure Your Life_ ( PDFDrive ).pdf` (156 pp.)
+**Source**: `BOOKS/EQ, Negotiation, Influence/How Will You Measure Your Life_ ( PDFDrive ).pdf` (156 pp.); `ARTICLES-REPORTS/Leadership/How-Will-You-Measure-Your-Life-–-Clayton-Christensen.pdf` (HBR reprint)
 **Last updated**: 2026-11-22
 
 ---

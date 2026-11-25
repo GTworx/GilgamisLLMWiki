@@ -14,6 +14,7 @@ In [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018), CB Insights
 ---
 
 ## Books in Wiki
+- [[cb-insights-book-of-strategy-maps-2023]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018)
 
 ---

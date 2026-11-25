@@ -82,3 +82,9 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 - [[karadag-yucel-turkiye-universite-memnuniyet-arastirmasi-tuma-2023]]
 - [[yuksel-yks-higher-education-institutions-exam-meaning]]
 - [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]
+
+## Books in Wiki
+- [[agile-management-psychology-and-psychological-safety]]
+- [[hbr-centennial-issue-what-does-your-company-really-stand-for]]
+- [[lahey-the-gift-of-failure-and-learning-autonomy]]
+- [[zheng-kark-inclusive-leadership-architecture]]

@@ -59,3 +59,6 @@ In corporate and institutional leadership, strategic evolution requires actively
 - [[oesterheld-demski-conitzer-open-source-game-theory]]
 - [[ferguson-optimal-stopping-and-finite-horizon-problems]]
 - [[ferguson-who-solved-the-secretary-problem]]
+
+## Books in Wiki
+- [[ergin-sonmez-unver-incentive-compatible-liver-exchange]]

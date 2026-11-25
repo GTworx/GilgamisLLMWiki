@@ -59,3 +59,6 @@
 - [[personal-finance-investing-and-capital-markets]]
 - [[leadership-and-management]]
 - [[ethics-and-value-philosophy]]
+
+## Books in Wiki
+- [[historical-leadership-and-influence-models-compendium]]

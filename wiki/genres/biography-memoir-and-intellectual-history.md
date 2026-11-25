@@ -14,6 +14,8 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[time-magazine-elon-musk-person-of-the-year-2021]]
+- [[historical-leadership-and-influence-models-compendium]]
 - [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]
 - [[50-plus-books-that-changed-my-life]] (2025) — [[unity-stoakes]]
 - [[bir-omur-nasil-yasanir]] (2019) — [[ilber-ortayli]], [[yenal-bilgici]]

@@ -59,3 +59,12 @@ Starting from the constitutional baseline compiled by [[nick-ragone]] in [[us-de
 - [[karadag-yucel-turkiye-universite-memnuniyet-arastirmasi-tuma-2023]]
 - [[bush-institute-innovation-impact-of-us-universities-2020]]
 - [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]
+
+## Books in Wiki
+- [[transparency-international-corruption-perceptions-index-2023-compendium]]
+- [[benkler-coases-penguin-commons-based-peer-production]]
+- [[kara-germany-industry-4-0-and-technological-transformation]]
+- [[allison-great-tech-rivalry-china-vs-us]]
+- [[newsweek-international-november-2022-compendium]]
+- [[guex-swiss-banking-secrecy-law-origins]]
+- [[oas-the-economics-of-drug-trafficking-in-the-americas]]

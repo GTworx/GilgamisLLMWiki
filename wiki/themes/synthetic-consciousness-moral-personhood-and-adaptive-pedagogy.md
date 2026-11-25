@@ -42,3 +42,8 @@
 - [[aydemir-wef-future-of-work-and-skills-architecture]]
 - [[cb-insights-12-tech-trends-to-watch-in-2022]]
 - [[oesterheld-demski-conitzer-open-source-game-theory]]
+
+## Books in Wiki
+- [[iot-analytics-what-ceos-are-talking-about-2024]]
+- [[hbr-the-year-in-tech-2024]]
+- [[mit-accelerating-digital-transformation-report]]

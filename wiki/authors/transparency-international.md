@@ -23,3 +23,6 @@ Transparency International is an authoritative scholar, institutional body, or p
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-10 Ingestion).*
+
+## Key Works in Wiki
+- [[transparency-international-corruption-perceptions-index-2023-compendium]]

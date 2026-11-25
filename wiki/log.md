@@ -1853,3 +1853,18 @@ This file provides an append-only historical audit log of all book ingestions, c
   - Metascience and prebiotic chemistry: Platt's Strong Inference (1964) & Kinraide-Denison (2020), Purvis-Telling hydrothermal vent fatty acid origin-of-life proof (Nature 2024), Behavioral economics fraud unmasking (Data Colada / Atlantic), The Pivot Penalty in research (Nature 2025), Yablonovitch gigaton agricultural carbon burial.
   - Game theory and probability: Open-source game theory & program equilibrium (Oesterheld-Demski-Conitzer), Ferguson's Optimal Stopping and Secretary Problem 37% rule, Ord's mathematical formalization of the Lindy Effect.
 - **Verification**: `ollama_agent.py audit` reports 0 broken links, 0 orphans, 0 unindexed pages across 2,584 entity pages.
+
+## [2026-11-25] - Wave AR-14A: Corporate Strategy, Executive Leadership, Organizational Dynamics & Marketing Science
+- **Source Folders Ingested**: `Business` (64 files), `Leadership` (33 files), `Marketing` (9 files).
+- **Physical Files Accounted For**: 106 physical files synthesized into 75 canonical new works (Works 959–1033) plus 1 source mapping update to existing Work [[how-will-you-measure-your-life]].
+- **Entities Created**:
+  - **Books**: 75 new works (`wiki/books/`, Works 959–1033; Total books: 1,033).
+  - **Authors**: 98 new author profiles created (`wiki/authors/`), 6 updated (Total authors: 1,474).
+  - **Genres**: 1 new genre (`marketing-strategy-consumer-decision-and-brand-equity`), 6 existing updated (Total genres: 112).
+  - **Themes**: 1 new theme (`corporate-governance-board-oversight-and-executive-stewardship`), 13 existing updated (Total themes: 140).
+- **Key Milestones**:
+  - **Corporate Strategy & Board Governance**: Transparency International CPI 2023 compendium, Matt Levine on Texas vs. Delaware Tesla pay package, Murat Ülker on board fiduciary duties, Barron's Top 100 wealth management teams, Benkler's Coase's Penguin peer production, CB Insights Book of Strategy Maps 2023, Pfeffer & Sutton on Evidence-Based Management, AT Kearney GBPC CEO Retreat Runaway World, Octave Root Cause Analysis, McKinsey CEO Excellence assessment.
+  - **Executive Leadership & Behavioral Psychology**: HBR Centennial & Special Issues (Navigating Uncertainty, What Company Stands For), Allison's US-China Tech Rivalry, Frei & Morriss trust architecture, Zigarmi's five leadership contexts, Amy Cuddy on power posing, Colby Kultgen habits, Eurich on executive self-awareness, Cable on humble servant leadership, Parkinson's model of management, Korn Ferry Potential Code 2023, Denning's secret language of leadership, Paul Zak neuroscience of trust, Tom Brady on leading teammates, Zenger-Folkman 5:1 praise ratio.
+  - **Turkish Executive Leadership & Market Intelligence**: GOOINN 2024 E-Commerce Report, NielsenIQ & ZMD Turkish Retail & FMCG 2024 presentation, H1 2024 Turkey Media Investments Report, Gizem Kara on German Industry 4.0 strategy, Cengiz Saral on Hezarfen Çelebi & Robin Hood leadership transformation, HBR Türkiye on executive self-doubt.
+  - **Marketing Science & Consumer Decision Loops**: Kilts Center (Chicago Booth) quantitative scanner data, Court et al. (McKinsey) Consumer Decision Journey (overturning the linear purchase funnel for the loyalty loop), Meltwater State of Social Media Marketing & sentiment NLP, CMO 80/20 mobility rule, Influencer Marketing Complete Guide 2026.
+- **Verification**: `ollama_agent.py audit` reports **0 broken links, 0 orphans, 0 unindexed pages** across 2,759 entity pages.

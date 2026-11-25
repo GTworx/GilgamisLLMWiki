@@ -14,6 +14,12 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
+- [[visual-capitalist-black-swan-events-short-term-crisis]]
+- [[intertemporal-choice-and-present-bias-failures]]
+- [[wef-the-global-risks-report-2024]]
+- [[fox-trust-games-and-banking-career-selection]]
+- [[cognitive-models-resilience-and-integrity-compendium]]
+- [[octave-root-cause-analysis-5-steps-guide]]
 - [[why-startups-fail]] (2021) — [[tom-eisenmann]]
 - [[skin-in-the-game]] (2018) — [[nassim-nicholas-taleb]]
 - [[the-laws-of-human-nature]] (2018) — [[robert-greene]]

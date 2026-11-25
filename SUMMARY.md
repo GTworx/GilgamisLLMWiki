@@ -16,13 +16,13 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
 - **Articles & Reports Library Status**: **Options AR-1, AR-2, AR-3 & AR-4 Complete** (190/190 files in `Semiconductors`, `Cybersecurity`, `PE & VC`, `QuantumCompute`, `Data Centers`, `Cloud`, `SaaS`, `IoT`, `5G Telecom`, and `SupplyChain` mapped to 118 canonical works)
-- **Total Ingested Works**: 777 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
-- **Total Generated Wiki Pages**: 2,093 interlinked markdown files (1,426 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 1033 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Generated Wiki Pages**: 2,761 interlinked markdown files (2,759 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 777 ([books/](wiki/books/))
-- **Author Profile Pages**: 1073 ([authors/](wiki/authors/))
-- **Genre Classification Pages**: 108 ([genres/](wiki/genres/))
-- **Core Thematic Concept Pages**: 133 ([themes/](wiki/themes/))
+- **Book Summary & Analysis Pages**: 1033 ([books/](wiki/books/))
+- **Author Profile Pages**: 1474 ([authors/](wiki/authors/))
+- **Genre Classification Pages**: 112 ([genres/](wiki/genres/))
+- **Core Thematic Concept Pages**: 140 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
 - **Source Compliance**: Complete textual citations referencing exact source files and page numbers; source repositories remain immutable and unmodified.
 
@@ -2063,3 +2063,306 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 958. **[[ord-the-lindy-effect-longevity-and-survivorship]]** ([[toby-ord]], Source: `Game Theory & Probability_/Lindy Effect - AntiFragile.pdf`)  
      ### The Formal Mathematics of the Lindy Effect  In *The Lindy Effect: A Statistical Analysis of Longevity, Survivorship, and Fragility*, Oxford philosopher Toby Ord provides a rigorous mathematical formalization of the **Lindy Effect**—popu...
 
+
+
+### Category AA: Corporate Strategy, Executive Leadership, Organizational Dynamics & Marketing Science (Works 959–1033 across 106 Physical Files)
+
+959. **[[transparency-international-corruption-perceptions-index-2023-compendium]]** ([[transparency-international]], Source: `Business/2023 CPI2023_Global_Results__Trends (1) 2.numbers`, `Business/2023 CPI2023_Map-plus-Index_EN.pdf`, `Business/2023 CPI2023_Map_EN.pdf`, `Business/2023 Corruption Perception Index CPI-2023-Report.pdf`)  
+   Authoritative 2023 global corruption benchmarking report and dataset ranking 180 countries and territories by perceived public sector corruption levels, diagnosing systemic institutional erosion.  
+   ### Global Corruption Benchmarking in an Age of Democratic Decay
+
+960. **[[kilts-center-marketing-science-chicago-booth-review]]** ([[kilts-center-for-marketing]], Source: `Business/2023 U Chicago_Kilts-Year-in-Review.pdf`)  
+   Annual academic report from Chicago Booth's Kilts Center, detailing quantitative consumer behavior research, scanner datasets (NielsenIQ), and econometric modeling of retail dynamics.  
+   ### Quantitative Marketing and Econometric Big Data
+
+961. **[[gooinn-turkey-e-commerce-report-2024]]** ([[gooinn-innovation-consulting]], Source: `Business/2024 GOOINN E-ticaret Raporu 2024.pdf`)  
+   Comprehensive 65-page industry report analyzing Turkey's e-commerce ecosystem in 2024, detailing market size growth, omnichannel logistics, social commerce, and generative AI personalization.  
+   ### Structural Evolution of Turkish Digital Commerce
+
+962. **[[levine-texas-tempts-tesla-and-musk-pay-package]]** ([[matt-levine]], [[roula-khalaf]], Source: `Business/2024 Money Stuff - Texas Tempts Tesla.pdf`, `Business/Elon Musk_ ‘Aren’t you entertained_’ _ Financial Times.pdf`)  
+   Investigates the corporate governance shockwaves following the Delaware Chancery Court's voiding of Elon Musk's $56 billion Tesla compensation package and Tesla's subsequent corporate reincorporation in Texas.  
+   ### The Delaware Shock and Executive Compensation Jurisprudence
+
+963. **[[nielseniq-zmd-turkey-retail-and-fmcg-trends-2024]]** ([[nielseniq-turkey]], [[zincir-magazalar-dernegi]], Source: `Business/2024 Türkiye ZMD NIELSEN IQ Sunum.pdf`)  
+   Authoritative scanner-data industry presentation by NielsenIQ and ZMD mapping FMCG volume trends, inflation-driven basket composition changes, and discount retailer dominance in Turkey.  
+   ### Retail Dynamics in an Inflationary Emerging Market
+
+964. **[[iot-analytics-what-ceos-are-talking-about-2024]]** ([[iot-analytics-research]], Source: `Business/2024 What CEOs are Talking About Going into 2024.pdf`)  
+   Applies natural language processing across 8,000 corporate earnings calls from 4,000 global public companies, tracking the explosive rise of generative AI, nearshoring, and macroeconomic headwinds.  
+   ### Macro Trends Through the Lens of Executive Discourse
+
+965. **[[turkey-media-investments-report-h1-2024]]** ([[reklamcilar-dernegi]], Source: `Business/20241024 - 2024 H1 Medya Yatirimlari Ozet_V3.pdf`)  
+   Official biannual industry audit of advertising spending across TV, digital, print, and out-of-home media in Turkey for H1 2024, charting the decisive surge of programmatic and video ad spend.  
+   ### The Financial Flows of Turkish Advertising
+
+966. **[[digital-publishing-and-blog-monetization-playbook]]** ([[digital-media-publishing-consortium]], Source: `Business/2026 How to Make Money Blogging Online.pdf`)  
+   Strategic manual analyzing digital content economics, programmatic ad yields, affiliate commission structures, and subscription newsletter monetization.  
+   ### The Unit Economics of the Independent Creator Economy
+
+967. **[[agile-management-psychology-and-psychological-safety]]** ([[agile-management-institute-turkey]], Source: `Business/AgileManagementPsychology.pdf`)  
+   Examines the psychological underpinnings of agile software and business teams, demonstrating that agile rituals fail without Amy Edmondson's psychological safety culture.  
+   ### The Human Core of Agile Transformation
+
+968. **[[barrons-top-wealth-management-teams-report]]** ([[barrons-editorial-board]], Source: `Business/Barrons_1704.pdf`)  
+   Barron's national ranking and strategic survey of the top 100 private wealth management teams, analyzing asset allocation, private equity access, and family office governance.  
+   ### The Evolution of Institutional Private Wealth Management
+
+969. **[[benkler-coases-penguin-commons-based-peer-production]]** ([[yochai-benkler]], Source: `Business/Benkler Coase’s Penguin, or, Linux and The Nature of the Firm.PDF`)  
+   The monumental Yale Law Journal treatise introducing 'Commons-Based Peer Production', showing how decentralized digital networks enable non-market collaboration (Linux, Wikipedia) that bypasses Ronald Coase's theory of the firm.  
+   ### Transcending Markets and Hierarchies
+
+970. **[[visual-capitalist-black-swan-events-short-term-crisis]]** ([[jenna-ross]], [[visual-capitalist]], Source: `Business/Black Swan Events-Short-term Crisis, Long-term Opportunity.pdf`)  
+   Visual Capitalist historical compendium analyzing market drawdowns and subsequent multi-year recoveries across historical black swan shocks from 1918 to the COVID-19 pandemic.  
+   ### Historical Anatomy of Market Pandemonium
+
+971. **[[bloomberg-businessweek-march-13-2023-compendium]]** ([[bloomberg-businessweek-editorial]], Source: `Business/Bloomberg Businessweek Asia _ March 13, 2023🎆.pdf`, `Business/Bloomberg-Businessweek-13-Mar-2023.pdf`)  
+   Historic double-issue compendium documenting the lightning-fast collapse of Silicon Valley Bank (SVB), duration mismatch insolvency, and the weekend Federal Reserve systemic backstop.  
+   ### The Anatomy of the First High-Speed Social Media Bank Run
+
+972. **[[cb-insights-book-of-strategy-maps-2023]]** ([[cb-insights-research]], Source: `Business/CB-Insights_Book-of-Strategy-Maps-2023.pdf`)  
+   Authoritative strategy coffee-table atlas by CB Insights, compiling dozens of corporate strategy frameworks, technology market maps, and competitive positioning quadrants.  
+   ### Visual Architecture for High-Stakes Decision-Making
+
+973. **[[pfeffer-sutton-evidence-based-management-hbr-2006]]** ([[jeffrey-pfeffer]], [[robert-i-sutton]], Source: `Business/Evidence-Based Management HBR 2006.pdf`)  
+   The landmark 2006 HBR article arguing that corporate executives routinely base billion-dollar decisions on unproven management fads and personal dogma rather than rigorous empirical evidence.  
+   ### Bringing Scientific Method to Executive Suites
+
+974. **[[financial-times-europe-june-11-2022-compendium]]** ([[financial-times-editorial-board]], Source: `Business/Financial Times Europe - 11.06.2022.pdf`)  
+   Compendium edition capturing the June 2022 European economic crossroads: the escalating Russia-Ukraine war, soaring European gas prices, 40-year high inflation, and global equity market selloffs.  
+   ### The 2022 Geoeconomic Shockwave
+
+975. **[[kara-germany-industry-4-0-and-technological-transformation]]** ([[gizem-kara]], [[gozde-kara]], Source: `Business/Gizem Kara ITD92_Almanya_BTS_GözdeKara.pdf`)  
+   Published in İktisat ve Toplum, analyzes Germany's high-tech Industry 4.0 strategy (Industrie 4.0), cyber-physical systems, and the preservation of Mittelstand manufacturing dominance.  
+   ### Germany's Blueprint for High-Tech Industrial Defense
+
+976. **[[global-fintech-ecosystem-report-2020]]** ([[startup-genome-fintech-consortium]], Source: `Business/Global_Fintech_Ecosystem_Report_2020.pdf`)  
+   Comprehensive 97-page global audit benchmarking fintech venture investment, regulatory sandboxes, neobanking adoption, and decentralized finance across 50 international hubs.  
+   ### The Digital Revolution in Financial Services
+
+977. **[[hbr-special-issue-navigating-uncertainty-spring-2022]]** ([[harvard-business-review-editors]], Source: `Business/HARVARD BUSINESS REVIEW— Special Issue__ The Best Of HBR ✿Navigating Uncertainty, Embracing Agility & Learning Faster ✿Become A Nimble Leader ✿Build Your Team’s Adaptability ✿Drive A More Responsive Organization (Spring2022)✅✅✅.pdf`)  
+   124-page HBR collector's edition compiling the definitive modern essays on organizational resilience, strategic agility, scenario planning, and rapid learning loops in volatile markets.  
+   ### The Executive Playbook for Permacrisis
+
+978. **[[hbr-centennial-issue-what-does-your-company-really-stand-for]]** ([[harvard-business-review-editorial-board]], Source: `Business/HARVARD BUSINESS REVIEW— Vol.100 #06__ What Does Your Company Really Stand For ✿8 Leading CEOs On Ideas That Inspire Them ✿#1 In F1 ✿Make The Most Of Your One-On-Ones (Nov_Dec2022).pdf`)  
+   HBR's monumental 100th anniversary issue (Vol. 100 No. 6, Nov-Dec 2022) examining the moral soul and strategic purpose of the modern corporation with essays by 8 world-leading CEOs.  
+   ### A Century of Managerial Capitalism
+
+979. **[[allison-great-tech-rivalry-china-vs-us]]** ([[graham-allison]], [[kevin-klyman]], [[karina-barbesino]], [[hugo-yen]], Source: `Business/HARVARD KENNEDY SCHOOL, BELFER XENTER G. ALLISON; K. KLYMAN; K. BARBESINO; H. YEN— The Great Tech Rivalry__ China vs. The U.S. (07Dec2021).pdf`)  
+   Monumental Harvard Belfer Center report by Graham Allison and team delivering an unvarnished audit of the technology race between China and the US across 5 core 21st-century foundational technologies.  
+   ### The Strategic Audit of the 21st-Century Superpowers
+
+980. **[[hbr-guide-to-managing-up-and-across]]** ([[harvard-business-review-press]], Source: `Business/HBR Guide Managing Up & Across_.pdf`)  
+   209-page Harvard Business Review guide providing tactical frameworks for navigating organizational politics, managing demanding superiors, and leading cross-functional peers without formal authority.  
+   ### The Realities of Organizational Power and Lateral Influence
+
+981. **[[hbr-the-year-in-tech-2024]]** ([[harvard-business-review-tech-collaborative]], Source: `Business/2024 HBR_The Year in Tech 2024_240111_160536.pdf`)  
+   118-page comprehensive HBR annual compendium evaluating enterprise implementation of generative AI, prompt engineering, algorithmic copyright risks, and quantum computing preparation.  
+   ### Enterprise Reality in the Generative AI Era
+
+982. **[[hbs-rock-center-customer-discovery-basics]]** ([[hbs-arthur-rock-center]], Source: `Business/HBSRock-Customer-Discovery-Final.pdf`)  
+   HBS Arthur Rock Center's definitive curriculum guide on customer discovery interviews, problem validation, and avoiding false-positive bias in new product design.  
+   ### The Discipline of Market Validation
+
+983. **[[hbr-magazine-compendium-2021-2023-collection]]** ([[harvard-business-review-contributors]], Source: `Business/2023-07-01HarvardBusinessReview.pdf`, `Business/HBR October 2023.pdf`, `Business/HBR2.pdf`, `Business/Harvard Business Review On Point_0110(1).pdf`, `Business/Harvard Business Review USA - March-April 2023.pdf`, `Business/Harvard Business Review USA 05-06_2023.pdf`, `Business/Harvard Business ReviewJan Feb 2022.pdf`, `Business/Harvard Business Review_July Aug 2022.pdf`, `Business/Harvard Business Review_Nov Dec 2021.pdf`, `Business/Harvard Business Review_Sept Oct 2022.pdf`, `Business/HarvardBusinessReview  3  4  23.pdf`, `Business/Harvard_Business_Review_2022-05-01.pdf`, `Business/Harvard_Business_Review_USA_-_NovemberDecember_2023.pdf`)  
+   Monumental multi-issue master compendium gathering thirteen complete volumes of Harvard Business Review (2021–2023), mapping post-pandemic work models, supply chain resilience, and executive strategy.  
+   ### The Definitive Record of Post-Pandemic Management Thought
+
+984. **[[intertemporal-choice-and-present-bias-failures]]** ([[behavioral-economics-strategy-lab]], Source: `Business/Intertemporal Bias short_term_vs_long_term.csv`, `Business/intertemporal_choice_failure.txt`)  
+   Deep analytical treatise and quantitative dataset modeling hyperbolic discounting and intertemporal choice failures that drive corporate short-termism and delayed strategic investment.  
+   ### The Mathematics of Present Bias in Strategic Decisions
+
+985. **[[leslie-holloway-the-sales-learning-curve-hbr-2006]]** ([[mark-leslie]], [[charles-a-holloway]], Source: `Business/Leslie & Holloway HBR 2006 The Sales Learning Curve.pdf`)  
+   The seminal 2006 HBR article proving that companies must learn how customers buy a new product before hiring a massive sales force, saving hundreds of startups from premature scaling failure.  
+   ### The Lethal Fallacy of Premature Sales Scaling
+
+986. **[[mit-accelerating-digital-transformation-report]]** ([[mit-sloan-management-review]], [[deloitte-digital-research]], Source: `Business/MIT Report Accelerating Digital Transformation.pdf`, `Business/MITSMR-SP22-Infopro-Sponsored-Download.pdf`)  
+   Comprehensive MIT Sloan Management Review and Deloitte research study surveying thousands of global executives on organizational digital maturity, culture, and cloud modernization.  
+   ### Strategy, Not Technology, Drives Digital Maturity
+
+987. **[[motley-fool-the-7-absolute-best-stocks-compendium]]** ([[motley-fool-analysts]], Source: `Business/MM_The7AbsoluteBestStocksToBuy2.pdf`)  
+   Financial investment compendium analyzing competitive economic moats, high-margin software business models, and compounding capital returns in growth equities.  
+   ### Identifying Compounding Economic Moats
+
+988. **[[newsweek-international-november-2022-compendium]]** ([[newsweek-editorial-board]], Source: `Business/Newsweek International - Novembeber 04 2022_downmagaz.net.pdf`)  
+   International cover edition covering Benjamin Netanyahu's political comeback in the 2022 Israeli elections, Iran nuclear negotiations, and global energy market volatility.  
+   ### Geopolitical Realism at the Mid-Term Crossroads
+
+989. **[[guex-swiss-banking-secrecy-law-origins]]** ([[sebastien-guex]], Source: `Business/REF.pdf`)  
+   Published in Business History Review, debunks the myth that Swiss banking secrecy was created to protect Jewish assets from Nazis, proving it was enacted in 1934 to defend Swiss banks from domestic tax evasion crackdowns.  
+   ### Demystifying the Legend of Swiss Banking Secrecy
+
+990. **[[bain-current-state-of-global-ma-2023-2024]]** ([[bain-and-company-ma-practice]], Source: `Business/The Current State of M&A.pdf`)  
+   Bain & Company's comprehensive annual M&A report evaluating global transaction volume, private equity deal slowdowns, regulatory antitrust friction, and scope deal strategies.  
+   ### Dealmaking in a Higher-for-Longer Interest Rate Regime
+
+991. **[[wall-street-journal-june-11-2022-compendium]]** ([[the-wall-street-journal-editorial-board]], Source: `Business/The Wall Street Journal - 11.06.2022.pdf`)  
+   Weekend edition of The Wall Street Journal documenting the historic June 2022 US market selloff, tech sector workforce contractions, and the unraveling of algorithmic stablecoins.  
+   ### Chronicle of the 2022 Financial Reversal
+
+992. **[[wunderman-thompson-the-future-100-2023]]** ([[wunderman-thompson-intelligence]], Source: `Business/The-Future-100-2023.pdf`)  
+   Monumental 226-page global trend forecasting atlas tracking 100 emerging cultural, technological, luxury, beauty, food, and retail movements shaping consumer behavior.  
+   ### The Comprehensive Consumer Forecasting Atlas
+
+993. **[[time-magazine-elon-musk-person-of-the-year-2021]]** ([[time-magazine-editorial-board]], Source: `Business/Time 27 December 2021.pdf`)  
+   Historic TIME Person of the Year issue profiling Elon Musk at the zenith of Tesla's trillion-dollar valuation and SpaceX's civilian spaceflight revolution, exploring industrial ambition and societal risk.  
+   ### The Clown, Genius, Edgelord, Visionary, Industrialist
+
+994. **[[doerr-measure-what-matters-and-unlocking-purpose-with-okrs]]** ([[enterprise-strategy-and-execution-group]], Source: `Business/Unlock-Purpose-with-OKRs.pdf`)  
+   Executive execution guide on designing and implementing Objectives and Key Results (OKRs) across enterprise divisions, linking ambitious strategic vision to measurable quarterly outcomes.  
+   ### The Architecture of High-Velocity Execution
+
+995. **[[wef-the-global-risks-report-2024]]** ([[world-economic-forum-global-risk-network]], Source: `Business/WEF_The_Global_Risks_Report_2024_240110_171626.pdf`)  
+   124-page World Economic Forum flagship report ranking global systemic risks across 2-year and 10-year horizons, naming AI-generated disinformation and extreme weather as the foremost existential perils.  
+   ### Mapping the Global Polycrisis Landscape
+
+996. **[[fox-trust-games-and-banking-career-selection]]** ([[justin-fox]], Source: `Business/Why Finance Attracts the Least ‘Trustworthy’ Among Us - Bloomberg.pdf`)  
+   Investigates economic experiments at German universities demonstrating that students who score lowest on trustworthiness in behavioral trust games are disproportionately likely to pursue careers in finance.  
+   ### Behavioral Economics of the Financial Personality
+
+997. **[[keserli-lean-culture-and-operational-excellence-in-manufacturing]]** ([[zeynep-keserli]], Source: `Business/Zeynep Keserli 2023 LeanCultureThesis.pdf`, `Business/Zeynep Keserli 2023 LeanCultureThesis 2.pdf`)  
+   Master's thesis examining the cultural, behavioral, and operational hurdles of implementing Lean Manufacturing and the Toyota Production System in industrial manufacturing enterprises.  
+   ### The Human Dimension of the Toyota Production System
+
+998. **[[oas-the-economics-of-drug-trafficking-in-the-americas]]** ([[organization-of-american-states]], Source: `Business/laeconomicanarcotrafico_eng.pdf`)  
+   Exhaustive 46-page Organization of American States (OAS) economic treatise analyzing transnational drug trafficking through supply-chain logistics, risk premiums, price markups, and cartel monopolies.  
+   ### The Microeconomics of Illicit Transnational Cartels
+
+999. **[[ergin-sonmez-unver-incentive-compatible-liver-exchange]]** ([[tayfun-sonmez]], [[m-utku-unver]], [[haluk-ergin]], Source: `Business/slides-ic-liver-exchange-ArrowLecture-June2018.pdf`, `Business/slides-ic-liver-exchange-ho.pdf`)  
+   Delivered as the 2018 Kenneth Arrow Lecture, presents the groundbreaking mathematical and economic design of incentive-compatible paired liver exchanges, saving thousands of terminal liver patients.  
+   ### Market Design for Life-Saving Organ Transplantation
+
+1000. **[[strategy-and-business-winter-2021-compendium]]** ([[strategy-and-business-editorial]], Source: `Business/strategy business_Winter 2021.pdf`)  
+   100-page Strategy& (PwC) executive compendium examining sustainable corporate reinvention, ESG measurement, digital ecosystem strategy, and post-pandemic organizational culture.  
+   ### Strategic Execution in an Era of Reinvention
+
+1001. **[[business-executive-communication-and-phrasebook]]** ([[executive-communication-institute]], Source: `Business/20211125_Business phrasebook.pdf`)  
+   Concise reference compendium of high-impact strategic business idioms, executive phraseologies, and precise corporate communication vocabulary.  
+   ### The Pragmatics of Corporate Boardroom Rhetoric
+
+1002. **[[kaplan-norton-the-balanced-scorecard-1992]]** ([[robert-s-kaplan]], [[david-p-norton]], Source: `Leadership/1992 HBR The Balanced Scorecard—Measures that Drive Performance.pdf`)  
+   The immortal 1992 HBR foundations article introducing the Balanced Scorecard, revolutionizing management by complementing backward-looking financial metrics with customer, internal process, and learning perspectives.  
+   ### The Magna Carta of Strategic Performance Measurement
+
+1003. **[[frei-morriss-everything-starts-with-trust-hbr-2020]]** ([[frances-x-frei]], [[anne-morriss]], Source: `Leadership/2020 HBR Everything Starts with Trust.pdf`)  
+   The definitive 2020 HBR leadership treatise deconstructing trust into its three core constituent pillars (Authenticity, Logic, and Empathy) and providing practical diagnostic tools to repair broken trust.  
+   ### Deconstructing the Universal Currency of Leadership
+
+1004. **[[green-hand-mckinsey-diversity-matters-revisited-2024]]** ([[jeremiah-green]], [[john-r-m-hand]], Source: `Leadership/2024 McKinsey’s Diversity Matters_ Delivers_Wins Results Revisited GreenHand.pdf`)  
+   Landmark 2024 academic econometric study published in Econ Journal Watch re-analyzing McKinsey's influential 'Diversity Matters' reports, revealing that its findings fail to replicate across S&P 500 corporations.  
+   ### Forensic Econometric Audit of Corporate Consulting Claims
+
+1005. **[[zigarmi-five-contexts-of-leadership]]** ([[drea-zigarmi]], Source: `Leadership/5-Contexts-of-Leadership-Whitepaper.pdf`)  
+   Comprehensive 50-page research monograph on contextual leadership theory, demonstrating that leadership effectiveness is determined by adapting styles across five nested organizational contexts.  
+   ### Beyond One-Size-Fits-All Leadership
+
+1006. **[[cognitive-models-resilience-and-integrity-compendium]]** ([[matt-schnuck]], [[executive-resilience-consortium]], Source: `Leadership/10_Most_Powerful_Life_Razors_1755967412.pdf`, `Leadership/5_Mental_Models_to_Develop_Resilience__1761998459.pdf`, `Leadership/7_Ways_to_Respond_with_Integrity_1755967621.pdf`)  
+   Compendium of decision razors (Occam's, Hanlon's, Feynman's), Stoic resilience models (Spotlight Effect, Dichotomy of Control), and ethical conflict response protocols.  
+   ### Cognitive Heuristics for High-Pressure Leadership
+
+1007. **[[at-kearney-gbpc-ceo-retreat-runaway-world]]** ([[paul-a-laudicina]], [[erik-r-peterson]], Source: `Leadership/AT Kearney 2016 GBPC CEO Retreat—Runaway World-2.pdf`)  
+   A.T. Kearney Global Business Policy Council CEO Retreat report analyzing global volatility, demographic aging, algorithmic automation, and geoeconomic fragmentation.  
+   ### Strategic Leadership in the Eye of the Geopolitical Storm
+
+1008. **[[remote-work-nonverbal-communication-and-virtual-meetings]]** ([[virtual-collaboration-research-group]], Source: `Leadership/Communication Virtual Meetings.pdf`)  
+   Examines the psychodynamics of nonverbal communication, video fatigue ('Zoom fatigue'), and leadership presence in virtual remote work meetings.  
+   ### Deciphering the Digital Conference Room
+
+1009. **[[historical-leadership-and-influence-models-compendium]]** ([[historical-leadership-study-group]], Source: `Leadership/Evolution_of_Leadership_Influence_Table.csv`, `Leadership/Influential_Leaders_Before_1000CE.txt`, `Leadership/Leadership-Lessons-from-the-Great-Genghis-Khan.pdf`)  
+   Comparative historical compendium evaluating leadership models before 1000 CE (Cyrus the Great, Ashoka, Pericles, Caesar) and Genghis Khan's meritocratic nomadic statecraft.  
+   ### The Longue Durée of Human Leadership
+
+1010. **[[kultgen-habits-and-execution-mechanics-get-things-done]]** ([[colby-kultgen]], Source: `Leadership/Get_Things_Done_by_Colby_Kultgen_1761448013.pdf`)  
+   Concise behavioral engineering guide on overcoming executive procrastination by lowering task activation energy and decoupling action from subjective emotional motivation.  
+   ### Decoupling Motivation from Execution
+
+1011. **[[lahey-the-gift-of-failure-and-learning-autonomy]]** ([[jessica-lahey]], Source: `Leadership/Gift of Failure.pdf`)  
+   Synthesizes Jessica Lahey's seminal work on educational psychology, demonstrating how overprotective parenting and risk-averse management destroy resilience and intrinsic motivation.  
+   ### The Peril of the Hyper-Protective Shield
+
+1012. **[[zheng-kark-inclusive-leadership-architecture]]** ([[wei-zheng]], [[jennifer-kim]], [[ronit-kark]], [[lisa-mascolo]], Source: `Leadership/HBR Article_What Makes an Inclusive Leader.pdf`)  
+   Published in Harvard Business Review, defines the five specific behavioral competencies that differentiate genuinely inclusive leaders from performative diversity advocates.  
+   ### Beyond Diversity Sloganeering: The Inclusive Leadership Model
+
+1013. **[[hbr-building-leadership-teams-for-transformation]]** ([[harvard-business-review-transformation-council]], Source: `Leadership/HBR BuildLeadershipForTransformationFeb 2022.pdf`)  
+   Comprehensive 160-page HBR special edition on constructing high-performing C-suite leadership teams capable of executing enterprise business model transformation.  
+   ### Assembling the High-Stakes Transformation Coalition
+
+1014. **[[eurich-what-self-awareness-really-is-hbr-2018]]** ([[tasha-eurich]], Source: `Leadership/HBR Managing Yourself 2018.pdf`)  
+   The landmark 2018 HBR study revealing that while 95% of executives believe they are self-aware, only 10% to 15% actually are, defining internal vs. external self-awareness.  
+   ### The Pervasive Delusion of Executive Self-Awareness
+
+1015. **[[cable-how-humble-leadership-really-works-hbr-2018]]** ([[dan-cable]], Source: `Leadership/Humble Leadership HBR 2018.pdf`)  
+   Published in Harvard Business Review, demonstrates that humble leaders unleash employee potential by replacing top-down control with servant leadership: 'How can I help you do your job better?'  
+   ### Dismantling the Myth of the All-Knowing Leader
+
+1016. **[[bhattacharya-parkinsons-model-of-management]]** ([[kaushik-bhattacharya]], Source: `Leadership/KaushikBhattacharyaParkinson'sModelOfManagement.pdf`)  
+   Develops a formal game-theoretic and microeconomic mathematical model of C. Northcote Parkinson's famous laws, proving why incompetent managers hire subordinates weaker than themselves.  
+   ### Mathematical Formalization of Parkinson's Law
+
+1017. **[[korn-ferry-the-potential-code-2023]]** ([[korn-ferry-institute]], Source: `Leadership/KornFerry Potential-Code-eBook 2023.pdf`)  
+   Korn Ferry Institute's 2023 research report introducing 'The Potential Code', defining how enterprises identify and develop leadership agility beyond past performance metrics.  
+   ### Decoding High-Potential Talent in Disruptive Environments
+
+1018. **[[hbr-turkey-navigating-executive-self-doubt]]** ([[anne-sugar]], [[octavia-goredema]], Source: `Leadership/Liderliğinizden Şüphe Duyulduğunda - Harvard Business Review Türkiye.pdf`, `Leadership/Umursamaz Bir Patronun İlerlemenizi Engellemesine İzin Vermeyin - Harvard Busine.pdf`)  
+   Curated HBR Türkiye leadership guide examining executive imposter syndrome, rebuilding confidence during leadership crises, and navigating indifferent or dismissive superiors.  
+   ### The Psychology of Executive Insecurity and Upward Navigation
+
+1019. **[[murat-ulker-board-of-directors-governance]]** ([[murat-ulker]], Source: `Leadership/Murat Ulker Yonetim Kurulu Bir Meslek Midir Yoksa Gorev mi_ 2020 07.pdf`)  
+   Murat Ülker's authoritative reflections on corporate governance, board of directors oversight, consensus decision-making ('I never took a decision by vote'), and family business succession.  
+   ### Boardroom Philosophy of a Global Turkish Industrialist
+
+1020. **[[octave-root-cause-analysis-5-steps-guide]]** ([[octave-operational-excellence-group]], Source: `Leadership/Octave_5_steps_to_completing_a_successful_root_cause_analysis_WP_US.pdf`)  
+   Industrial engineering white paper detailing the five structured phases of Root Cause Analysis (RCA), Ishikawa fishbone diagrams, and eliminating recurring operational defects.  
+   ### The Systematic Elimination of Operational Failure
+
+1021. **[[denning-the-secret-language-of-leadership]]** ([[stephen-denning]], Source: `Leadership/THE SECRET LANGUAGE OF LEADERSHIP Book Chapter.pdf`)  
+   Seminal book chapter by Stephen Denning demonstrating that rational analysis and abstract data fail to inspire change, proving that transformational leadership requires narrative intelligence and 'springboard stories'.  
+   ### Why Abstract Logic Fails to Mobilize People
+
+1022. **[[zak-the-neuroscience-of-trust-hbr-2017]]** ([[paul-j-zak]], Source: `Leadership/The Neuroscience of Trust HBR 2017.PDF`)  
+   The landmark 2017 HBR article proving that organizational trust stimulates oxytocin production in the brain, driving 50% higher productivity, 76% higher engagement, and 40% less burnout.  
+   ### The Neurobiology of Organizational Culture
+
+1023. **[[brady-nohria-the-art-of-leading-teammates]]** ([[tom-brady]], [[nitin-nohria]], Source: `Leadership/Tom Brady on the Art of Leading Teammates.pdf`)  
+   Historic Harvard Business Review collaboration between 7-time Super Bowl champion Tom Brady and former HBS Dean Nitin Nohria on quarterback leadership, peer accountability, and high-performance teamwork.  
+   ### Quarterback Leadership Decoded for the Enterprise
+
+1024. **[[zenger-folkman-the-ideal-praise-to-criticism-ratio]]** ([[jack-zenger]], [[joseph-folkman]], Source: `Leadership/Zenger HBR 2013 5to1 Ratio.pdf`)  
+   Landmark 2013 HBR article establishing the 5.6-to-1 praise-to-criticism ratio: high-performing business teams share nearly six positive comments for every critical remark.  
+   ### The Empirical Mathematics of Constructive Feedback
+
+1025. **[[dewar-keller-malhotra-ceo-excellence-assessment]]** ([[carolyn-dewar]], [[scott-keller]], [[vikram-malhotra]], Source: `Leadership/ceo-excellence-how-do-leaders-assess-their-own-performance.pdf`)  
+   McKinsey CEO practice study surveying top-performing global chief executives on self-assessment, board management, time allocation, and organizational health.  
+   ### The Diagnostic Discipline of Top-Performing CEOs
+
+1026. **[[faulkner-power-verbs-for-managers-and-executives]]** ([[michael-lawrence-faulkner]], [[michelle-faulkner-lunsford]], Source: `Leadership/power-verbs-for-managers-pearsoncmg-com.pdf`)  
+   Authoritative management reference guide published by Pearson Financial Times, categorizing hundreds of dynamic action verbs for performance reviews, project proposals, and executive leadership.  
+   ### The Rhetorical Power of Action-Oriented Management
+
+1027. **[[saral-hezarfen-celebi-and-robin-hood-leadership-transformation]]** ([[sezen-sungur-saral]], Source: `Leadership/‘’İçimizde Hezarfen Ahmet Çelebi, Dışımızda Robin Hood Olacağız’’ - Harvard Busi.pdf`)  
+   Published in Harvard Business Review Türkiye, explores the entrepreneurial journey of Reeder Technology, synthesizing Ottoman visionary ambition (Hezarfen) with populist social equity (Robin Hood).  
+   ### Pioneering Domestic Technology Manufacturing in Anatolia
+
+1028. **[[exponential-leadership-principles-singularity]]** ([[exponential-leadership-collaborative]], Source: `Leadership/Sue & Beth_Principles of Exponential Leadership.docx`)  
+   Executive white paper outlining the core principles of exponential leadership: moving from linear to 10x thinking, managing cognitive abundance, and leading through radical technological change.  
+   ### The Cognitive Shift from Linear to Exponential Leadership
+
+1029. **[[influencer-marketing-guide-compendium-2026]]** ([[influencer-marketing-hub-research]], Source: `Marketing/2026 influencer-marketing-guide-ebook-0126.pdf`)  
+   Definitive strategic industry manual on influencer marketing architecture, creator compensation models, FTC disclosure regulations, and multi-touch attribution analytics.  
+   ### The Industrialization of the Creator Economy
+
+1030. **[[cmo-promotions-80-20-rule-and-career-mobility]]** ([[cmo-executive-career-consortium]], Source: `Marketing/Does the 80-20 Rule of CMO Promotions Explain 'Jumpy' Careers.pdf`, `Marketing/Does the 80-20 Rule of CMO Promotions Explain 'Jumpy' Careers 2.pdf`)  
+   Empirical study investigating why Chief Marketing Officers suffer the shortest tenure in the C-suite, modeling the '80/20 rule' of external hiring versus internal promotions.  
+   ### The Perilous Tenure of the Chief Marketing Officer
+
+1031. **[[marketing-transformation-in-the-age-of-personalization]]** ([[enterprise-marketing-transformation-group]], Source: `Marketing/Marketing-Transformation-in-the-Age-of-the1.pdf`, `Marketing/Marketing-Transformation-in-the-Age-of-the1 2.pdf`)  
+   Strategic marketing treatise on navigating the demise of third-party cookies, constructing enterprise Customer Data Platforms (CDPs), and orchestrating personalized omnichannel customer journeys.  
+   ### The Demise of Third-Party Cookies and the Rise of First-Party Data
+
+1032. **[[court-the-consumer-decision-journey-mckinsey-2009]]** ([[david-court]], [[dave-elzinga]], [[susan-mulder]], [[ole-jorgen-vetvik]], Source: `Marketing/McKinseyThe consumer decision journey.pdf`, `Marketing/McKinseyThe consumer decision journey 2.pdf`)  
+   The monumental 2009 McKinsey Quarterly breakthrough that dismantled the classic linear marketing funnel (AIDA) and replaced it with the modern circular Consumer Decision Journey.  
+   ### Shattering the Century-Old Marketing Funnel
+
+1033. **[[meltwater-state-of-social-media-marketing-compendium]]** ([[meltwater-research-insights]], Source: `Marketing/Meltwater_SocialMediaMarketing.pdf`, `Marketing/Meltwater_SocialMediaMarketing 2.pdf`)  
+   Comprehensive industry benchmark report on social media listening, crisis sentiment tracking, competitor benchmarking, and AI natural language processing across social networks.  
+   ### The Science of Real-Time Brand Telemetry

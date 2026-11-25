@@ -14,6 +14,10 @@ Anchored in the wiki by [[thorsten-hennig-thurau]] and [[mark-b-houston]]'s [[en
 ---
 
 ## Books in Wiki
+- [[turkey-media-investments-report-h1-2024]]
+- [[digital-publishing-and-blog-monetization-playbook]]
+- [[wunderman-thompson-the-future-100-2023]]
+- [[influencer-marketing-guide-compendium-2026]]
 - [[an-ugly-truth-inside-facebook]] (2021) — [[sheera-frenkel]], [[cecilia-kang]]
 - [[entertainment-science-data-analytics-and-practical-theory]] (2019) — [[thorsten-hennig-thurau]], [[mark-b-houston]]
 - [[media-and-digital-management]] (2019) — [[eli-m-noam]]

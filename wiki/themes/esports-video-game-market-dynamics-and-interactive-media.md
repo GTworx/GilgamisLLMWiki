@@ -13,7 +13,9 @@ Investigates the financial structures, audience demographics, franchise leagues,
 - **Economic Scale & Interactive Media**: Tracing the institutionalization of video games and competitive esports as multibillion-dollar global media powerhouses.
 - **Cultural Credibility & Creative Capital**: How next-generation luxury shifts from legacy heritage exclusivity to creator-driven cultural authenticity.
 
-## Canonical Works in Knowledge Base
+## Canonical Works
+- [[turkey-media-investments-report-h1-2024]]
+in Knowledge Base
 - [[drake-star-global-gaming-industry-ma-and-investment-report]]
 - [[turkiye-game-market-longitudinal-reports-2023-2025]]
 - [[global-esports-investment-and-media-rights-compendium]]

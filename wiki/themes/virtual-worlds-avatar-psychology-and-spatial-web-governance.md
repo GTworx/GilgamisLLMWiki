@@ -13,7 +13,10 @@ Synthesizes the behavioral, ethical, legal, and architectural dimensions of 3D v
 - **Economic Scale & Interactive Media**: Tracing the institutionalization of video games and competitive esports as multibillion-dollar global media powerhouses.
 - **Cultural Credibility & Creative Capital**: How next-generation luxury shifts from legacy heritage exclusivity to creator-driven cultural authenticity.
 
-## Canonical Works in Knowledge Base
+## Canonical Works
+- [[gooinn-turkey-e-commerce-report-2024]]
+- [[remote-work-nonverbal-communication-and-virtual-meetings]]
+in Knowledge Base
 - [[bourke-networked-immersive-environments-and-early-metaverse-architecture]]
 - [[messinger-3d-social-virtual-worlds-research-agenda]]
 - [[leenes-privacy-regulation-and-identity-protection-in-the-metaverse]]
