@@ -69,5 +69,7 @@ Investigates the computational, algorithmic, and neurobiological mechanisms unde
 
 
 ## Canonical Works
+- [[generative-ai-in-higher-education-and-child-cognitive-development]]
+- [[francois-chollet-on-the-measure-of-intelligence-and-arc-prize]]
 - [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]
 - [[avatar-psychology-proteus-effect-and-embodied-virtual-experience]]

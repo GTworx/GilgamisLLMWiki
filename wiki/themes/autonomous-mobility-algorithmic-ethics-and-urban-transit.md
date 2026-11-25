@@ -44,3 +44,7 @@ Autonomous transit dramatically reduces highway fatalities and optimizes urban t
 ## Works under this Theme
 - [[electric-bicycles-urban-micro-mobility-and-modal-shift]]
 - [[iea-global-ev-outlook-and-electric-vehicle-fleet-electrification]]
+
+
+## Canonical Works
+- [[autonomous-driving-foundation-models-and-cruise-quinn-emanuel-inquiry]]

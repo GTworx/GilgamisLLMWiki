@@ -191,6 +191,10 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 
 
 ## Canonical Works
+- [[generative-ai-in-higher-education-and-child-cognitive-development]]
+- [[acemoglu-restrepo-automation-labor-displacement-and-polanyis-paradox]]
+- [[state-of-ai-reports-and-stanford-hai-global-indices]]
+- [[bender-gebru-stochastic-parrots-and-scaling-laws-critiques]]
 - [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
 - [[startups-watch-tusiad-and-turkey-entrepreneurship-ecosystem]]
 - [[startup-genome-global-startup-ecosystems-and-ubi-incubator-rankings]]

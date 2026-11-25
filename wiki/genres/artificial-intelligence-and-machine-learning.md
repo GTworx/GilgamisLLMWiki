@@ -106,5 +106,20 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 
 
 ## Canonical Works
+- [[ai-assisted-software-engineering-and-conversational-voice-ux]]
+- [[ai-watermarking-neural-steganography-and-synthetic-text-detection]]
+- [[microsoft-phi-textbooks-are-all-you-need-and-slm-architectures]]
+- [[nvidia-cosmos-physical-ai-and-generative-world-models]]
+- [[autonomous-driving-foundation-models-and-cruise-quinn-emanuel-inquiry]]
+- [[multimodal-diffusion-models-text-to-image-and-visual-inpainting]]
+- [[anthropic-constitutional-ai-rlhf-and-frontier-alignment]]
+- [[deepmind-funsearch-and-ai-driven-mathematical-discoveries]]
+- [[francois-chollet-on-the-measure-of-intelligence-and-arc-prize]]
+- [[agentic-ai-workflows-tool-use-and-multi-agent-orchestration]]
+- [[state-of-ai-reports-and-stanford-hai-global-indices]]
+- [[large-language-model-architectures-scaling-laws-and-chinchilla]]
+- [[bender-gebru-stochastic-parrots-and-scaling-laws-critiques]]
+- [[wei-chain-of-thought-prompting-and-scratchpad-computation]]
+- [[andrej-karpathy-vision-language-grounding-and-multimodal-foundations]]
 - [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
 - [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]

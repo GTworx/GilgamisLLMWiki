@@ -27,5 +27,6 @@ Turkish-American MIT Institute Professor of Economics and 2024 Nobel Laureate in
 - [[rule-of-law-and-experimental-justice]]
 
 ## Key Works in Wiki
+- [[acemoglu-restrepo-automation-labor-displacement-and-polanyis-paradox]]
 - [[acemoglu-autor-skills-tasks-and-technologies-labor-polarization]]
 - [[daron-acemoglu-china-extractive-institutions-and-growth-limits]]

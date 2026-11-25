@@ -39,5 +39,7 @@ Featured in [[electric-vehicles-light-duty-fuel-economy-and-shared-micromobility
 
 
 ## Canonical Works
+- [[eu-ai-act-sovereign-ai-and-geopolitical-regulations]]
+- [[acemoglu-restrepo-automation-labor-displacement-and-polanyis-paradox]]
 - [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[metaverse-applications-in-smart-cities-education-and-digital-twins]]

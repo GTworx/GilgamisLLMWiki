@@ -214,6 +214,14 @@
 
 
 ## Canonical Works
+- [[ai-datacenter-energy-footprint-cooling-and-grid-infrastructure]]
+- [[ai-assisted-software-engineering-and-conversational-voice-ux]]
+- [[nvidia-cosmos-physical-ai-and-generative-world-models]]
+- [[acemoglu-restrepo-automation-labor-displacement-and-polanyis-paradox]]
+- [[agentic-ai-workflows-tool-use-and-multi-agent-orchestration]]
+- [[enterprise-ai-strategy-productivity-j-curve-and-big-tech-moats]]
+- [[large-language-model-architectures-scaling-laws-and-chinchilla]]
+- [[andrej-karpathy-vision-language-grounding-and-multimodal-foundations]]
 - [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]
 - [[synthetic-biology-genome-project-write-and-dna-data-storage]]
 - [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]]

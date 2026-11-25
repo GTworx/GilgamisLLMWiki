@@ -93,6 +93,7 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 
 
 ## Canonical Works
+- [[decide-ai-and-national-academies-clinical-ai-governance]]
 - [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
 - [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
 - [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]

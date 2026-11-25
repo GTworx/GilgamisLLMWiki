@@ -225,3 +225,7 @@ In the wiki, political science provides the analytical framework for institution
 - [[reuters-institute-digital-news-report-2023]]
 - [[changing-definition-and-epistemology-of-retirement]]
 - [[aspen-institute-commission-on-information-disorder-report]]
+
+
+## Canonical Works
+- [[superintelligence-governance-existential-risk-and-oxford-dphil]]

@@ -31,6 +31,13 @@ Examines the epistemological foundations, methodological rigor, and institutiona
 
 
 ## Canonical Works
+- [[scott-aaronson-p-vs-np-complexity-barriers-and-algebrization]]
+- [[microsoft-phi-textbooks-are-all-you-need-and-slm-architectures]]
+- [[decide-ai-and-national-academies-clinical-ai-governance]]
+- [[anthropic-constitutional-ai-rlhf-and-frontier-alignment]]
+- [[deepmind-funsearch-and-ai-driven-mathematical-discoveries]]
+- [[francois-chollet-on-the-measure-of-intelligence-and-arc-prize]]
+- [[wei-chain-of-thought-prompting-and-scratchpad-computation]]
 - [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
 - [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
 - [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]

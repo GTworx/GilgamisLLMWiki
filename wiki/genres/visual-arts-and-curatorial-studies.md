@@ -14,6 +14,7 @@ Investigates art historical movements, curatorial cataloguing, auction market dy
 - Quantitative economic multiplier analysis for sovereign host infrastructure.
 
 ## Canonical Works
+- [[multimodal-diffusion-models-text-to-image-and-visual-inpainting]]
 - [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]] in Knowledge Base
 - [[henry-butcher-southeast-asian-art-market-catalog]]
 - [[art-historical-connoisseurship-and-technical-authentication-guide]]

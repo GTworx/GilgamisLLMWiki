@@ -240,6 +240,8 @@ Anchored by [[jim-collins]] & [[jerry-i-porras]]'s [[built-to-last]] and [[jim-c
 
 
 ## Canonical Works
+- [[enterprise-ai-strategy-productivity-j-curve-and-big-tech-moats]]
+- [[state-of-ai-reports-and-stanford-hai-global-indices]]
 - [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
 - [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
 - [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]

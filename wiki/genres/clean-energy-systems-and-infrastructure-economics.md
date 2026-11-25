@@ -103,4 +103,5 @@ Decarbonizing energy is the primary physical prerequisite for stabilizing planet
 
 
 ## Canonical Works
+- [[ai-datacenter-energy-footprint-cooling-and-grid-infrastructure]]
 - [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

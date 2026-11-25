@@ -107,4 +107,5 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 
 
 ## Canonical Works
+- [[scott-aaronson-p-vs-np-complexity-barriers-and-algebrization]]
 - [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]

@@ -80,6 +80,7 @@ Cardiovascular disease and oncology remain the leading global causes of mortalit
 
 
 ## Canonical Works
+- [[decide-ai-and-national-academies-clinical-ai-governance]]
 - [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
 - [[hallmarks-of-cancer-immunotherapy-and-biomarker-translation]]
 - [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]

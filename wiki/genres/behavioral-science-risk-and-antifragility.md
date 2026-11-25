@@ -85,5 +85,7 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 
 
 ## Canonical Works
+- [[generative-ai-in-higher-education-and-child-cognitive-development]]
+- [[acemoglu-restrepo-automation-labor-displacement-and-polanyis-paradox]]
 - [[cognitive-reserve-axa-mind-health-and-neurodegenerative-epidemiology]]
 - [[multi-omics-aging-dynamics-biodemography-of-longevity-and-senior-living]]

@@ -88,6 +88,9 @@ The convergence of embodied foundation models, high-torque actuators, and spatia
 
 
 ## Canonical Works
+- [[nvidia-cosmos-physical-ai-and-generative-world-models]]
+- [[autonomous-driving-foundation-models-and-cruise-quinn-emanuel-inquiry]]
+- [[agentic-ai-workflows-tool-use-and-multi-agent-orchestration]]
 - [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]
 - [[brain-spine-interfaces-temporal-interference-and-neural-prosthetics]]
 - [[augmented-and-virtual-reality-enterprise-hardware-and-immersive-computing]]

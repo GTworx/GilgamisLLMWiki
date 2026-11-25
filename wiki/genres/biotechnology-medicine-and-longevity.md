@@ -96,6 +96,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 
 
 ## Canonical Works
+- [[decide-ai-and-national-academies-clinical-ai-governance]]
 - [[lancet-global-disease-burden-coronary-inflammation-and-longevity-demography]]
 - [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
 - [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]

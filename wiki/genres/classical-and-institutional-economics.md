@@ -127,5 +127,8 @@ In this wiki, the genre stretches from [[adam-smith]]'s [[the-wealth-of-nations]
 
 
 ## Canonical Works
+- [[acemoglu-restrepo-automation-labor-displacement-and-polanyis-paradox]]
+- [[enterprise-ai-strategy-productivity-j-curve-and-big-tech-moats]]
+- [[state-of-ai-reports-and-stanford-hai-global-indices]]
 - [[carlota-perez-technological-revolutions-and-startup-strategy]]
 - [[monitory-democracy-draghi-european-competitiveness-and-information-disorder]]

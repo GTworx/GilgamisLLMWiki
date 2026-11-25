@@ -85,3 +85,7 @@ Security Studies analyzes threats to the survival and stability of states, socie
 
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[international-relations]]
 - **Key Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[hybrid-threats-and-cyber-warfare]], [[violent-non-state-actors]]
+
+
+## Canonical Works
+- [[superintelligence-governance-existential-risk-and-oxford-dphil]]

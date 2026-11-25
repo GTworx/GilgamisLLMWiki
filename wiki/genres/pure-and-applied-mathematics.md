@@ -108,3 +108,13 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 - [[ferguson-optimal-stopping-and-finite-horizon-problems]]
 - [[ferguson-who-solved-the-secretary-problem]]
 - [[ord-the-lindy-effect-longevity-and-survivorship]]
+
+
+## Canonical Works
+- [[scott-aaronson-p-vs-np-complexity-barriers-and-algebrization]]
+- [[ai-watermarking-neural-steganography-and-synthetic-text-detection]]
+- [[microsoft-phi-textbooks-are-all-you-need-and-slm-architectures]]
+- [[anthropic-constitutional-ai-rlhf-and-frontier-alignment]]
+- [[deepmind-funsearch-and-ai-driven-mathematical-discoveries]]
+- [[francois-chollet-on-the-measure-of-intelligence-and-arc-prize]]
+- [[large-language-model-architectures-scaling-laws-and-chinchilla]]

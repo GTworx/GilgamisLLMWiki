@@ -71,6 +71,22 @@ Frontier AI development has transformed from software engineering into an indust
 
 
 ## Canonical Works
+- [[ai-watermarking-neural-steganography-and-synthetic-text-detection]]
+- [[microsoft-phi-textbooks-are-all-you-need-and-slm-architectures]]
+- [[nvidia-cosmos-physical-ai-and-generative-world-models]]
+- [[multimodal-diffusion-models-text-to-image-and-visual-inpainting]]
+- [[eu-ai-act-sovereign-ai-and-geopolitical-regulations]]
+- [[superintelligence-governance-existential-risk-and-oxford-dphil]]
+- [[anthropic-constitutional-ai-rlhf-and-frontier-alignment]]
+- [[deepmind-funsearch-and-ai-driven-mathematical-discoveries]]
+- [[francois-chollet-on-the-measure-of-intelligence-and-arc-prize]]
+- [[agentic-ai-workflows-tool-use-and-multi-agent-orchestration]]
+- [[enterprise-ai-strategy-productivity-j-curve-and-big-tech-moats]]
+- [[state-of-ai-reports-and-stanford-hai-global-indices]]
+- [[large-language-model-architectures-scaling-laws-and-chinchilla]]
+- [[bender-gebru-stochastic-parrots-and-scaling-laws-critiques]]
+- [[wei-chain-of-thought-prompting-and-scratchpad-computation]]
+- [[andrej-karpathy-vision-language-grounding-and-multimodal-foundations]]
 - [[pan-cancer-multimodal-deep-learning-histology-and-liquid-biopsies]]
 - [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]
 - [[private-equity-operating-partners-compensation-and-generative-ai]]

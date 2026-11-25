@@ -128,6 +128,9 @@ In the wiki, this genre unites [[robert-m-pirsig]]'s [[zen-and-the-art-of-motorc
 
 
 ## Canonical Works
+- [[superintelligence-governance-existential-risk-and-oxford-dphil]]
+- [[anthropic-constitutional-ai-rlhf-and-frontier-alignment]]
+- [[bender-gebru-stochastic-parrots-and-scaling-laws-critiques]]
 - [[personal-identity-quantum-theology-and-many-worlds-moral-responsibility]]
 - [[metaverse-ethics-virtue-hci-and-philosophical-metaphysics]]
 - [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

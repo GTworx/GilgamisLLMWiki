@@ -49,6 +49,8 @@ Ambient clinical AI represents a transformational productivity shock for healthc
 
 
 ## Canonical Works
+- [[ai-assisted-software-engineering-and-conversational-voice-ux]]
+- [[decide-ai-and-national-academies-clinical-ai-governance]]
 - [[fda-cb-insights-digital-health-telemedicine-and-health-entrepreneurship]]
 - [[ge-ventures-precision-medicine-market-mapping-and-clinical-diagnostics]]
 - [[bcc-research-global-medical-devices-sterilization-and-surgical-robotics]]

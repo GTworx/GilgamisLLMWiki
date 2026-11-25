@@ -59,3 +59,7 @@ This genre spans the origin story of cloud CRM in [[marc-benioff]] & [[carlye-ad
 - [[consultative-questioning-and-constructive-tension]]
 - [[cooperation-and-reciprocity]]
 - [[organizational-culture-and-rewilding]]
+
+
+## Canonical Works
+- [[ai-assisted-software-engineering-and-conversational-voice-ux]]

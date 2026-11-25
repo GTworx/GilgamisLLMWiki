@@ -76,4 +76,5 @@ In the wiki, [[paul-cichonski]] et al.'s [[computer-security-incident-handling-g
 
 
 ## Canonical Works
+- [[ai-watermarking-neural-steganography-and-synthetic-text-detection]]
 - [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

@@ -52,4 +52,5 @@ Investigates the strategic restructuring of global trade corridors and productio
 
 
 ## Canonical Works
+- [[ai-datacenter-energy-footprint-cooling-and-grid-infrastructure]]
 - [[enterprise-blockchain-hyperledger-and-energy-grid-decentralization]]

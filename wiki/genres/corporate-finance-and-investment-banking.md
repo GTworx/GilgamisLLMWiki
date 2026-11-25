@@ -55,6 +55,7 @@ Disciplines analyzing valuation methodologies, capital structure optimization, l
 
 
 ## Canonical Works
+- [[enterprise-ai-strategy-productivity-j-curve-and-big-tech-moats]]
 - [[hsbc-seraf-vc-term-sheets-angel-investing-and-corporate-venture]]
 - [[pitchbook-venture-capital-market-dynamics-valuations-and-seed-compression]]
 - [[pitchbook-us-private-equity-and-global-private-debt-benchmarks]]

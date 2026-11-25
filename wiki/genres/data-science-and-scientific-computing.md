@@ -162,5 +162,12 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 
 
 ## Canonical Works
+- [[microsoft-phi-textbooks-are-all-you-need-and-slm-architectures]]
+- [[nvidia-cosmos-physical-ai-and-generative-world-models]]
+- [[multimodal-diffusion-models-text-to-image-and-visual-inpainting]]
+- [[deepmind-funsearch-and-ai-driven-mathematical-discoveries]]
+- [[large-language-model-architectures-scaling-laws-and-chinchilla]]
+- [[wei-chain-of-thought-prompting-and-scratchpad-computation]]
+- [[andrej-karpathy-vision-language-grounding-and-multimodal-foundations]]
 - [[clinical-rna-sequencing-mendelian-genetics-and-germline-diagnostics]]
 - [[deepmind-alphafold-protein-structure-prediction-and-expansion-microscopy]]

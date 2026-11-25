@@ -110,3 +110,7 @@ Explores the theoretical foundations, physical hardware implementations, algorit
 - [[quantum-machine-learning-chemistry-and-computational-advantage]]
 - [[bravyi-yoder-fault-tolerant-quantum-memory-and-ldpc-codes]]
 - [[google-quantum-supremacy-and-random-circuit-sampling]]
+
+
+## Canonical Works
+- [[scott-aaronson-p-vs-np-complexity-barriers-and-algebrization]]

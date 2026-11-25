@@ -57,3 +57,7 @@ Investigates the physical, geopolitical, and digital architecture of global supp
 ## Works in this Genre
 - [[gooinn-mobility-and-aerospace-innovation-reports]]
 
+
+
+## Canonical Works
+- [[ai-datacenter-energy-footprint-cooling-and-grid-infrastructure]]

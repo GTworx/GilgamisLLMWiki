@@ -82,4 +82,6 @@ Within the Gilgamis LLM Wiki, this genre unites canonical O'Reilly systems manua
 
 
 ## Canonical Works
+- [[ai-assisted-software-engineering-and-conversational-voice-ux]]
+- [[agentic-ai-workflows-tool-use-and-multi-agent-orchestration]]
 - [[synthetic-biology-genome-project-write-and-dna-data-storage]]

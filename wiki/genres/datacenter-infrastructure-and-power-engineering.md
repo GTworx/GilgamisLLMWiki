@@ -69,3 +69,7 @@ Covers the mechanical, electrical, thermodynamic, and civil engineering systems 
 - [[cloud-computing-and-distributed-systems]]
 - [[energy-policy-and-clean-tech-economics]]
 - [[corporate-strategy-and-management-classics]]
+
+
+## Canonical Works
+- [[ai-datacenter-energy-footprint-cooling-and-grid-infrastructure]]

@@ -90,5 +90,7 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 
 
 ## Canonical Works
+- [[autonomous-driving-foundation-models-and-cruise-quinn-emanuel-inquiry]]
+- [[eu-ai-act-sovereign-ai-and-geopolitical-regulations]]
 - [[international-sanctions-jurisprudence-anti-torture-norms-and-legal-trends]]
 - [[interpol-virtual-jurisprudence-biometric-privacy-and-metaverse-law]]

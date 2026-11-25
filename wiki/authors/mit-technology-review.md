@@ -17,3 +17,7 @@ Engaging quantitative datasets, qualitative institutional case studies, and rigo
 ## Works Ingested
 - [[kpmg-mit-wired-frontier-technology-and-management-review]]
 
+
+
+## Key Works in Wiki
+- [[ai-datacenter-energy-footprint-cooling-and-grid-infrastructure]]

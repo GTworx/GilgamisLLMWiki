@@ -28,3 +28,7 @@ Goldman Sachs Equity Research provides institutional investment analysis across 
 - [[energy-policy-and-clean-tech-economics]]
 - [[hyperscale-datacenter-power-and-thermal-engineering]]
 - [[energy-transition-and-storage-economics]]
+
+
+## Key Works in Wiki
+- [[enterprise-ai-strategy-productivity-j-curve-and-big-tech-moats]]

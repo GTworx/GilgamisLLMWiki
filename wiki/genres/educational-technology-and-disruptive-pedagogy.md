@@ -104,6 +104,7 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 
 
 ## Canonical Works
+- [[generative-ai-in-higher-education-and-child-cognitive-development]]
 - [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]
 - [[metaverse-applications-in-smart-cities-education-and-digital-twins]]
 - [[dwivedi-metaverse-beyond-the-hype-taxonomies-and-systematic-reviews]]

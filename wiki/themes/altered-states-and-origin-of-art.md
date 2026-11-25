@@ -56,6 +56,7 @@ In *Supernatural*, Graham Hancock explores the "Great Leap Forward" of the Upper
 
 
 ## Canonical Works
+- [[multimodal-diffusion-models-text-to-image-and-visual-inpainting]]
 - [[pleistocene-hominin-variability-dispersal-routes-and-anthropology-of-feasting]]
 - [[cognitive-architecture-theories-of-consciousness-and-adversarial-testing]]
 - [[visual-art-markets-luxury-fashion-web3-and-film-production-economics]]
