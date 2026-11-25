@@ -18,6 +18,12 @@ Key empirical threads across the wiki's organizational psychology corpus include
 ---
 
 ## Books in Wiki
+- [[research-policy-the-innovation-costs-of-extreme-success]]
+- [[galloway-quitting-time-labor-capital-and-career-strategy]]
+- [[cb-insights-the-top-20-reasons-startups-fail]]
+- [[the-dec-network-entrepreneurship-impact-report]]
+- [[endeavor-insight-unicorn-founder-career-pathways]]
+- [[y-combinator-founder-evaluation-and-interview-framework]]
 - [[agile-management-psychology-and-psychological-safety]]
 - [[pfeffer-sutton-evidence-based-management-hbr-2006]]
 - [[hbr-special-issue-navigating-uncertainty-spring-2022]]

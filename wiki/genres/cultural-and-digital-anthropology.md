@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[mindshare-culture-and-consumer-trends-2024]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[the-dawn-of-everything]] (2021) — [[david-graeber]], [[david-wengrow]]
 - [[anthropology-why-it-matters]] (2018) — [[tim-ingold]]

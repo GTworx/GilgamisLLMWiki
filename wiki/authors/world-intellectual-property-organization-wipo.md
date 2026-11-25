@@ -15,3 +15,6 @@ Geneva-based global forum for intellectual property services, policy, and compre
 
 ## Canonical Works in Knowledge Base
 - [[wipo-global-publishing-industry-longitudinal-reports-2020-2022]]
+
+## Key Works in Wiki
+- [[wipo-luiss-world-intangible-investment-highlights-2024]]

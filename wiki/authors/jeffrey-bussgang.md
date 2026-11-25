@@ -25,3 +25,6 @@ General Partner at Flybridge Capital Partners, Senior Lecturer at Harvard Busine
 - [[tom-eisenmann]]
 - [[venture-capital-term-sheets-and-fundraising-mechanics]]
 - [[disruptive-innovation-blitzscaling-and-founder-resilience]]
+
+## Key Works in Wiki
+- [[pitchbook-and-bussgang-us-regional-venture-ecosystems-compendium]]

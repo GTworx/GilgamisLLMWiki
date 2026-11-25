@@ -51,3 +51,6 @@ Synthesizing internal boardroom counseling ([[influencing-leaders]]), external a
 - [[strategic-communication]]
 - [[leadership-and-management]]
 - [[strategic-studies]]
+
+## Books in Wiki
+- [[navigate-to-the-lighthouse-silicon-valley-global-deals]]

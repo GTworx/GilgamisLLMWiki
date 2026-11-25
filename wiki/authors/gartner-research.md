@@ -12,6 +12,7 @@ Gartner is the world's leading research and advisory company, providing executiv
 ---
 
 ## Books in Wiki
+- [[gartner-strategic-technology-investments-and-top-trends-compendium]]
 - [[gartner-enterprise-sustainability-strategy-framework-and-hype-cycle]]
 - [[gartner-cool-vendors-in-the-internet-of-things]]
 

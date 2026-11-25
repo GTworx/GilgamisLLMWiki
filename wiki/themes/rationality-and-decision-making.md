@@ -145,3 +145,8 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 
 - **Related Themes**: [[cooperation-and-reciprocity]], [[tit-for-tat]], [[deterrence-and-coercion]], [[social-critique-and-moral-conscience]], [[universal-love-and-human-dignity]], [[non-western-strategic-thought]], [[trusted-strategic-advisors-and-influence]], [[adaptive-intelligence-and-organizational-resilience]], [[human-centered-ai-and-augmented-leadership]], [[topological-social-choice-and-preference-cycles]]
 - **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[anatolian-humanism]], [[leadership-and-management]], [[organizational-psychology]], [[social-choice-theory]], [[algebraic-topology]]
+
+## Books in Wiki
+- [[almquist-b2b-elements-of-value-hbr-2018]]
+- [[deal-evaluation-masterclass-venture-capital-due-diligence]]
+- [[y-combinator-founder-evaluation-and-interview-framework]]

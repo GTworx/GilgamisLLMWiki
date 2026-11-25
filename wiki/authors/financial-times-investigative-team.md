@@ -25,3 +25,6 @@ Financial Times Investigative Team is an authoritative contributor to peer-revie
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-9 Ingestion).*
 - [[financial-times-private-equity-billion-dollar-music-catalogs]]
 - [[murdoch-family-succession-drama-and-transnational-media-power]]
+
+## Key Works in Wiki
+- [[financial-times-how-long-can-the-entrepreneurship-boom-last]]

@@ -49,5 +49,6 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Books in Wiki
+- [[mindshare-culture-and-consumer-trends-2024]]
 - [[wef-the-global-risks-report-2024]]
 - [[meltwater-state-of-social-media-marketing-compendium]]

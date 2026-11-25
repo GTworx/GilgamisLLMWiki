@@ -14,6 +14,16 @@ In [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018), CB Insights
 ---
 
 ## Books in Wiki
+- [[cb-insights-n-plus-1-trends-2017]]
+- [[cb-insights-famga-earnings-call-transcripts-nlp-analysis]]
+- [[cb-insights-game-changers-emerging-startups-compendium]]
+- [[cb-insights-tech-ipo-pipeline-2020]]
+- [[cb-insights-tech-trends-2018-and-2020-longitudinal-compendium]]
+- [[cb-insights-best-research-reports-on-disruption-and-innovation]]
+- [[cb-insights-history-of-corporate-venture-capital]]
+- [[cb-insights-tech-ipo-pipeline-2026-scouting-reports]]
+- [[cb-insights-unicorn-mosaic-score-algorithm]]
+- [[cb-insights-the-top-20-reasons-startups-fail]]
 - [[cb-insights-book-of-strategy-maps-2023]]
 - [[amazon-in-healthcare-strategy-for-a-3-trillion-market]] (2018)
 

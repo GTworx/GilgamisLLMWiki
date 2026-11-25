@@ -16,11 +16,11 @@ The **Gilgamis LLM Wiki** is a structured, interlinked personal knowledge base b
 ### Library Metrics at a Glance
 - **Physical Books Directory Status**: **100.0% Complete** (542/542 document files in `BOOKS/` accounted for and mapped)
 - **Articles & Reports Library Status**: **Options AR-1, AR-2, AR-3 & AR-4 Complete** (190/190 files in `Semiconductors`, `Cybersecurity`, `PE & VC`, `QuantumCompute`, `Data Centers`, `Cloud`, `SaaS`, `IoT`, `5G Telecom`, and `SupplyChain` mapped to 118 canonical works)
-- **Total Ingested Works**: 1033 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
-- **Total Generated Wiki Pages**: 2,761 interlinked markdown files (2,759 entity pages + `index.md` & `log.md`)
+- **Total Ingested Works**: 1125 distinct intellectual works (across 629 physical source files/volumes and ~181,000+ pages)
+- **Total Generated Wiki Pages**: 2,951 interlinked markdown files (2,949 entity pages + `index.md` & `log.md`)
 - **Interactive Web App**: [index.html](index.html) (with embedded data, fuzzy search, and modal inspectors)
-- **Book Summary & Analysis Pages**: 1033 ([books/](wiki/books/))
-- **Author Profile Pages**: 1474 ([authors/](wiki/authors/))
+- **Book Summary & Analysis Pages**: 1125 ([books/](wiki/books/))
+- **Author Profile Pages**: 1572 ([authors/](wiki/authors/))
 - **Genre Classification Pages**: 112 ([genres/](wiki/genres/))
 - **Core Thematic Concept Pages**: 140 ([themes/](wiki/themes/))
 - **Bidirectional Link Integrity**: 100% (0 broken links, 0 orphaned pages, 0 unindexed pages)
@@ -2366,3 +2366,374 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 1033. **[[meltwater-state-of-social-media-marketing-compendium]]** ([[meltwater-research-insights]], Source: `Marketing/Meltwater_SocialMediaMarketing.pdf`, `Marketing/Meltwater_SocialMediaMarketing 2.pdf`)  
    Comprehensive industry benchmark report on social media listening, crisis sentiment tracking, competitor benchmarking, and AI natural language processing across social networks.  
    ### The Science of Real-Time Brand Telemetry
+
+
+### Category AB: Innovation Architecture, Venture Capital, Startup Ecosystems & Technology Policy (Works 1034–1125 across 141 Physical Files)
+
+1034. **[[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]** ([[frost-and-sullivan-visionary-innovation-group]], Source: `Innovation_/2017 - Visionary Innovation 2.pdf`, `Innovation_/2017 - Visionary Innovation.pdf`)  
+   Strategic foresight methodology guide by Frost & Sullivan outlining horizon scanning, macro-to-micro mega trend mapping, and scenario planning for executive growth teams.  
+   ### Systematic Horizon Scanning and Strategic Foresight
+
+1035. **[[podolny-hansen-how-apple-is-organized-for-innovation]]** ([[joel-m-podolny]], [[morten-t-hansen]], Source: `Innovation_/2020 HBR_How_Apple_Is_Organized_For_Innovation-4.pdf`)  
+   Landmark Harvard Business Review study revealing Apple's non-standard functional organizational structure, where technical experts lead experts and P&L responsibility remains solely at the corporate level.  
+   ### Overturning Conventional Corporate Conglomerate Design
+
+1036. **[[gooinn-turkiye-inovasyon-raporlari-longitudinal-compendium]]** ([[gooinn-innovation-consulting]], Source: `Innovation_/2023 GOOINN Türkiye İnovasyon Raporu 2023.pdf`, `Innovation_/2024 Türkiye İnovasyon Raporu 2024.pdf`, `Innovation_/2025 Türkiye İnovasyon Raporu.pdf`)  
+   Monumental 3-volume, 553-page longitudinal benchmark tracking corporate innovation maturity, venture building, startup collaboration, and digital transformation across Turkey's leading industrial and financial institutions from 2023 to 2025.  
+   ### Longitudinal Benchmark of Turkish Corporate Innovation
+
+1037. **[[lemley-wansley-coopting-disruption-and-big-tech-acquisitions]]** ([[mark-a-lemley]], [[matthew-t-wansley]], Source: `Innovation_/2024 Coopting Disruption Lemley & Wansley.pdf`)  
+   Authoritative legal and economic treatise in Stanford Law Review analyzing how Alphabet, Amazon, Apple, Meta, and Microsoft systematically co-opt disruptive startups through killer acquisitions, non-merger talent acqui-hires, and ecosystem enclosement.  
+   ### The Death of Schumpeterian Creative Destruction in Tech
+
+1038. **[[flueckiger-larch-metal-trade-and-the-rise-of-hierarchy]]** ([[matthias-fluckiger]], [[mario-larch]], [[markus-ludwig]], [[luigi-pascali]], Source: `Innovation_/2024 The Dawn of Civilization. Metal Trade and the Rise of Hierarchy.pdf`)  
+   Landmark 102-page cliometric treatise (Barcelona School of Economics Working Paper 1423) proving that the Bronze Age transition and inter-regional metal trade networks caused the emergence of elite political hierarchies and institutional states.  
+   ### Cliometric Foundations of Early Institutional Hierarchy
+
+1039. **[[wipo-luiss-world-intangible-investment-highlights-2024]]** ([[world-intellectual-property-organization-wipo]], [[luiss-business-school-research]], Source: `Innovation_/2024 wipo-pub-rn2024-32-en-world-intangible-investment-highlights.pdf`)  
+   Global macroeconomic report by WIPO and Luiss Business School tracking investment in intangible assets (R&D, software, design, patents, and brand equity) relative to tangible capital across major economies.  
+   ### The Ascendance of the Intangible Economy
+
+1040. **[[research-policy-the-innovation-costs-of-extreme-success]]** ([[research-policy-editorial]], Source: `Innovation_/2025 Not all success is created equal- The innovation costs of extreme success.pdf`)  
+   Seminal 2025/2026 empirical study published in Research Policy demonstrating how breakthrough commercial blockbuster success paradoxically calcifies organizational exploration and stifles subsequent technological innovation.  
+   ### The Paradox of Blockbuster Success
+
+1041. **[[fifty-examples-of-corporations-that-failed-to-innovate]]** ([[valuer-ai-research]], Source: `Innovation_/50 Examples of Corporations That Failed to Innovate.pdf`)  
+   Exhaustive 108-page corporate casebook analyzing 50 legendary business failures—including Kodak, Blockbuster, Nokia, Xerox, Polaroid, and Blackberry—diagnosing cognitive blind spots, managerial hubris, and incumbent inertia.  
+   ### The Autopsy of Corporate Extinction
+
+1042. **[[business-insider-intelligence-the-next-big-thing-compendium]]** ([[business-insider-intelligence]], Source: `Innovation_/BusIntelignition_next big thing.pdf`, `Innovation_/bii_30bigtechpredictions_2017-1.pdf`)  
+   Dual-volume market intelligence dossier forecasting tectonic shifts across conversational computing, autonomous vehicle ecosystems, digital subscription flywheels, and cloud infrastructure.  
+   ### Forecasting the Inflection Points of the Digital Economy
+
+1043. **[[cb-insights-n-plus-1-trends-2017]]** ([[cb-insights-research]], Source: `Innovation_/CB Insights N+1 Trends 2017.pdf`)  
+   Exhaustive 125-page quantitative research dossier from CB Insights mapping frontier technology vectors, high-momentum venture-backed startups, and corporate patent filings across AI, synthetic biology, and industrial robotics.  
+   ### Algorithmic Intelligence on Technological Tipping Points
+
+1044. **[[cb-insights-famga-earnings-call-transcripts-nlp-analysis]]** ([[cb-insights-research]], Source: `Innovation_/CB-Insights_FAMGA-Earnings-Transcripts.pdf`)  
+   Algorithmic natural language processing (NLP) study analyzing 40 quarters (2008–2017) of earnings call transcripts across Facebook, Amazon, Microsoft, Google, and Apple to track strategic enterprise pivots.  
+   ### Decoding Big Tech Strategy Through Computational Linguistics
+
+1045. **[[cb-insights-game-changers-emerging-startups-compendium]]** ([[cb-insights-research]], Source: `Innovation_/CB-Insights_Game-Changers-briefing.pdf`, `Innovation_/CBi Game-Changers.pdf`)  
+   Comprehensive 112-page intelligence compendium profiling transformative venture-backed startups across carbon capture, neural interfaces, quantum algorithms, synthetic biology, and supersonic flight.  
+   ### Spotting the World's Most Transformative Startups
+
+1046. **[[cb-insights-tech-ipo-pipeline-2020]]** ([[cb-insights-research]], Source: `Innovation_/CB-Insights_Tech-IPO-2020.pdf`)  
+   Authoritative pre-IPO intelligence report analyzing 281 private venture-backed unicorns poised for public market debuts, detailing revenue models, valuation multiples, and S-1 financial metrics.  
+   ### Pre-IPO Anatomy of the 2020 Unicorn Cohort
+
+1047. **[[cb-insights-tech-trends-2018-and-2020-longitudinal-compendium]]** ([[cb-insights-research]], Source: `Innovation_/CB-Insights_Tech-Trends-2018.pdf`, `Innovation_/CB-Insights_Tech-Trends-2020.pdf`)  
+   Two-volume longitudinal research compendium spanning 101 pages tracking the maturation of enterprise AI, edge computing, synthetic biology, autonomous mobility, and fintech infrastructure between 2018 and 2020.  
+   ### The Evolution of Enterprise Technology at the Turn of the Decade
+
+1048. **[[gartner-strategic-technology-investments-and-top-trends-compendium]]** ([[gartner-research]], Source: `Innovation_/Gartner top_10_strategic_technology__317560.pdf`, `Innovation_/select-and-justify-emerging-technologies-final.pdf`)  
+   Authoritative enterprise research dossier from Gartner establishing methodologies for selecting, justifying, and staging investments in disruptive technologies while outlining the Top 10 Strategic Technology Trends.  
+   ### The Science of Enterprise Technology Justification
+
+1049. **[[tsia-ragsdale-enterprise-technology-trends-compendium]]** ([[john-ragsdale]], [[tsia-research]], Source: `Innovation_/Hot Tech Trends for 2017.pdf`)  
+   Two-volume research study by TSIA's John Ragsdale analyzing enterprise technology adoption, extreme automation, AI-driven professional services, and customer success telemetry.  
+   ### The Architectural Transformation of Enterprise B2B Services
+
+1050. **[[komal-growth-models-market-sensing-and-disruption]]** ([[komal-management-consulting]], Source: `Innovation_/Komal Trends & Disruptions Overview1.pdf`)  
+   Executive briefing on market sensing methodologies, detailing structured protocols for identifying emergent competitive disruption and commercializing technology white spaces.  
+   ### The Art and Science of Corporate Market Sensing
+
+1051. **[[mindshare-culture-and-consumer-trends-2024]]** ([[mindshare-insights-group]], Source: `Innovation_/MINDSHARE_Trends 2024[60].pdf`)  
+   Comprehensive 66-page culture and consumer intelligence report diagnosing algorithmic fatigue, hyper-fragmented subcultures, AI skepticism, and the yearning for authentic physical human connection.  
+   ### Decoding Cultural Shifts in an Algorithmic Age
+
+1052. **[[mit-technology-review-10-breakthrough-technologies-2016]]** ([[mit-technology-review-editors]], Source: `Innovation_/MIT 10breakthrough 2016.pdf`)  
+   Milestone annual benchmark report from MIT Technology Review documenting 10 breakthrough technologies poised to transform the global economy, including immune engineering, precise gene editing, and reusable rockets.  
+   ### Landmark Technological Breakthroughs of 2016
+
+1053. **[[cb-insights-best-research-reports-on-disruption-and-innovation]]** ([[cb-insights-research]], Source: `Innovation_/Sue CBinsight best-research-reports-on-disruption-and-innovation.pdf`)  
+   Curated 57-page compendium anthologizing CB Insights' most impactful quantitative research papers on startup mortality rates, unbundling banking, corporate venture capital, and patent analytics.  
+   ### Anthology of Foundational Technology Intelligence
+
+1054. **[[thomson-reuters-citation-laureates-methodology]]** ([[thomson-reuters-intellectual-property]], Source: `Innovation_/ThomsonReuters-citation-laureates-methodology.pdf`)  
+   Methodological treatise explaining the scientometric and bibliometric algorithm developed by Thomson Reuters to forecast Nobel Prize laureates using Web of Science citation data.  
+   ### Scientometric Forecasting of Scientific Breakthroughs
+
+1055. **[[zacharias-see-the-future-strategic-foresight-playbook]]** ([[zacharias-foresight-group]], Source: `Innovation_/Zacharias_see_the_future_V3.pdf`)  
+   Executive strategy playbook on building institutional foresight, managing asymmetric uncertainty, and designing organizational architectures that anticipate disruptive change.  
+   ### Anticipatory Governance in an Uncertain World
+
+1056. **[[capstone-partners-testing-inspection-and-certification-ma-report]]** ([[capstone-partners-research]], Source: `Business/Testing, Inspection & Certification/Capstone-Partners-Test-and-Measurement-MA-Coverage-Report_August-2023.pdf`)  
+   Investment banking industry coverage report analyzing M&A deal volume, private equity rollups, and valuation multiples across the global Testing, Inspection, and Certification (TIC) sector.  
+   ### The Private Equity Appeal of the TIC Sector
+
+1057. **[[global-technology-outlook-2022]]** ([[enterprise-technology-consortium]], Source: `Entrepreneurship/2022-technology-outlook.pdf`)  
+   Strategic market intelligence report analyzing emerging technology horizons, cloud maturity, digital infrastructure, and enterprise automation trends.  
+   ### Strategic Horizon Scanning for Enterprise Technology
+
+1058. **[[boudreau-startup-strategy-and-product-market-experimentation]]** ([[kevin-j-boudreau]], Source: `Innovation_/Academic Pubs on Innovation/Boudreau HBR Startup Strategy 2016.pdf`, `Entrepreneurship/Academic Pubs on Innovation/Boudreau HBR Startup Strategy 2016.pdf`)  
+   Harvard Business School and NBER research paper examining how digital startups optimize product-market experimentation, developer API openness, and platform governance under radical uncertainty.  
+   ### Platform Economics and Startup Experimentation Velocity
+
+1059. **[[cb-insights-history-of-corporate-venture-capital]]** ([[cb-insights-research]], Source: `Innovation_/Academic Pubs on Innovation/CB-Insights_History-of-Corporate-Venture-Capital.pdf`, `Entrepreneurship/Academic Pubs on Innovation/CB-Insights_History-of-Corporate-Venture-Capital.pdf`)  
+   Authoritative historical and strategic analysis tracing the century-long evolution of Corporate Venture Capital (CVC) from 1914 DuPont equity bets to Silicon Valley tech giant CVC arms.  
+   ### A Century of Corporate Venturing Mechanics
+
+1060. **[[akcayoz-how-innovation-agencies-work-international-lessons]]** ([[fuat-akcayoz]], [[nesta-innovation-policy-group]], Source: `Innovation_/Academic Pubs on Innovation/Fuat Akcayoz how_innovation_agencies_work.pdf`, `Entrepreneurship/Academic Pubs on Innovation/Fuat Akcayoz how_innovation_agencies_work.pdf`)  
+   Exhaustive 98-page international comparative analysis evaluating the institutional design, funding mechanisms, and policy toolkits of leading national innovation agencies across Finland (Tekes), Israel (IIA), the UK (Innovate UK), and Singapore (Enterprise SG).  
+   ### Institutional Architecture of State-Led Innovation
+
+1061. **[[almquist-b2b-elements-of-value-hbr-2018]]** ([[eric-almquist]], [[jamie-cleghorn]], [[lori-sherer]], Source: `Innovation_/Academic Pubs on Innovation/HBR 2018 What B2B Buyers Really Care About.pdf`, `Innovation_/Academic Pubs on Innovation/R1802D_ALMQUIST_B2BPYRAMID-850x1338.png`, `Entrepreneurship/Academic Pubs on Innovation/HBR 2018 What B2B Buyers Really Care About.pdf`, `Entrepreneurship/Academic Pubs on Innovation/R1802D_ALMQUIST_B2BPYRAMID-850x1338.png`)  
+   Landmark Harvard Business Review study and 40-element visual pyramid by Bain & Company detailing the objective and subjective value drivers that govern B2B purchasing decisions, extending Maslow's hierarchy of needs to corporate commerce.  
+   ### Extending Maslow to Enterprise Commerce
+
+1062. **[[hbs-return-to-entrepreneurship-research-monograph]]** ([[harvard-business-school-entrepreneurial-management-unit]], Source: `Innovation_/Academic Pubs on Innovation/HBS Return To Entrepreneurship 2016.pdf`, `Entrepreneurship/Academic Pubs on Innovation/HBS Return To Entrepreneurship 2016.pdf`)  
+   Monograph published by Harvard Business School evaluating the financial returns, skill acquisition, and long-term career compensation of individuals who choose entrepreneurship over corporate careers.  
+   ### The True Economic Returns to Entrepreneurship
+
+1063. **[[carlota-perez-technological-revolutions-and-techno-economic-paradigms]]** ([[carlota-perez]], Source: `Innovation_/Academic Pubs on Innovation/PEREZ-Carlota-Technological-revolutions-and-techno-economic-paradigms1.pdf`, `Entrepreneurship/Academic Pubs on Innovation/PEREZ-Carlota-Technological-revolutions-and-techno-economic-paradigms1.pdf`)  
+   Perez's seminal academic treatise on the 50-year Kondratiev-Schumpeter waves of technological revolutions, articulating the two-phase lifecycle: Installation (financial capital mania and crashes) and Deployment (production capital and golden ages).  
+   ### The Macro-Historical Rhythm of Technological Surges
+
+1064. **[[zycher-startup-economics-and-income-distribution]]** ([[benjamin-zycher]], Source: `Innovation_/Academic Pubs on Innovation/StartUp_Zycher_r2.pdf`, `Innovation_/Academic Pubs on Innovation/zeropointzeroone-income-1050.png`, `Entrepreneurship/Academic Pubs on Innovation/StartUp_Zycher_r2.pdf`, `Entrepreneurship/Academic Pubs on Innovation/zeropointzeroone-income-1050.png`)  
+   Economic monograph and empirical income distribution analysis by Benjamin Zycher examining the macroeconomic contributions of venture-backed startups to productivity, consumer surplus, and wealth creation.  
+   ### Econometric Analysis of Startup Value Creation
+
+1065. **[[azoulay-age-and-high-growth-entrepreneurship-nber]]** ([[pierre-azoulay]], [[benjamin-f-jones]], [[j-daniel-kim]], [[javier-miranda]], Source: `Entrepreneurship/2019_Azoulay_2019_JN_Forthcoming_Age_High_Growth.pdf`)  
+   Landmark NBER and American Economic Review study analyzing 2.7 million U.S. founders, proving conclusively that the average age of successful high-growth startup founders is 45, completely debunking the Silicon Valley youth myth.  
+   ### The Empirical Demolition of Silicon Valley's Youth Myth
+
+1066. **[[oecd-declining-business-dynamism-and-startups]]** ([[oecd-science-technology-and-innovation-directorate]], Source: `Entrepreneurship/2021 OECD declining-business-dynamism.pdf`)  
+   OECD macroeconomic study evaluating the multi-decade decline in business dynamism, new firm formation rates, and labor reallocation across advanced industrial economies.  
+   ### The Global Paradox of Declining Startup Dynamism
+
+1067. **[[angel-capital-association-angel-funders-report-2022]]** ([[angel-capital-association-aca]], Source: `Entrepreneurship/2022 Angel Funders Report.pdf`)  
+   Authoritative empirical benchmark report from the Angel Capital Association analyzing real deal data, pre-money valuations, geographic distribution, and angel syndicate yields across North America.  
+   ### Definitive Benchmark Data on Angel Capital
+
+1068. **[[decker-haltiwanger-surging-business-formation-in-the-pandemic]]** ([[ryan-a-decker]], [[john-c-haltiwanger]], Source: `Entrepreneurship/2023 Surging Business Formation in the Pandemic- Causes and Consequences_ Decker-Haltiwanger.pdf`)  
+   Seminal economic paper by Federal Reserve and NBER economists Ryan Decker and John Haltiwanger analyzing the unprecedented surge in U.S. business applications and startup formation following the COVID-19 pandemic shock.  
+   ### The Astonishing Post-Pandemic Entrepreneurial Surge
+
+1069. **[[carta-venture-capital-fund-performance-q1-2024]]** ([[carta-research]], Source: `Entrepreneurship/2024 Carta VC_Fund_Performance_Q1_2024_1726300591.pdf`)  
+   Authoritative quantitative benchmark report from Carta analyzing actual fund return metrics—Internal Rate of Return (IRR), Total Value to Paid-In (TVPI), and DPI distributions—across venture capital vintages from 2017 to 2023.  
+   ### Ground-Truth Return Analytics for Venture Capital
+
+1070. **[[dealroom-accel-generative-ai-startup-report-2024]]** ([[dealroom-co]], [[accel-partners]], Source: `Entrepreneurship/2024 Dealroom-Accel-GenAI-Report-June-2024.pdf`)  
+   Definitive venture market intelligence report by Dealroom and Accel mapping global venture capital investment, talent concentration, and valuation multiples across the Generative AI landscape.  
+   ### Mapping the Capital Geography of the Generative AI Boom
+
+1071. **[[financial-times-how-long-can-the-entrepreneurship-boom-last]]** ([[financial-times-investigative-team]], Source: `Entrepreneurship/2024 FT How long can the entrepreneurship boom last_.pdf`)  
+   Financial Times macroeconomic investigation evaluating whether the historic surge in post-pandemic new business creation can withstand rising interest rates, tightening venture credit, and economic slowdowns.  
+   ### Macro Stress-Testing the Post-Pandemic Startup Wave
+
+1072. **[[india-deep-tech-ecosystem-report-2024]]** ([[india-deep-tech-consortium]], Source: `Entrepreneurship/2024 India Dec 23 - Deep Tech Report.pdf`)  
+   Comprehensive market intelligence report on India's rapidly emerging deep-tech ecosystem, analyzing venture funding, government incentives (PLI schemes), and technical spin-outs across space, semiconductors, and robotics.  
+   ### The Rise of Indian Deep-Tech Hardware and Engineering
+
+1073. **[[ironspring-nuts-and-bolts-industrial-tech-startups]]** ([[ironspring-ventures]], Source: `Entrepreneurship/2024 Ironspring Nuts Bolts.pdf`)  
+   Operator playbook by Ironspring Ventures detailing specialized go-to-market strategies, pilot sales cycles, and operational deployment models for enterprise industrial technology startups.  
+   ### Breaking Into Legacy Industrial Value Chains
+
+1074. **[[silicon-valley-bank-state-of-the-markets-h2-2024]]** ([[silicon-valley-bank-research]], Source: `Entrepreneurship/2024 SVB state-of-the-markets-h2-2024_final-08.12_v2.pdf`)  
+   Definitive bi-annual market diagnostic from Silicon Valley Bank analyzing the post-ZIRP stabilization of the venture ecosystem, venture debt expansion, private secondary markets, and the IPO backlog.  
+   ### The Realities of Venture Capital in a Normalized Interest Rate Regime
+
+1075. **[[saudi-venture-capital-svc-impact-report-2024]]** ([[saudi-venture-capital-company-svc]], Source: `Entrepreneurship/2024 Saudi SVC_Impact_Report-_January_2024.pdf`)  
+   Official impact assessment by Saudi Venture Capital Company (SVC) documenting the sovereign deployment of fund-of-funds capital that propelled Saudi Arabia to the #1 venture capital ecosystem in MENA.  
+   ### Sovereign Capital Engineering and Ecosystem Transformation
+
+1076. **[[deal-evaluation-masterclass-venture-capital-due-diligence]]** ([[venture-capital-executive-academy]], Source: `Entrepreneurship/2024 The Art of Evaluating a Deal Masterclass-Handout-1.29.24.pdf`)  
+   Masterclass practitioner guide and due diligence checklist detailing technical, commercial, financial, and legal underwriting protocols for evaluating venture capital investment deals.  
+   ### The Rigorous Science of Venture Underwriting
+
+1077. **[[galloway-quitting-time-labor-capital-and-career-strategy]]** ([[scott-galloway]], Source: `Entrepreneurship/2024 prof G Quitting Time.pdf`)  
+   Provocative essay and analytical presentation by NYU Stern Professor Scott Galloway examining the structural breakdown of the corporate career covenant, the Great Resignation, and the surge in solopreneurship.  
+   ### The Dissolution of the Corporate Social Contract
+
+1078. **[[us-climate-tech-startups-and-sustainable-investment-compendium]]** ([[fidelity-sustainable-investing]], [[climate-tech-venture-consortium]], Source: `Entrepreneurship/2024SEPT ClimateTechStartupsUSA_VCL_FID_CLIMATE_+TECH_DIGI.pdf`, `Entrepreneurship/2024_Sustainable_Investment_Survey.pdf`)  
+   Dual-volume intelligence compendium mapping the landscape of U.S. climate tech startups and institutional sustainable investment flows across clean hydrogen, long-duration energy storage, and industrial decarbonization.  
+   ### The Re-Engineering of Industrial Infrastructure
+
+1079. **[[bits-and-pieces-executive-and-venture-lessons]]** ([[venture-foundry-partners]], Source: `Entrepreneurship/2025 Bits-&-pieces-(Advice-from-Above)-20250711.pdf`)  
+   Curated compendium of tactical executive lessons, mental models, and board governance principles distilled from veteran founders and venture capital partners.  
+   ### Pragmatic Wisdom for High-Stakes Leadership
+
+1080. **[[global-entrepreneurship-monitor-25th-anniversary-report-2025]]** ([[global-entrepreneurship-research-association-gera]], [[babson-college-entrepreneurship-center]], Source: `Entrepreneurship/2025 GEM 2024_-25 Global Report Entrepreneurship Reality Check.pdf`)  
+   Monumental 248-page 25th-anniversary global census by the Global Entrepreneurship Monitor (GEM), surveying 150,000+ individuals across 50+ economies to benchmark Total Early-Stage Entrepreneurial Activity (TEA), gender dynamics, and national entrepreneurial framework conditions.  
+   ### Quarter-Century Benchmark of Global Entrepreneurship
+
+1081. **[[uchicago-tech-ventures-demo-day-portfolio-2025]]** ([[polsky-center-for-entrepreneurship-and-innovation]], Source: `Entrepreneurship/2025 UChicago-Tech-Ventures-Demo-Day-Portfolio-Book.pdf`)  
+   Official portfolio compendium from the University of Chicago Polsky Center showcasing 23 venture-backed university spinouts spanning quantum computing, oncology therapeutics, and advanced materials.  
+   ### Academic Technology Transfer and University Spinoffs
+
+1082. **[[cb-insights-tech-ipo-pipeline-2026-scouting-reports]]** ([[cb-insights-research]], Source: `Entrepreneurship/2026 CB-Insights_Tech-IPO-Pipeline-2026-Scouting-Reports.pdf`)  
+   Monumental 109-page pre-IPO scouting dossier analyzing the next wave of high-valuation private technology companies approaching public listings, evaluating S-1 filing readiness, unit economics, and competitive moats.  
+   ### Deep Pre-IPO Intelligence for Institutional Allocators
+
+1083. **[[how-to-raise-capital-without-giving-up-control]]** ([[non-dilutive-capital-advisory-group]], Source: `Entrepreneurship/2026 How-to-Raise-Capital-Without-Giving-Up-Control.pdf`)  
+   Practical strategic guide for startup founders exploring alternatives to traditional equity dilution: venture debt, revenue-based financing, equipment leasing, and customer advances.  
+   ### Preserving Founder Sovereignty in Venture Financing
+
+1084. **[[cb-insights-unicorn-mosaic-score-algorithm]]** ([[cb-insights-research]], Source: `Entrepreneurship/CB Insights Unicorn Mosaic-Score.pdf`)  
+   Technical methodology white paper detailing CB Insights' proprietary Mosaic algorithm, which uses machine learning over non-traditional data signals (hiring velocity, web traffic, customer sentiment) to predict startup success.  
+   ### Algorithmic Prediction of Venture Capital Outcomes
+
+1085. **[[cb-insights-the-top-20-reasons-startups-fail]]** ([[cb-insights-research]], Source: `Entrepreneurship/CBi The-20-Reasons-Startups-Fail.pdf`)  
+   Classic, universally cited CB Insights empirical study conducting a detailed post-mortem autopsy of 101 failed venture-backed startups, establishing that lack of market need (42%) is the leading cause of startup mortality.  
+   ### The Definitive Autopsy of Entrepreneurial Mortality
+
+1086. **[[the-dec-network-entrepreneurship-impact-report]]** ([[the-dec-network]], Source: `Entrepreneurship/DEC-Impact-Report-digital.pdf`)  
+   Annual regional impact report detailing the incubation, capital access, mentorship, and economic growth delivered by the Dallas Entrepreneur Center across the North Texas startup ecosystem.  
+   ### Regional Ecosystem Acceleration in North Texas
+
+1087. **[[endeavor-insight-unicorn-founder-career-pathways]]** ([[endeavor-insight]], Source: `Entrepreneurship/Endeavor-Insight-Data-Explainer_Unicorn-Founder-Pathways.pdf`)  
+   Empirical study by Endeavor Insight analyzing the career pathways, corporate training grounds, and network connections of the founders behind the world's most successful $1B+ tech unicorns.  
+   ### Mapping the Genetic Origins of Unicorn Founders
+
+1088. **[[entrepreneur-magazine-startups-and-franchise-growth-2022]]** ([[entrepreneur-magazine-editors]], Source: `Entrepreneurship/Entrepreneur's Startups_Fall Winter 2022.pdf`)  
+   Comprehensive 120-page small business and franchise guide evaluating unit economics, low-cost startup opportunities, multi-unit franchise ownership, and capital financing models.  
+   ### Main Street Entrepreneurship and Franchise Architecture
+
+1089. **[[gabbard-gartner-partnering-with-startups-for-innovation]]** ([[kevin-gabbard]], Source: `Entrepreneurship/Gartner partnering_with_startups_gbq_Q2-2022.pdf`)  
+   Executive briefing in Gartner Business Quarterly establishing frameworks for large enterprises to partner with early-stage startups without crushing them through bureaucratic inertia.  
+   ### Overcoming the Cultural Clash in Corporate-Startup Partnerships
+
+1090. **[[mullin-genghis-khan-trade-warrior-pax-mongolica]]** ([[john-mullin]], Source: `Entrepreneurship/Genghis Khan, Trade Warrior - economic_history.pdf`)  
+   Richmond Fed economic history study analyzing how Genghis Khan and the Mongol Empire established the Pax Mongolica, unified Silk Road trade, enforced commercial property rights, and pioneered paper currency.  
+   ### The Economic Foundations of the Mongol Empire
+
+1091. **[[morris-chang-and-the-founding-of-tsmc-at-age-55]]** ([[wall-street-journal-science-of-success]], Source: `Entrepreneurship/He Turned 55. Then He Started the World’s Most Important Company.pdf`)  
+   Wall Street Journal biographical case study chronicling how Morris Chang founded Taiwan Semiconductor Manufacturing Company (TSMC) at age 55, inventing the pure-play semiconductor foundry model that transformed the global digital economy.  
+   ### The Architectural Invention of the Pure-Play Foundry
+
+1092. **[[mit-solve-annual-impact-report-2023]]** ([[mit-solve-initiative]], Source: `Entrepreneurship/MIT Solve - Annual Report 2023.pdf`)  
+   Annual impact report by MIT Solve documenting open innovation challenges, funding distribution, and pilot deployments for tech entrepreneurs tackling climate resilience, healthcare equity, and economic inclusion.  
+   ### Open Innovation for Humanity's Greatest Crises
+
+1093. **[[mit-technology-review-the-computing-issue-nov-dec-2021]]** ([[mit-technology-review-editors]], Source: `Entrepreneurship/MIT Technology Review 11.12 2021.pdf`)  
+   Special 92-page Computing Issue of MIT Technology Review investigating the limits of Moore's Law, alternative semiconductor materials, quantum simulators, neural computing, and the geopolitical future of microchips.  
+   ### The Frontiers of Post-Silicon Computation
+
+1094. **[[open-innovation-playbook-and-corporate-startup-collaboration]]** ([[sente-ventures]], [[open-innovation-research-consortium]], Source: `Entrepreneurship/Open Innovation Playbook_.pdf`, `Entrepreneurship/Sente+WP+-+Corporate+Innovation+Calls+for+Outside+Innovation.pdf`)  
+   Dual-volume operational handbook by Sente Ventures and the Open Innovation Consortium outlining step-by-step methodologies for corporations to engage global startups, run structured proof-of-concept pilots, and build internal venture client units.  
+   ### The Tactical Manual for Corporate-Startup Engagement
+
+1095. **[[ewens-nanda-stanton-ceo-compensation-in-vc-startups]]** ([[michael-ewens]], [[ramana-nanda]], [[christopher-stanton]], Source: `Entrepreneurship/The Evolution of CEO Compensation in Venture Capital Backed Startups HBR 2020.pdf`)  
+   Landmark Harvard Business School working paper (HBS Working Paper 20-119, 62 pp.) providing the first comprehensive empirical study of executive compensation, cash salaries, and equity dilution for startup CEOs across venture financing rounds.  
+   ### The Hidden Economics of Startup Executive Pay
+
+1096. **[[coates-how-many-eggs-in-a-venture-capitalists-dozen]]** ([[cainon-coates]], Source: `Entrepreneurship/White Paper-How Many Eggs in A Venture Capitalists Dozen.pdf`)  
+   Mathematical white paper from Castor Ventures modeling venture capital portfolio size, proving that concentrated portfolios (<20 companies) suffer massive statistical failure rates due to extreme power-law return distributions.  
+   ### The Mathematical Optimization of Venture Portfolios
+
+1097. **[[y-combinator-founder-evaluation-and-interview-framework]]** ([[y-combinator-partners]], Source: `Entrepreneurship/YCombinatorQuestions.jpeg`)  
+   Standardized partner interrogation framework and question guide utilized by Y Combinator to evaluate startup founders in 10-minute partner interviews, focusing on problem clarity, user insight, and execution velocity.  
+   ### The Forensic 10-Minute Founder Interrogation
+
+1098. **[[navigate-to-the-lighthouse-silicon-valley-global-deals]]** ([[silicon-valley-dealmakers-consortium]], Source: `Entrepreneurship/navigate_to_the_lighthouse_summary.txt`)  
+   Executive summary and tactical handbook on landing a 'lighthouse deal'—a transformative, high-profile enterprise partnership that establishes a startup's market legitimacy and accelerates venture momentum.  
+   ### Landing the Transformative Enterprise Anchor Customer
+
+1099. **[[kpmg-venture-pulse-q4-2023-global-venture-funding]]** ([[kpmg-private-enterprise]], Source: `Entrepreneurship/venture-pulse-q4-2023.pdf`)  
+   Monumental 96-page global market research report by KPMG analyzing venture capital investment, fundraising rounds, exit values, and sector breakdowns across the Americas, Europe, and Asia-Pacific at the close of 2023.  
+   ### Global Diagnostic of the Venture Capital Retrenchment
+
+1100. **[[kauffman-foundation-lessons-from-20-years-of-vc-investments]]** ([[diane-mulcahy]], [[bill-weeks]], [[harold-s-bradley]], Source: `Entrepreneurship/we_have_met_the_enemy_venture_capital_report_kauffman_foundation.pdf`)  
+   Landmark, explosive 52-page empirical report by the Kauffman Foundation analyzing 20 years of real LP returns across 100+ venture funds, shattering the myth of VC outperformance and exposing distorted 2/20 fee structures.  
+   ### The Explosive Institutional Critique of Venture Capital
+
+1101. **[[apexe-nations-g20-pilot-entrepreneurship-report-2024]]** ([[apexe-global-entrepreneurship-initiative]], Source: `Entrepreneurship/Entrepreneurship Global/2024 APEXE_Nations_Report_-_G20_Pilot.pdf`)  
+   G20 pilot benchmark report assessing national entrepreneurial performance, regulatory friction, and venture capital liquidity across the world's 20 largest economies.  
+   ### Comparative Entrepreneurial Policy Across the G20
+
+1102. **[[startup-genome-global-startup-ecosystem-reports-compendium]]** ([[startup-genome-research]], Source: `Entrepreneurship/Entrepreneurship Global/Compass the_global_startup_ecosystem_report_2015.pdf`, `Entrepreneurship/Entrepreneurship Global/Global_Startup_Ecosystem_Report_2022_Blue_Economy_Edition.pdf`, `Entrepreneurship/Entrepreneurship Global/THE GLOBAL STARTUP ECOSYSTEM REPORT 2023.pdf`, `Entrepreneurship/Entrepreneurship Global/The_Global_Startup_Ecosystem_Report_2022.pdf`, `Entrepreneurship/Entrepreneurship Global/The_Global_Startup_Ecosystem_Report_Climatetech_Edition.pdf`)  
+   Monumental 5-volume longitudinal research compendium spanning 2015 to 2023 by Startup Genome, benchmarking ranking shifts, founder connectedness, scaleup velocity, and specialized sector ecosystems (ClimateTech, Blue Economy) across 300+ cities globally.  
+   ### The Definitive Longitudinal Census of Global Innovation Hubs
+
+1103. **[[pitchbook-global-vc-ecosystem-rankings-2023]]** ([[pitchbook-emerging-tech-research]], Source: `Entrepreneurship/Entrepreneurship Global/Q4_2023_PitchBook_Analyst_Note_Global_VC_Ecosystem_Rankings.pdf`)  
+   PitchBook analyst note and quantitative ranking indexing the world's top 50 venture capital ecosystems by total deal value, exit track record, and capital development velocity.  
+   ### Quantitative Benchmarking of World Venture Hubs
+
+1104. **[[ubi-global-university-incubator-and-accelerator-rankings-compendium]]** ([[ubi-global-research]], Source: `Entrepreneurship/Entrepreneurship Global/UBI Global - Rankings 2013.pdf`, `Entrepreneurship/Entrepreneurship Global/UBI Global - Rankings 2014.pdf`, `Entrepreneurship/Entrepreneurship Global/UBI Global - Rankings 2015.pdf`, `Entrepreneurship/Entrepreneurship Global/UBI Global - World Rankings 2017-18 (v3).pdf`)  
+   Comprehensive 4-volume longitudinal research compendium spanning 2013 to 2018 by UBI Global, evaluating and ranking over 500 university-linked business incubators and accelerators across 70+ countries.  
+   ### Five-Year Longitudinal Benchmark of Academic Incubators
+
+1105. **[[unctad-world-investment-report-2017-digital-economy]]** ([[united-nations-conference-on-trade-and-development-unctad]], Source: `Entrepreneurship/Entrepreneurship Global/World Investment Report - 2017.pdf`, `Entrepreneurship/Entrepreneurship Global/World Investment Report Overview - 2017.pdf`)  
+   United Nations flagship economic report (280+ pages) examining global Foreign Direct Investment (FDI) trends, cross-border M&A, and the structural transformation of Multinational Enterprises (MNEs) into asset-light digital platform conglomerates.  
+   ### Global Capital Allocation in the Digital Age
+
+1106. **[[budak-plug-and-play-international-accelerator-architecture]]** ([[omur-budak]], Source: `Entrepreneurship/Entrepreneurship Global/=Mexican Accelerator in Boston Plug/Omur Budak Plug Intro -Accelerator Detail v3.pdf`)  
+   Case study analyzing cross-border startup acceleration, detailing how international technology bridge programs link emerging-market founders (Mexico) directly to elite Tier-1 innovation clusters (Boston/Cambridge).  
+   ### Designing Cross-Border Technology Corridors
+
+1107. **[[itif-innovation-orchards-producing-startups-of-the-future]]** ([[information-technology-and-innovation-foundation-itif]], Source: `Entrepreneurship/Entrepreneurship USA/2017-innovation-orchards.pdf`)  
+   ITIF public policy study proposing the creation of 'Innovation Orchards'—shared physical prototyping facilities, wet labs, and scale-up manufacturing testbeds to de-risk hard-tech and hardware startups.  
+   ### Overcoming the Hardware and Deep-Tech Financing Chasm
+
+1108. **[[carta-state-of-us-startups-2023]]** ([[carta-research]], Source: `Entrepreneurship/Entrepreneurship USA/2023 Carta_State_Of_Startups_2023.pdf`)  
+   Exhaustive 52-page empirical benchmark report by Carta analyzing real capitalization tables, down rounds, SAFE note conversion dynamics, and employee stock option exercising trends across 40,000 venture-backed companies.  
+   ### Cap Table Ground Truth in the Post-ZIRP Economy
+
+1109. **[[california-innovation-based-economy-policy-study]]** ([[california-council-on-science-and-technology]], Source: `Entrepreneurship/Entrepreneurship USA/California's Innovation-Based Economy-Policies to Maintain and Enhance It.pdf`)  
+   Monumental 78-page public policy study evaluating California's global technology leadership, examining housing costs, tax burdens, talent outmigration, and higher-education R&D infrastructure.  
+   ### Preserving the World's Preeminent Innovation Engine
+
+1110. **[[seventeen-seventy-six-innovation-that-matters-compendium]]** ([[seventeen-seventy-six-incubator]], [[us-chamber-of-commerce-foundation]], Source: `Entrepreneurship/Entrepreneurship USA/Innovation-that-Matters-2016.pdf`, `Entrepreneurship/Entrepreneurship USA/Innovation-that-Matters-2017-2.pdf`)  
+   Two-volume 103-page comparative study by 1776 and the U.S. Chamber of Commerce Foundation ranking 25 major American cities on their capacity to cultivate startups in regulated sectors (healthcare, energy, civic tech, smart cities).  
+   ### Regulated Tech and Urban Innovation Ecosystems
+
+1111. **[[texas-rising-tide-startup-and-innovation-growth-report-2023]]** ([[texas-innovation-coalition]], Source: `Entrepreneurship/Entrepreneurship USA/The Texas Rising Tide - Texas Startup & Innovation Ecosystem Growth Report 2023.pdf`)  
+   Comprehensive 52-page economic report documenting the explosive growth of the Texas technology and startup ecosystem, detailing corporate relocations, venture funding records, and the multi-metro triangle (Austin, Dallas-Fort Worth, Houston).  
+   ### The Rise of the Lone Star Innovation Super-Cluster
+
+1112. **[[pitchbook-and-bussgang-us-regional-venture-ecosystems-compendium]]** ([[pitchbook-emerging-tech-research]], [[jeffrey-bussgang]], Source: `Entrepreneurship/Entrepreneurship USA/USA Austin/PitchBook_2016_Venture_Ecosystem_FactBook_Austin.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Boston/Boston Ecosystem Canvas (Draft v1) - Google Docs.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Boston/Jeffrey Bussgang bostonstartupscenefall2016final-160913205730.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Boston/PitchBook_2016_US_Venture_Ecosystem_FactBook.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Boston/PitchBook_2017_Venture_Ecosystem_FactBook_Boston.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Chicago/PitchBook_2017_Venture_Ecosystem_FactBook_Chicago.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Los Angeles/PitchBook_2017_US_Venture_Ecosystem_FactBook_Los_Angeles.pdf`, `Entrepreneurship/Entrepreneurship USA/USA New York/PitchBook_2017_Venture_Ecosystem_FactBook_New_York.pdf`, `Entrepreneurship/Entrepreneurship USA/USA Seattle/PitchBook_2017_Venture_Ecosystem_FactBook_Seattle.pdf`)  
+   Monumental 9-dossier compendium spanning 160+ pages uniting PitchBook's official regional venture ecosystem factbooks (Austin, Boston, Chicago, Los Angeles, New York, Seattle) with Jeffrey Bussgang's authoritative Harvard Business School Boston startup ecosystem architecture.  
+   ### Definitive Atlas of American Regional Venture Capital Hubs
+
+1113. **[[turkey-technology-transfer-offices-and-ecosystem-report]]** ([[tubitak-tto-calisma-grubu]], Source: `Entrepreneurship/Entrepreneurship Turkey/2016-turkey-tech-transfer.pdf`)  
+   Comprehensive state research report analyzing the structural evolution, patent licensing yields, and university-industry collaboration metrics across Turkey's Technology Transfer Offices (TTOs).  
+   ### Academic Technology Transfer and Industrial Commercialization in Turkey
+
+1114. **[[startups-watch-turkiye-girisim-ekosistemi-longitudinal-compendium]]** ([[startups-watch]], [[serkan-unsal]], [[kpmg-turkey-advisory]], Source: `Entrepreneurship/Entrepreneurship Turkey/2023 StartupWatch Year_in_Review_2023.pdf`, `Entrepreneurship/Entrepreneurship Turkey/2024-Q3_Report_v1.0.pdf`, `Entrepreneurship/Entrepreneurship Turkey/2025 Startups Türkiye Year_in_Review_2024_v1.1.pdf`, `Entrepreneurship/Entrepreneurship Turkey/2025 Year_in_Review_2025_v1.0.pdf`, `Entrepreneurship/Entrepreneurship Turkey/turkish-startup-investments-2023.pdf`)  
+   Monumental 5-volume longitudinal research compendium spanning 2023 to 2025 by Startups.watch and KPMG Turkey, documenting all venture capital investment rounds, gaming exits, fintech growth, and seed deals across the Turkish startup landscape.  
+   ### The Definitive Data Ledger of Turkish Venture Capital
+
+1115. **[[turkiye-sanayi-ve-teknoloji-bakanligi-ytak-avans-kredisi-stratejisi]]** ([[turkiye-cumhuriyeti-sanayi-ve-teknoloji-bakanligi]], [[turkiye-cumhuriyeti-merkez-bankasi-tcmb]], Source: `Entrepreneurship/Entrepreneurship Turkey/2023 Turkiye M of Tech Yatırım Projelerinin Stratejik Öncelik ve Teknik Değerlendirmesine İlişkin Duyuru.pdf`, `Entrepreneurship/Entrepreneurship Turkey/Yatırım+Taahhütlü+Avans+Kredisi+Uygulama+Talimatı__.pdf`)  
+   Official legislative and technical policy compendium by the Ministry of Industry & Technology and Central Bank of Turkey establishing the Yatırım Taahhütlü Avans Kredisi (YTAK) program, allocating 284 billion TL in long-term, low-cost capital for high-tech domestic manufacturing.  
+   ### Sovereign Industrial Credit Architecture for High Technology
+
+1116. **[[tusiad-turkiye-girisimcilik-raporu-2024]]** ([[turk-sanayicileri-ve-is-insanlari-dernegi-tusiad]], Source: `Entrepreneurship/Entrepreneurship Turkey/2024 Türkiye Entrepreneurship TÜSİAD_ger_2Temmuz24.pdf`)  
+   Flagship 2024 report by TÜSİAD analyzing entrepreneurship as the core driver of Turkish macroeconomic growth, detailing scale-up hurdles, corporate venture building, and regulatory modernization.  
+   ### The Voice of Turkish Big Business on Entrepreneurship
+
+1117. **[[fao-turkey-wheat-production-and-agricultural-innovation]]** ([[food-and-agriculture-organization-fao]], Source: `Entrepreneurship/Entrepreneurship Turkey/FAO Turkey Wheat.pdf`)  
+   Comprehensive economic and agronomic study by the United Nations FAO analyzing wheat cultivation, yield optimization, drought adaptation, and agricultural technology adoption across Turkey.  
+   ### Agronomic Foundations of Anatolian Food Security
+
+1118. **[[gooinn-inovasyon-ve-girisimcilik-raporu-2021]]** ([[gooinn-innovation-consulting]], Source: `Entrepreneurship/Entrepreneurship Turkey/GOOINN İnovasyon ve Girişimcilik Raporu 2021.pdf`)  
+   Comprehensive market intelligence report on the post-pandemic acceleration of digital business models, remote corporate agility, and startup investment across Turkish enterprises in 2021.  
+   ### Post-Pandemic Innovation Acceleration in Turkey
+
+1119. **[[etohum-startup-turkey-ecosystem-compendium]]** ([[burak-buyukdemir]], [[etohum-accelerator]], Source: `Entrepreneurship/Entrepreneurship Turkey/Startup_Turkey.pdf`, `Entrepreneurship/Entrepreneurship Turkey/The-State-of-Turkish-Startup-Ecosystem-2019.pdf`, `Entrepreneurship/Entrepreneurship Turkey/the-state-of-turkish-startup-ecosystem.pdf`)  
+   Three-volume longitudinal research compendium spanning 2019 to 2023 by Etohum and Startup Turkey, providing an in-depth retrospective and operational analysis of the Turkish startup ecosystem, cross-border investor sentiment, and founder retention.  
+   ### The Historical Pioneer of Turkish Startup Acceleration
+
+1120. **[[ttgv-fon-modeli-ve-technoscape-stratejisi]]** ([[turkiye-teknoloji-gelistirme-vakfi-ttgv]], Source: `Entrepreneurship/Entrepreneurship Turkey/TTGV Fon Modeli 2020 Idea Paper.pdf`, `Entrepreneurship/Entrepreneurship Turkey/TTGV technoscape.pdf`)  
+   Dual-volume strategic policy and market architecture compendium by the Technology Development Foundation of Turkey (TTGV), establishing a novel public-private Fund of Funds (Üst Fon) model and the Technoscape foresight methodology.  
+   ### Sovereign Risk-Capital Engineering and Technology Foresight
+
+1121. **[[kalkinma-bakanligi-turkiyede-akademik-girisimcilik-arastirmasi-2016]]** ([[turkiye-cumhuriyeti-kalkinma-bakanligi]], Source: `Entrepreneurship/Entrepreneurship Turkey/Türkiye'de Akademik Girişimcilik 2016 Kalkinma Bak.pdf`)  
+   Monumental 374-page sociological and economic monograph by the Ministry of Development conducting the most comprehensive empirical survey ever assembled on academic entrepreneurship, technology parks (Teknoparks), and faculty habitus across Turkish universities.  
+   ### The Monumental Sociological Study of Turkish Academic Entrepreneurship
+
+1122. **[[kosgeb-turkiye-girisimcilik-stratejisi-ve-eylem-plani]]** ([[kosgeb-kucuk-ve-orta-olcekli-isletmeleri-gelistirme-idaresi]], Source: `Entrepreneurship/Entrepreneurship Turkey/TürkiyeGirişimcilikStratejisiveEylemPlanı2015-2018.pdf`)  
+   Official national master strategy and action plan (74 pages) ratified by the Turkish High Planning Council, coordinating 6 strategic targets and 44 policy actions across government ministries to develop the national entrepreneurial ecosystem.  
+   ### The National Master Plan for Turkish Entrepreneurship
+
+1123. **[[celal-bayar-universitesi-turk-girisimci-profili-analizi]]** ([[celal-bayar-universitesi-yonetim-ve-ekonomi-dergisi]], Source: `Entrepreneurship/Entrepreneurship Turkey/Türkiye’de Girişimcilik ve Türk Girişimci Profili Üzerine Bir Analiz 2014.pdf`)  
+   Academic empirical survey analyzing the sociodemographic profiles, risk tolerance, educational backgrounds, and motivation factors of Turkish entrepreneurs.  
+   ### Empirical Profile of the Anatolian Entrepreneur
+
+1124. **[[tim-turkiye-ihracatcilar-meclisi-girisimcilik-ve-ihracat-dinamikleri]]** ([[turkiye-ihracatcilar-meclisi-tim]], Source: `Entrepreneurship/Entrepreneurship Turkey/TIM/TIM Girisimcilik Calisma Grubu #2 Tavsiyeler 2016 01 10.pdf`, `Entrepreneurship/Entrepreneurship Turkey/TIM/TIM Girisimcilik Calisma Grubu #2 Tavsiyeler 2016 01 10.pptx`, `Entrepreneurship/Entrepreneurship Turkey/TIM/TIM İhracatın Gelişim 2001-2016.pdf`, `Entrepreneurship/Entrepreneurship Turkey/TIM/TIM İhracatın Gelişim 2002.pdf`)  
+   Four-volume longitudinal research compendium by the Turkish Exporters Assembly (TİM), detailing the structural growth of Turkish exports from $30B to $150B+ between 2001 and 2016, alongside the TİM Entrepreneurship Working Group strategy for high-value-added innovation exports.  
+   ### The Structural Transformation of Turkish Export Power
+
+1125. **[[yased-uluslararasi-yatirimcilar-dernegi-ar-ge-ve-inovasyon-raporu]]** ([[uluslararasi-yatirimcilar-dernegi-yased]], Source: `Entrepreneurship/Entrepreneurship Turkey/YASED/YASED Ar-Ge ve İnovasyon ÇG Top. - 2017.09.18.pdf`)  
+   Executive policy and working group proceedings from YASED evaluating multinational corporate R&D centers, intellectual property incentives, and foreign technology investment in Turkey.  
+   ### Multinational Corporate R&D in Turkey

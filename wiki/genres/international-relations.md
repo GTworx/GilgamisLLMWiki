@@ -15,6 +15,7 @@ In the wiki, IR provides the macro-political context for both Axelrod's institut
 ---
 
 ## Books in Wiki
+- [[budak-plug-and-play-international-accelerator-architecture]]
 - [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[turkic-world-senate-analysis-2026]] (2026) — [[turkic-world-policy-analysts]]
 - [[chip-war-the-fight-for-the-worlds-most-critical-technology]] (2022) — [[chris-miller]]

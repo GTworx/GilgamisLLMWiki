@@ -14,6 +14,12 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[carlota-perez-technological-revolutions-and-techno-economic-paradigms]]
+- [[carta-venture-capital-fund-performance-q1-2024]]
+- [[financial-times-how-long-can-the-entrepreneurship-boom-last]]
+- [[silicon-valley-bank-state-of-the-markets-h2-2024]]
+- [[kpmg-venture-pulse-q4-2023-global-venture-funding]]
+- [[kauffman-foundation-lessons-from-20-years-of-vc-investments]]
 - [[levine-texas-tempts-tesla-and-musk-pay-package]]
 - [[nielseniq-zmd-turkey-retail-and-fmcg-trends-2024]]
 - [[barrons-top-wealth-management-teams-report]]

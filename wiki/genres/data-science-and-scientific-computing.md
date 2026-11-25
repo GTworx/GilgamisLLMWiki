@@ -14,6 +14,10 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[cb-insights-n-plus-1-trends-2017]]
+- [[cb-insights-famga-earnings-call-transcripts-nlp-analysis]]
+- [[cb-insights-tech-trends-2018-and-2020-longitudinal-compendium]]
+- [[cb-insights-unicorn-mosaic-score-algorithm]]
 - [[kilts-center-marketing-science-chicago-booth-review]]
 - [[iot-analytics-what-ceos-are-talking-about-2024]]
 - [[benkler-coases-penguin-commons-based-peer-production]]

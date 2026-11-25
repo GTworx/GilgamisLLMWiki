@@ -19,6 +19,8 @@ Key dimensions of the genre include:
 ---
 
 ## Books in Wiki
+- [[mindshare-culture-and-consumer-trends-2024]]
+- [[almquist-b2b-elements-of-value-hbr-2018]]
 - [[kilts-center-marketing-science-chicago-booth-review]]
 - [[gooinn-turkey-e-commerce-report-2024]]
 - [[nielseniq-zmd-turkey-retail-and-fmcg-trends-2024]]

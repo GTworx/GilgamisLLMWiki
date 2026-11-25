@@ -14,6 +14,13 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[mit-technology-review-10-breakthrough-technologies-2016]]
+- [[thomson-reuters-citation-laureates-methodology]]
+- [[zycher-startup-economics-and-income-distribution]]
+- [[azoulay-age-and-high-growth-entrepreneurship-nber]]
+- [[decker-haltiwanger-surging-business-formation-in-the-pandemic]]
+- [[mit-technology-review-the-computing-issue-nov-dec-2021]]
+- [[coates-how-many-eggs-in-a-venture-capitalists-dozen]]
 - [[ergin-sonmez-unver-incentive-compatible-liver-exchange]]
 - [[bhattacharya-parkinsons-model-of-management]]
 - [[501-math-word-problems-and-middle-school-math-challenges]] (2019) — [[learningexpress-editors]], [[alex-oconnor]]

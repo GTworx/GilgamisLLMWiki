@@ -41,6 +41,14 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
 
 ## Books in Wiki
+- [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
+- [[komal-growth-models-market-sensing-and-disruption]]
+- [[zacharias-see-the-future-strategic-foresight-playbook]]
+- [[carlota-perez-technological-revolutions-and-techno-economic-paradigms]]
+- [[financial-times-how-long-can-the-entrepreneurship-boom-last]]
+- [[us-climate-tech-startups-and-sustainable-investment-compendium]]
+- [[coates-how-many-eggs-in-a-venture-capitalists-dozen]]
+- [[fao-turkey-wheat-production-and-agricultural-innovation]]
 - [[levine-texas-tempts-tesla-and-musk-pay-package]]
 - [[barrons-top-wealth-management-teams-report]]
 - [[visual-capitalist-black-swan-events-short-term-crisis]]

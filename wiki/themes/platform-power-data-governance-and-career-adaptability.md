@@ -52,3 +52,10 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 - [[blockchain-and-decentralized-finance]]
 - [[data-science-and-scientific-computing]]
 - [[ethics-and-value-philosophy]]
+
+## Books in Wiki
+- [[business-insider-intelligence-the-next-big-thing-compendium]]
+- [[gartner-strategic-technology-investments-and-top-trends-compendium]]
+- [[tsia-ragsdale-enterprise-technology-trends-compendium]]
+- [[global-technology-outlook-2022]]
+- [[galloway-quitting-time-labor-capital-and-career-strategy]]

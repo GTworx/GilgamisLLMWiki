@@ -29,3 +29,4 @@ The report serves as an indispensable reference for technology investors and exe
 
 ## Primary Sources
 - [CB-Insights_Tech-Trends-2022.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Science/CB-Insights_Tech-Trends-2022.pdf)
+- [CB-Insights_Tech-Trends-2022.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Innovation_/CB-Insights_Tech-Trends-2022.pdf)

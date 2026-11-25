@@ -59,3 +59,10 @@ Originating in [[geoffrey-a-moore]]'s [[crossing-the-chasm]] and codified exhaus
 - [[shin-forbes-investors-guide-to-bitcoin-and-crypto-assets]]
 - [[turkiye-game-market-longitudinal-reports-2023-2025]]
 - [[time-magazine-hybe-bang-si-hyuk-and-kpop-reinvention]]
+
+## Books in Wiki
+- [[boudreau-startup-strategy-and-product-market-experimentation]]
+- [[ironspring-nuts-and-bolts-industrial-tech-startups]]
+- [[cb-insights-the-top-20-reasons-startups-fail]]
+- [[open-innovation-playbook-and-corporate-startup-collaboration]]
+- [[y-combinator-founder-evaluation-and-interview-framework]]

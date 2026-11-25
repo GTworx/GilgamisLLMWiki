@@ -71,3 +71,8 @@ Making the institutional and operational case, [[claudia-zeisberger]], [[michael
 - [[innovation-and-economic-growth]]
 - [[investigative-non-fiction]]
 - [[political-science]]
+
+## Books in Wiki
+- [[capstone-partners-testing-inspection-and-certification-ma-report]]
+- [[carta-venture-capital-fund-performance-q1-2024]]
+- [[silicon-valley-bank-state-of-the-markets-h2-2024]]

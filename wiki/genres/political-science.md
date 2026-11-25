@@ -15,6 +15,15 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[akcayoz-how-innovation-agencies-work-international-lessons]]
+- [[oecd-declining-business-dynamism-and-startups]]
+- [[apexe-nations-g20-pilot-entrepreneurship-report-2024]]
+- [[unctad-world-investment-report-2017-digital-economy]]
+- [[itif-innovation-orchards-producing-startups-of-the-future]]
+- [[california-innovation-based-economy-policy-study]]
+- [[seventeen-seventy-six-innovation-that-matters-compendium]]
+- [[turkiye-sanayi-ve-teknoloji-bakanligi-ytak-avans-kredisi-stratejisi]]
+- [[kosgeb-turkiye-girisimcilik-stratejisi-ve-eylem-plani]]
 - [[allison-great-tech-rivalry-china-vs-us]]
 - [[newsweek-international-november-2022-compendium]]
 - [[wef-the-global-risks-report-2024]]

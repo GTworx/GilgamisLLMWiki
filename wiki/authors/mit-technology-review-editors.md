@@ -23,3 +23,7 @@ Founded in 1899 at the Massachusetts Institute of Technology, MIT Technology Rev
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
+
+## Key Works in Wiki
+- [[mit-technology-review-10-breakthrough-technologies-2016]]
+- [[mit-technology-review-the-computing-issue-nov-dec-2021]]

@@ -12,6 +12,7 @@ World History, Macro-Anthropology, and Ancient Civilizations encompasses broad-s
 ---
 
 ## Books in Wiki
+- [[flueckiger-larch-metal-trade-and-the-rise-of-hierarchy]]
 - [[crossroads-of-civilization-a-history-of-central-asia]] (2025) — [[eren-tasar]]
 - [[how-the-world-made-the-west]] (2024) — [[josephine-quinn]]
 - [[empires-of-the-steppes-companion]] (2023) — [[kenneth-w-harl]]

@@ -19,6 +19,18 @@ Core analytical dimensions include:
 ---
 
 ## Books in Wiki
+- [[podolny-hansen-how-apple-is-organized-for-innovation]]
+- [[lemley-wansley-coopting-disruption-and-big-tech-acquisitions]]
+- [[wipo-luiss-world-intangible-investment-highlights-2024]]
+- [[cb-insights-famga-earnings-call-transcripts-nlp-analysis]]
+- [[capstone-partners-testing-inspection-and-certification-ma-report]]
+- [[cb-insights-tech-ipo-pipeline-2026-scouting-reports]]
+- [[how-to-raise-capital-without-giving-up-control]]
+- [[gabbard-gartner-partnering-with-startups-for-innovation]]
+- [[ewens-nanda-stanton-ceo-compensation-in-vc-startups]]
+- [[kauffman-foundation-lessons-from-20-years-of-vc-investments]]
+- [[carta-state-of-us-startups-2023]]
+- [[tusiad-turkiye-girisimcilik-raporu-2024]]
 - [[transparency-international-corruption-perceptions-index-2023-compendium]]
 - [[levine-texas-tempts-tesla-and-musk-pay-package]]
 - [[nielseniq-zmd-turkey-retail-and-fmcg-trends-2024]]

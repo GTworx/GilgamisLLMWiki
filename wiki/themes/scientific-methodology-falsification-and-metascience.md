@@ -4,6 +4,7 @@
 Examines the epistemological foundations, methodological rigor, and institutional incentives governing scientific inquiry. Focuses on John R. Platt's Strong Inference method, Popperian falsificationism, crucial exclusionary experiments, replication crises in behavioral sciences, forensic data auditing (Data Colada), citation penalties for scientific field-pivoting, and the sociology of academic knowledge production.
 
 ## Core Works
+- [[thomson-reuters-citation-laureates-methodology]]
 - [[pfeffer-sutton-evidence-based-management-hbr-2006]]
 - [[hbs-rock-center-customer-discovery-basics]]
 - [[green-hand-mckinsey-diversity-matters-revisited-2024]]

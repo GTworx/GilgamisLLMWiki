@@ -76,6 +76,9 @@ Connects Daniel Kahneman's dual-system architecture (*Thinking, Fast and Slow*) 
 - [[knill-multivariable-calculus-partial-derivatives-harvard]]
 
 ## Books in Wiki
+- [[bits-and-pieces-executive-and-venture-lessons]]
+- [[entrepreneur-magazine-startups-and-franchise-growth-2022]]
+- [[celal-bayar-universitesi-turk-girisimci-profili-analizi]]
 - [[kilts-center-marketing-science-chicago-booth-review]]
 - [[digital-publishing-and-blog-monetization-playbook]]
 - [[agile-management-psychology-and-psychological-safety]]

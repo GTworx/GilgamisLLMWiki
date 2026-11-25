@@ -19,6 +19,8 @@ Across the five 2026 works anchored in this genre, leadership is examined from c
 ---
 
 ## Books in Wiki
+- [[podolny-hansen-how-apple-is-organized-for-innovation]]
+- [[bits-and-pieces-executive-and-venture-lessons]]
 - [[frei-morriss-everything-starts-with-trust-hbr-2020]]
 - [[zigarmi-five-contexts-of-leadership]]
 - [[cognitive-models-resilience-and-integrity-compendium]]

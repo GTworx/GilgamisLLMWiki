@@ -14,6 +14,7 @@ Across this wiki, the genre spans nonviolent moral witnesses—[[mahatma-gandhi]
 ---
 
 ## Books in Wiki
+- [[morris-chang-and-the-founding-of-tsmc-at-age-55]]
 - [[time-magazine-elon-musk-person-of-the-year-2021]]
 - [[historical-leadership-and-influence-models-compendium]]
 - [[anti-zionism-a-jewish-history]] (2026) — [[benjamin-moser]]

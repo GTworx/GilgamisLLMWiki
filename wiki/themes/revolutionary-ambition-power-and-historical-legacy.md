@@ -61,4 +61,6 @@
 - [[ethics-and-value-philosophy]]
 
 ## Books in Wiki
+- [[flueckiger-larch-metal-trade-and-the-rise-of-hierarchy]]
+- [[mullin-genghis-khan-trade-warrior-pax-mongolica]]
 - [[historical-leadership-and-influence-models-compendium]]

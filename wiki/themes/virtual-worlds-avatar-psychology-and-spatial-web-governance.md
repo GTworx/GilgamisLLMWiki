@@ -14,6 +14,7 @@ Synthesizes the behavioral, ethical, legal, and architectural dimensions of 3D v
 - **Cultural Credibility & Creative Capital**: How next-generation luxury shifts from legacy heritage exclusivity to creator-driven cultural authenticity.
 
 ## Canonical Works
+- [[mindshare-culture-and-consumer-trends-2024]]
 - [[gooinn-turkey-e-commerce-report-2024]]
 - [[remote-work-nonverbal-communication-and-virtual-meetings]]
 in Knowledge Base

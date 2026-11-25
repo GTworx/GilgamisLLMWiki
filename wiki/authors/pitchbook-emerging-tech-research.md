@@ -26,3 +26,7 @@ PitchBook Emerging Tech Research is the research division of Morningstar's Pitch
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+## Key Works in Wiki
+- [[pitchbook-global-vc-ecosystem-rankings-2023]]
+- [[pitchbook-and-bussgang-us-regional-venture-ecosystems-compendium]]
