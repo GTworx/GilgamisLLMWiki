@@ -12,6 +12,7 @@ Nicholas Humphrey is a British theoretical psychologist and Emeritus Professor a
 ---
 
 ## Books in Wiki
+- [[humphrey-husband-evolutionary-psychology-of-suicide-and-death-language]]
 - [[humphrey-the-lure-of-death-suicide-and-human-evolution]]
 
 ---

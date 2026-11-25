@@ -61,5 +61,5 @@ Covers the hardware, software, protocols, and operational frameworks connecting 
 - [[global-supply-chains-and-logistics-systems]]
 
 ## Works in this Genre
+- [[gartner-arc-frontline-and-connected-industrial-worker-technologies]]
 - [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
-

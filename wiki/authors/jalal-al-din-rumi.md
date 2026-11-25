@@ -35,3 +35,6 @@ Thirteenth-century Persian-language Sufi mystic, Islamic jurist, theologian, and
 - [[sufi-ecstasy-spiritual-love-and-the-rumi-shams-axis]]
 - [[persian-sufism-skepticism-and-comparative-translation]]
 - [[universal-love-and-human-dignity]]
+
+## Key Works in Wiki
+- [[classical-persian-poetry-in-contemporary-song]]

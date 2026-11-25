@@ -12,6 +12,7 @@ Roy F. Baumeister is one of the world's most cited social psychologists, Profess
 ---
 
 ## Books in Wiki
+- [[baumeister-napolitano-bad-is-stronger-than-good-and-conspiracy-insulation]]
 - [[baumeister-bad-is-stronger-than-good]]
 
 ---

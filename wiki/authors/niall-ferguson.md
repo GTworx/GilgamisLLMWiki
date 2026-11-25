@@ -23,3 +23,6 @@ Niall Ferguson is an authoritative scholar, institutional body, or policy leader
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-10 Ingestion).*
+
+## Key Works in Wiki
+- [[ferguson-eiu-ukraine-war-scenarios-and-global-business-transformation]]

@@ -39,5 +39,5 @@ Anchored by DeepMind co-founder [[mustafa-suleyman]] and [[michael-bhaskar]]'s [
 - [[strategic-studies]]
 
 ## Works Under this Theme
+- [[rainey-yuste-neurotechnology-ethics-and-brain-computer-interfaces]]
 - [[trammell-aschenbrenner-existential-risk-and-growth]]
-

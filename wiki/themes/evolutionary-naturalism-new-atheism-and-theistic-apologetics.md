@@ -40,5 +40,5 @@ On the naturalistic side, [[richard-dawkins]]'s [[the-god-delusion]] treats deit
 - [[anthropology-of-consciousness]]
 
 ## Works Under this Theme
+- [[veatch-polimeni-martin-evolutionary-theories-of-humor-and-laughter]]
 - [[ibn-al-nafis-theologus-autodidactus]]
-

@@ -47,3 +47,6 @@ Archaeology is rarely a detached academic pursuit; it frequently operates as an 
 - [[orkhon-inscriptions-thomsen-and-ross-critical-edition]]
 - [[trojan-origins-myth-turks-and-medieval-renaissance-genealogies]]
 - [[turkic-epic-mythology-and-cultural-symbolism-compendium]]
+
+## Books Under this Theme
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]

@@ -202,9 +202,12 @@
 - [[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]
 
 ## Works Under this Theme
+- [[acemoglu-autor-skills-tasks-and-technologies-labor-polarization]]
+- [[karabarbounis-neiman-beaudry-global-decline-of-labor-share-and-cognitive-tasks]]
+- [[microsoft-mckinsey-future-of-work-and-skill-shift-compendium]]
+- [[pwc-forrester-ibm-workforce-of-the-future-and-anywhere-work]]
 - [[frost-sullivan-emerging-applications-and-innovations-in-ar-vr]]
 - [[amy-webb-future-today-institute-2024-tech-trends-report]]
 - [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
 - [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
 - [[bagloee-asadi-autonomous-vehicles-transportation-policies]]
-

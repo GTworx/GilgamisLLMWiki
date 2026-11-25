@@ -14,6 +14,7 @@ In collaboration with [[siddharth-pritam]] and [[mikhail-prokopenko]] in [[the-n
 ---
 
 ## Books in Wiki
+- [[livson-prokopenko-non-orientable-topology-of-condorcets-paradox]]
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026, with [[siddharth-pritam]] and [[mikhail-prokopenko]])
 
 ---

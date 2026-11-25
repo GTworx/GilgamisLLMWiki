@@ -14,6 +14,8 @@ This genre is anchored by two complete five-book canons: [[nassim-nicholas-taleb
 ---
 
 ## Books in Wiki
+- [[cipolla-ferrando-mulgan-laws-of-human-and-collective-stupidity]]
+- [[kruger-dunning-owen-unskilled-unaware-and-hubris-syndrome]]
 - [[trammell-aschenbrenner-existential-risk-and-growth]]
 - [[visual-capitalist-black-swan-events-short-term-crisis]]
 - [[intertemporal-choice-and-present-bias-failures]]

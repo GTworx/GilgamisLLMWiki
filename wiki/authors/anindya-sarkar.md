@@ -14,6 +14,7 @@ By combining bioapatite $\delta^{18}\text{O}_w$ meteoric water reconstructions w
 ---
 
 ## Books in Wiki
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
 - [[oxygen-isotope-in-archaeological-bioapatites-from-india-harappan-civilization]] (2016)
 
 ---

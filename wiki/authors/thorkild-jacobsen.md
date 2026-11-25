@@ -14,6 +14,7 @@ Through close reading of Sumerian and Akkadian cuneiform texts, including *Gilga
 ---
 
 ## Books in Wiki
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
 - [[the-secret-history-of-democracy-primitive-democracy]] (1943 / 2011)
 
 ---

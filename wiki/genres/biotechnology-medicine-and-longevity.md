@@ -14,6 +14,7 @@ This genre brings together [[stat-news-editorial]]'s cutting-edge 2026 report [[
 ---
 
 ## Books in Wiki
+- [[murdock-tsai-kukushkin-multisensory-gamma-stimulation-and-cellular-memory]]
 - [[obryan-angelini-self-assembled-micro-organogels-for-3d-printing]]
 - [[enzymatic-deglycation-and-reversal-of-protein-chemical-aging]] (2025) — [[cellular-rejuvenation-and-biogerontology-group]], [[david-a-sinclair]]
 - [[upconversion-nanoparticle-contact-lenses-for-human-infrared-vision]] (2025) — [[advanced-nanobiotechnology-consortium]], [[gang-han]], [[tian-xue]]

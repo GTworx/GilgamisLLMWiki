@@ -84,6 +84,7 @@ Core analytical dimensions include:
 - [[deep-work-habit-architecture-and-cognitive-systems]]
 
 ## Works Under this Theme
+- [[pwc-forrester-ibm-workforce-of-the-future-and-anywhere-work]]
+- [[transparency-international-and-unodc-global-corruption-and-homicide]]
 - [[ibm-blockchain-principles-force-for-good]]
 - [[bain-technology-report-compendium-2023-2025]]
-

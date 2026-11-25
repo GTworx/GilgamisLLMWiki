@@ -14,6 +14,7 @@ Stockwell's research demonstrates how maritime trading networks across Levantine
 ---
 
 ## Books in Wiki
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
 - [[the-secret-history-of-democracy-primitive-democracy]] (2011)
 
 ---

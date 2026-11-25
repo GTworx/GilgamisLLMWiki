@@ -22,3 +22,6 @@ Senior International Monetary Fund economist and co-editor (with David O. Robins
 - [[david-o-robinson]]
 - [[inclusive-institutions-economic-thought-and-ecological-limits]]
 - [[capital-markets-investment-banking-and-personal-wealth-architecture]]
+
+## Key Works in Wiki
+- [[kruger-dunning-owen-unskilled-unaware-and-hubris-syndrome]]

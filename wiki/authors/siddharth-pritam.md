@@ -14,6 +14,7 @@ In [[the-non-orientable-topology-of-condorcets-paradox]] (2026), co-authored wit
 ---
 
 ## Books in Wiki
+- [[livson-prokopenko-non-orientable-topology-of-condorcets-paradox]]
 - [[the-non-orientable-topology-of-condorcets-paradox]] (2026, with [[ori-livson]] and [[mikhail-prokopenko]])
 
 ---

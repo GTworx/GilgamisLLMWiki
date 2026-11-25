@@ -12,6 +12,7 @@ Verdantix is an independent research and advisory firm providing data-driven ins
 ---
 
 ## Books in Wiki
+- [[gartner-arc-frontline-and-connected-industrial-worker-technologies]]
 - [[verdantix-systems-integrators-for-smart-buildings-and-iot]]
 
 ---

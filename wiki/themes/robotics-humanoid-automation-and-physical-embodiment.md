@@ -37,7 +37,7 @@ Physical embodiment is the ultimate frontier of artificial intelligence. When th
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-8A Ingestion).*
 
 ## Works Under this Theme
+- [[gartner-arc-frontline-and-connected-industrial-worker-technologies]]
 - [[gartner-augmented-reality-and-human-machine-interface-compendium]]
 - [[obryan-angelini-self-assembled-micro-organogels-for-3d-printing]]
 - [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
-

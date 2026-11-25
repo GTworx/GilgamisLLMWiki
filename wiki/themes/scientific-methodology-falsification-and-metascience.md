@@ -25,5 +25,6 @@ Examines the epistemological foundations, methodological rigor, and institutiona
 - [[ord-the-lindy-effect-longevity-and-survivorship]]
 
 ## Works Under this Theme
+- [[livson-prokopenko-non-orientable-topology-of-condorcets-paradox]]
+- [[candia-hidalgo-decay-of-collective-memory-and-research-space]]
 - [[rahwan-shariff-bonnefon-science-fiction-science-method]]
-

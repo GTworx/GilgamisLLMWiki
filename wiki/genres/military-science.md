@@ -15,6 +15,9 @@ Within this knowledge base, military science grounds theoretical concepts of det
 ---
 
 ## Books in Wiki
+- [[mattis-mazarr-national-defense-strategy-and-us-china-rivalry]]
+- [[ferguson-eiu-ukraine-war-scenarios-and-global-business-transformation]]
+- [[regional-war-dynamics-emp-threats-and-forensic-ballistics]]
 - [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
 - [[cetiner-the-greek-invasion-of-smyrna-and-national-resistance]]
 - [[iran-iraq-war-origins-and-persian-cultural-heritage]]

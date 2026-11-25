@@ -12,6 +12,7 @@ Carlo M. Cipolla (1922–2000) was an Italian economic historian who held profes
 ---
 
 ## Books in Wiki
+- [[cipolla-ferrando-mulgan-laws-of-human-and-collective-stupidity]]
 - [[cipolla-the-basic-laws-of-human-stupidity-compendium]]
 
 ---

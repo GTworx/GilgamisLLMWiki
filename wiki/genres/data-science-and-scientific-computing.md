@@ -14,6 +14,7 @@ In the wiki, this genre is anchored by [[laura-igual]] and [[santi-segui]]'s [[i
 ---
 
 ## Books in Wiki
+- [[candia-hidalgo-decay-of-collective-memory-and-research-space]]
 - [[rahwan-shariff-bonnefon-science-fiction-science-method]]
 - [[cb-insights-n-plus-1-trends-2017]]
 - [[cb-insights-famga-earnings-call-transcripts-nlp-analysis]]

@@ -17,6 +17,8 @@
 ---
 
 ## Books in Wiki
+- [[tocqueville-democracy-in-america]]
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
 - [[atlantic-council-freedom-and-prosperity-equation]]
 - [[civilizational-thermodynamics-anti-entropy-and-proto-democracy]]
 - [[massachusetts-history-and-social-science-curriculum-framework]]

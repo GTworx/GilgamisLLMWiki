@@ -68,5 +68,7 @@ At the macro platform level, [[sheera-frenkel]] & [[cecilia-kang]]'s [[an-ugly-t
 - [[galloway-quitting-time-labor-capital-and-career-strategy]]
 
 ## Works Under this Theme
+- [[keane-monitory-democracy-and-the-life-and-death-of-democracy]]
+- [[candia-hidalgo-decay-of-collective-memory-and-research-space]]
+- [[acemoglu-autor-skills-tasks-and-technologies-labor-polarization]]
 - [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
-

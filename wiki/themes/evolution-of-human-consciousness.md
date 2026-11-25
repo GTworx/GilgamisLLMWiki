@@ -55,3 +55,7 @@ How did an anatomically modern ape become a symbolic, myth-making creature capab
 - [[evolutionary-biology]]
 - [[kleist-on-the-marionette-theatre]]
 - [[parallelism-quantum-classical-physics-and-biological-evolution]]
+
+## Books Under this Theme
+- [[eagleman-vaughn-defensive-activation-theory-and-rem-sleep]]
+- [[humphrey-husband-evolutionary-psychology-of-suicide-and-death-language]]

@@ -23,3 +23,6 @@ Michael J Mazarr is an authoritative scholar, institutional body, or policy lead
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Wave AR-10 Ingestion).*
+
+## Key Works in Wiki
+- [[mattis-mazarr-national-defense-strategy-and-us-china-rivalry]]

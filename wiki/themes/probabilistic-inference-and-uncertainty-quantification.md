@@ -39,6 +39,9 @@ In [[probabilistic-artificial-intelligence]] (2025), ETH Zurich professors [[and
 - [[game-theory]]
 
 ## Works Under this Theme
+- [[livson-prokopenko-non-orientable-topology-of-condorcets-paradox]]
+- [[cipolla-ferrando-mulgan-laws-of-human-and-collective-stupidity]]
+- [[baumeister-napolitano-bad-is-stronger-than-good-and-conspiracy-insulation]]
+- [[daglioglu-asicioglu-wastewater-epidemiology-of-illicit-drug-consumption-in-turkey]]
 - [[kolodny-courtwright-prescription-opioid-and-heroin-crisis]]
 - [[cummins-scherer-speech-analysis-for-depression-and-suicide-risk]]
-

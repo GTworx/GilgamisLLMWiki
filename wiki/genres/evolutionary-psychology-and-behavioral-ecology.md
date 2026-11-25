@@ -53,3 +53,7 @@ Studies human cognitive architectures, emotional systems, social behaviors, and 
 - [[evolutionary-biology]]
 - [[neuroscience-and-philosophy-of-mind]]
 - [[political-psychology-and-ideology]]
+
+## Works in this Genre
+- [[veatch-polimeni-martin-evolutionary-theories-of-humor-and-laughter]]
+- [[humphrey-husband-evolutionary-psychology-of-suicide-and-death-language]]

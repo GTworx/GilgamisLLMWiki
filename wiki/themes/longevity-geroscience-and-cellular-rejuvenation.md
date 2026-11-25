@@ -37,3 +37,6 @@ Aging is increasingly conceptualized not as an inevitable chronological decay, b
 
 ---
 *Cataloged in Gilgamesh LLM Wiki on 2026-11-25 (Option AR-7A Ingestion).*
+
+## Books Under this Theme
+- [[murdock-tsai-kukushkin-multisensory-gamma-stimulation-and-cellular-memory]]

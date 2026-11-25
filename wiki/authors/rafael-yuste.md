@@ -12,6 +12,7 @@ Rafael Yuste is Professor of Biological Sciences and Neuroscience at Columbia Un
 ---
 
 ## Books in Wiki
+- [[rainey-yuste-neurotechnology-ethics-and-brain-computer-interfaces]]
 - [[yuste-neuroethics-cognitive-liberty-and-brain-computer-interfaces]]
 
 ---

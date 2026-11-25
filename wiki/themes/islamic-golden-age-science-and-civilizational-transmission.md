@@ -31,5 +31,6 @@ Anchored by [[fuat-sezgin]] and [[eckhard-neubauer]]'s six-file multi-volume cat
 - [[innovation-and-economic-growth]]
 
 ## Works Under this Theme
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
+- [[classical-persian-poetry-in-contemporary-song]]
 - [[ibn-al-nafis-theologus-autodidactus]]
-

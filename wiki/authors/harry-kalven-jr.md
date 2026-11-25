@@ -34,4 +34,5 @@ Harry Kalven, Jr. (1912–1990) was a preeminent American legal scholar, profess
 - [[kalven-report-and-supreme-court-judicial-code-of-conduct]]
 
 ## Key Works in Wiki
+- [[kalven-committee-report-on-university-institutional-neutrality]]
 - [[kalven-report-university-role-political-social-action]]

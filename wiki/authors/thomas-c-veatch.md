@@ -12,6 +12,7 @@ Thomas C. Veatch is a linguist and cognitive scientist who formulated the semina
 ---
 
 ## Books in Wiki
+- [[veatch-polimeni-martin-evolutionary-theories-of-humor-and-laughter]]
 - [[the-evolutionary-psychology-and-neurobiology-of-humor]]
 
 ---

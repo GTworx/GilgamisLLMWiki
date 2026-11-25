@@ -12,6 +12,7 @@ Li-Huei Tsai is Picower Professor of Neuroscience at MIT and Director of The Pic
 ---
 
 ## Books in Wiki
+- [[murdock-tsai-kukushkin-multisensory-gamma-stimulation-and-cellular-memory]]
 - [[tsai-multisensory-gamma-stimulation-glymphatic-clearance-of-amyloid]]
 
 ---

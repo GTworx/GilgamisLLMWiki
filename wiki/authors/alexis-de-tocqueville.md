@@ -14,6 +14,7 @@ Convinced that the 700-year historical march toward the **"equality of condition
 ---
 
 ## Books in Wiki
+- [[tocqueville-democracy-in-america]]
 - [[democracy-in-america]] (1840)
 
 ---

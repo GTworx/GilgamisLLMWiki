@@ -53,5 +53,5 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 - [[ethics-and-value-philosophy]]
 
 ## Works Under this Theme
+- [[kalven-committee-report-on-university-institutional-neutrality]]
 - [[tapscott-blockchain-revolution-education-lifelong-learning]]
-

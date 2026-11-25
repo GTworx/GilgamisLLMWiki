@@ -14,6 +14,7 @@ Keane traces democracy across three historical epochs: **Assembly Democracy** (o
 ---
 
 ## Books in Wiki
+- [[keane-monitory-democracy-and-the-life-and-death-of-democracy]]
 - [[the-life-and-death-of-democracy-and-monitory-democracy]] (2009)
 - [[the-secret-history-of-democracy-primitive-democracy]] (2011, Chapter 14 contributor)
 

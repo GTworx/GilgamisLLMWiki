@@ -12,6 +12,7 @@ M. Giulia Napolitano is an Assistant Professor of Philosophy at Utrecht Universi
 ---
 
 ## Books in Wiki
+- [[baumeister-napolitano-bad-is-stronger-than-good-and-conspiracy-insulation]]
 - [[napolitano-conspiracy-theories-and-evidential-self-insulation]]
 
 ---

@@ -14,6 +14,7 @@ Within the Gilgamis LLM Wiki, this genre unites foundational university textbook
 ---
 
 ## Books in Wiki
+- [[microsoft-mckinsey-future-of-work-and-skill-shift-compendium]]
 - [[amy-webb-future-today-institute-2024-tech-trends-report]]
 - [[chui-roberts-mckinsey-technology-trends-outlook-compendium]]
 - [[bain-technology-report-compendium-2023-2025]]

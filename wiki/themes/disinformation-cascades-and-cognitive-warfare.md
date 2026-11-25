@@ -63,5 +63,5 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[meltwater-state-of-social-media-marketing-compendium]]
 
 ## Works Under this Theme
+- [[baumeister-napolitano-bad-is-stronger-than-good-and-conspiracy-insulation]]
 - [[kpmg-mit-wired-frontier-technology-and-management-review]]
-

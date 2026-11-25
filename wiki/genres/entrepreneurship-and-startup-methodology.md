@@ -14,6 +14,7 @@ In this wiki, the genre anchors the complete Silicon Valley intellectual arc: [[
 ---
 
 ## Books in Wiki
+- [[pwc-forrester-ibm-workforce-of-the-future-and-anywhere-work]]
 - [[vrvana-and-project-magellan-spatial-computing-ventures]]
 - [[bradley-de-jong-mckinsey-next-big-arenas-of-competition]]
 - [[boudreau-startup-strategy-and-product-market-experimentation]]

@@ -58,3 +58,6 @@ Demonstrates that modern human biology and cognition are deep evolutionary compo
 - [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]
 - [[india-genetics-and-phylogenomic-reverse-colonization]]
 - [[inner-eurasia-genetic-history-of-admixture-and-pastoralist-expansions]]
+
+## Books Under this Theme
+- [[veatch-polimeni-martin-evolutionary-theories-of-humor-and-laughter]]

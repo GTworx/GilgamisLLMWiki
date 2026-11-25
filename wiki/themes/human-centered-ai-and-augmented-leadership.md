@@ -61,5 +61,6 @@ Four core principles define **Human-Centered AI and Augmented Leadership** acros
 - [[strategic-studies]]
 
 ## Works Under this Theme
+- [[kruger-dunning-owen-unskilled-unaware-and-hubris-syndrome]]
+- [[microsoft-mckinsey-future-of-work-and-skill-shift-compendium]]
 - [[kpmg-mit-wired-frontier-technology-and-management-review]]
-

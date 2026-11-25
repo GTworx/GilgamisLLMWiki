@@ -14,6 +14,10 @@ Healthcare delivery is governed by intricate economic incentives, fee schedule r
 ---
 
 ## Books in Wiki
+- [[acemoglu-autor-skills-tasks-and-technologies-labor-polarization]]
+- [[karabarbounis-neiman-beaudry-global-decline-of-labor-share-and-cognitive-tasks]]
+- [[daglioglu-asicioglu-wastewater-epidemiology-of-illicit-drug-consumption-in-turkey]]
+- [[tubim-national-assessment-on-drug-abuse-in-turkey]]
 - [[us-surgeon-general-facing-addiction-in-america]]
 - [[kolodny-courtwright-prescription-opioid-and-heroin-crisis]]
 - [[wastewater-based-epidemiology-of-illicit-drugs-in-turkish-metropolises]] (2021) — [[nebile-daglioglu]], [[faruk-asicioglu]], [[selda-mercan]], [[evsen-yavuz-guzel]]

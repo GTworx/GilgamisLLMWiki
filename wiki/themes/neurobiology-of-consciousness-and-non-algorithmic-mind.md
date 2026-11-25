@@ -45,5 +45,6 @@ In [[discovering-the-brain]], [[sandra-ackerman]] maps the *Decade of the Brain*
 - [[poetry-and-poetics]]
 
 ## Works Under this Theme
+- [[eagleman-vaughn-defensive-activation-theory-and-rem-sleep]]
+- [[brown-huth-gallant-higher-order-consciousness-and-cortical-semantics]]
 - [[le-merrer-kosten-george-neurobiology-of-opioid-dependence]]
-

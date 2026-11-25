@@ -14,6 +14,10 @@ Across the corpus, this genre connects [[giovanni-boccaccio]]'s Renaissance real
 ---
 
 ## Books in Wiki
+- [[persian-indie-and-alternative-music-poetry-anthology]]
+- [[persian-pop-ballads-and-folk-lyric-compendium]]
+- [[persian-hip-hop-rock-and-urban-counterculture]]
+- [[classical-persian-poetry-in-contemporary-song]]
 - [[lucian-true-history]]
 - [[30-french-short-stories-for-complete-beginners]] (2017) — [[frederic-bibard]]
 - [[divan-sultan-huseyn-bayqara]] (2011) — [[sultan-huseyn-bayqara]], [[ramiz-asker]]

@@ -59,5 +59,5 @@ As modern conflict accelerates through algorithmic command-and-control, precisio
 - [[saudi-arabia-fifa-world-cup-2034-mega-event-economics]]
 
 ## Works Under this Theme
+- [[rainey-yuste-neurotechnology-ethics-and-brain-computer-interfaces]]
 - [[cummins-scherer-speech-analysis-for-depression-and-suicide-risk]]
-

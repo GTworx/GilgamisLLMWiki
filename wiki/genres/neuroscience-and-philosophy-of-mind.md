@@ -14,6 +14,10 @@ In the wiki, this genre unites [[sandra-ackerman]]'s *Decade of the Brain* synth
 ---
 
 ## Books in Wiki
+- [[eagleman-vaughn-defensive-activation-theory-and-rem-sleep]]
+- [[bonaparte-time-and-the-unconscious]]
+- [[rainey-yuste-neurotechnology-ethics-and-brain-computer-interfaces]]
+- [[brown-huth-gallant-higher-order-consciousness-and-cortical-semantics]]
 - [[le-merrer-kosten-george-neurobiology-of-opioid-dependence]]
 - [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]
 - [[a-brief-history-of-intelligence-evolution-ai-and-the-five-breakthroughs-that-made-our-brains]] (2025) — [[max-solomon-bennett]]

@@ -52,3 +52,9 @@ Nowhere is this clearer than in our three-edition [[omar-khayyam]] triad: [[edwa
 - [[philosophical-fiction]]
 - [[literary-criticism-and-modernism]]
 - [[ottoman-philology-and-literary-historiography]]
+
+## Books Under this Theme
+- [[persian-indie-and-alternative-music-poetry-anthology]]
+- [[persian-pop-ballads-and-folk-lyric-compendium]]
+- [[persian-hip-hop-rock-and-urban-counterculture]]
+- [[classical-persian-poetry-in-contemporary-song]]

@@ -3648,3 +3648,134 @@ Comprehensive synthesis of probabilistic seismic hazard assessments, building co
 1350. **[[applied-physics-advanced-gravitational-propulsion]]** ([[applied-physics-inc]], [[gianni-martire]], [[alexey-bobrick]], Source: `Anti-gravity/Applied Physics-executive-summary.pdf`)  
    Applied Physics research consortium executive summary detailing physical solutions to general relativistic warp drives (the Bobrick-Martire metric), establishing the first sub-light warp geometries that satisfy physical energy conditions without requiring negative energy.  
    ### Advanced Gravitational Propulsion: Physical Principles, Sub-Light Warp Drive Geometries, and Metric Engineering
+---
+
+## Category AH: Culture, Music, Mind, Cognitive Science, Democracy & Strategic Conflict (Works 1351–1382)
+
+1351. **[[tocqueville-democracy-in-america]]** ([[alexis-de-tocqueville]], [[henry-reeve]], Source: `Democracy/1840 Alexis-de-Tocqueville-Democracy-in-America.pdf`, `Democracy/1840 DeTocqueville - Democracy in America.pdf`)  
+   Alexis de Tocqueville's monumental two-volume political masterpiece analyzing American egalitarian democracy, township autonomy, the tyranny of the majority, and tutelary administrative despotism.  
+   ### Democracy in America (De la démocratie en Amérique)
+
+1352. **[[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]** ([[thorkild-jacobsen]], [[eric-w-robinson]], [[benjamin-isakhan]], [[stephen-stockwell]], [[anindya-sarkar]], Source: `Democracy/2011 What_is_so_Primitive_about_Primitive_Democracy.pdf`, `Democracy/HW2-1--Democracy-in-Mesopotamia.pdf`, `Democracy/World’s First Democracies book review_.pdf`, `Democracy/Oxygen isotope in archaeological bioapatites from India- Implications to climate change and decline of Bronze Age Harappan civilization.pdf`)  
+   Interdisciplinary historical and archaeological compendium challenging Eurocentric teleologies of democratic origins, documenting Sumerian municipal assemblies, non-Athenian popular governments, and Harappan bioapatite hydroclimatic resilience.  
+   ### Primitive Democracy in the Ancient World: Mesopotamian Assemblies, Harappan Bioapatite Isotopes, and Non-Athenian Popular Governments
+
+1353. **[[keane-monitory-democracy-and-the-life-and-death-of-democracy]]** ([[john-keane]], Source: `Democracy/Summary_The_Life_and_Death_of_Democracy_John_Keane.pdf`, `Democracy/Summary_The_Life_and_Death_of_Democracy_John_Keane_Monitory_Supplement.pdf`)  
+   John Keane's masterwork on democratic history and the emergence of Monitory Democracy—post-representative governance characterized by continuous extra-parliamentary public audits, whistleblower networks, and independent regulatory watchtowers.  
+   ### The Life and Death of Democracy and Monitory Democracy: Post-Representative Accountability and Public Scrutiny
+
+1354. **[[livson-prokopenko-non-orientable-topology-of-condorcets-paradox]]** ([[ori-livson]], [[siddharth-pritam]], [[mikhail-prokopenko]], Source: `Democracy/2026 The Non-Orientable Topology of Condorcet’s Paradox - Democracy_.pdf`)  
+   Cutting-edge mathematical paper in algebraic topology demonstrating that Condorcet's social choice paradoxes are structural geometric manifestations of non-orientable Möbius strips and Klein bottles in preference simplicial complexes.  
+   ### The Non-Orientable Topology of Condorcet's Paradox: Social Choice Cycles, Möbius Geometries, and Bounded Rationality
+
+1355. **[[kalven-committee-report-on-university-institutional-neutrality]]** ([[harry-kalven-jr]], [[university-of-chicago]], Source: `Democracy/KalvenReport.pdf`)  
+   The landmark 1967 University of Chicago faculty report establishing the definitive doctrine of university institutional neutrality, mandating that academic institutions remain forums for critics rather than corporate political actors.  
+   ### The Kalven Committee Report on the University's Role in Political and Social Action: Institutional Neutrality and Intellectual Freedom
+
+1356. **[[cipolla-ferrando-mulgan-laws-of-human-and-collective-stupidity]]** ([[carlo-m-cipolla]], [[andrea-ferrando]], [[geoff-mulgan]], [[igor-gazdik]], Source: `Psychology_/Carlo Cipolla - The Basic Laws of Human Stupidity.pdf`, `Psychology_/Cipolla_laws.pdf`, `Psychology_/Cipolla6law.pdf`, `Psychology_/Testing_Carlo_Cipollas_Laws_of_Human_Stupidity.pdf`, `Psychology_/collective stupidity.pdf`, `Psychology_/1_Igor_Gazdik_The_Power_of_Stupidity.pdf`)  
+   Profound behavioral and mathematical compendium anchored by Carlo M. Cipolla's 2x2 microeconomic grid classifying human stupidity as negative-sum irrationality, paired with multi-agent computational simulations and Geoff Mulgan's theory of collective institutional stupidity.  
+   ### The Basic Laws of Human and Collective Stupidity: Microeconomic Grid Classification, Agent-Based Modeling, and Institutional Dysfunction
+
+1357. **[[kruger-dunning-owen-unskilled-unaware-and-hubris-syndrome]]** ([[justin-kruger]], [[david-dunning]], [[david-owen]], [[jonathan-davidson]], Source: `Psychology_/Unskilled_and_Unaware_of_It_How_Difficulties_in_Re.pdf`, `Psychology_/2009 Brain Hubris syndrome- An acquired personality disorder_ A study of US Presidents and UK Prime Ministers over the last 100 years.pdf`)  
+   Foundational metacognitive and psychiatric compendium uniting the Dunning-Kruger Effect on cognitive incompetence with Lord David Owen's clinical criteria for Hubris Syndrome in political heads of state.  
+   ### Unskilled and Unaware of It and Hubris Syndrome: Metacognitive Deficits, Political Power Intoxication, and Acquired Personality Disorders
+
+1358. **[[veatch-polimeni-martin-evolutionary-theories-of-humor-and-laughter]]** ([[thomas-c-veatch]], [[joseph-polimeni]], [[jeffrey-p-reiss]], [[rod-a-martin]], [[gil-greengross]], [[yu-chen-chan]], Source: `Psychology_/Veatch1998ATheoryOfHumor.pdf`, `Psychology_/Polimeni-reiss-2006-the-first-joke-exploring-the-evolutionary-origins-of-humor.pdf`, `Psychology_/Introduction to the Psychology of HumorBookChapter.pdf`, `Psychology_/Martin2001HumorLaughterPhysicalhealth.pdf`, `Psychology_/2011 humor-predicts-mating-success.pdf`, `Psychology_/Chan2016 Neural Correlates of Hostile Jokes - Cognitive and Motivational Processes in Humor Appreciation.pdf`, `Psychology_/BennettZeller2003The effect of mirthful laughter on stress and natural killer cell activity.pdf`, `Psychology_/Vaid1999Theevolutionofhumor.pdf`, `Psychology_/Viana2017Humour and laughter as vestiges of evolution.pdf`)  
+   Multi-disciplinary evolutionary and cognitive compendium mapping Thomas Veatch's benign violation precursor, hominin false-alarm laughter signaling, sexual selection fitness correlations, and fMRI neural imaging of hostile humor.  
+   ### Evolutionary and Cognitive Theories of Humor and Laughter: The Benign Violation Precursor, Neural Correlates, and Mating Selection
+
+1359. **[[baumeister-napolitano-bad-is-stronger-than-good-and-conspiracy-insulation]]** ([[roy-f-baumeister]], [[m-giulia-napolitano]], [[jeffrey-sanford-russell]], [[erika-branchini]], Source: `Psychology_/BadIsStrongerThanGood 2001 J Psychology.pdf`, `Psychology_/2021 Conspiracy Theories and Evidential Self-Insulation M. Giulia Napolitano.pdf`, `Psychology_/2023 On Two Arguments of Fanatacism.pdf`, `Psychology_/2021 Opposites in Reasoning Processes- Do We Use Them More Than We Think, but Less Than We Could_.pdf`, `Psychology_/2004 Do bilinguals have two personalities_ A special case of cultural frame switching.pdf`, `Psychology_/Saccadic Eye Movement FindlayWalker1999.pdf`, `Psychology_/Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers JMR 2021.pdf`, `Psychology_/An_oscillatory_correlation_model_of_obje.pdf`, `Psychology_/Reactive Information Foraging - An Empirical Investigation of Theory-Based Recommender Systems for Programmers 2012.pdf`, `Psychology_/2025 This Is Your Priest on Drugs  The New Yorker.pdf`, `Psychology_/Does Your Personality Trait Affect Behavior on Social Media.pdf`, `Psychology_/TellMeWhy.jpeg`, `Psychology_/Cogsci2012_paper0250.pdf`)  
+   Foundational cognitive psychology and epistemology compendium anchored by Roy Baumeister's negativity bias, Napolitano on evidential self-insulation in conspiracy theories, and formal decision theory models of ideological fanaticism.  
+   ### Bad Is Stronger Than Good and Evidential Self-Insulation: Evolutionary Negativity Bias, Conspiracy Epistemology, and Cognitive Paradoxes
+
+1360. **[[eagleman-vaughn-defensive-activation-theory-and-rem-sleep]]** ([[david-m-eagleman]], [[don-a-vaughn]], [[alex-backer]], Source: `Psychology_/The_Defensive_Activation_Theory_REM_Sleep_as_a_Mec.pdf`, `Psychology_/Alex Backer Evidence against the Defensive Activation Theory of REM Sleep SSRN-id3765119.pdf`)  
+   Groundbreaking neurobiological hypothesis in Frontiers in Neuroscience proposing that dreaming evolved as an aggressive metabolic defense mechanism to stimulate the visual cortex during darkness and prevent sensory takeover.  
+   ### The Defensive Activation Theory: REM Sleep as a Mechanism to Prevent Visual Cortex Takeover
+
+1361. **[[bonaparte-time-and-the-unconscious]]** ([[marie-bonaparte]], Source: `Psychology_/Bonaparte-M.-Zaman-ve-Bilinçdişi-1939-1940.pdf`)  
+   Princess Marie Bonaparte's classic psychoanalytic treatise on time perception, the atemporality of the Freudian unconscious, the death drive (Thanatos), and psychic defenses against thermodynamic entropy.  
+   ### Time and the Unconscious (Bilinçdışı ve Zaman / L'Inconscient et le Temps): Psychoanalytic Temporality and the Death Drive
+
+1362. **[[humphrey-husband-evolutionary-psychology-of-suicide-and-death-language]]** ([[nicholas-humphrey]], [[matthew-husband]], [[annah-g-mccurry]], Source: `Psychology_/Nicholas Humphrey The lure of death - suicide and human evolution Royal Philo Trans B 2018.pdf`, `Psychology_/Matthew Husband Speaking of Death Royal Philo Trans B 2018.pdf`, `Psychology_/2024 Both partners’ negative emotion drives aggression during couples’ conflict.pdf`, `Psychology_/2023 chosen-trauma-and-terrorism-the-jewish-victim-narrative.pdf`)  
+   Evolutionary and psycholinguistic investigations in the Royal Society and Communications Psychology exploring the paradox of human suicide, death verb semantics, and synchronous bilateral negative affect in couples aggression.  
+   ### The Lure of Death and Speaking of Death: Evolutionary Theories of Suicide, Linguistic Temporality, and Relationship Conflict
+
+1363. **[[candia-hidalgo-decay-of-collective-memory-and-research-space]]** ([[cristian-candia]], [[cesar-a-hidalgo]], [[miguel-r-guevara]], Source: `Psychology_/Hidalgo Human Behavior 2018 The universal decay of collective memory and attention.pdf`, `Psychology_/Hidalgo ResearchSpace 2016  using career paths to predict the evolution of the research output of individuals, institutions, and nations.pdf`)  
+   MIT Media Lab complexity science research establishing universal mathematical equations for the bimodal decay of collective memory across culture and science, paired with predictive career network spaces.  
+   ### The Universal Decay of Collective Memory and the Research Space: Mathematical Modeling of Cultural Forgetting and Scientific Trajectories
+
+1364. **[[acemoglu-autor-skills-tasks-and-technologies-labor-polarization]]** ([[daron-acemoglu]], [[david-autor]], Source: `Future of Edu & Work/Acemoglu Work polarization 2010.pdf`)  
+   Monumental 154-page NBER treatise formulating the canonical task-based framework of labor economics, explaining how automation replaces routine tasks and drives job polarization.  
+   ### Skills, Tasks and Technologies: Implications for Employment and Earnings: The Canonical Task-Based Model of Labor Polarization
+
+1365. **[[karabarbounis-neiman-beaudry-global-decline-of-labor-share-and-cognitive-tasks]]** ([[loukas-karabarbounis]], [[brent-neiman]], [[paul-beaudry]], [[david-a-green]], [[benjamin-m-sand]], Source: `Future of Edu & Work/The Global Decline Of Jobs Working Paper.pdf`, `Future of Edu & Work/THE GREAT REVERSAL IN THE DEMAND FOR SKILL AND COGNITIVE TASKS_.pdf`)  
+   Landmark macroeconomic investigations documenting the secular global decline in labor's share of national income driven by falling capital prices, alongside the post-2000 plateau in cognitive labor demand.  
+   ### The Global Decline of the Labor Share and the Great Reversal in Cognitive Skill Demand
+
+1366. **[[microsoft-mckinsey-future-of-work-and-skill-shift-compendium]]** ([[microsoft-research]], [[jacques-bughin]], [[eric-hazan]], [[susan-lund]], [[harvard-business-review]], Source: `Future of Edu & Work/Microsoft-New-Future-Of-Work-Report-2022.pdf`, `Future of Edu & Work/McKinsey-Skill-Shift-Automation-and-future-of-the-workforce-May-2018.pdf`, `Future of Edu & Work/Harvard Business Review FoW April 2022.pdf`, `Future of Edu & Work/YouthAndAI 2019.pdf`, `Future of Edu & Work/Marco A Opportunity_for_Higher Edu_2019.pdf`)  
+   Flagship future of work compendium uniting Microsoft Research's 111-page hybrid work telemetry report, McKinsey Global Institute's 2030 skill shift models, and Harvard Business Review organizational design frameworks.  
+   ### Microsoft and McKinsey Future of Work and Skill Shift Compendium: Hybrid Work Telemetry, AI Task Transformation, and Enterprise Reskilling
+
+1367. **[[pwc-forrester-ibm-workforce-of-the-future-and-anywhere-work]]** ([[pwc-global]], [[forrester-research]], [[martin-fleming]], Source: `Future of Edu & Work/PWC FoW gelecegin-is-gucu.pdf`, `Future of Edu & Work/Forrester-Future-Of-Work.pdf`, `Future of Edu & Work/forresterfutureofwork1561489491272.pdf`, `Future of Edu & Work/Forrester The-Anywhere-Work-Preflight-Checklist.pdf`, `Future of Edu & Work/Forrester Predictions-2023-Edge,-IoT,-And-Networking.pdf`, `Future of Edu & Work/IBM - MIT The-Future-of-Work-How-New-Technologies-Are-Transforming-Tasks.pdf`, `Future of Edu & Work/2024 State of Work Innovation 2024_Global.pdf`, `Future of Edu & Work/Technology-jobs-and-the-future-of-work.pdf`)  
+   Organizational foresight and operational strategy compendium combining PwC's four-world scenarios, Forrester's Anywhere-Work checklists, and IBM/MIT task-level automation benchmarks.  
+   ### Workforce of the Future and Anywhere-Work: PwC Scenarios, Forrester Operational Checklists, and IBM Task Transformation
+
+1368. **[[gartner-arc-frontline-and-connected-industrial-worker-technologies]]** ([[gartner-research]], [[sid-snitkin]], [[verdantix-research]], Source: `Future of Edu & Work/Gartner_Hype_Cycle_for_Front_770126_ndx.pdf`, `Future of Edu & Work/Gartner_How_to_Take_a_Life_C_725390_ndx.pdf`, `Future of Edu & Work/Securing the Connected Industrial Worker.pdf`, `Future of Edu & Work/Verdantix Strategic Focus Four Types Of Connected Worker Solutions Emerge.pdf`, `Future of Edu & Work/Gartner_AI_Use_Case_Prism_for_Supply_Chain.pdf`, `Future of Edu & Work/2017 Aircraft Performance Basics (pitch).pdf`)  
+   Operational technology and industrial IoT compendium featuring Gartner's 83-page Frontline Worker Hype Cycle, ARC Strategies on industrial cybersecurity, and Verdantix connected worker taxonomies.  
+   ### Frontline and Connected Industrial Worker Technologies: Gartner Hype Cycles, Cyber-Physical Security, and Operational Solutions
+
+1369. **[[rainey-yuste-neurotechnology-ethics-and-brain-computer-interfaces]]** ([[stephen-rainey]], [[rafael-yuste]], [[erdogan-cesmeli]], Source: `Neuroscience_/2020 Brain Recording, Mind‐Reading, and Neurotechnology — Ethical Issues from Consumer Devices to Brain‐Based Speech Decoding.pdf`, `Neuroscience_/2017 Four ethical priorities for neurotechnologies and AI.pdf`, `Neuroscience_/2024 So you have a chip in your brain Now what_.pdf`)  
+   Foundational bioethics compendium defining international Neurorights, mental privacy protections, and ethical guidelines for invasive neural chips and consumer EEG devices.  
+   ### Neurotechnology Ethics and Brain-Computer Interfaces: Cognitive Liberty, Neural Privacy, and Clinical Mind-Reading
+
+1370. **[[brown-huth-gallant-higher-order-consciousness-and-cortical-semantics]]** ([[richard-brown]], [[alexander-g-huth]], [[jack-l-gallant]], Source: `Neuroscience_/2019 Understanding the Higher-Order Approach to Consciousness.pdf`, `Neuroscience_/2019 The Representation of Semantic Information Across Human Cerebral Cortex During Listening Versus Reading Is Invariant to Stimulus Modality_.pdf`, `Neuroscience_/2011 Biology of consciousness.pdf`)  
+   Landmark cognitive neuroscience and philosophy of mind compendium proving that semantic language representation across the human cerebral cortex is modality-invariant between listening and reading, paired with Higher-Order Theories of consciousness.  
+   ### Higher-Order Consciousness and Modality-Invariant Cortical Semantics: fMRI Language Mapping Across Listening and Reading
+
+1371. **[[murdock-tsai-kukushkin-multisensory-gamma-stimulation-and-cellular-memory]]** ([[mitchell-h-murdock]], [[li-huei-tsai]], [[nikolay-v-kukushkin]], [[motofumi-yanagisawa]], Source: `Neuroscience_/2024 Multisensory gamma stimulation promotes glymphatic clearance of amyloid.pdf`, `Neuroscience_/2024 The massed-spaced learning effect in non-neural human cells.pdf`, `Neuroscience_/2025 yanagisawa-et-al-2025-optimistic-people-are-all-alike-shared-neural-representations-supporting-episodic-future-thinking.pdf`, `Neuroscience_/2023 Bayesian and Discriminative Models for Active Visual Perception across Saccades.pdf`, `Neuroscience_/Neural_Outlooks_Bayesian_Perspectives.pdf`, `Neuroscience_/Procrastinating X unroll.pdf`)  
+   MIT Nature discovery proving that 40-Hz gamma sensory stimulation drives glymphatic fluid influx to clear Alzheimer's amyloid plaques, paired with non-neural cellular memory and fMRI neural representations of optimism.  
+   ### Multisensory Gamma Stimulation and Non-Neural Cellular Memory: Glymphatic Amyloid Clearance and Molecular Plasticity
+
+1372. **[[transparency-international-and-unodc-global-corruption-and-homicide]]** ([[transparency-international]], [[united-nations-office-on-drugs-and-crime]], Source: `Corruption_/Corruption Perception Index 2021_Transparency International.pdf`, `Corruption_/UN Global Homicide 2019.pdf`)  
+   Authoritative global governance and criminological compendium combining Transparency International's 2021 Corruption Perceptions Index with UNODC's Global Study on Homicide.  
+   ### Global Corruption Perceptions and Homicide Studies: Transparency International Benchmarks and UNODC Lethal Violence Analyses
+
+1373. **[[felbab-brown-illicit-narcotics-corruption-nexus-and-unodc-cocaine-analysis]]** ([[vanda-felbab-brown]], [[united-nations-office-on-drugs-and-crime]], Source: `Corruption_/Felbab-Brown-Nexus-between-the-illicit-narcotics-trade-and-corruption.pdf`, `Corruption_/Cocaine_Manual_Rev_1.pdf`)  
+   Brookings Institution analysis on the structural nexus between transnational narcotics cartels and political corruption, paired with UNODC chemical profiling protocols for cocaine seizures.  
+   ### The Illicit Narcotics Trade and State Corruption Nexus: Non-State Armed Actors, Law Enforcement Capture, and Chemical Profiling
+
+1374. **[[daglioglu-asicioglu-wastewater-epidemiology-of-illicit-drug-consumption-in-turkey]]** ([[nebile-daglioglu]], [[faruk-asicioglu]], [[selda-mercan]], Source: `Corruption_/Asicioglu Water Res. 2020 Investigation of temporal illicit drugs, alcohol and tobacco trends in Istanbul city -Wastewater analysis of 14 treatment plants.pdf`, `Corruption_/Daglioglu2021_Article_ComparisonOfCommunityIllicitDr.pdf`, `Corruption_/[Environmental Science and Pollution Research ] Daglioglu, Nebile_ Guzel, Evsen Yavuz_ Atasoy, Comparison of community illicit drug use in 11 cities of Turkey through wastewater-based epidemiology (2020).pdf`, `Corruption_/Mercan et al 2018 Wastewater-based monitoring of illicit drug consumption in Istanbul - Sci of Tot Envi. Preliminary results from two districts.pdf`)  
+   Pioneering analytical toxicology research in Water Research tracking target drug metabolites across wastewater networks in 14 Istanbul treatment plants and 11 Turkish metropolitan provinces.  
+   ### Wastewater-Based Epidemiology of Illicit Drug Consumption in Turkey: Multi-City Surveillance Across 14 Istanbul Treatment Plants and 11 Provinces
+
+1375. **[[tubim-national-assessment-on-drug-abuse-in-turkey]]** ([[tubim-turkish-national-police]], [[kamran-niaz]], [[mahmut-cengiz]], Source: `Corruption_/2021-TURKISH-DRUG-REPORT.pdf`, `Corruption_/gap_turkey_drug_abuse_report.pdf`, `Corruption_/Mahmut Cengiz Foreign Policy 2016 Turkey_drug_policy.pdf`, `Corruption_/turkey-cdr-2019.pdf`)  
+   Official national narcotics intelligence compendium compiling the 140-page Turkish Drug Report (TUBIM), UNODC GAP assessments, and historical analyses of the Balkan trafficking axis.  
+   ### National Assessment on Drug Abuse and Illicit Trafficking in Turkey: TUBIM National Reports, GAP Assessments, and Transit Geopolitics
+
+1376. **[[mattis-mazarr-national-defense-strategy-and-us-china-rivalry]]** ([[jim-mattis]], [[michael-j-mazarr]], [[australian-defence-college]], Source: `War/2018-national-defense-strategy-summary.pdf`, `War/2025 Stabilizing the U.S.-China Rivalry RAND_RRA4107-1.pdf`, `War/2024 DPS-The-Character-of-Future-War-to-2030-.pdf`)  
+   Premier military strategy compendium uniting General Jim Mattis's historic 2018 great-power competition pivot with Michael J. Mazarr's 115-page RAND Corporation study on stabilizing the US-China rivalry through 2030.  
+   ### National Defense Strategy and Stabilizing the U.S.-China Rivalry: Great Power Competition, Deterrence, and Future War to 2030
+
+1377. **[[ferguson-eiu-ukraine-war-scenarios-and-global-business-transformation]]** ([[niall-ferguson]], [[economist-intelligence-unit]], [[wall-street-journal]], Source: `War/Niall Ferguson_ 7 Worst-Case Scenarios From Putin's Ukraine War - Bloomberg.pdf`, `War/THE ECONOMIST INTELLIGENCE UNIT (EIU)— Five Ways In Which The War In Ukraine Will Change Business__ Accelerate Changes Already Provoked By The Pandemic, US-China Tensions & Climate Change (23Mar2022)✅✅.pdf`, `War/2025 WSJ - Printing Diary of a Dead North Korean Soldier Reveals Grisly Battlefield T.pdf`)  
+   Strategic geoeconomic and tactical combat compendium featuring Niall Ferguson's seven escalation scenarios, EIU global business restructuring models, and WSJ forensic reporting on foreign proxy troops in Kursk.  
+   ### Seven Worst-Case Scenarios From Putin's Ukraine War and Global Business Transformation: Battlefield Realities and Geoeconomic Fractures
+
+1378. **[[regional-war-dynamics-emp-threats-and-forensic-ballistics]]** ([[colm-mckeever]], [[washington-department-of-health]], Source: `War/EMP Bomb.pdf`, `War/2025 Electrodeposition of redox materials with potential for enhanced visualisation of latent finger-marks on brass substrates and ammunition casings_.pdf`, `War/India_Pakistan_War_US_Benefits.txt`, `War/Iran_Iraq_War_Israel_Impact.txt`, `War/Israel_Benefits_India_Pakistan_War.txt`, `War/War Rapes.pdf`)  
+   Technical weapons and regional risk compendium examining High-Altitude Electromagnetic Pulse (HEMP) physics, electrochemical latent fingerprint visualization on fired brass cartridge casings, and asymmetric escalations.  
+   ### Regional War Dynamics, Electromagnetic Pulse Weapons, and Forensic Ballistics: Asymmetric Escalations and Forensic Ammunition Chemistry
+
+1379. **[[persian-indie-and-alternative-music-poetry-anthology]]** ([[chaartaar-ensemble]], [[pallett-band]], [[omid-nemati]], [[arash-fathi]], Source: `Music/avaazeh_khan_chaartaar_transliteration_translation.txt`, `Music/aseman ham zamin mikhorad_.txt`, `Music/Tarikam.txt`, `Music/The Darkness by He and His Friends_.txt`, `Music/Cafe_Tehrooni.txt`)  
+   Bilingual Persian-English literary anthology analyzing the fusion of classical Sufi ghazals and contemporary electronic/acoustic indie rock in Chaartaar and Pallett Band.  
+   ### Modern Persian Indie and Alternative Music: Chaartaar, Pallett Band, and the Fusion of Classical Ghazal and Contemporary Soundscapes
+
+1380. **[[persian-pop-ballads-and-folk-lyric-compendium]]** ([[ali-zand-vakili]], [[mohsen-yeganeh]], [[ehsan-daryadel]], [[amir-mahan]], Source: `Music/Aram Aram by Reza M.txt`, `Music/Kooh by Mostafa Abedini.txt`, `Music/Yadat Hast by Reza M.txt`, `Music/Behet_Ghol_midam-_Mohsen_Yeganeh_Lyrics__.pdf`, `Music/Del_Dordooneh_Ehsan_Darya_Translation.txt`, `Music/dordoone_ehsan_transliteration_translation.txt`, `Music/Raz o Niaz by Amir.txt`, `Music/Raz o Niaz.txt`, `Music/Razo o Niaz.txt`, `Music/Mo_Si_To_Transliteration_Translation_v2.txt`, plus 41 additional Persian lyric source documents in `Music/`)  
+   Monumental 51-song bilingual anthology providing complete phonetic transliterations, literary translations, and poetic commentaries across contemporary Persian pop ballads and southern folk music.  
+   ### Contemporary Persian Pop Ballads and Southern Folk Lyrics: Ali Zand Vakili, Mohsen Yeganeh, and Regional Musical Traditions
+
+1381. **[[persian-hip-hop-rock-and-urban-counterculture]]** ([[shahin-najafi]], [[mehrad-hidden]], Source: `Music/Shahin_Najafi_ADHD_Transliteration_Translation.txt`, `Music/ADHD.txt`, `Music/Khodaye Binahayat.txt`, `Music/Mano Vel Nakonia by The Don.txt`)  
+   Incisive bilingual cultural anthology exploring the dissident poetics, raw social critique, and linguistic innovations of modern Persian underground hip-hop and alternative rock.  
+   ### Persian Hip-Hop, Underground Rock, and Urban Counterculture: Shahin Najafi, Mehrad Hidden, and the Dissident Poetics of Resistance
+
+1382. **[[classical-persian-poetry-in-contemporary-song]]** ([[mohsen-chavoshi]], [[saadi-shirazi]], [[jalal-al-din-rumi]], Source: `Music/Maleka_Transliteration_and_English.txt`, `Music/Marā khod bā to chizi dar miyān hast.txt`)  
+   Literary and musicological study of how contemporary Iranian rock/fusion composer Mohsen Chavoshi resurrects 13th-century classical Sufi ghazals by Rumi and Saadi through heavy rock arrangements and modal meters.  
+   ### Classical Persian Ghazals in Contemporary Song: Mohsen Chavoshi and the Modern Musical Resurgence of Rumi and Saadi

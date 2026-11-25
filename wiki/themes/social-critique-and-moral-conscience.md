@@ -120,7 +120,17 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 - [[zheng-kark-inclusive-leadership-architecture]]
 
 ## Works Under this Theme
+- [[tocqueville-democracy-in-america]]
+- [[keane-monitory-democracy-and-the-life-and-death-of-democracy]]
+- [[kalven-committee-report-on-university-institutional-neutrality]]
+- [[cipolla-ferrando-mulgan-laws-of-human-and-collective-stupidity]]
+- [[kruger-dunning-owen-unskilled-unaware-and-hubris-syndrome]]
+- [[humphrey-husband-evolutionary-psychology-of-suicide-and-death-language]]
+- [[transparency-international-and-unodc-global-corruption-and-homicide]]
+- [[felbab-brown-illicit-narcotics-corruption-nexus-and-unodc-cocaine-analysis]]
+- [[tubim-national-assessment-on-drug-abuse-in-turkey]]
+- [[persian-indie-and-alternative-music-poetry-anthology]]
+- [[persian-hip-hop-rock-and-urban-counterculture]]
 - [[us-surgeon-general-facing-addiction-in-america]]
 - [[lucian-true-history]]
 - [[hansson-ratoff-ethics-of-autonomous-driving-and-right-to-drive]]
-

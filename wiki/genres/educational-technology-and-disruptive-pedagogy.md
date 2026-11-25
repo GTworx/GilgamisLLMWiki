@@ -14,6 +14,7 @@ Anchored by [[clayton-m-christensen]], [[michael-b-horn]], and [[curtis-w-johnso
 ---
 
 ## Books in Wiki
+- [[kalven-committee-report-on-university-institutional-neutrality]]
 - [[tapscott-blockchain-revolution-education-lifelong-learning]]
 - [[british-academy-peer-review-challenges-in-humanities-and-social-sciences]]
 - [[massachusetts-history-and-social-science-curriculum-framework]]

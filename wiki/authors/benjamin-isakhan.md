@@ -14,6 +14,7 @@ Synthesizing Assyriologist [[thorkild-jacobsen]]'s cuneiform studies of ancient 
 ---
 
 ## Books in Wiki
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
 - [[the-secret-history-of-democracy-primitive-democracy]] (2011)
 
 ---

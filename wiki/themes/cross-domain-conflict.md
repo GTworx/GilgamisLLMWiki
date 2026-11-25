@@ -58,5 +58,8 @@ Sweijs, Zilincik, and Osinga emphasize three critical systemic risks in cross-do
 - [[heritage-foundation-rebuilding-americas-military-united-states-navy]]
 
 ## Works Under this Theme
+- [[felbab-brown-illicit-narcotics-corruption-nexus-and-unodc-cocaine-analysis]]
+- [[mattis-mazarr-national-defense-strategy-and-us-china-rivalry]]
+- [[ferguson-eiu-ukraine-war-scenarios-and-global-business-transformation]]
+- [[regional-war-dynamics-emp-threats-and-forensic-ballistics]]
 - [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
-

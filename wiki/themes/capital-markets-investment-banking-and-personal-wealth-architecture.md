@@ -125,5 +125,5 @@ At the institutional apex, [[david-p-stowell]]'s [[investment-banks-hedge-funds-
 - [[warren-buffett-americas-growing-trade-deficit-and-import-certificates]]
 
 ## Works Under this Theme
+- [[karabarbounis-neiman-beaudry-global-decline-of-labor-share-and-cognitive-tasks]]
 - [[pitchbook-emerging-technology-outlook-compendium-2025]]
-

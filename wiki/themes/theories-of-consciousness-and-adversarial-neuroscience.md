@@ -68,3 +68,6 @@ Investigates competing empirical and philosophical accounts of subjective consci
 
 ## Books in Wiki
 - [[zak-the-neuroscience-of-trust-hbr-2017]]
+
+## Books Under this Theme
+- [[brown-huth-gallant-higher-order-consciousness-and-cortical-semantics]]

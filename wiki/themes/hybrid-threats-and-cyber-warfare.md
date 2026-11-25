@@ -86,5 +86,6 @@ In *Deterrence in the 21st Century*, contributors dissect why conventional deter
 - [[south-asian-proxy-warfare-and-clandestine-operations]]
 
 ## Works Under this Theme
+- [[ferguson-eiu-ukraine-war-scenarios-and-global-business-transformation]]
+- [[regional-war-dynamics-emp-threats-and-forensic-ballistics]]
 - [[french-red-team-and-defense-foresight-ces-guerres-qui-nous-attendent]]
-

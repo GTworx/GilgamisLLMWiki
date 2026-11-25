@@ -45,7 +45,7 @@ Investigates the strategic restructuring of global trade corridors and productio
 - [[general-purpose-technologies-and-learning-by-doing]]
 
 ## Works Under this Theme
+- [[gartner-arc-frontline-and-connected-industrial-worker-technologies]]
 - [[tubitak-smart-manufacturing-systems-roadmap-and-nsf-future-manufacturing]]
 - [[ricardo-ev-vs-ice-life-cycle-analysis-and-tesla-valuation]]
 - [[gooinn-mobility-and-aerospace-innovation-reports]]
-

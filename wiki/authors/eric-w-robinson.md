@@ -14,6 +14,7 @@ By combining Aristotle's *Politics*, Herodotus, Aeschylus, and archaic epigraphy
 ---
 
 ## Books in Wiki
+- [[jacobsen-robinson-primitive-democracy-and-ancient-popular-governments]]
 - [[the-first-democracies-early-popular-government-outside-athens]] (1997)
 
 ---

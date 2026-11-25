@@ -12,6 +12,7 @@ Richard Brown is Professor of Philosophy at the City University of New York (LaG
 ---
 
 ## Books in Wiki
+- [[brown-huth-gallant-higher-order-consciousness-and-cortical-semantics]]
 - [[brown-higher-order-theories-of-consciousness]]
 
 ---

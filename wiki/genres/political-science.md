@@ -15,6 +15,9 @@ In the wiki, political science provides the analytical framework for institution
 ---
 
 ## Books in Wiki
+- [[keane-monitory-democracy-and-the-life-and-death-of-democracy]]
+- [[transparency-international-and-unodc-global-corruption-and-homicide]]
+- [[felbab-brown-illicit-narcotics-corruption-nexus-and-unodc-cocaine-analysis]]
 - [[thomas-sowell-a-conflict-of-visions-constrained-vs-unconstrained]]
 - [[authoritarian-governance-in-the-united-arab-emirates]]
 - [[bonica-grumbach-old-money-campaign-finance-gerontocracy]]

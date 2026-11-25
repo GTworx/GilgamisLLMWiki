@@ -12,6 +12,7 @@ Justin Kruger is a social psychologist and Professor of Marketing at New York Un
 ---
 
 ## Books in Wiki
+- [[kruger-dunning-owen-unskilled-unaware-and-hubris-syndrome]]
 - [[kruger-dunning-unskilled-and-unaware-of-it]]
 
 ---

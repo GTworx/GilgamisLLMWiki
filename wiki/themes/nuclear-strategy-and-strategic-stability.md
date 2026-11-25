@@ -39,3 +39,6 @@ In *Deterrence in the 21st Century*, contributors explore how the 21st-century n
 
 - **Related Themes**: [[deterrence-and-coercion]], [[cross-domain-conflict]], [[shadow-of-the-future]], [[non-western-strategic-thought]], [[rationality-and-decision-making]]
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[international-relations]], [[security-studies]], [[game-theory]]
+
+## Books Under this Theme
+- [[mattis-mazarr-national-defense-strategy-and-us-china-rivalry]]

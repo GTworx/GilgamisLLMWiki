@@ -12,6 +12,7 @@ Nikolay V. Kukushkin is a neurobiologist, author of *This Thing Called Life*, an
 ---
 
 ## Books in Wiki
+- [[murdock-tsai-kukushkin-multisensory-gamma-stimulation-and-cellular-memory]]
 - [[kukushkin-massed-spaced-learning-effect-in-non-neural-human-cells]]
 
 ---
