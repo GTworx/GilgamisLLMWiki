@@ -49,6 +49,7 @@ Similarly, cognitive warfare and algorithmic disinformation exploit digital soci
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Books in Wiki
+- [[wef-global-risks-reports-compendium-2022-2024]]
 - [[caroline-jack-lexicon-of-lies-terms-for-problematic-information]]
 - [[validation-of-violence-terrorism-internet-and-media-propaganda]]
 - [[declassified-911-investigative-dossier]]

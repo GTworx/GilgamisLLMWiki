@@ -15,6 +15,8 @@ In this wiki, game theory serves as a fundamental analytical bridge connecting m
 ---
 
 ## Books in Wiki
+- [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
+- [[roth-shapley-market-design-and-stable-allocations-nobel-compendium]]
 - [[ergin-sonmez-unver-incentive-compatible-liver-exchange]]
 - [[deterrence-in-the-21st-century]] (N/A) — [[frans-osinga]], [[tim-sweijs]], [[lawrence-freedman]], [[michael-mazarr]], [[sten-rynning]], [[karl-mueller]], [[alexey-arbatov]], [[paul-van-hooft]], [[jorg-noll]], [[dmitry-adamsky]], [[dean-cheng]], [[eitan-shamir]], [[martijn-kitzen]], [[francesco-giumelli]], [[stefan-soesanto]], [[max-smeets]], [[alex-wilner]], [[roy-lindelauf]], [[tom-bijlsma]], [[samuel-zilincik]], [[isabelle-duyvesteyn]], [[paul-ducheine]]
 - [[the-evolution-of-cooperation]] (N/A) — [[robert-axelrod]], [[william-d-hamilton]]

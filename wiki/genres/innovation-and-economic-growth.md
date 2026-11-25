@@ -14,6 +14,15 @@ Anchored by [[richard-g-lipsey]], [[kenneth-i-carlaw]], and [[clifford-t-bekar]]
 ---
 
 ## Books in Wiki
+- [[ai-funded-universal-basic-income-and-technological-unemployment]]
+- [[autor-new-frontiers-origins-and-content-of-new-work]]
+- [[baumol-productivity-growth-convergence-and-welfare]]
+- [[cesar-hidalgo-economic-complexity-index-optimization]]
+- [[daron-acemoglu-china-extractive-institutions-and-growth-limits]]
+- [[nordhaus-schumpeterian-profits-in-the-american-economy]]
+- [[oecd-digital-economy-outlook-2024-ai-and-infrastructure]]
+- [[sectoral-and-regional-transition-studies-saudi-sports-indian-agriculture-and-chinese-growth]]
+- [[world-bank-global-economic-prospects-and-world-development-report-2022-2024]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
 - [[gooinn-turkiye-inovasyon-raporlari-longitudinal-compendium]]
 - [[lemley-wansley-coopting-disruption-and-big-tech-acquisitions]]

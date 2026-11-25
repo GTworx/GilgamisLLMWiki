@@ -74,6 +74,10 @@ From [[plato-complete-works]] and [[karl-popper]]'s blistering response in [[the
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
 
 ## Books in Wiki
+- [[atlantic-council-freedom-and-prosperity-equation]]
+- [[daron-acemoglu-china-extractive-institutions-and-growth-limits]]
+- [[maier-no-evidence-for-nudging-after-adjusting-for-publication-bias]]
+- [[nordhaus-schumpeterian-profits-in-the-american-economy]]
 - [[abraham-maslow-religions-values-and-peak-experiences]]
 - [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
 - [[british-academy-peer-review-challenges-in-humanities-and-social-sciences]]

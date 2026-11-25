@@ -25,3 +25,6 @@ Turkish-American MIT Institute Professor of Economics and 2024 Nobel Laureate in
 - [[inclusive-institutions-economic-thought-and-ecological-limits]]
 - [[political-intuitionism-administrative-state-and-capitalist-democracy]]
 - [[rule-of-law-and-experimental-justice]]
+
+## Key Works in Wiki
+- [[daron-acemoglu-china-extractive-institutions-and-growth-limits]]

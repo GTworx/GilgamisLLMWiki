@@ -14,6 +14,11 @@ Within this wiki, the genre links [[learningexpress-editors]] & [[alex-oconnor]]
 ---
 
 ## Books in Wiki
+- [[cesar-hidalgo-economic-complexity-index-optimization]]
+- [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
+- [[global-demographic-kinship-projections-and-macroeconomic-baby-busts]]
+- [[roth-shapley-market-design-and-stable-allocations-nobel-compendium]]
+- [[self-organized-criticality-and-sudden-volatility-eruptions-in-financial-markets]]
 - [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
 - [[benchmarking-social-sciences-sociology-economics-and-healthcare]]
 - [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]

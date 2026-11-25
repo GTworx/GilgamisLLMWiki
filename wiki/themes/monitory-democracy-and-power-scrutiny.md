@@ -72,6 +72,8 @@ Coined by political theorist [[john-keane]] in [[the-life-and-death-of-democracy
 - [[aspen-institute-commission-on-information-disorder-report]]
 
 ## Books in Wiki
+- [[central-bank-of-the-republic-of-turkey-independence-and-legal-governance]]
+- [[plutocracy-to-progressivism-mckinley-assassination-and-gilded-age-trusts]]
 - [[historical-reparations-and-indigenous-genocide-complicity]]
 - [[massachusetts-history-and-social-science-curriculum-framework]]
 - [[declassified-911-investigative-dossier]]

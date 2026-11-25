@@ -48,6 +48,7 @@ Sweijs, Zilincik, and Osinga emphasize three critical systemic risks in cross-do
 - **Related Genres**: [[strategic-studies]], [[military-science]], [[security-studies]], [[international-relations]]
 
 ## Books in Wiki
+- [[the-economist-2022-global-war-inflation-and-energy-crisis-compendium]]
 - [[iran-iraq-war-origins-and-persian-cultural-heritage]]
 - [[kashmir-conflict-indian-dynastic-empires-and-subcontinent-historiography]]
 - [[origins-of-the-first-world-war-and-contemporary-geopolitical-parallels]]

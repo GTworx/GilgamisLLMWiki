@@ -29,3 +29,5 @@ The authors design a revolutionary multi-hospital organ-matching mechanism:
 ## Primary Sources
 - [slides-ic-liver-exchange-ArrowLecture-June2018.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Business/slides-ic-liver-exchange-ArrowLecture-June2018.pdf)
 - [slides-ic-liver-exchange-ho.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Business/slides-ic-liver-exchange-ho.pdf)
+- [slides-ic-liver-exchange-ArrowLecture-June2018.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Econ/slides-ic-liver-exchange-ArrowLecture-June2018.pdf)
+- [slides-ic-liver-exchange-ho.pdf](file:///C:/Users/gokha/iCloudDrive/Documents/_GilgameshLibrary/ARTICLES-REPORTS/Econ/slides-ic-liver-exchange-ho.pdf)

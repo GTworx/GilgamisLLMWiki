@@ -14,6 +14,14 @@ Within this wiki, the genre anchors a rich grand-strategy dialogue uniting [[hen
 ---
 
 ## Books in Wiki
+- [[post-soviet-economic-transition-and-russian-debt-crisis-compendium]]
+- [[ray-dalio-great-powers-index-national-trajectories-and-power-rankings]]
+- [[restructuring-the-global-trading-system-and-post-dollar-architecture]]
+- [[the-economist-2021-global-geopolitical-and-macroeconomic-compendium]]
+- [[the-economist-2022-global-war-inflation-and-energy-crisis-compendium]]
+- [[the-economist-2024-2025-global-super-election-year-and-geoeconomics-compendium]]
+- [[wef-global-risks-reports-compendium-2022-2024]]
+- [[world-bank-middle-trade-and-transport-corridor-turkic-vision-2040-and-energy-transit]]
 - [[emrah-sahin-sultans-america-ottoman-encounters]]
 - [[hovhannes-katchaznouni-the-dashnagtzoutiun-has-nothing-to-do-anymore]]
 - [[kashmir-conflict-indian-dynastic-empires-and-subcontinent-historiography]]

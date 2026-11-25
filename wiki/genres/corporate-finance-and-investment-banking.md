@@ -27,3 +27,12 @@ Disciplines analyzing valuation methodologies, capital structure optimization, l
 - [[the-impact-of-private-equity-academic-survey]]
 - [[financial-times-private-equity-billion-dollar-music-catalogs]]
 - [[global-film-production-economics-and-studio-tax-incentives]]
+
+## Books in Wiki
+- [[ai-funded-universal-basic-income-and-technological-unemployment]]
+- [[corporate-tax-avoidance-tax-havens-and-us-fiscal-hegemony]]
+- [[global-investment-bank-macro-outlook-and-market-strategy-compendium-2024-2025]]
+- [[global-rates-trading-and-covid-financial-market-disconnect]]
+- [[turkish-corporate-compensation-executive-remuneration-and-wage-benchmarks-compendium]]
+- [[turkish-industrial-capacity-manufacturing-statistics-and-business-demography-2023]]
+- [[united-states-federal-budget-and-fiscal-architecture-2024]]

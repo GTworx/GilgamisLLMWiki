@@ -14,6 +14,9 @@ In this wiki, institutional capital markets are anchored by [[david-p-stowell]]'
 ---
 
 ## Books in Wiki
+- [[global-investment-bank-macro-outlook-and-market-strategy-compendium-2024-2025]]
+- [[global-rates-trading-and-covid-financial-market-disconnect]]
+- [[howard-marks-oaktree-capital-memos-on-cycles-and-market-psychology]]
 - [[microsoft-365-excel-office-scripts-for-dummies]] (2026) — [[michael-alexander]]
 - [[meltdown-credit-suisse]] (2024) — [[duncan-mavin]]
 - [[the-almanack-of-naval-ravikant]] (2020) — [[eric-jorgenson]], [[naval-ravikant]]

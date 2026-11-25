@@ -14,6 +14,7 @@ In the wiki, this genre spans both public, permissionless Web3 and DeFi ecosyste
 ---
 
 ## Books in Wiki
+- [[financial-stability-board-global-regulation-and-stability-of-crypto-assets-2022]]
 - [[blockchain-crypto-and-defi-bridging-finance-and-technology]] (2025) — [[marco-di-maggio]]
 - [[crypto-and-nft-philanthropy-afsp-case-study]] (2022) — [[the-giving-block]]
 - [[hbr-insights-future-of-business-boxed-set]] (2020) — [[harvard-business-review-editorial]]

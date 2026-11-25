@@ -12,6 +12,7 @@ César A. Hidalgo is a Chilean-Spanish-American physicist and complexity scienti
 ---
 
 ## Books in Wiki
+- [[cesar-hidalgo-economic-complexity-index-optimization]]
 - [[hidalgo-universal-decay-of-collective-memory-and-research-space]]
 
 ---

@@ -14,6 +14,8 @@ In the wiki, [[jaap-hage]], [[antonia-waltermann]], and [[bram-akkermans]]'s [[i
 ---
 
 ## Books in Wiki
+- [[central-bank-of-the-republic-of-turkey-independence-and-legal-governance]]
+- [[oxfam-inequality-inc-billionaire-wealth-and-corporate-power]]
 - [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
 - [[colonial-extraction-accounting-and-imperial-crimes]]
 - [[comparative-world-religions-equality-legal-symbolism-and-clothing]]

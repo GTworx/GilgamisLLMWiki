@@ -147,6 +147,12 @@ Even when every individual voter is perfectly rational (holding strict, transiti
 - **Related Genres**: [[game-theory]], [[political-science]], [[strategic-studies]], [[anatolian-humanism]], [[leadership-and-management]], [[organizational-psychology]], [[social-choice-theory]], [[algebraic-topology]]
 
 ## Books in Wiki
+- [[ben-bernanke-review-into-the-bank-of-england-forecasting]]
+- [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
+- [[fraser-cato-economic-freedom-of-the-world-2024]]
+- [[global-demographic-kinship-projections-and-macroeconomic-baby-busts]]
+- [[maier-no-evidence-for-nudging-after-adjusting-for-publication-bias]]
+- [[roth-shapley-market-design-and-stable-allocations-nobel-compendium]]
 - [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
 - [[benchmarking-social-sciences-sociology-economics-and-healthcare]]
 - [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]

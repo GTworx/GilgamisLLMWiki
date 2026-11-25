@@ -14,6 +14,9 @@ Within the Gilgamis LLM Wiki, this genre unites [[tim-ingold]]'s philosophical d
 ---
 
 ## Books in Wiki
+- [[claudia-goldin-gender-gap-and-labor-market-outcomes-nobel-compendium]]
+- [[federal-reserve-economic-well-being-of-us-households]]
+- [[oecd-digital-economy-outlook-2024-ai-and-infrastructure]]
 - [[accenture-life-trends-2024-cultural-and-consumer-foresight]]
 - [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
 - [[breaching-the-contract-social-contract-theory-and-online-privacy]]

@@ -32,3 +32,14 @@ However, prolonged elevated base rates introduce acute challenges: compressed in
 - [[pitchbook-quantitative-perspectives-private-capital-cycle]]
 - [[pitchbook-annual-global-private-debt-report]]
 - [[private-equity-vs-classical-capitalism-and-qe-leverage]]
+
+## Books in Wiki
+- [[acalin-ball-did-the-us-really-grow-out-of-its-world-war-ii-debt]]
+- [[ben-bernanke-review-into-the-bank-of-england-forecasting]]
+- [[financial-stability-board-global-regulation-and-stability-of-crypto-assets-2022]]
+- [[global-investment-bank-macro-outlook-and-market-strategy-compendium-2024-2025]]
+- [[global-rates-trading-and-covid-financial-market-disconnect]]
+- [[imf-global-financial-stability-and-world-economic-outlook-2024]]
+- [[the-economist-2023-global-macroeconomic-and-financial-instability-compendium]]
+- [[turkish-macroeconomic-stabilization-monetary-orthodoxy-and-foreign-capital-flows]]
+- [[united-states-federal-budget-and-fiscal-architecture-2024]]

@@ -9,6 +9,9 @@ Investigates the theoretical boundaries of computational tractability, algorithm
 - [[duan-mao-breaking-sorting-barrier-directed-sssp]]
 
 ## Books in Wiki
+- [[cesar-hidalgo-economic-complexity-index-optimization]]
+- [[computational-complexity-and-bounded-rationality-in-economic-equilibria]]
+- [[self-organized-criticality-and-sudden-volatility-eruptions-in-financial-markets]]
 - [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
 - [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
 - [[guilbeault-topological-measures-for-complex-contagions-in-networks]]

@@ -190,4 +190,11 @@
 - [[wef-future-of-jobs-report-2023]]
 
 ## Books in Wiki
+- [[ai-funded-universal-basic-income-and-technological-unemployment]]
+- [[autor-new-frontiers-origins-and-content-of-new-work]]
+- [[baumol-productivity-growth-convergence-and-welfare]]
+- [[cesar-hidalgo-economic-complexity-index-optimization]]
+- [[oecd-digital-economy-outlook-2024-ai-and-infrastructure]]
+- [[the-economist-2023-global-macroeconomic-and-financial-instability-compendium]]
+- [[world-bank-global-economic-prospects-and-world-development-report-2022-2024]]
 - [[the-great-divergence-science-institutions-and-european-knowledge-agglomerations]]

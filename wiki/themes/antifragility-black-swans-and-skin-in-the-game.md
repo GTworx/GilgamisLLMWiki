@@ -41,6 +41,9 @@ Beginning with survivorship bias and stochastic illusions in [[fooled-by-randomn
 - [[yablonovitch-scalable-sequestration-agricultural-fixed-carbon]]
 
 ## Books in Wiki
+- [[financial-stability-board-global-regulation-and-stability-of-crypto-assets-2022]]
+- [[howard-marks-oaktree-capital-memos-on-cycles-and-market-psychology]]
+- [[self-organized-criticality-and-sudden-volatility-eruptions-in-financial-markets]]
 - [[hbr-rules-for-companies-navigating-geopolitical-volatility]]
 - [[frost-sullivan-visionary-innovation-foresight-and-horizon-scanning]]
 - [[komal-growth-models-market-sensing-and-disruption]]

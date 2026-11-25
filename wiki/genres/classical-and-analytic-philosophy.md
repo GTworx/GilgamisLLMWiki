@@ -14,6 +14,7 @@ Spanning [[plato]]'s complete Hackett corpus ([[plato-complete-works]]) and [[sa
 ---
 
 ## Books in Wiki
+- [[fraser-cato-economic-freedom-of-the-world-2024]]
 - [[benzmuller-paleo-automating-godels-ontological-proof-of-god]]
 - [[demographic-migration-economics-and-border-policy-aeon]]
 - [[yazicioglu-politics-of-the-invisible-post-truth-and-arendts-nobody]]

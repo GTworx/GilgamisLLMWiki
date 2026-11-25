@@ -14,6 +14,7 @@ Key pillars include [[jonathan-haidt]]'s [[the-righteous-mind]], [[michael-lewis
 ---
 
 ## Books in Wiki
+- [[maier-no-evidence-for-nudging-after-adjusting-for-publication-bias]]
 - [[abraham-maslow-religions-values-and-peak-experiences]]
 - [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
 - [[evolutionary-psychology-of-social-anxiety-and-cortical-field-evolution]]

@@ -12,6 +12,7 @@ World History, Macro-Anthropology, and Ancient Civilizations encompasses broad-s
 ---
 
 ## Books in Wiki
+- [[chinese-exclusion-act-and-western-us-economic-development]]
 - [[benchmarking-social-sciences-sociology-economics-and-healthcare]]
 - [[british-museum-artifacts-by-country-and-repatriation-debates]]
 - [[civilizational-thermodynamics-anti-entropy-and-proto-democracy]]

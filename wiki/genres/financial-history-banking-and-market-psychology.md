@@ -14,6 +14,20 @@ Within this wiki, the genre unites [[edwin-lefevre]]'s Wall Street classic [[rem
 ---
 
 ## Books in Wiki
+- [[acalin-ball-did-the-us-really-grow-out-of-its-world-war-ii-debt]]
+- [[ben-bernanke-review-into-the-bank-of-england-forecasting]]
+- [[china-autocracy-macroeconomic-rebalancing-and-industrial-overcapacity]]
+- [[eiu-economist-intelligence-unit-geo-economic-and-industry-outlooks-compendium]]
+- [[federal-reserve-economic-well-being-of-us-households]]
+- [[financial-stability-board-global-regulation-and-stability-of-crypto-assets-2022]]
+- [[howard-marks-oaktree-capital-memos-on-cycles-and-market-psychology]]
+- [[imf-global-financial-stability-and-world-economic-outlook-2024]]
+- [[plutocracy-to-progressivism-mckinley-assassination-and-gilded-age-trusts]]
+- [[ray-dalio-macroeconomic-mechanics-of-tariffs-and-trade-wars]]
+- [[self-organized-criticality-and-sudden-volatility-eruptions-in-financial-markets]]
+- [[the-economist-2023-global-macroeconomic-and-financial-instability-compendium]]
+- [[turkish-macroeconomic-stabilization-monetary-orthodoxy-and-foreign-capital-flows]]
+- [[warren-buffett-americas-growing-trade-deficit-and-import-certificates]]
 - [[colonial-extraction-accounting-and-imperial-crimes]]
 - [[habsburg-dynasty-vienna-inner-city-and-viennese-culinary-historiography]]
 - [[mckinsey-global-institute-the-social-contract-in-the-21st-century]]

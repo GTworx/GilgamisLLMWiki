@@ -84,6 +84,9 @@ In dialogue with [[rationality-and-decision-making]], Borani’s social critique
 - [[ates-kazma-kurek-defter-kitap-erken-cumhuriyet-egitimi]]
 
 ## Books in Wiki
+- [[chinese-exclusion-act-and-western-us-economic-development]]
+- [[claudia-goldin-gender-gap-and-labor-market-outcomes-nobel-compendium]]
+- [[oxfam-inequality-inc-billionaire-wealth-and-corporate-power]]
 - [[abraham-maslow-religions-values-and-peak-experiences]]
 - [[ali-yilmaz-turkiyede-sehir-asayis-suclari-dagilis-ve-kriminoloji]]
 - [[bayesian-analysis-of-talent-visibility-and-gender-selection-biases]]
