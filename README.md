@@ -11,6 +11,7 @@ A structured, interlinked personal knowledge base for cataloging, analyzing, and
 - 🗂️ **[Master Wiki Index](wiki/index.md)** — Complete table of contents by Books, Authors, Genres, and Themes.
 - 📖 **[System Specification](GilgamisLLMWiki.md)** — Architectural design, citation rules, and operational workflow.
 - 📜 **[Operations & Ingestion Log](wiki/log.md)** — Append-only audit trail of ingestions and maintenance operations.
+- 🗺️ **[Upcoming Actions & Roadmap](ROADMAP.md)** — Planned features, dashboard upgrades, and deep synthesis initiatives.
 - 🤖 **[Local Ollama (`qwen3.8`) Agent CLI](.agents/skills/gilgamis-llm-wiki/scripts/ollama_agent.py)** — Local `qwen3.8:latest` (27.3B, 262k context, Vision OCR) ingestion, query, and audit tool.
 
 ---
